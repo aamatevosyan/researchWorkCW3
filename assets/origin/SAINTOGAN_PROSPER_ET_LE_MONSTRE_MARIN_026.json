@@ -1,0 +1,693 @@
+{
+    "py/object": "core.comicspage.ComicsPage",
+    "title": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026",
+    "width": "5320",
+    "height": "3621",
+    "href": "assets/pages/SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026.jpg",
+    "speechbubbles": [
+        {
+            "points": [
+                [
+                    341,
+                    1131
+                ],
+                [
+                    2528,
+                    1149
+                ],
+                [
+                    2515,
+                    1278
+                ],
+                [
+                    349,
+                    1265
+                ],
+                [
+                    341,
+                    1131
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "1"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            358,
+                            1143
+                        ],
+                        [
+                            1198,
+                            1143
+                        ],
+                        [
+                            1198,
+                            1179
+                        ],
+                        [
+                            358,
+                            1179
+                        ],
+                        [
+                            358,
+                            1143
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - Oh ! Ah ! Ah ! Ah ! Oh ! Oh !"
+                },
+                {
+                    "points": [
+                        [
+                            353,
+                            1188
+                        ],
+                        [
+                            2512,
+                            1188
+                        ],
+                        [
+                            2512,
+                            1232
+                        ],
+                        [
+                            353,
+                            1232
+                        ],
+                        [
+                            353,
+                            1188
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le grand-duc. - Allons, ne criez pas comme ça, l'ours ! La petite princesse ne vous mangera pas,"
+                },
+                {
+                    "points": [
+                        [
+                            1299,
+                            1242
+                        ],
+                        [
+                            1607,
+                            1242
+                        ],
+                        [
+                            1607,
+                            1274
+                        ],
+                        [
+                            1299,
+                            1274
+                        ],
+                        [
+                            1299,
+                            1242
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "suivez la foule."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_0"
+        },
+        {
+            "points": [
+                [
+                    341,
+                    2264
+                ],
+                [
+                    2528,
+                    2279
+                ],
+                [
+                    2515,
+                    2380
+                ],
+                [
+                    364,
+                    2375
+                ],
+                [
+                    341,
+                    2264
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "2"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            351,
+                            2284
+                        ],
+                        [
+                            2514,
+                            2284
+                        ],
+                        [
+                            2514,
+                            2326
+                        ],
+                        [
+                            351,
+                            2326
+                        ],
+                        [
+                            351,
+                            2284
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le grand-duc. - Princesse Aiglonne, voici encore un particulier qui vient à l'occasion du jour de"
+                },
+                {
+                    "points": [
+                        [
+                            600,
+                            2331
+                        ],
+                        [
+                            2255,
+                            2331
+                        ],
+                        [
+                            2255,
+                            2372
+                        ],
+                        [
+                            600,
+                            2372
+                        ],
+                        [
+                            600,
+                            2331
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "l'An, supplier Votre Altesse d'accepter le présent qu'il va déposer à vos pieds."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_1"
+        },
+        {
+            "points": [
+                [
+                    341,
+                    3164
+                ],
+                [
+                    2520,
+                    3174
+                ],
+                [
+                    2533,
+                    3323
+                ],
+                [
+                    354,
+                    3318
+                ],
+                [
+                    341,
+                    3164
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "3"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            356,
+                            3171
+                        ],
+                        [
+                            1380,
+                            3171
+                        ],
+                        [
+                            1380,
+                            3212
+                        ],
+                        [
+                            356,
+                            3212
+                        ],
+                        [
+                            356,
+                            3171
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "La princesse Aiglonne. - Oh ! la belle poupée !"
+                },
+                {
+                    "points": [
+                        [
+                            353,
+                            3214
+                        ],
+                        [
+                            2512,
+                            3214
+                        ],
+                        [
+                            2512,
+                            3255
+                        ],
+                        [
+                            353,
+                            3255
+                        ],
+                        [
+                            353,
+                            3214
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - Elle prend Toutoune pour un jouet ! Mais la chaleur le dégèle, il bouge ! Princesse,"
+                },
+                {
+                    "points": [
+                        [
+                            399,
+                            3260
+                        ],
+                        [
+                            2515,
+                            3260
+                        ],
+                        [
+                            2515,
+                            3303
+                        ],
+                        [
+                            399,
+                            3303
+                        ],
+                        [
+                            399,
+                            3260
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "c'est une poupée si perfectionnée qu'elle mangerait bien quelque chose... Tout comme moi-même."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_2"
+        },
+        {
+            "points": [
+                [
+                    2879,
+                    1154
+                ],
+                [
+                    3962,
+                    1163
+                ],
+                [
+                    3955,
+                    1298
+                ],
+                [
+                    2876,
+                    1296
+                ],
+                [
+                    2879,
+                    1154
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "4"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2887,
+                            1158
+                        ],
+                        [
+                            3947,
+                            1158
+                        ],
+                        [
+                            3947,
+                            1198
+                        ],
+                        [
+                            2887,
+                            1198
+                        ],
+                        [
+                            2887,
+                            1158
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "La nourrice. - Elle est mignonne, cette chère"
+                },
+                {
+                    "points": [
+                        [
+                            2935,
+                            1205
+                        ],
+                        [
+                            3317,
+                            1205
+                        ],
+                        [
+                            3317,
+                            1246
+                        ],
+                        [
+                            2935,
+                            1246
+                        ],
+                        [
+                            2935,
+                            1205
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "petite aiglonne !..."
+                },
+                {
+                    "points": [
+                        [
+                            3005,
+                            1248
+                        ],
+                        [
+                            3832,
+                            1248
+                        ],
+                        [
+                            3832,
+                            1291
+                        ],
+                        [
+                            3005,
+                            1291
+                        ],
+                        [
+                            3005,
+                            1248
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Il ne faut pas faire bobo à Toutoune !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_3"
+        },
+        {
+            "points": [
+                [
+                    3969,
+                    1152
+                ],
+                [
+                    5050,
+                    1154
+                ],
+                [
+                    5052,
+                    1292
+                ],
+                [
+                    3971,
+                    1287
+                ],
+                [
+                    3969,
+                    1152
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "5"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3981,
+                            1158
+                        ],
+                        [
+                            4929,
+                            1158
+                        ],
+                        [
+                            4929,
+                            1196
+                        ],
+                        [
+                            3981,
+                            1196
+                        ],
+                        [
+                            3981,
+                            1158
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Les courtisans. - Quelle délicieuse enfant !"
+                },
+                {
+                    "points": [
+                        [
+                            3980,
+                            1202
+                        ],
+                        [
+                            5047,
+                            1202
+                        ],
+                        [
+                            5047,
+                            1235
+                        ],
+                        [
+                            3980,
+                            1235
+                        ],
+                        [
+                            3980,
+                            1202
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le valet. - Attention !... voilà sa Seigneurie qui"
+                },
+                {
+                    "points": [
+                        [
+                            4440,
+                            1248
+                        ],
+                        [
+                            4579,
+                            1248
+                        ],
+                        [
+                            4579,
+                            1279
+                        ],
+                        [
+                            4440,
+                            1279
+                        ],
+                        [
+                            4440,
+                            1248
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "arrive."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_4"
+        },
+        {
+            "points": [
+                [
+                    2881,
+                    2238
+                ],
+                [
+                    4862,
+                    2247
+                ],
+                [
+                    4879,
+                    2298
+                ],
+                [
+                    2873,
+                    2291
+                ],
+                [
+                    2881,
+                    2238
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "6"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2888,
+                            2249
+                        ],
+                        [
+                            4848,
+                            2249
+                        ],
+                        [
+                            4848,
+                            2287
+                        ],
+                        [
+                            2888,
+                            2287
+                        ],
+                        [
+                            2888,
+                            2249
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "La nourrice. - Monseigneur, Son Altesse Aiglonne s'amuse gentiment avec un petit homme."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_5"
+        },
+        {
+            "points": [
+                [
+                    2876,
+                    3214
+                ],
+                [
+                    4810,
+                    3233
+                ],
+                [
+                    4820,
+                    3318
+                ],
+                [
+                    2871,
+                    3328
+                ],
+                [
+                    2876,
+                    3214
+                ],
+                [
+                    2876,
+                    3214
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "7"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2886,
+                            3227
+                        ],
+                        [
+                            4585,
+                            3227
+                        ],
+                        [
+                            4585,
+                            3270
+                        ],
+                        [
+                            2886,
+                            3270
+                        ],
+                        [
+                            2886,
+                            3227
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "La nourrise. - C'est l'ours qui a donné le petit homme-joujou à son Altesse."
+                },
+                {
+                    "points": [
+                        [
+                            2885,
+                            3274
+                        ],
+                        [
+                            4772,
+                            3274
+                        ],
+                        [
+                            4772,
+                            3310
+                        ],
+                        [
+                            2885,
+                            3310
+                        ],
+                        [
+                            2885,
+                            3274
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le Prince. - C'est très bien, Nounou... Je veux faire quelque chose pour ce brave ours."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_6"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="350mm" zoomAndPan="magnify" contentStyleType="text/css" height="495mm" viewBox="0 0 700 990" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>INOUE_KYOUMEN_006</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="700" xlink:href="../Pages/INOUE_KYOUMEN_006.jpg" xlink:type="simple" xlink:actuate="onLoad" height="990" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata ISBN="" doublePage="false" albumTitle="Kyoumen gensoukyoku" uri="" releaseDate="2008" collectionTitle="" readingDirection="rightToLeft" drawerName="Eri Inoue" pageNumber="6" language="japanese" writerName="Eri Inoue" editorName=""/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="19,18 323,18 323,237 19,235 19,18" id="INOUE_KYOUMEN_006_panel_0">
+            <metadata viewAngle="" uri="" shot="" area="" rank="2" fillingPcent=""/>
+        </polygon>
+        <polygon points="333,62 642,63 642,236 333,236 333,62" id="INOUE_KYOUMEN_006_panel_1">
+            <metadata viewAngle="" uri="" shot="" area="" rank="1" fillingPcent=""/>
+        </polygon>
+        <polygon points="375,750 691,750 691,964 375,964 375,750" id="INOUE_KYOUMEN_006_panel_2">
+            <metadata viewAngle="" uri="" shot="" area="" rank="4" fillingPcent=""/>
+        </polygon>
+        <polygon points="22,749 366,749 366,964 22,964 22,749" id="INOUE_KYOUMEN_006_panel_3">
+            <metadata viewAngle="" uri="" shot="" area="" rank="5" fillingPcent=""/>
+        </polygon>
+        <polygon points="19,236 687,236 687,835 19,835 19,236" id="INOUE_KYOUMEN_006_panel_4">
+            <metadata viewAngle="" uri="" shot="" area="" rank="3" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="536,93 549,82 578,71 587,71 603,76 616,88 625,105 629,126 629,151 628,174 622,193 614,210 596,222 579,227 562,225 540,209 531,188 526,161 525,136 526,113 536,93" id="INOUE_KYOUMEN_006_balloon_0">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
+        </polygon>
+        <polygon points="229,101 316,102 314,227 228,225 229,101" id="INOUE_KYOUMEN_006_balloon_1">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="2"/>
+        </polygon>
+        <polygon points="528,278 626,278 623,400 528,394 528,278" id="INOUE_KYOUMEN_006_balloon_2">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="3"/>
+        </polygon>
+        <polygon points="435,382 544,387 544,515 434,514 435,382" id="INOUE_KYOUMEN_006_balloon_3">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
+        </polygon>
+        <polygon points="84,420 215,421 216,561 83,560 84,420" id="INOUE_KYOUMEN_006_balloon_4">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="5"/>
+        </polygon>
+        <polygon points="526,767 623,768 622,875 526,873 526,767" id="INOUE_KYOUMEN_006_balloon_5">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="6"/>
+        </polygon>
+        <polygon points="383,843 396,822 411,809 422,803 437,803 464,817 471,830 475,843 479,860 480,874 477,890 472,907 462,925 450,938 436,945 426,947 412,942 399,932 388,916 379,895 378,874 383,843" id="INOUE_KYOUMEN_006_balloon_6">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="7"/>
+        </polygon>
+        <polygon points="181,782 188,762 196,748 203,740 216,734 224,733 240,732 256,741 270,761 276,778 277,794 275,811 270,828 258,848 247,863 236,870 223,870 205,862 189,845 180,832 177,816 178,794 181,782" id="INOUE_KYOUMEN_006_balloon_7">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="8"/>
+        </polygon>
+        <polygon points="76,843 84,831 95,819 109,812 124,809 143,810 159,819 180,841 189,860 195,878 196,893 192,909 189,927 181,945 172,960 165,962 97,963 82,944 72,929 66,910 65,888 65,877 69,859 76,843" id="INOUE_KYOUMEN_006_balloon_8">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="9"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="128,19 244,19 244,234 128,234 128,19" id="INOUE_KYOUMEN_006_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="16,19 155,19 155,235 16,235 16,19" id="INOUE_KYOUMEN_006_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="356,98 412,98 412,238 356,238 356,98" id="INOUE_KYOUMEN_006_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="426,102 479,102 479,233 426,233 426,102" id="INOUE_KYOUMEN_006_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="492,65 626,65 626,240 492,240 492,65" id="INOUE_KYOUMEN_006_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="258,222 437,222 437,843 258,843 258,222" id="INOUE_KYOUMEN_006_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="248,807 364,807 364,971 248,971 248,807" id="INOUE_KYOUMEN_006_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="23,783 191,783 191,969 23,969 23,783" id="INOUE_KYOUMEN_006_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="587,100 599,100 599,194 587,194 587,100" id="INOUE_KYOUMEN_006_line_0">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_0" textType="speech">あ、牧耶さん速だよ</metadata>
+        </polygon>
+        <polygon points="572,101 583,101 583,168 572,168 572,101" id="INOUE_KYOUMEN_006_line_1">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_0" textType="speech">あいかわらず</metadata>
+        </polygon>
+        <polygon points="559,102 567,102 567,144 559,144 559,102" id="INOUE_KYOUMEN_006_line_2">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_0" textType="speech">キレ一！！</metadata>
+        </polygon>
+        <polygon points="280,122 291,122 291,157 280,157 280,122" id="INOUE_KYOUMEN_006_line_3">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_1" textType="narrative">一技女</metadata>
+        </polygon>
+        <polygon points="266,123 277,123 277,188 266,188 266,123" id="INOUE_KYOUMEN_006_line_4">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_1" textType="narrative">牧耶璃々依は</metadata>
+        </polygon>
+        <polygon points="588,290 599,290 599,367 588,367 588,290" id="INOUE_KYOUMEN_006_line_5">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_2" textType="narrative">私の双子として</metadata>
+        </polygon>
+        <polygon points="576,289 587,289 587,357 576,357 576,289" id="INOUE_KYOUMEN_006_line_6">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_2" textType="narrative">存在している</metadata>
+        </polygon>
+        <polygon points="566,290 577,290 577,311 566,311 566,290" id="INOUE_KYOUMEN_006_line_7">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_2" textType="narrative">私の</metadata>
+        </polygon>
+        <polygon points="554,289 566,289 566,386 554,386 554,289" id="INOUE_KYOUMEN_006_line_8">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_2" textType="narrative">ドツベルゲンガ一で</metadata>
+        </polygon>
+        <polygon points="500,402 511,402 511,491 500,491 500,402" id="INOUE_KYOUMEN_006_line_9">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_3" textType="narrative">私の居場所を＊い</metadata>
+        </polygon>
+        <polygon points="487,402 498,402 498,474 487,474 487,402" id="INOUE_KYOUMEN_006_line_10">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_3" textType="narrative">牧耶＊々依に</metadata>
+        </polygon>
+        <polygon points="472,401 481,401 481,467 472,467 472,401" id="INOUE_KYOUMEN_006_line_11">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_3" textType="narrative">なろうとして</metadata>
+        </polygon>
+        <polygon points="459,403 468,403 468,457 459,457 459,403" id="INOUE_KYOUMEN_006_line_12">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_3" textType="narrative">いるらしい</metadata>
+        </polygon>
+        <polygon points="183,440 194,440 194,517 183,517 183,440" id="INOUE_KYOUMEN_006_line_13">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">彼女は私と違い</metadata>
+        </polygon>
+        <polygon points="169,441 179,441 179,519 169,519 169,441" id="INOUE_KYOUMEN_006_line_14">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">明るく積極的で</metadata>
+        </polygon>
+        <polygon points="154,441 164,441 164,507 154,507 154,441" id="INOUE_KYOUMEN_006_line_15">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">親しみやすく</metadata>
+        </polygon>
+        <polygon points="141,442 150,442 150,508 141,508 141,442" id="INOUE_KYOUMEN_006_line_16">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">数日で彼女は</metadata>
+        </polygon>
+        <polygon points="124,443 136,443 136,530 124,530 124,443" id="INOUE_KYOUMEN_006_line_17">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">私の周りの人々を</metadata>
+        </polygon>
+        <polygon points="112,442 120,442 120,520 112,520 112,442" id="INOUE_KYOUMEN_006_line_18">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">自分のほうへと</metadata>
+        </polygon>
+        <polygon points="98,441 107,441 107,496 98,496 98,441" id="INOUE_KYOUMEN_006_line_19">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_4" textType="narrative">取り込んで</metadata>
+        </polygon>
+        <polygon points="583,782 595,782 595,849 583,849 583,782" id="INOUE_KYOUMEN_006_line_20">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_5" textType="narrative">今では学校の</metadata>
+        </polygon>
+        <polygon points="570,784 580,784 580,829 570,829 570,784" id="INOUE_KYOUMEN_006_line_21">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_5" textType="narrative">人気者に</metadata>
+        </polygon>
+        <polygon points="555,784 566,784 566,856 555,856 555,784" id="INOUE_KYOUMEN_006_line_22">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_5" textType="narrative">なってしまった</metadata>
+        </polygon>
+        <polygon points="433,835 444,835 444,902 433,902 433,835" id="INOUE_KYOUMEN_006_line_23">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_6" textType="speech">何でこんなに</metadata>
+        </polygon>
+        <polygon points="417,838 427,838 427,903 417,903 417,838" id="INOUE_KYOUMEN_006_line_24">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_6" textType="speech">違うんだろう</metadata>
+        </polygon>
+        <polygon points="242,754 252,754 252,777 242,777 242,754" id="INOUE_KYOUMEN_006_line_25">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_7" textType="speech">私も</metadata>
+        </polygon>
+        <polygon points="226,754 237,754 237,820 226,820 226,754" id="INOUE_KYOUMEN_006_line_26">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_7" textType="speech">璃々依ぐらい</metadata>
+        </polygon>
+        <polygon points="212,755 222,755 222,855 212,855 212,755" id="INOUE_KYOUMEN_006_line_27">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_7" textType="speech">積極的になれればな</metadata>
+        </polygon>
+        <polygon points="204,756 208,756 208,781 204,781 204,756" id="INOUE_KYOUMEN_006_line_28">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_7" textType="speech">・・・・・</metadata>
+        </polygon>
+        <polygon points="85,760 130,760 130,805 85,805 85,760" id="INOUE_KYOUMEN_006_line_29">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" textType="onomatopoeia">タツ</metadata>
+        </polygon>
+        <polygon points="130,857 146,857 146,908 130,908 130,857" id="INOUE_KYOUMEN_006_line_30">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_8" textType="speech">お一い</metadata>
+        </polygon>
+        <polygon points="109,858 123,858 123,908 109,908 109,858" id="INOUE_KYOUMEN_006_line_31">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="INOUE_KYOUMEN_006_balloon_8" textType="speech">洵一！！</metadata>
+        </polygon>
+        
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="577,149 578,149 560,152 559,152 577,149" idCharacter="INOUE_KYOUMEN_006_character_4" idBalloon="INOUE_KYOUMEN_006_balloon_0"/>
+    <polygon points="227,801 228,801 307,889 306,889 227,801" idCharacter="INOUE_KYOUMEN_006_character_6" idBalloon="INOUE_KYOUMEN_006_balloon_7"/>
+    <polygon points="130,886 131,886 108,876 107,876 130,886" idCharacter="INOUE_KYOUMEN_006_character_7" idBalloon="INOUE_KYOUMEN_006_balloon_8"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Fri Feb 14 17:48:08 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

@@ -1,0 +1,66 @@
+[
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            110,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/reduce": [
+                            {
+                                "py/type": "numpy.dtype"
+                            },
+                            {
+                                "py/tuple": [
+                                    "i4",
+                                    false,
+                                    true
+                                ]
+                            },
+                            {
+                                "py/tuple": [
+                                    3,
+                                    "<",
+                                    null,
+                                    null,
+                                    null,
+                                    -1,
+                                    -1,
+                                    0
+                                ]
+                            }
+                        ]
+                    },
+                    false,
+                    {
+                        "py/b64": "yQAAAE0AAADIAAAATgAAALgAAABOAAAAtgAAAFAAAAC1AAAAUAAAALQAAABRAAAAswAAAFEAAACxAAAAUwAAALAAAABTAAAArQAAAFYAAACsAAAAVgAAAKwAAABXAAAAqgAAAFkAAACqAAAAWwAAAKkAAABcAAAAqQAAAGwAAACqAAAAbQAAAKoAAABwAAAArAAAAHIAAACtAAAAcgAAAK4AAABzAAAArwAAAHMAAACwAAAAdAAAALAAAAB1AAAAsQAAAHUAAACyAAAAdgAAALMAAAB2AAAAtAAAAHcAAAC2AAAAdwAAALcAAAB4AAAAuQAAAHgAAAC6AAAAeQAAAMEAAAB5AAAAwgAAAHoAAADJAAAAegAAAMoAAAB7AAAA6gAAAHsAAADrAAAAfAAAAOsAAACAAAAA7AAAAIAAAADtAAAAfwAAAO0AAAB8AAAA7gAAAHsAAAD7AAAAewAAAPwAAAB6AAAABQEAAHoAAAAGAQAAeQAAAAYBAAB3AAAABQEAAHYAAAAFAQAAdQAAAAgBAAByAAAACgEAAHIAAAALAQAAcQAAAAwBAAByAAAADgEAAHIAAAAPAQAAcQAAABABAABxAAAAEAEAAG8AAAASAQAAbQAAABQBAABtAAAAFQEAAGwAAAAXAQAAbAAAABYBAABrAAAAFwEAAGoAAAAYAQAAagAAABkBAABpAAAAGgEAAGkAAAAeAQAAZQAAACEBAABlAAAAIgEAAGYAAAAjAQAAZQAAACQBAABmAAAAJAEAAGcAAAAlAQAAZgAAACUBAABlAAAAJgEAAGQAAAAnAQAAZQAAACgBAABkAAAAKgEAAGYAAAAqAQAAZwAAAC4BAABnAAAALwEAAGgAAAAwAQAAaAAAAC8BAABnAAAAMAEAAGYAAAAwAQAAZQAAADIBAABjAAAANAEAAGMAAAA0AQAAXgAAADMBAABdAAAAMwEAAFwAAAAyAQAAWwAAADIBAABZAAAAMQEAAFgAAAAxAQAAVwAAADABAABXAAAALwEAAFYAAAAwAQAAVQAAACkBAABOAAAAJgEAAE4AAAAnAQAATwAAACYBAABQAAAAJAEAAFAAAAAiAQAATgAAABsBAABOAAAAGgEAAE0AAAAQAQAATQAAAA8BAABOAAAACQEAAE4AAAAIAQAATQAAAA=="
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="350mm" zoomAndPan="magnify" contentStyleType="text/css" height="360mm" viewBox="0 0 700 720" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>CYB_TRAFFIC_004</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="700" xlink:href="../Pages/CYB_TRAFFIC_004.jpg" xlink:type="simple" xlink:actuate="onLoad" height="720" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Traffic" editorName="Studio Cyborga" doublePage="false" website="http://www.cosmozone.fr/categorie-11314908.html" albumTitle="" drawerName="Cyborg 07" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2009" pageNumber="4"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="51,59 243,59 243,253 51,253 51,59" id="CYB_TRAFFIC_004_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="255,60 442,60 442,248 255,248 255,60" id="CYB_TRAFFIC_004_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="458,59 644,59 644,252 458,252 458,59" id="CYB_TRAFFIC_004_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="51,269 239,269 239,459 51,459 51,269" id="CYB_TRAFFIC_004_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="256,265 444,265 444,459 256,459 256,265" id="CYB_TRAFFIC_004_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="455,266 643,266 643,458 455,458 455,266" id="CYB_TRAFFIC_004_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="54,472 243,472 243,664 54,664 54,472" id="CYB_TRAFFIC_004_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="255,473 439,473 439,662 255,662 255,473" id="CYB_TRAFFIC_004_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="454,473 642,473 642,662 454,662 454,473" id="CYB_TRAFFIC_004_panel_8">
+            <metadata viewAngle="" shot="" rank="9"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="290,337 276,333 262,327 266,299 286,282 310,282 329,283 336,285 343,289 351,292 355,298 360,303 361,309 360,320 362,326 358,332 346,337 335,339 316,339 315,342 316,346 316,349 311,346 307,339 290,337" id="CYB_TRAFFIC_004_balloon_0">
+            <metadata borderStyle="smooth" tailTip="316,349" boundingBox="" tailDirection="S" rank="1"/>
+        </polygon>
+        <polygon points="499,341 493,345 493,341 486,345 486,340 481,343 479,340 474,340 474,336 468,339 467,333 462,334 462,329 461,329 458,272 593,276 590,327 576,330 572,328 572,333 568,331 569,334 563,333 562,337 558,335 557,339 554,338 552,340 547,337 546,344 541,339 539,345 534,342 532,344 528,342 526,346 522,343 519,346 515,343 511,347 508,343 504,348 507,351 501,355 504,356 500,360 493,371 494,364 498,359 491,357 498,352 493,350 499,343 499,341" id="CYB_TRAFFIC_004_balloon_1">
+            <metadata borderStyle="spiky" tailTip="493,371" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="115,368 235,368 235,462 115,462 115,368" id="CYB_TRAFFIC_004_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="320,364 431,364 431,460 320,460 320,364" id="CYB_TRAFFIC_004_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="255,402 286,402 286,457 255,457 255,402" id="CYB_TRAFFIC_004_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="457,377 516,377 516,457 457,457 457,377" id="CYB_TRAFFIC_004_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="529,372 634,372 634,459 529,459 529,372" id="CYB_TRAFFIC_004_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="55,540 144,540 144,666 55,666 55,540" id="CYB_TRAFFIC_004_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="196,564 243,564 243,664 196,664 196,564" id="CYB_TRAFFIC_004_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="255,541 351,541 351,663 255,663 255,541" id="CYB_TRAFFIC_004_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="387,560 442,560 442,665 387,665 387,560" id="CYB_TRAFFIC_004_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="455,543 548,543 548,663 455,663 455,543" id="CYB_TRAFFIC_004_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="587,560 643,560 643,666 587,666 587,560" id="CYB_TRAFFIC_004_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="112,153 233,153 233,250 112,250 112,153" id="CYB_TRAFFIC_004_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="324,153 433,152 435,248 320,250 324,153 324,153" id="CYB_TRAFFIC_004_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="523,159 634,159 634,254 523,254 523,159" id="CYB_TRAFFIC_004_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="54,19 159,19 159,54 54,54 54,19" id="CYB_TRAFFIC_004_line_0">
+            <metadata method="" typography="" textType="note">Traffic</metadata>
+        </polygon>
+        <polygon points="560,20 644,20 644,31 560,31 560,20" id="CYB_TRAFFIC_004_line_1">
+            <metadata method="" typography="" textType="note">PAR CYBORG 07</metadata>
+        </polygon>
+        <polygon points="617,32 644,32 644,42 617,42 617,32" id="CYB_TRAFFIC_004_line_2">
+            <metadata method="" typography="" textType="note">2009</metadata>
+        </polygon>
+        <polygon points="289,290 336,290 336,301 289,301 289,290" id="CYB_TRAFFIC_004_line_3">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_0" textType="speech">OK... ET</metadata>
+        </polygon>
+        <polygon points="268,302 357,302 357,313 268,313 268,302" id="CYB_TRAFFIC_004_line_4">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_0" textType="speech">MAINTENANT, JE</metadata>
+        </polygon>
+        <polygon points="273,312 352,312 352,323 273,323 273,312" id="CYB_TRAFFIC_004_line_5">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_0" textType="speech">GLANDE QUOI ?</metadata>
+        </polygon>
+        <polygon points="462,275 590,275 590,288 462,288 462,275" id="CYB_TRAFFIC_004_line_6">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_1" textType="speech">POLICE ! CECI EST UN</metadata>
+        </polygon>
+        <polygon points="458,288 591,288 591,300 458,300 458,288" id="CYB_TRAFFIC_004_line_7">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_1" textType="speech">CONTRÔLE D'IDENTITE.</metadata>
+        </polygon>
+        <polygon points="464,300 588,300 588,312 464,312 464,300" id="CYB_TRAFFIC_004_line_8">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_1" textType="speech">RESTEZ CALME ET CA</metadata>
+        </polygon>
+        <polygon points="549,676 610,676 610,686 549,686 549,676" id="CYB_TRAFFIC_004_line_9">
+            <metadata method="" typography="" textType="note">A SUIVRE...</metadata>
+        </polygon>
+        <polygon points="461,312 588,312 588,323 461,323 461,312" id="CYB_TRAFFIC_004_line_10">
+            <metadata method="" typography="" idBalloon="CYB_TRAFFIC_004_balloon_1" textType="speech">VA BIEN SE PASSER !!</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="312,315 313,315 376,412 375,412 312,315" idCharacter="CYB_TRAFFIC_004_character_1" idBalloon="CYB_TRAFFIC_004_balloon_0"/>
+    <polygon points="525,321 526,321 487,417 486,417 525,321" idCharacter="CYB_TRAFFIC_004_character_3" idBalloon="CYB_TRAFFIC_004_balloon_1"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sat Jan 25 18:22:49 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

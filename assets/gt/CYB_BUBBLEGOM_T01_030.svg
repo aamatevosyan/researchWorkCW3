@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="375mm" zoomAndPan="magnify" contentStyleType="text/css" height="530mm" viewBox="0 0 750 1060" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>CYB_BUBBLEGOM_T01_030</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="750" xlink:href="../Pages/CYB_BUBBLEGOM_T01_030.jpg" xlink:type="simple" xlink:actuate="onLoad" height="1060" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Bubblegôm Gôm" editorName="Studio Cyborga" doublePage="false" website="http://bubblegom.webcomics.fr/page/bubbleg%C3%B4m-la-couv#page" albumTitle="La Légende des Yaouanks" drawerName="Cyborg 07" language="french" resolution="" ISBN="979-10-90655-01-0" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2009" pageNumber="30"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="54,82 692,82 692,602 54,602 54,82" id="CYB_BUBBLEGOM_T01_030_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="54,639 248,639 248,961 54,961 54,639" id="CYB_BUBBLEGOM_T01_030_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="267,640 465,641 464,965 266,962 267,640" id="CYB_BUBBLEGOM_T01_030_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="491,640 694,640 694,944 491,944 491,640" id="CYB_BUBBLEGOM_T01_030_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="137,143 150,138 167,136 199,137 218,140 227,144 226,149 230,146 240,154 247,164 249,174 247,189 231,204 204,213 169,216 154,215 154,222 157,229 166,242 152,235 146,223 143,214 117,206 106,193 102,182 104,169 114,158 125,147 137,143" id="CYB_BUBBLEGOM_T01_030_balloon_0">
+            <metadata borderStyle="smooth" tailTip="166,242" boundingBox="" tailDirection="SE" rank="1"/>
+        </polygon>
+        <polygon points="393,397 410,384 440,374 462,372 484,375 503,380 515,389 525,399 532,414 534,427 523,451 518,450 520,454 498,463 480,465 453,466 434,464 428,475 407,488 419,472 424,465 399,458 387,444 382,428 382,417 386,416 383,414 387,406 393,397" id="CYB_BUBBLEGOM_T01_030_balloon_1">
+            <metadata borderStyle="smooth" tailTip="407,488" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+        <polygon points="267,637 413,637 423,648 430,657 437,670 442,681 442,694 442,706 439,717 431,732 426,732 429,735 424,746 399,763 379,772 360,776 342,776 323,776 315,795 316,799 318,802 317,821 318,838 316,846 312,834 310,820 313,805 306,804 308,786 310,777 295,775 283,769 275,765 266,754 267,637" id="CYB_BUBBLEGOM_T01_030_balloon_2">
+            <metadata borderStyle="smooth" tailTip="316,846" boundingBox="" tailDirection="S" rank="3"/>
+        </polygon>
+        <polygon points="527,649 553,641 575,638 600,640 620,641 633,644 652,650 660,653 658,658 662,655 676,663 689,677 693,697 695,717 685,741 667,760 637,771 601,777 567,775 542,769 523,759 519,766 517,774 521,787 511,779 510,767 516,750 503,739 493,719 489,703 492,699 490,697 494,674 506,660 527,649" id="CYB_BUBBLEGOM_T01_030_balloon_3">
+            <metadata borderStyle="smooth" tailTip="521,787" boundingBox="" tailDirection="SE" rank="4"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="161,217 282,217 282,325 161,325 161,217" id="CYB_BUBBLEGOM_T01_030_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="258,451 399,451 399,568 258,568 258,451" id="CYB_BUBBLEGOM_T01_030_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="264,857 343,857 343,963 264,963 264,857" id="CYB_BUBBLEGOM_T01_030_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="376,867 464,867 464,964 376,964 376,867" id="CYB_BUBBLEGOM_T01_030_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="498,784 641,784 641,930 498,930 498,784" id="CYB_BUBBLEGOM_T01_030_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="131,166 224,166 224,177 131,177 131,166" id="CYB_BUBBLEGOM_T01_030_line_0">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_0" textType="speech">ANDRAGOR ?</metadata>
+        </polygon>
+        <polygon points="126,179 230,179 230,189 126,189 126,179" id="CYB_BUBBLEGOM_T01_030_line_1">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_0" textType="speech">TU VAS BIEN ?</metadata>
+        </polygon>
+        <polygon points="173,196 182,196 182,201 173,201 173,196" id="CYB_BUBBLEGOM_T01_030_line_2">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_0" textType="speech">...</metadata>
+        </polygon>
+        <polygon points="425,396 489,396 489,407 425,407 425,396" id="CYB_BUBBLEGOM_T01_030_line_3">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_1" textType="speech">AU POIL !</metadata>
+        </polygon>
+        <polygon points="415,405 498,405 498,419 415,419 415,405" id="CYB_BUBBLEGOM_T01_030_line_4">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_1" textType="speech">J'AI TROUVÉ</metadata>
+        </polygon>
+        <polygon points="401,421 512,421 512,431 401,431 401,421" id="CYB_BUBBLEGOM_T01_030_line_5">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_1" textType="speech">QUELQUE CHOSE</metadata>
+        </polygon>
+        <polygon points="406,430 507,430 507,444 406,444 406,430" id="CYB_BUBBLEGOM_T01_030_line_6">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_1" textType="speech">D'INTERÉSSANT.</metadata>
+        </polygon>
+        <polygon points="567,408 623,408 623,430 567,430 567,408" id="CYB_BUBBLEGOM_T01_030_line_7">
+            <metadata method="" typography="" textType="illustrative">ATTENTION</metadata>
+        </polygon>
+        <polygon points="572,418 615,418 615,436 572,436 572,418" id="CYB_BUBBLEGOM_T01_030_line_8">
+            <metadata method="" typography="" textType="illustrative">DANGER !</metadata>
+        </polygon>
+        <polygon points="563,426 620,426 620,447 563,447 563,426" id="CYB_BUBBLEGOM_T01_030_line_9">
+            <metadata method="" typography="" textType="illustrative">TANNIÈRE DU</metadata>
+        </polygon>
+        <polygon points="566,438 612,438 612,454 566,454 566,438" id="CYB_BUBBLEGOM_T01_030_line_10">
+            <metadata method="" typography="" textType="illustrative">MONSTRE</metadata>
+        </polygon>
+        <polygon points="565,447 604,447 604,463 565,463 565,447" id="CYB_BUBBLEGOM_T01_030_line_11">
+            <metadata method="" typography="" textType="illustrative">TUEUR</metadata>
+        </polygon>
+        <polygon points="65,726 244,726 244,777 65,777 65,726" id="CYB_BUBBLEGOM_T01_030_line_12">
+            <metadata method="" typography="" textType="illustrative">ATTENTION</metadata>
+        </polygon>
+        <polygon points="83,757 217,757 217,802 83,802 83,757" id="CYB_BUBBLEGOM_T01_030_line_13">
+            <metadata method="" typography="" textType="illustrative">DANGER :</metadata>
+        </polygon>
+        <polygon points="59,785 235,785 235,834 59,834 59,785" id="CYB_BUBBLEGOM_T01_030_line_14">
+            <metadata method="" typography="" textType="illustrative">TANIÈRE DU</metadata>
+        </polygon>
+        <polygon points="69,816 211,816 211,861 69,861 69,816" id="CYB_BUBBLEGOM_T01_030_line_15">
+            <metadata method="" typography="" textType="illustrative">MONSTRE</metadata>
+        </polygon>
+        <polygon points="73,847 202,847 202,890 73,890 73,847" id="CYB_BUBBLEGOM_T01_030_line_16">
+            <metadata method="" typography="" textType="illustrative">TUEUR !!</metadata>
+        </polygon>
+        <polygon points="291,670 402,670 402,680 291,680 291,670" id="CYB_BUBBLEGOM_T01_030_line_17">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2" textType="speech">SI TU VEUX MON</metadata>
+        </polygon>
+        <polygon points="291,684 402,684 402,693 291,693 291,684" id="CYB_BUBBLEGOM_T01_030_line_18">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2" textType="speech">AVIS, ON N'A PAS</metadata>
+        </polygon>
+        <polygon points="283,693 410,693 411,706 283,706 283,693" id="CYB_BUBBLEGOM_T01_030_line_19">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2" textType="speech">INTÉRÊT A TRAINER</metadata>
+        </polygon>
+        <polygon points="281,709 412,709 412,719 281,719 281,709" id="CYB_BUBBLEGOM_T01_030_line_20">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2" textType="speech">DANS LE COIN PLUS</metadata>
+        </polygon>
+        <polygon points="307,722 386,722 386,731 307,731 307,722" id="CYB_BUBBLEGOM_T01_030_line_21">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2" textType="speech">LONGTEMPS</metadata>
+        </polygon>
+        <polygon points="536,666 646,666 646,676 536,676 536,666" id="CYB_BUBBLEGOM_T01_030_line_22">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">JE NE SUIS PAS</metadata>
+        </polygon>
+        <polygon points="523,679 660,679 660,689 523,689 523,679" id="CYB_BUBBLEGOM_T01_030_line_23">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">D'ACCORD. UNE DENT</metadata>
+        </polygon>
+        <polygon points="521,691 660,691 660,701 521,701 521,691" id="CYB_BUBBLEGOM_T01_030_line_24">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">DE MONSTRE TUEUR</metadata>
+        </polygon>
+        <polygon points="523,704 659,704 659,713 523,713 523,704" id="CYB_BUBBLEGOM_T01_030_line_25">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">FERAIT UN TROPHÉE</metadata>
+        </polygon>
+        <polygon points="535,713 647,713 647,725 535,725 535,713" id="CYB_BUBBLEGOM_T01_030_line_26">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">IDÉAL POUR DES</metadata>
+        </polygon>
+        <polygon points="530,725 651,725 651,737 530,737 530,725" id="CYB_BUBBLEGOM_T01_030_line_27">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">HÉROS DE NOTRE</metadata>
+        </polygon>
+        <polygon points="563,740 618,740 618,750 563,750 563,740" id="CYB_BUBBLEGOM_T01_030_line_28">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3" textType="speech">TREMPE.</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="175,189 176,189 222,271 221,271 175,189" idCharacter="CYB_BUBBLEGOM_T01_030_character_0" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_0"/>
+    <polygon points="458,430 459,430 329,509 328,509 458,430" idCharacter="CYB_BUBBLEGOM_T01_030_character_1" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_1"/>
+    <polygon points="354,741 355,741 304,910 303,910 354,741" idCharacter="CYB_BUBBLEGOM_T01_030_character_2" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_2"/>
+    <polygon points="592,712 593,712 570,857 569,857 592,712" idCharacter="CYB_BUBBLEGOM_T01_030_character_4" idBalloon="CYB_BUBBLEGOM_T01_030_balloon_3"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Wed Jan 29 19:22:57 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

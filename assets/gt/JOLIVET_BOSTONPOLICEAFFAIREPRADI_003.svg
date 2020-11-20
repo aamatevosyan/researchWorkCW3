@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1203mm" zoomAndPan="magnify" contentStyleType="text/css" height="1682mm" viewBox="0 0 2407 3364" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>JOLIVET_BOSTONPOLICEAFFAIREPRADI_003</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="2407" xlink:href="../Pages/JOLIVET_BOSTONPOLICEAFFAIREPRADI_003.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3364" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Boston Police" editorName="Clair De Lune" doublePage="false" website="" albumTitle="L'Affaire Pradi" drawerName="Olivier Jolivet" language="french" resolution="600" ISBN="978-2353252459" readingDirection="leftToRight" writerName="Pascal Boisgibault" releaseDate="2010" pageNumber="3"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="0,8 2391,8 2391,1363 0,1363 0,8" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="90,1392 1061,1392 1061,2313 90,2313 90,1392" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="1090,1379 2220,1379 2220,1709 1090,1709 1090,1379" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="1090,1746 2224,1746 2224,2301 1090,2301 1090,1746" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="103,2351 749,2351 749,3168 103,3168 103,2351" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="782,2342 1524,2342 1524,3159 782,3159 782,2342" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="1553,2330 2228,2330 2228,3155 1553,3155 1553,2330" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="1,51 297,43 298,193 0,200 1,51" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_0">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
+        </polygon>
+        <polygon points="389,1444 405,1423 430,1404 450,1396 476,1392 501,1391 525,1395 547,1409 560,1429 564,1449 554,1470 529,1488 489,1499 473,1511 459,1528 455,1543 472,1539 471,1543 453,1589 438,1655 428,1705 407,1791 391,1874 368,1970 359,2001 368,1952 384,1880 398,1824 418,1729 440,1623 448,1591 452,1553 445,1547 450,1523 463,1500 430,1495 404,1486 388,1473 385,1464 389,1444" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_1">
+            <metadata borderStyle="smooth" tailTip="359,2001" boundingBox="" tailDirection="S" rank="2"/>
+        </polygon>
+        <polygon points="246,1772 221,1724 170,1704 122,1667 99,1625 93,1586 103,1548 123,1514 148,1488 169,1471 220,1455 267,1453 308,1458 342,1468 388,1497 428,1544 446,1593 434,1633 412,1673 386,1705 356,1726 307,1733 246,1728 255,1754 268,1790 265,1794 251,1793 233,1798 254,1869 268,1975 274,2029 276,2098 269,2093 268,2028 258,1925 247,1867 231,1809 217,1778 236,1778 247,1775 246,1772" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2">
+            <metadata borderStyle="smooth" tailTip="269,2093" boundingBox="" tailDirection="S" rank="3"/>
+        </polygon>
+        <polygon points="1789,1432 1795,1412 1808,1376 2219,1375 2222,1492 2207,1517 2167,1548 2097,1578 2007,1586 1919,1576 1852,1547 1821,1517 1801,1483 1787,1491 1769,1493 1768,1476 1745,1484 1729,1483 1765,1467 1776,1465 1783,1474 1796,1463 1789,1432" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3">
+            <metadata borderStyle="smooth" tailTip="1729,1483" boundingBox="" tailDirection="W" rank="4"/>
+        </polygon>
+        <polygon points="1117,1773 1410,1775 1409,1929 1112,1928 1117,1773" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_4">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="5"/>
+        </polygon>
+        <polygon points="1754,1967 1804,1932 1852,1919 1921,1910 1980,1907 2038,1911 2088,1931 2113,1964 2122,2001 2114,2044 2087,2089 2037,2126 1974,2139 1912,2137 1864,2126 1822,2108 1800,2085 1801,2089 1819,2118 1782,2118 1795,2104 1784,2090 1783,2080 1789,2076 1768,2050 1753,2021 1747,1988 1754,1967" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5">
+            <metadata borderStyle="smooth" tailTip="1782,2118" boundingBox="" tailDirection="S" rank="6"/>
+        </polygon>
+        <polygon points="430,2573 387,2524 375,2482 385,2423 394,2392 405,2367 418,2346 751,2345 752,2618 713,2624 645,2628 595,2625 560,2618 543,2631 538,2640 563,2653 546,2668 530,2672 460,2747 463,2737 538,2656 526,2651 519,2637 531,2623 538,2616 484,2599 430,2573" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6">
+            <metadata borderStyle="smooth" tailTip="460,2747" boundingBox="" tailDirection="SW" rank="7"/>
+        </polygon>
+        <polygon points="788,2353 1081,2352 1079,2511 791,2509 788,2353" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="8"/>
+        </polygon>
+        <polygon points="1184,2670 1156,2667 1107,2643 1070,2605 1060,2568 1070,2534 1095,2496 1125,2470 1166,2454 1202,2454 1247,2463 1276,2474 1318,2498 1351,2533 1364,2551 1371,2581 1368,2596 1347,2623 1328,2635 1296,2652 1264,2665 1238,2673 1208,2677 1208,2681 1222,2688 1240,2697 1224,2707 1220,2697 1204,2692 1193,2680 1184,2670" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8">
+            <metadata borderStyle="smooth" tailTip="1224,2707" boundingBox="" tailDirection="SE" rank="9"/>
+        </polygon>
+        <polygon points="1380,2769 1361,2766 1332,2752 1310,2727 1304,2694 1310,2664 1326,2639 1347,2623 1380,2613 1421,2612 1460,2620 1484,2630 1509,2645 1525,2662 1530,2674 1534,2688 1529,2713 1513,2736 1489,2755 1465,2763 1441,2769 1400,2769 1409,2774 1423,2776 1399,2793 1379,2811 1348,2843 1359,2826 1387,2795 1396,2781 1388,2777 1380,2769" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9">
+            <metadata borderStyle="smooth" tailTip="1348,2843" boundingBox="" tailDirection="SW" rank="10"/>
+        </polygon>
+        <polygon points="1592,2434 1597,2419 1625,2401 1669,2385 1713,2369 1722,2375 1775,2414 1797,2432 1799,2452 1774,2482 1735,2501 1690,2515 1685,2521 1690,2524 1709,2522 1753,2524 1737,2545 1705,2585 1711,2601 1719,2619 1703,2636 1701,2629 1710,2620 1708,2606 1698,2583 1696,2564 1709,2539 1689,2539 1669,2534 1669,2525 1677,2515 1640,2494 1612,2471 1596,2447 1592,2434" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_10">
+            <metadata borderStyle="smooth" tailTip="1703,2636" boundingBox="" tailDirection="SW" rank="11"/>
+        </polygon>
+        <polygon points="1906,2474 1890,2398 1910,2389 1932,2386 1972,2384 2003,2374 2074,2348 2080,2349 2132,2375 2170,2395 2193,2410 2196,2424 2200,2444 2228,2495 2226,2511 2205,2529 2168,2545 2139,2554 2124,2565 2119,2575 2084,2556 2083,2567 2085,2577 2064,2590 2070,2607 2072,2629 2069,2636 2049,2653 2043,2651 2055,2644 2062,2634 2053,2597 2043,2586 2026,2570 2027,2561 2037,2563 2060,2564 2060,2553 2034,2557 1991,2555 1946,2551 1926,2548 1910,2521 1906,2474" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_11">
+            <metadata borderStyle="smooth" tailTip="2043,2651" boundingBox="" tailDirection="SW" rank="12"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="1473,1376 1798,1376 1798,1723 1473,1723 1473,1376" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1090,1379 1359,1379 1359,1731 1090,1731 1090,1379" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="93,2511 463,2511 463,3172 93,3172 93,2511" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1554,2792 1831,2792 1831,2986 1554,2986 1554,2792" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1909,2761 2234,2761 2234,2992 1909,2992 1909,2761" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="86,94 179,94 179,118 86,118 86,94" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_0">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_0" textType="narrative">BOSTON,</metadata>
+        </polygon>
+        <polygon points="0,121 273,121 273,148 0,148 0,121" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_1">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_0" textType="narrative">22 DÉCEMBRE, 18H00</metadata>
+        </polygon>
+        <polygon points="441,1420 512,1420 512,1443 441,1443 441,1420" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_2">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_1" textType="speech">FOUTU</metadata>
+        </polygon>
+        <polygon points="429,1448 525,1448 525,1471 429,1471 429,1448" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_3">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_1" textType="speech">TEMPS !</metadata>
+        </polygon>
+        <polygon points="183,1484 337,1484 337,1511 183,1511 183,1484" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_4">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">DÉTENDS-TOI</metadata>
+        </polygon>
+        <polygon points="145,1516 377,1516 377,1540 145,1540 145,1516" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_5">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">UN PEU, SAM, C'EST</metadata>
+        </polygon>
+        <polygon points="121,1541 403,1538 403,1566 121,1566 121,1541" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_6">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">BIENTÔT NOEL, PENSE A</metadata>
+        </polygon>
+        <polygon points="115,1568 406,1567 406,1593 115,1593 115,1568" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_7">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">TES GAMINS ET ARRETE</metadata>
+        </polygon>
+        <polygon points="111,1598 413,1598 413,1622 111,1622 111,1598" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_8">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">DE NOUS BASSINER AVEC</metadata>
+        </polygon>
+        <polygon points="157,1622 367,1622 367,1648 157,1648 157,1622" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_9">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">TES JEREMIADES.</metadata>
+        </polygon>
+        <polygon points="187,1650 336,1650 336,1675 187,1675 187,1650" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_10">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">TES PENIBLE</metadata>
+        </polygon>
+        <polygon points="201,1677 324,1677 324,1702 201,1702 201,1677" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_11">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_2" textType="speech">A FORCE !</metadata>
+        </polygon>
+        <polygon points="1128,1800 1393,1800 1393,1823 1128,1823 1128,1800" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_12">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_4" textType="narrative">LE FOURGON S'ENGAGE</metadata>
+        </polygon>
+        <polygon points="1151,1828 1372,1828 1372,1850 1151,1850 1151,1828" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_13">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_4" textType="narrative">SUR CHARLESTOWN</metadata>
+        </polygon>
+        <polygon points="1132,1857 1390,1857 1390,1878 1132,1878 1132,1857" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_14">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_4" textType="narrative">BRIDGE EN DIRECTION</metadata>
+        </polygon>
+        <polygon points="1166,1883 1356,1883 1356,1905 1166,1905 1166,1883" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_15">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_4" textType="narrative">DES CRY DOCK.</metadata>
+        </polygon>
+        <polygon points="1857,1387 2159,1387 2159,1411 1857,1411 1857,1387" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_16">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">FAITES TOUS CHIER ! C'EST</metadata>
+        </polygon>
+        <polygon points="1835,1415 2182,1415 2182,1436 1835,1436 1835,1415" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_17">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">COMME CE PUTAIN DE BOULOT.</metadata>
+        </polygon>
+        <polygon points="1845,1440 2171,1440 2171,1461 1845,1461 1845,1440" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_18">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">TOUS LES JOURS, S'TAPER LE</metadata>
+        </polygon>
+        <polygon points="1834,1462 2182,1460 2182,1487 1834,1487 1834,1462" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_19">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">MEME ITINERAIRE, DU DEPOT A</metadata>
+        </polygon>
+        <polygon points="1835,1490 2181,1490 2181,1511 1835,1511 1835,1490" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_20">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">LA BANQUE ET DE LA BANQUE</metadata>
+        </polygon>
+        <polygon points="1868,1512 2148,1512 2148,1537 1868,1537 1868,1512" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_21">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">AU DEPOT ! AH, BONJOUR</metadata>
+        </polygon>
+        <polygon points="1904,1537 2117,1537 2117,1561 1904,1561 1904,1537" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_22">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3" textType="speech">LE DEPAYSEMENT !</metadata>
+        </polygon>
+        <polygon points="1804,1959 2071,1959 2071,1987 1804,1987 1804,1959" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_23">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5" textType="speech">FAUT BIEN BEQUETER,</metadata>
+        </polygon>
+        <polygon points="1791,1990 2082,1990 2082,2016 1791,2016 1791,1990" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_24">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5" textType="speech">VIEUX, ET PUIS SI T'AVAIS</metadata>
+        </polygon>
+        <polygon points="1833,2014 2044,2014 2044,2043 1833,2043 1833,2014" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_25">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5" textType="speech">PAS DÉCONNE, TU</metadata>
+        </polygon>
+        <polygon points="1831,2045 2044,2045 2044,2069 1831,2069 1831,2045" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_26">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5" textType="speech">SERAIS TOUJOURS</metadata>
+        </polygon>
+        <polygon points="1886,2074 1990,2074 1990,2096 1886,2096 1886,2074" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_27">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_5" textType="speech">POULET !</metadata>
+        </polygon>
+        <polygon points="1931,2430 2175,2430 2175,2453 1931,2453 1931,2430" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_28">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_11" textType="speech">BORDEL DE MERDE,</metadata>
+        </polygon>
+        <polygon points="1958,2456 2142,2456 2142,2479 1958,2479 1958,2456" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_29">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_11" textType="speech">QU'EST-CE QUE</metadata>
+        </polygon>
+        <polygon points="1972,2485 2129,2485 2129,2507 1972,2507 1972,2485" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_30">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_11" textType="speech">C'EST QUE...?</metadata>
+        </polygon>
+        <polygon points="1667,2423 1711,2423 1711,2471 1667,2471 1667,2423" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_31">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_10" textType="speech">?!</metadata>
+        </polygon>
+        <polygon points="1361,2632 1467,2632 1467,2653 1361,2653 1361,2632" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_32">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9" textType="speech">ELLE EST</metadata>
+        </polygon>
+        <polygon points="1334,2654 1490,2654 1490,2679 1334,2679 1334,2654" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_33">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9" textType="speech">DÉGUEULASSE</metadata>
+        </polygon>
+        <polygon points="1319,2679 1507,2679 1507,2705 1319,2705 1319,2679" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_34">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9" textType="speech">SA BIÈRE, DE LA</metadata>
+        </polygon>
+        <polygon points="1347,2706 1479,2706 1479,2728 1347,2728 1347,2706" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_35">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9" textType="speech">VRAIE PISSE</metadata>
+        </polygon>
+        <polygon points="1373,2731 1455,2731 1455,2754 1373,2754 1373,2731" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_36">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_9" textType="speech">D'ANE !</metadata>
+        </polygon>
+        <polygon points="1178,2475 1249,2475 1249,2497 1178,2497 1178,2475" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_37">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">ALLEZ,</metadata>
+        </polygon>
+        <polygon points="1119,2501 1308,2501 1308,2524 1119,2524 1119,2501" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_38">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">ON VA ARRIVER.</metadata>
+        </polygon>
+        <polygon points="1091,2529 1335,2529 1335,2553 1091,2553 1091,2529" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_39">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">J'TE PAIE UNE BIERE</metadata>
+        </polygon>
+        <polygon points="1084,2554 1340,2554 1340,2582 1084,2582 1084,2554" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_40">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">CHEZ JOEY, CA VA TE</metadata>
+        </polygon>
+        <polygon points="1100,2581 1327,2581 1327,2606 1100,2606 1100,2581" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_41">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">DETENDRE UN PEU,</metadata>
+        </polygon>
+        <polygon points="1111,2606 1317,2606 1317,2633 1111,2633 1111,2606" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_42">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_8" textType="speech">MAL EMBOUCHE !</metadata>
+        </polygon>
+        <polygon points="829,2363 1031,2363 1031,2389 829,2389 829,2363" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_43">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7" textType="narrative">LE CAMION BLINDE</metadata>
+        </polygon>
+        <polygon points="819,2394 1040,2394 1040,2417 819,2417 819,2394" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_44">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7" textType="narrative">DE LA PRADI FUNDS</metadata>
+        </polygon>
+        <polygon points="845,2417 1014,2417 1014,2443 845,2443 845,2417" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_45">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7" textType="narrative">DÉBOUCHE SUR</metadata>
+        </polygon>
+        <polygon points="811,2449 1049,2449 1049,2471 811,2471 811,2449" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_46">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7" textType="narrative">CHELSEA STREET QUI</metadata>
+        </polygon>
+        <polygon points="799,2477 1062,2477 1062,2498 799,2498 799,2477" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_47">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_7" textType="narrative">LONGE LES DRY DOCK...</metadata>
+        </polygon>
+        <polygon points="429,2392 723,2392 723,2416 429,2416 429,2392" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_48">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">TU SAIS, S'FAIRE TROUER</metadata>
+        </polygon>
+        <polygon points="436,2420 715,2420 715,2442 436,2442 436,2420" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_49">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">LA PEAU POUR LE PERE</metadata>
+        </polygon>
+        <polygon points="430,2446 720,2446 720,2471 430,2471 430,2446" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_50">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">PRADI OU POUR LA VILLE</metadata>
+        </polygon>
+        <polygon points="430,2474 723,2474 723,2502 430,2502 430,2474" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_51">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">DE BOSTON, CA FAIT PAS</metadata>
+        </polygon>
+        <polygon points="424,2503 727,2503 727,2524 424,2524 424,2503" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_52">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">UNE GRANDE DIFFERENCE</metadata>
+        </polygon>
+        <polygon points="497,2528 656,2528 656,2551 497,2551 497,2528" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_53">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">SUR LA FICHE</metadata>
+        </polygon>
+        <polygon points="520,2556 633,2556 633,2579 520,2579 520,2556" id="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_line_54">
+            <metadata method="" typography="" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6" textType="speech">DE PAIE !</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="1975,1480 1976,1480 1636,1549 1635,1549 1975,1480" idCharacter="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_0" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_3"/>
+    <polygon points="563,2546 564,2546 279,2841 278,2841 563,2546" idCharacter="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_2" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_6"/>
+    <polygon points="1695,2502 1696,2502 1693,2889 1692,2889 1695,2502" idCharacter="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_3" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_10"/>
+    <polygon points="2059,2500 2060,2500 2072,2876 2071,2876 2059,2500" idCharacter="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_character_4" idBalloon="JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_balloon_11"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:43:20 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

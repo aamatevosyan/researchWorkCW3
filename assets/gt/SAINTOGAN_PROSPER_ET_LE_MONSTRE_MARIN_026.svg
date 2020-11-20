@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="2660mm" zoomAndPan="magnify" contentStyleType="text/css" height="1810mm" viewBox="0 0 5320 3621" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="5320" xlink:href="../Pages/SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3621" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Zig Et Puce" editorName="Hachette" doublePage="true" website="http://collections.citebd.org/saintogan/www/fonds.php" albumTitle="Prosper Et Le Monstre Marin" drawerName="Alain Saint Ogan" language="french" resolution="600" ISBN="" readingDirection="leftToRight" writerName="Alain Saint Ogan" releaseDate="1934" pageNumber="26"/>
+    </svg>
+    <style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="355,277 2524,277 2524,1148 355,1148 355,277" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="357,1281 2514,1281 2514,2285 357,2285 357,1281" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="352,2381 1398,2381 1398,3162 352,3162 352,2381" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="1429,2378 2517,2378 2517,3167 1429,3167 1429,2378" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="2890,300 3950,300 3950,1147 2890,1147 2890,300" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="3978,300 5058,300 5058,1149 3978,1149 3978,300" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="2886,1302 5053,1302 5053,2241 2886,2241 2886,1302" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="2886,2305 5047,2305 5047,3224 2886,3224 2886,2305" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="341,1131 2528,1149 2515,1278 349,1265 341,1131" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_0">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
+        </polygon>
+        <polygon points="341,2264 2528,2279 2515,2380 364,2375 341,2264" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_1">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="2"/>
+        </polygon>
+        <polygon points="341,3164 2520,3174 2533,3323 354,3318 341,3164" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_2">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="3"/>
+        </polygon>
+        <polygon points="2879,1154 3962,1163 3955,1298 2876,1296 2879,1154" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_3">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
+        </polygon>
+        <polygon points="3969,1152 5050,1154 5052,1292 3971,1287 3969,1152" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_4">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="5"/>
+        </polygon>
+        <polygon points="2881,2238 4862,2247 4879,2298 2873,2291 2881,2238" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_5">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="6"/>
+        </polygon>
+        <polygon points="2876,3214 4810,3233 4820,3318 2871,3328 2876,3214 2876,3214" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_6">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="7"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="2002,1626 2241,1626 2241,1992 2002,1992 2002,1626" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="829,1784 1257,1784 1257,2176 829,2176 829,1784" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="657,1413 1080,1413 1080,1973 657,1973 657,1413" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="542,1497 910,1497 910,2183 542,2183 542,1497" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="915,400 1591,400 1591,1007 915,1007 915,400" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="869,481 1422,481 1422,1151 869,1151 869,481" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="654,725 934,725 934,1093 654,1093 654,725" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1034,2872 1276,2872 1276,3130 1034,3130 1034,2872" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="740,2592 991,2592 991,3144 740,3144 740,2592" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="425,2623 728,2623 728,3146 425,3146 425,2623" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1536,2539 1924,2539 1924,3137 1536,3137 1536,2539" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1837,2881 2019,2881 2019,3137 1837,3137 1837,2881" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2007,2487 2361,2487 2361,3127 2007,3127 2007,2487" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3054,443 3351,443 3351,1009 3054,1009 3054,443" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3284,390 3425,390 3425,649 3284,649 3284,390" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3305,386 3735,386 3735,1036 3305,1036 3305,386" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4479,402 4962,402 4962,1053 4479,1053 4479,402" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4261,632 4689,632 4689,1115 4261,1115 4261,632" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4343,517 4565,517 4565,885 4343,885 4343,517" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3276,1411 3733,1411 3733,2049 3276,2049 3276,1411" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3711,1586 4156,1586 4156,2095 3711,2095 3711,1586" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3666,2382 4003,2382 4003,3013 3666,3013 3666,2382" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4472,2523 4902,2523 4902,2984 4472,2984 4472,2523" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3253,2563 3668,2563 3668,3087 3253,3087 3253,2563" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4084,2420 4292,2420 4292,2989 4084,2989 4084,2420" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_24">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4395,2611 4529,2611 4529,2893 4395,2893 4395,2611" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_character_25">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="340,159 961,159 961,203 340,203 340,159" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_0">
+            <metadata method="" typography="" textType="note">TOUTOUNE SE DéGèLE</metadata>
+        </polygon>
+        <polygon points="358,1143 1198,1143 1198,1179 358,1179 358,1143" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_1">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_0" textType="speech">Prosper. - Oh ! Ah ! Ah ! Ah ! Oh ! Oh !</metadata>
+        </polygon>
+        <polygon points="353,1188 2512,1188 2512,1232 353,1232 353,1188" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_2">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_0" textType="speech">Le grand-duc. - Allons, ne criez pas comme ça, l'ours ! La petite princesse ne vous mangera pas,</metadata>
+        </polygon>
+        <polygon points="1299,1242 1607,1242 1607,1274 1299,1274 1299,1242" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_3">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_0" textType="speech">suivez la foule.</metadata>
+        </polygon>
+        <polygon points="351,2284 2514,2284 2514,2326 351,2326 351,2284" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_4">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_1" textType="speech"> Le grand-duc. - Princesse Aiglonne, voici encore un particulier qui vient à l'occasion du jour de</metadata>
+        </polygon>
+        <polygon points="600,2331 2255,2331 2255,2372 600,2372 600,2331" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_5">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_1" textType="speech">l'An, supplier Votre Altesse d'accepter le présent qu'il va déposer à vos pieds.</metadata>
+        </polygon>
+        <polygon points="356,3171 1380,3171 1380,3212 356,3212 356,3171" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_6">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_2" textType="speech">La princesse Aiglonne. - Oh ! la belle poupée !</metadata>
+        </polygon>
+        <polygon points="353,3214 2512,3214 2512,3255 353,3255 353,3214" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_7">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_2" textType="speech">Prosper. - Elle prend Toutoune pour un jouet ! Mais la chaleur le dégèle, il bouge ! Princesse,</metadata>
+        </polygon>
+        <polygon points="399,3260 2515,3260 2515,3303 399,3303 399,3260" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_8">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_2" textType="speech">c'est une poupée si perfectionnée qu'elle mangerait bien quelque chose... Tout comme moi-même.</metadata>
+        </polygon>
+        <polygon points="1412,3378 1468,3378 1468,3423 1412,3423 1412,3378" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_9">
+            <metadata method="" typography="" textType="note">26</metadata>
+        </polygon>
+        <polygon points="4129,187 5077,187 5077,230 4129,230 4129,187" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_10">
+            <metadata method="" typography="" textType="note">SON ALTESSE EST BIENVEILLANTE</metadata>
+        </polygon>
+        <polygon points="2887,1158 3947,1158 3947,1198 2887,1198 2887,1158" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_11">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_3" textType="speech">La nourrice. - Elle est mignonne, cette chère</metadata>
+        </polygon>
+        <polygon points="2935,1205 3317,1205 3317,1246 2935,1246 2935,1205" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_12">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_3" textType="speech">petite aiglonne !...</metadata>
+        </polygon>
+        <polygon points="3005,1248 3832,1248 3832,1291 3005,1291 3005,1248" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_13">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_3" textType="speech">Il ne faut pas faire bobo à Toutoune !</metadata>
+        </polygon>
+        <polygon points="3981,1158 4929,1158 4929,1196 3981,1196 3981,1158" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_14">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_4" textType="speech">Les courtisans. - Quelle délicieuse enfant !</metadata>
+        </polygon>
+        <polygon points="3980,1202 5047,1202 5047,1235 3980,1235 3980,1202" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_15">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_4" textType="speech">Le valet. - Attention !... voilà sa Seigneurie qui</metadata>
+        </polygon>
+        <polygon points="4440,1248 4579,1248 4579,1279 4440,1279 4440,1248" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_16">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_4" textType="speech">arrive.</metadata>
+        </polygon>
+        <polygon points="2888,2249 4848,2249 4848,2287 2888,2287 2888,2249" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_17">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_5" textType="speech">La nourrice. - Monseigneur, Son Altesse Aiglonne s'amuse gentiment avec un petit homme.</metadata>
+        </polygon>
+        <polygon points="2886,3227 4585,3227 4585,3270 2886,3270 2886,3227" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_18">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_6" textType="speech">La nourrise. - C'est l'ours qui a donné le petit homme-joujou à son Altesse.</metadata>
+        </polygon>
+        <polygon points="2885,3274 4772,3274 4772,3310 2885,3310 2885,3274" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_19">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_balloon_6" textType="speech">Le Prince. - C'est très bien, Nounou... Je veux faire quelque chose pour ce brave ours.</metadata>
+        </polygon>
+        <polygon points="3932,3416 3981,3416 3981,3459 3932,3459 3932,3416" id="SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_026_line_20">
+            <metadata method="" typography="" textType="speech">27</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+<metadata method="GroundTruth" lastModificationDate="Wed Feb 12 16:20:36 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

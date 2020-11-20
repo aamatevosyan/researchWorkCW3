@@ -1,0 +1,1619 @@
+{
+    "py/object": "core.comicspage.ComicsPage",
+    "title": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016",
+    "width": "5311",
+    "height": "3627",
+    "href": "assets/pages/SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016.jpg",
+    "speechbubbles": [
+        {
+            "points": [
+                [
+                    357,
+                    990
+                ],
+                [
+                    1402,
+                    988
+                ],
+                [
+                    1395,
+                    1119
+                ],
+                [
+                    345,
+                    1121
+                ],
+                [
+                    357,
+                    990
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "1"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            358,
+                            991
+                        ],
+                        [
+                            1381,
+                            991
+                        ],
+                        [
+                            1381,
+                            1032
+                        ],
+                        [
+                            358,
+                            1032
+                        ],
+                        [
+                            358,
+                            991
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "M. le Rat. - A présent, mes chers amis, il"
+                },
+                {
+                    "points": [
+                        [
+                            417,
+                            1034
+                        ],
+                        [
+                            1383,
+                            1034
+                        ],
+                        [
+                            1383,
+                            1072
+                        ],
+                        [
+                            417,
+                            1072
+                        ],
+                        [
+                            417,
+                            1034
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "faut délivrer Prosper l'ours et Toutoune qui"
+                },
+                {
+                    "points": [
+                        [
+                            476,
+                            1083
+                        ],
+                        [
+                            1314,
+                            1083
+                        ],
+                        [
+                            1314,
+                            1121
+                        ],
+                        [
+                            476,
+                            1121
+                        ],
+                        [
+                            476,
+                            1083
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "sont injustement retenus en prison."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_0"
+        },
+        {
+            "points": [
+                [
+                    1411,
+                    981
+                ],
+                [
+                    2531,
+                    985
+                ],
+                [
+                    2521,
+                    1113
+                ],
+                [
+                    1411,
+                    1110
+                ],
+                [
+                    1411,
+                    981
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "2"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1414,
+                            985
+                        ],
+                        [
+                            2515,
+                            985
+                        ],
+                        [
+                            2515,
+                            1021
+                        ],
+                        [
+                            1414,
+                            1021
+                        ],
+                        [
+                            1414,
+                            985
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Ce sont de très braves gens ; nous devons faire"
+                },
+                {
+                    "points": [
+                        [
+                            1471,
+                            1033
+                        ],
+                        [
+                            2513,
+                            1033
+                        ],
+                        [
+                            2513,
+                            1072
+                        ],
+                        [
+                            1471,
+                            1072
+                        ],
+                        [
+                            1471,
+                            1033
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "quelque chose pour eux. Allons prendre la clef"
+                },
+                {
+                    "points": [
+                        [
+                            1538,
+                            1077
+                        ],
+                        [
+                            2429,
+                            1077
+                        ],
+                        [
+                            2429,
+                            1117
+                        ],
+                        [
+                            1538,
+                            1117
+                        ],
+                        [
+                            1538,
+                            1077
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "de la cellule chez le geôlier... En avant !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_1"
+        },
+        {
+            "points": [
+                [
+                    353,
+                    1710
+                ],
+                [
+                    973,
+                    1701
+                ],
+                [
+                    962,
+                    1840
+                ],
+                [
+                    349,
+                    1836
+                ],
+                [
+                    353,
+                    1710
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "3"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            360,
+                            1706
+                        ],
+                        [
+                            950,
+                            1706
+                        ],
+                        [
+                            950,
+                            1745
+                        ],
+                        [
+                            360,
+                            1745
+                        ],
+                        [
+                            360,
+                            1706
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le Geôlier.-Ces rats infes-"
+                },
+                {
+                    "points": [
+                        [
+                            423,
+                            1753
+                        ],
+                        [
+                            948,
+                            1753
+                        ],
+                        [
+                            948,
+                            1796
+                        ],
+                        [
+                            423,
+                            1796
+                        ],
+                        [
+                            423,
+                            1753
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "tent le prison. Je vais"
+                },
+                {
+                    "points": [
+                        [
+                            545,
+                            1800
+                        ],
+                        [
+                            827,
+                            1800
+                        ],
+                        [
+                            827,
+                            1841
+                        ],
+                        [
+                            545,
+                            1841
+                        ],
+                        [
+                            545,
+                            1800
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "signaler ça..."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_2"
+        },
+        {
+            "points": [
+                [
+                    985,
+                    1705
+                ],
+                [
+                    1808,
+                    1710
+                ],
+                [
+                    1796,
+                    1842
+                ],
+                [
+                    985,
+                    1844
+                ],
+                [
+                    985,
+                    1705
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "4"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            985,
+                            1704
+                        ],
+                        [
+                            1786,
+                            1704
+                        ],
+                        [
+                            1786,
+                            1751
+                        ],
+                        [
+                            985,
+                            1751
+                        ],
+                        [
+                            985,
+                            1704
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Les rats.- Bisque, bisque, rage !"
+                },
+                {
+                    "points": [
+                        [
+                            989,
+                            1757
+                        ],
+                        [
+                            1786,
+                            1757
+                        ],
+                        [
+                            1786,
+                            1792
+                        ],
+                        [
+                            989,
+                            1792
+                        ],
+                        [
+                            989,
+                            1757
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le Geôlier. - Quelle audace !... Me"
+                },
+                {
+                    "points": [
+                        [
+                            1152,
+                            1796
+                        ],
+                        [
+                            1612,
+                            1796
+                        ],
+                        [
+                            1612,
+                            1843
+                        ],
+                        [
+                            1152,
+                            1843
+                        ],
+                        [
+                            1152,
+                            1796
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "manquer de respect!"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_3"
+        },
+        {
+            "points": [
+                [
+                    1815,
+                    1705
+                ],
+                [
+                    2533,
+                    1712
+                ],
+                [
+                    2524,
+                    1842
+                ],
+                [
+                    1815,
+                    1831
+                ],
+                [
+                    1815,
+                    1705
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "5"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1816,
+                            1704
+                        ],
+                        [
+                            2513,
+                            1704
+                        ],
+                        [
+                            2513,
+                            1753
+                        ],
+                        [
+                            1816,
+                            1753
+                        ],
+                        [
+                            1816,
+                            1704
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "A moi le geôlier ! A moi le maître"
+                },
+                {
+                    "points": [
+                        [
+                            1871,
+                            1753
+                        ],
+                        [
+                            2511,
+                            1753
+                        ],
+                        [
+                            2511,
+                            1798
+                        ],
+                        [
+                            1871,
+                            1798
+                        ],
+                        [
+                            1871,
+                            1753
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "de cette prison ! Attendez un"
+                },
+                {
+                    "points": [
+                        [
+                            2002,
+                            1792
+                        ],
+                        [
+                            2390,
+                            1792
+                        ],
+                        [
+                            2390,
+                            1841
+                        ],
+                        [
+                            2002,
+                            1841
+                        ],
+                        [
+                            2002,
+                            1792
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "peu, garnements !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_4"
+        },
+        {
+            "points": [
+                [
+                    355,
+                    2456
+                ],
+                [
+                    1447,
+                    2450
+                ],
+                [
+                    1453,
+                    2538
+                ],
+                [
+                    357,
+                    2540
+                ],
+                [
+                    355,
+                    2456
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "6"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            362,
+                            2449
+                        ],
+                        [
+                            1434,
+                            2449
+                        ],
+                        [
+                            1434,
+                            2492
+                        ],
+                        [
+                            362,
+                            2492
+                        ],
+                        [
+                            362,
+                            2449
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Oh !... ce qu'il m'agace, celui-là, à agiter son"
+                },
+                {
+                    "points": [
+                        [
+                            364,
+                            2498
+                        ],
+                        [
+                            1436,
+                            2498
+                        ],
+                        [
+                            1436,
+                            2541
+                        ],
+                        [
+                            364,
+                            2541
+                        ],
+                        [
+                            364,
+                            2498
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "mouchoir rouge; c'est une couleur que je déteste !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_5"
+        },
+        {
+            "points": [
+                [
+                    1470,
+                    2454
+                ],
+                [
+                    2335,
+                    2452
+                ],
+                [
+                    2331,
+                    2531
+                ],
+                [
+                    1464,
+                    2533
+                ],
+                [
+                    1470,
+                    2454
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "7"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1473,
+                            2449
+                        ],
+                        [
+                            2323,
+                            2449
+                        ],
+                        [
+                            2323,
+                            2498
+                        ],
+                        [
+                            1473,
+                            2498
+                        ],
+                        [
+                            1473,
+                            2449
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "M. le Rat. - Tu ne m'attraperas pas !"
+                },
+                {
+                    "points": [
+                        [
+                            1473,
+                            2496
+                        ],
+                        [
+                            2161,
+                            2496
+                        ],
+                        [
+                            2161,
+                            2543
+                        ],
+                        [
+                            1473,
+                            2543
+                        ],
+                        [
+                            1473,
+                            2496
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le Geôlier. - Tu vas voir ça !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_6"
+        },
+        {
+            "points": [
+                [
+                    359,
+                    3250
+                ],
+                [
+                    1293,
+                    3246
+                ],
+                [
+                    1299,
+                    3339
+                ],
+                [
+                    355,
+                    3333
+                ],
+                [
+                    359,
+                    3250
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "8"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            362,
+                            3250
+                        ],
+                        [
+                            1275,
+                            3250
+                        ],
+                        [
+                            1275,
+                            3285
+                        ],
+                        [
+                            362,
+                            3285
+                        ],
+                        [
+                            362,
+                            3250
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "M. le Rat - Et voila le travail ! Saisis-"
+                },
+                {
+                    "points": [
+                        [
+                            574,
+                            3291
+                        ],
+                        [
+                            1060,
+                            3291
+                        ],
+                        [
+                            1060,
+                            3336
+                        ],
+                        [
+                            574,
+                            3336
+                        ],
+                        [
+                            574,
+                            3291
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "sons-nous de la clef."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_7"
+        },
+        {
+            "points": [
+                [
+                    1309,
+                    3244
+                ],
+                [
+                    2001,
+                    3246
+                ],
+                [
+                    1998,
+                    3341
+                ],
+                [
+                    1301,
+                    3327
+                ],
+                [
+                    1309,
+                    3244
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "9"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1314,
+                            3246
+                        ],
+                        [
+                            1980,
+                            3246
+                        ],
+                        [
+                            1980,
+                            3291
+                        ],
+                        [
+                            1314,
+                            3291
+                        ],
+                        [
+                            1314,
+                            3246
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Faisons vite avant qu'il ne"
+                },
+                {
+                    "points": [
+                        [
+                            1314,
+                            3294
+                        ],
+                        [
+                            1988,
+                            3294
+                        ],
+                        [
+                            1988,
+                            3336
+                        ],
+                        [
+                            1314,
+                            3336
+                        ],
+                        [
+                            1314,
+                            3294
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "dégage ses cornes du mur..."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_8"
+        },
+        {
+            "points": [
+                [
+                    2023,
+                    3246
+                ],
+                [
+                    2525,
+                    3244
+                ],
+                [
+                    2528,
+                    3343
+                ],
+                [
+                    2021,
+                    3339
+                ],
+                [
+                    2023,
+                    3246
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "10"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2023,
+                            3246
+                        ],
+                        [
+                            2525,
+                            3246
+                        ],
+                        [
+                            2525,
+                            3289
+                        ],
+                        [
+                            2023,
+                            3289
+                        ],
+                        [
+                            2023,
+                            3246
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "C'est nous, Toutoune ;"
+                },
+                {
+                    "points": [
+                        [
+                            2018,
+                            3296
+                        ],
+                        [
+                            2527,
+                            3297
+                        ],
+                        [
+                            2527,
+                            3344
+                        ],
+                        [
+                            2018,
+                            3344
+                        ],
+                        [
+                            2018,
+                            3296
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "nous ouvrons la porte."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_9"
+        },
+        {
+            "points": [
+                [
+                    2833,
+                    1208
+                ],
+                [
+                    3925,
+                    1208
+                ],
+                [
+                    3922,
+                    1339
+                ],
+                [
+                    2839,
+                    1339
+                ],
+                [
+                    2833,
+                    1208
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "11"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2836,
+                            1211
+                        ],
+                        [
+                            3910,
+                            1211
+                        ],
+                        [
+                            3910,
+                            1248
+                        ],
+                        [
+                            2836,
+                            1248
+                        ],
+                        [
+                            2836,
+                            1211
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Toutouns. - Grâce à l'intervention de ces bons"
+                },
+                {
+                    "points": [
+                        [
+                            2919,
+                            1254
+                        ],
+                        [
+                            3906,
+                            1254
+                        ],
+                        [
+                            3906,
+                            1295
+                        ],
+                        [
+                            2919,
+                            1295
+                        ],
+                        [
+                            2919,
+                            1254
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "rats nous sommes sortis de la prison. Mainte-"
+                },
+                {
+                    "points": [
+                        [
+                            3113,
+                            1297
+                        ],
+                        [
+                            3726,
+                            1297
+                        ],
+                        [
+                            3726,
+                            1340
+                        ],
+                        [
+                            3113,
+                            1340
+                        ],
+                        [
+                            3113,
+                            1297
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "nant nous sommes sauvés !..."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_10"
+        },
+        {
+            "points": [
+                [
+                    3949,
+                    1208
+                ],
+                [
+                    5012,
+                    1217
+                ],
+                [
+                    5010,
+                    1353
+                ],
+                [
+                    3963,
+                    1341
+                ],
+                [
+                    3949,
+                    1208
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "12"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3953,
+                            1215
+                        ],
+                        [
+                            5007,
+                            1215
+                        ],
+                        [
+                            5007,
+                            1262
+                        ],
+                        [
+                            3953,
+                            1262
+                        ],
+                        [
+                            3953,
+                            1215
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Propser. - Mais vous savez, Toutoune, que les"
+                },
+                {
+                    "points": [
+                        [
+                            4008,
+                            1267
+                        ],
+                        [
+                            5003,
+                            1267
+                        ],
+                        [
+                            5003,
+                            1303
+                        ],
+                        [
+                            4008,
+                            1303
+                        ],
+                        [
+                            4008,
+                            1267
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "choses ne vont pas se passer comme ça ! Je"
+                },
+                {
+                    "points": [
+                        [
+                            4161,
+                            1303
+                        ],
+                        [
+                            4848,
+                            1303
+                        ],
+                        [
+                            4848,
+                            1348
+                        ],
+                        [
+                            4161,
+                            1348
+                        ],
+                        [
+                            4161,
+                            1303
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "vais aller me plaindre au roi..."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_11"
+        },
+        {
+            "points": [
+                [
+                    2824,
+                    2196
+                ],
+                [
+                    3928,
+                    2205
+                ],
+                [
+                    3914,
+                    2354
+                ],
+                [
+                    2819,
+                    2339
+                ],
+                [
+                    2824,
+                    2196
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "13"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2836,
+                            2206
+                        ],
+                        [
+                            3910,
+                            2206
+                        ],
+                        [
+                            3910,
+                            2253
+                        ],
+                        [
+                            2836,
+                            2253
+                        ],
+                        [
+                            2836,
+                            2206
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Il est inadmissible qu'on m'ait arrêté, moi,"
+                },
+                {
+                    "points": [
+                        [
+                            2895,
+                            2247
+                        ],
+                        [
+                            3906,
+                            2247
+                        ],
+                        [
+                            3906,
+                            2290
+                        ],
+                        [
+                            2895,
+                            2290
+                        ],
+                        [
+                            2895,
+                            2247
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper, le milliardaire décoré de l'ordre de"
+                },
+                {
+                    "points": [
+                        [
+                            3214,
+                            2296
+                        ],
+                        [
+                            3561,
+                            2296
+                        ],
+                        [
+                            3561,
+                            2343
+                        ],
+                        [
+                            3214,
+                            2343
+                        ],
+                        [
+                            3214,
+                            2296
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Griffe d'argent !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_12"
+        },
+        {
+            "points": [
+                [
+                    3936,
+                    2207
+                ],
+                [
+                    5018,
+                    2207
+                ],
+                [
+                    5010,
+                    2363
+                ],
+                [
+                    3928,
+                    2334
+                ],
+                [
+                    3936,
+                    2207
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "14"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3947,
+                            2210
+                        ],
+                        [
+                            4825,
+                            2210
+                        ],
+                        [
+                            4825,
+                            2257
+                        ],
+                        [
+                            3947,
+                            2257
+                        ],
+                        [
+                            3947,
+                            2210
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Toutoune. - Ne soyez pas trop violent."
+                },
+                {
+                    "points": [
+                        [
+                            3945,
+                            2257
+                        ],
+                        [
+                            4995,
+                            2257
+                        ],
+                        [
+                            4995,
+                            2299
+                        ],
+                        [
+                            3945,
+                            2301
+                        ],
+                        [
+                            3945,
+                            2257
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - N'ayez aucune crainte ; je saurai"
+                },
+                {
+                    "points": [
+                        [
+                            4192,
+                            2300
+                        ],
+                        [
+                            4754,
+                            2300
+                        ],
+                        [
+                            4754,
+                            2345
+                        ],
+                        [
+                            4192,
+                            2345
+                        ],
+                        [
+                            4192,
+                            2300
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "contenir ma juste colère."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_13"
+        },
+        {
+            "points": [
+                [
+                    2822,
+                    3239
+                ],
+                [
+                    3915,
+                    3246
+                ],
+                [
+                    3921,
+                    3325
+                ],
+                [
+                    2818,
+                    3328
+                ],
+                [
+                    2822,
+                    3239
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "15"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2829,
+                            3242
+                        ],
+                        [
+                            3904,
+                            3242
+                        ],
+                        [
+                            3904,
+                            3291
+                        ],
+                        [
+                            2829,
+                            3291
+                        ],
+                        [
+                            2829,
+                            3242
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Ah !... voici mon château... ça me fait plaisir de"
+                },
+                {
+                    "points": [
+                        [
+                            3269,
+                            3287
+                        ],
+                        [
+                            3532,
+                            3287
+                        ],
+                        [
+                            3532,
+                            3328
+                        ],
+                        [
+                            3269,
+                            3328
+                        ],
+                        [
+                            3269,
+                            3287
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "de le revoir."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_14"
+        },
+        {
+            "points": [
+                [
+                    3936,
+                    3246
+                ],
+                [
+                    5008,
+                    3254
+                ],
+                [
+                    4985,
+                    3353
+                ],
+                [
+                    3932,
+                    3326
+                ],
+                [
+                    3936,
+                    3246
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "16"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3939,
+                            3244
+                        ],
+                        [
+                            4991,
+                            3244
+                        ],
+                        [
+                            4991,
+                            3293
+                        ],
+                        [
+                            3939,
+                            3293
+                        ],
+                        [
+                            3939,
+                            3244
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Toutoune. - Voici un de vos gens, il porte votre"
+                },
+                {
+                    "points": [
+                        [
+                            3988,
+                            3295
+                        ],
+                        [
+                            4948,
+                            3295
+                        ],
+                        [
+                            4948,
+                            3338
+                        ],
+                        [
+                            3988,
+                            3338
+                        ],
+                        [
+                            3988,
+                            3295
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "livrée. - Prosper.- Mais oui... Eh! l'ami !"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_016_balloon_15"
+        }
+    ]
+}

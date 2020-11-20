@@ -1,0 +1,233 @@
+{
+    "py/object": "core.comicspage.ComicsPage",
+    "title": "MONTAIGNE_TUMOURRASMOINSBETE_T01_030",
+    "width": "510",
+    "height": "571",
+    "href": "assets/pages/MONTAIGNE_TUMOURRASMOINSBETE_T01_030.jpg",
+    "speechbubbles": [
+        {
+            "points": [
+                [
+                    2,
+                    14
+                ],
+                [
+                    347,
+                    19
+                ],
+                [
+                    340,
+                    92
+                ],
+                [
+                    2,
+                    89
+                ],
+                [
+                    2,
+                    14
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "other",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "1"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            12,
+                            23
+                        ],
+                        [
+                            336,
+                            23
+                        ],
+                        [
+                            336,
+                            40
+                        ],
+                        [
+                            12,
+                            40
+                        ],
+                        [
+                            12,
+                            23
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "SUPER MAIS COMMENT TU VAS FAIRE"
+                },
+                {
+                    "points": [
+                        [
+                            10,
+                            42
+                        ],
+                        [
+                            324,
+                            42
+                        ],
+                        [
+                            324,
+                            66
+                        ],
+                        [
+                            10,
+                            66
+                        ],
+                        [
+                            10,
+                            42
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "AVEC UN MAC 10 (BRULANT) DANS"
+                },
+                {
+                    "points": [
+                        [
+                            8,
+                            72
+                        ],
+                        [
+                            150,
+                            72
+                        ],
+                        [
+                            150,
+                            90
+                        ],
+                        [
+                            8,
+                            90
+                        ],
+                        [
+                            8,
+                            72
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "CHAQUE MAIN ?"
+                },
+                {
+                    "points": [
+                        [
+                            293,
+                            54
+                        ],
+                        [
+                            389,
+                            54
+                        ],
+                        [
+                            389,
+                            90
+                        ],
+                        [
+                            293,
+                            90
+                        ],
+                        [
+                            293,
+                            54
+                        ]
+                    ],
+                    "textType": "onomatopoeia",
+                    "text": "TTTTR!"
+                }
+            ],
+            "id": "MONTAIGNE_TUMOURRASMOINSBETE_T01_030_balloon_0"
+        },
+        {
+            "points": [
+                [
+                    402,
+                    82
+                ],
+                [
+                    499,
+                    80
+                ],
+                [
+                    500,
+                    117
+                ],
+                [
+                    406,
+                    118
+                ],
+                [
+                    402,
+                    82
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "2"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            404,
+                            83
+                        ],
+                        [
+                            478,
+                            83
+                        ],
+                        [
+                            478,
+                            105
+                        ],
+                        [
+                            404,
+                            105
+                        ],
+                        [
+                            404,
+                            83
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "FUCKING"
+                },
+                {
+                    "points": [
+                        [
+                            426,
+                            98
+                        ],
+                        [
+                            497,
+                            98
+                        ],
+                        [
+                            497,
+                            116
+                        ],
+                        [
+                            426,
+                            116
+                        ],
+                        [
+                            426,
+                            98
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "BASTARD!"
+                }
+            ],
+            "id": "MONTAIGNE_TUMOURRASMOINSBETE_T01_030_balloon_1"
+        }
+    ]
+}

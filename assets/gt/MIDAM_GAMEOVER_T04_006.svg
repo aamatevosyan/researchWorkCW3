@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1210mm" zoomAndPan="magnify" contentStyleType="text/css" height="1726mm" viewBox="0 0 2420 3452" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>MIDAM_GAMEOVER_T04_006</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="2420" xlink:href="../Pages/MIDAM_GAMEOVER_T04_006.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3452" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Game Over" editorName="Dupuis" doublePage="false" website="" albumTitle="Oups !" drawerName="Midam, Adam" language="french" resolution="600" ISBN="978-2800145501" readingDirection="leftToRight" writerName="Midam" releaseDate="2009" pageNumber="6"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon id="MIDAM_GAMEOVER_T04_006_panel_0" points="78,40 320,38 324,297 80,299 78,40">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="72,331 787,323 790,1009 77,1017 72,331" id="MIDAM_GAMEOVER_T04_006_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="827,321 1542,314 1544,1002 829,1007 827,321" id="MIDAM_GAMEOVER_T04_006_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="1579,311 2317,302 2323,992 1581,999 1579,311" id="MIDAM_GAMEOVER_T04_006_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="77,1066 790,1058 797,1737 82,1744 77,1066" id="MIDAM_GAMEOVER_T04_006_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="828,1055 1549,1047 1551,1733 837,1739 828,1055" id="MIDAM_GAMEOVER_T04_006_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="1586,1046 2325,1039 2330,1729 1593,1729 1586,1046" id="MIDAM_GAMEOVER_T04_006_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="87,1793 543,1790 547,2475 92,2476 87,1793" id="MIDAM_GAMEOVER_T04_006_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="574,1789 1424,1783 1429,2471 577,2474 574,1789" id="MIDAM_GAMEOVER_T04_006_panel_8">
+            <metadata viewAngle="" shot="" rank="9"/>
+        </polygon>
+        <polygon points="1459,1778 2333,1773 2338,2464 1463,2466 1459,1778" id="MIDAM_GAMEOVER_T04_006_panel_9">
+            <metadata viewAngle="" shot="" rank="10"/>
+        </polygon>
+        <polygon points="97,2528 920,2519 922,3203 99,3203 97,2528" id="MIDAM_GAMEOVER_T04_006_panel_10">
+            <metadata viewAngle="" shot="" rank="11"/>
+        </polygon>
+        <polygon points="957,2517 1782,2515 1782,3196 961,3199 957,2517" id="MIDAM_GAMEOVER_T04_006_panel_11">
+            <metadata viewAngle="" shot="" rank="12"/>
+        </polygon>
+        <polygon points="1792,2513 2316,2511 2318,3186 1787,3191 1792,2513" id="MIDAM_GAMEOVER_T04_006_panel_12">
+            <metadata viewAngle="" shot="" rank="13"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="173,630 396,630 396,961 173,961 173,630" id="MIDAM_GAMEOVER_T04_006_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="898,596 1124,596 1124,984 898,984 898,596" id="MIDAM_GAMEOVER_T04_006_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1760,572 1977,572 1977,961 1760,961 1760,572" id="MIDAM_GAMEOVER_T04_006_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="231,1312 518,1312 518,1730 231,1730 231,1312" id="MIDAM_GAMEOVER_T04_006_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1034,1245 1336,1245 1336,1698 1034,1698 1034,1245" id="MIDAM_GAMEOVER_T04_006_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1774,1298 2105,1298 2105,1709 1774,1709 1774,1298" id="MIDAM_GAMEOVER_T04_006_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="156,2052 454,2052 454,2417 156,2417 156,2052" id="MIDAM_GAMEOVER_T04_006_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="588,2031 895,2031 895,2417 588,2417 588,2031" id="MIDAM_GAMEOVER_T04_006_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1499,2063 1855,2063 1855,2414 1499,2414 1499,2063" id="MIDAM_GAMEOVER_T04_006_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="911,1787 1426,1787 1426,2488 911,2488 911,1787" id="MIDAM_GAMEOVER_T04_006_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1954,1768 2330,1768 2330,2450 1954,2450 1954,1768" id="MIDAM_GAMEOVER_T04_006_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="604,2516 925,2516 925,3222 604,3222 604,2516" id="MIDAM_GAMEOVER_T04_006_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="144,2792 508,2792 508,3159 144,3159 144,2792" id="MIDAM_GAMEOVER_T04_006_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1004,2790 1390,2790 1390,3151 1004,3151 1004,2790" id="MIDAM_GAMEOVER_T04_006_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1470,2513 1782,2513 1782,3211 1470,3211 1470,2513" id="MIDAM_GAMEOVER_T04_006_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="559,725 687,718 685,802 564,802 559,725" id="MIDAM_GAMEOVER_T04_006_line_0">
+            <metadata method="" typography="" textType="illustrative">EXIT</metadata>
+        </polygon>
+        <polygon points="449,1131 638,1131 638,1433 449,1433 449,1131" id="MIDAM_GAMEOVER_T04_006_line_1">
+            <metadata method="" typography="" textType="onomatopoeia">ZOOOOOM</metadata>
+        </polygon>
+        <polygon points="1148,1215 1458,1215 1458,1434 1148,1434 1148,1215" id="MIDAM_GAMEOVER_T04_006_line_2">
+            <metadata method="" typography="" textType="onomatopoeia">OOOOOOOOMMM</metadata>
+        </polygon>
+        <polygon points="1588,1315 1736,1315 1736,1646 1588,1646 1588,1315" id="MIDAM_GAMEOVER_T04_006_line_3">
+            <metadata method="" typography="" textType="onomatopoeia">MOOOOOOOOOO</metadata>
+        </polygon>
+        <polygon points="1832,1060 2216,1060 2216,1171 1832,1171 1832,1060" id="MIDAM_GAMEOVER_T04_006_line_4">
+            <metadata method="" typography="" textType="onomatopoeia">OOOOOOOMMMM</metadata>
+        </polygon>
+        <polygon points="965,2042 1181,2042 1181,2161 965,2161 965,2042" id="MIDAM_GAMEOVER_T04_006_line_5">
+            <metadata method="" typography="" textType="onomatopoeia">BLORK</metadata>
+        </polygon>
+        <polygon points="112,3173 191,3175 188,3205 112,3202 112,3173" id="MIDAM_GAMEOVER_T04_006_line_6">
+            <metadata method="" typography="" textType="note">G125</metadata>
+        </polygon>
+        <polygon points="968,3162 1265,3162 1265,3195 968,3195 968,3162" id="MIDAM_GAMEOVER_T04_006_line_7">
+            <metadata method="" typography="" textType="note">MiDAM.ADAM.OLiVRi</metadata>
+        </polygon>
+        <polygon points="1248,2967 1534,2967 1534,3098 1248,3098 1248,2967" id="MIDAM_GAMEOVER_T04_006_line_8">
+            <metadata method="" typography="" textType="onomatopoeia">ZOOOOMM!</metadata>
+        </polygon>
+        <polygon points="1829,2514 2282,2514 2282,2842 1829,2842 1829,2514" id="MIDAM_GAMEOVER_T04_006_line_9">
+            <metadata method="" typography="" textType="note">GAMEOVER</metadata>
+        </polygon>
+        <polygon points="1197,3299 1250,3300 1248,3346 1198,3345 1197,3299" id="MIDAM_GAMEOVER_T04_006_line_10">
+            <metadata method="" typography="" textType="speech">6</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:43:31 CET 2014" lastStepModified="Balloon_Polygons"/>
+</svg>

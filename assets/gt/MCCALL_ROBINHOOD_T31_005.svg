@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="744mm" zoomAndPan="magnify" contentStyleType="text/css" height="1080mm" viewBox="0 0 1488 2160" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>MCCALL_ROBINHOOD_T31_005</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="1488" xlink:href="../Pages/MCCALL_ROBINHOOD_T31_005.jpg" xlink:type="simple" xlink:actuate="onLoad" height="2160" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata ISBN="" doublePage="false" albumTitle="Robin Hood And Company 31" releaseDate="1946" collectionTitle="Robin Hood And Company" readingDirection="leftToRight" website="http://comicbookplus.com/?dlid=31922" drawerName="Charles Snelgrove" pageNumber="5" language="english" writerName="Ted McCall" editorName="John Gordon Baker"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="46,86 263,86 263,762 46,762 46,86" id="MCCALL_ROBINHOOD_T31_005_panel_0">
+            <metadata viewAngle="" uri="" shot="" area="" rank="1" fillingPcent=""/>
+        </polygon>
+        <polygon points="278,85 877,85 877,763 278,763 278,85" id="MCCALL_ROBINHOOD_T31_005_panel_1">
+            <metadata viewAngle="" uri="" shot="" area="" rank="2" fillingPcent=""/>
+        </polygon>
+        <polygon points="897,86 1448,86 1448,745 897,745 897,86" id="MCCALL_ROBINHOOD_T31_005_panel_2">
+            <metadata viewAngle="" uri="" shot="" area="" rank="3" fillingPcent=""/>
+        </polygon>
+        <polygon points="47,776 764,776 764,1357 47,1357 47,776" id="MCCALL_ROBINHOOD_T31_005_panel_3">
+            <metadata viewAngle="" uri="" shot="" area="" rank="4" fillingPcent=""/>
+        </polygon>
+        <polygon points="781,778 1447,778 1447,1377 781,1377 781,778" id="MCCALL_ROBINHOOD_T31_005_panel_4">
+            <metadata viewAngle="" uri="" shot="" area="" rank="5" fillingPcent=""/>
+        </polygon>
+        <polygon points="49,1372 701,1372 701,2099 49,2099 49,1372" id="MCCALL_ROBINHOOD_T31_005_panel_5">
+            <metadata viewAngle="" uri="" shot="" area="" rank="6" fillingPcent=""/>
+        </polygon>
+        <polygon points="714,1373 1457,1373 1457,2099 714,2099 714,1373" id="MCCALL_ROBINHOOD_T31_005_panel_6">
+            <metadata viewAngle="" uri="" shot="" area="" rank="7" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="44,92 261,89 266,761 47,763 44,92" id="MCCALL_ROBINHOOD_T31_005_balloon_0">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
+        </polygon>
+        <polygon points="288,121 290,104 296,92 301,90 620,85 635,97 648,110 654,125 655,140 652,159 648,163 651,166 650,176 651,183 656,204 656,228 642,256 630,267 614,280 598,285 592,293 586,303 577,306 568,311 560,311 555,313 534,333 506,339 478,336 462,335 452,331 437,326 428,332 422,332 421,353 417,367 415,358 416,344 410,331 384,332 350,324 330,310 322,298 324,290 304,286 284,269 272,243 272,225 275,215 268,212 268,204 255,189 254,173 260,150 267,135 288,121" id="MCCALL_ROBINHOOD_T31_005_balloon_1">
+            <metadata borderStyle="wavy" tailTip="417,367" boundingBox="" tailDirection="S" rank="2"/>
+        </polygon>
+        <polygon points="641,98 651,88 653,83 895,83 906,95 921,98 928,114 931,129 933,148 930,167 925,174 927,183 939,202 942,221 939,238 929,256 921,268 901,283 887,289 881,299 864,302 846,306 828,304 822,303 814,308 808,315 780,326 765,330 744,331 727,328 714,322 705,325 699,329 681,330 675,331 659,352 629,378 628,370 651,352 666,326 669,319 658,313 653,303 640,290 630,277 631,263 641,98" id="MCCALL_ROBINHOOD_T31_005_balloon_2">
+            <metadata borderStyle="wavy" tailTip="629,378" boundingBox="" tailDirection="SW" rank="3"/>
+        </polygon>
+        <polygon points="278,649 880,658 878,764 286,759 278,649" id="MCCALL_ROBINHOOD_T31_005_balloon_3">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
+        </polygon>
+        <polygon points="931,122 945,113 952,108 952,96 954,89 967,84 1200,84 1216,97 1237,117 1245,142 1247,162 1240,176 1242,182 1241,192 1248,208 1247,234 1242,259 1232,267 1230,273 1232,290 1218,312 1208,317 1201,321 1198,322 1179,339 1152,351 1130,350 1118,348 1103,339 1101,337 1092,341 1077,363 1072,337 1062,340 1047,344 1028,344 1013,342 1004,337 984,340 958,338 940,326 931,308 930,284 924,272 922,266 921,173 931,122" id="MCCALL_ROBINHOOD_T31_005_balloon_4">
+            <metadata borderStyle="wavy" tailTip="1077,363" boundingBox="" tailDirection="S" rank="5"/>
+        </polygon>
+        <polygon points="1228,109 1242,95 1251,89 1259,83 1407,85 1423,95 1439,106 1444,116 1447,129 1443,416 1436,418 1428,412 1410,422 1394,427 1383,423 1360,432 1340,430 1314,428 1306,417 1301,412 1287,442 1285,428 1285,411 1267,411 1255,408 1240,407 1234,402 1227,401 1214,397 1201,392 1184,368 1189,341 1191,332 1196,322 1228,109" id="MCCALL_ROBINHOOD_T31_005_balloon_5">
+            <metadata borderStyle="wavy" tailTip="1287,442" boundingBox="" tailDirection="S" rank="6"/>
+        </polygon>
+        <polygon points="106,797 357,804 350,1058 115,1055 106,797" id="MCCALL_ROBINHOOD_T31_005_balloon_6">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="7"/>
+        </polygon>
+        <polygon points="1156,727 1184,715 1211,712 1233,709 1267,714 1283,726 1307,721 1328,716 1354,709 1387,716 1416,727 1427,743 1434,748 1444,753 1446,762 1444,876 1435,873 1416,881 1393,882 1383,879 1361,891 1326,896 1307,892 1293,883 1289,879 1282,883 1272,890 1241,900 1227,898 1221,898 1204,908 1187,913 1149,913 1132,905 1121,894 1114,888 1093,901 1099,884 1103,871 1081,864 1067,845 1062,814 1068,782 1083,764 1108,758 1111,757 1115,739 1128,732 1137,728 1156,727" id="MCCALL_ROBINHOOD_T31_005_balloon_7">
+            <metadata borderStyle="wavy" tailTip="1093,901" boundingBox="" tailDirection="SW" rank="8"/>
+        </polygon>
+        <polygon points="779,1257 1446,1257 1446,1381 783,1378 779,1257" id="MCCALL_ROBINHOOD_T31_005_balloon_8">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="9"/>
+        </polygon>
+        <polygon points="72,1886 379,1891 382,2063 76,2059 72,1886" id="MCCALL_ROBINHOOD_T31_005_balloon_9">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="10"/>
+        </polygon>
+        <polygon points="749,1435 751,1411 761,1381 785,1369 1076,1373 1101,1387 1128,1406 1134,1421 1137,1443 1134,1476 1118,1491 1123,1507 1115,1544 1077,1574 1060,1578 1045,1590 1016,1609 966,1615 938,1600 907,1605 880,1610 863,1612 850,1608 843,1609 834,1611 827,1639 819,1613 791,1611 769,1595 758,1577 759,1561 735,1546 723,1516 721,1476 730,1441 749,1435 749,1435" id="MCCALL_ROBINHOOD_T31_005_balloon_10">
+            <metadata borderStyle="wavy" tailTip="827,1639" boundingBox="" tailDirection="S" rank="11"/>
+        </polygon>
+        <polygon points="1156,1412 1171,1389 1184,1376 1419,1378 1426,1387 1447,1393 1444,1628 1434,1626 1418,1634 1403,1635 1396,1632 1380,1649 1362,1664 1325,1663 1300,1659 1290,1646 1278,1645 1264,1642 1258,1638 1254,1643 1256,1670 1245,1642 1202,1640 1162,1621 1154,1595 1137,1579 1124,1548 1156,1412 1156,1412" id="MCCALL_ROBINHOOD_T31_005_balloon_11">
+            <metadata borderStyle="wavy" tailTip="1256,1670" boundingBox="" tailDirection="S" rank="12"/>
+        </polygon>
+        <polygon points="719,2014 1451,2011 1453,2097 715,2097 719,2014 719,2014" id="MCCALL_ROBINHOOD_T31_005_balloon_12">
+            <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="13"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="394,436 672,436 672,699 394,699 394,436" id="MCCALL_ROBINHOOD_T31_005_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="277,386 484,386 484,656 277,656 277,386" id="MCCALL_ROBINHOOD_T31_005_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="898,368 1157,368 1157,740 898,740 898,368" id="MCCALL_ROBINHOOD_T31_005_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1069,450 1429,450 1429,734 1069,734 1069,450" id="MCCALL_ROBINHOOD_T31_005_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="507,981 731,981 731,1271 507,1271 507,981" id="MCCALL_ROBINHOOD_T31_005_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="361,898 620,898 620,1250 361,1250 361,898" id="MCCALL_ROBINHOOD_T31_005_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="791,847 1015,847 1015,1215 791,1215 791,847" id="MCCALL_ROBINHOOD_T31_005_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="892,888 1104,888 1104,1236 892,1236 892,888" id="MCCALL_ROBINHOOD_T31_005_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="274,1561 581,1561 581,2022 274,2022 274,1561" id="MCCALL_ROBINHOOD_T31_005_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="81,1520 338,1520 338,2003 81,2003 81,1520" id="MCCALL_ROBINHOOD_T31_005_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="713,1594 1118,1594 1118,2030 713,2030 713,1594" id="MCCALL_ROBINHOOD_T31_005_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1110,1678 1441,1678 1441,2011 1110,2011 1110,1678" id="MCCALL_ROBINHOOD_T31_005_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="102,248 165,248 165,284 102,284 102,248" id="MCCALL_ROBINHOOD_T31_005_line_0">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">THE</metadata>
+        </polygon>
+        <polygon points="95,284 171,284 171,305 95,305 95,284" id="MCCALL_ROBINHOOD_T31_005_line_1">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">NEXT</metadata>
+        </polygon>
+        <polygon points="92,306 173,306 178,332 92,331 92,306" id="MCCALL_ROBINHOOD_T31_005_line_2">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">NIGHT,</metadata>
+        </polygon>
+        <polygon points="76,332 201,332 201,353 76,353 76,332" id="MCCALL_ROBINHOOD_T31_005_line_3">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">NEAR THE</metadata>
+        </polygon>
+        <polygon points="84,357 196,357 196,384 84,384 84,357" id="MCCALL_ROBINHOOD_T31_005_line_4">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">TOWERING</metadata>
+        </polygon>
+        <polygon points="75,382 212,382 212,409 75,409 75,382" id="MCCALL_ROBINHOOD_T31_005_line_5">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">TRONGHOLD</metadata>
+        </polygon>
+        <polygon points="98,408 178,408 178,433 98,433 98,408" id="MCCALL_ROBINHOOD_T31_005_line_6">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">OF THE</metadata>
+        </polygon>
+        <polygon points="81,433 195,433 195,456 81,456 81,433" id="MCCALL_ROBINHOOD_T31_005_line_7">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">EARL OF</metadata>
+        </polygon>
+        <polygon points="84,460 210,460 210,478 84,478 84,460" id="MCCALL_ROBINHOOD_T31_005_line_8">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_0" textType="narrative">THESSLE...</metadata>
+        </polygon>
+        <polygon points="324,109 601,109 601,130 324,130 324,109" id="MCCALL_ROBINHOOD_T31_005_line_9">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">IN THAT MIGHTY PILE OF</metadata>
+        </polygon>
+        <polygon points="320,133 630,133 630,158 320,158 320,133" id="MCCALL_ROBINHOOD_T31_005_line_10">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">STONE PROSPERS A MISER-</metadata>
+        </polygon>
+        <polygon points="318,160 601,160 601,184 318,184 318,160" id="MCCALL_ROBINHOOD_T31_005_line_11">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">ABLE SOUL ON THE TOIL</metadata>
+        </polygon>
+        <polygon points="323,183 612,183 612,209 323,208 323,183" id="MCCALL_ROBINHOOD_T31_005_line_12">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">AND BLOOD OF OTHERS!</metadata>
+        </polygon>
+        <polygon points="323,213 589,210 589,231 323,233 323,213" id="MCCALL_ROBINHOOD_T31_005_line_13">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">DO OUR RASCALS RALLY</metadata>
+        </polygon>
+        <polygon points="341,233 588,233 588,255 341,255 341,233" id="MCCALL_ROBINHOOD_T31_005_line_14">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">TO OUR CALL, LITTLE-</metadata>
+        </polygon>
+        <polygon points="400,259 480,259 480,284 400,284 400,259" id="MCCALL_ROBINHOOD_T31_005_line_15">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1" textType="speech">JOHN!?</metadata>
+        </polygon>
+        <polygon points="681,109 851,109 851,127 681,127 681,109" id="MCCALL_ROBINHOOD_T31_005_line_16">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">THE FAT FRIAR</metadata>
+        </polygon>
+        <polygon points="664,133 907,133 907,154 664,154 664,133" id="MCCALL_ROBINHOOD_T31_005_line_17">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">TUCK ROUNDS THEM</metadata>
+        </polygon>
+        <polygon points="661,157 913,157 913,179 661,179 661,157" id="MCCALL_ROBINHOOD_T31_005_line_18">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">UP, MASTER ROBIN...</metadata>
+        </polygon>
+        <polygon points="673,179 859,179 859,205 673,205 673,179" id="MCCALL_ROBINHOOD_T31_005_line_19">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">READY THEY'LL</metadata>
+        </polygon>
+        <polygon points="670,208 883,208 883,233 670,233 670,208" id="MCCALL_ROBINHOOD_T31_005_line_20">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">BE WITH ARROWS</metadata>
+        </polygon>
+        <polygon points="673,235 874,235 874,258 673,258 673,235" id="MCCALL_ROBINHOOD_T31_005_line_21">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">NOTCHED IF THEY</metadata>
+        </polygon>
+        <polygon points="689,259 879,259 879,280 689,280 689,259" id="MCCALL_ROBINHOOD_T31_005_line_22">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2" textType="speech">GET THE WORD!</metadata>
+        </polygon>
+        <polygon points="957,127 1205,127 1205,151 957,150 957,127" id="MCCALL_ROBINHOOD_T31_005_line_23">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">A STRONG FORTRESS IT</metadata>
+        </polygon>
+        <polygon points="951,153 1210,153 1210,178 951,178 951,153" id="MCCALL_ROBINHOOD_T31_005_line_24">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">IS, SIRE, AND METHINRS</metadata>
+        </polygon>
+        <polygon points="951,180 1164,180 1164,199 951,199 951,180" id="MCCALL_ROBINHOOD_T31_005_line_25">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">'TWOULD BE WELL</metadata>
+        </polygon>
+        <polygon points="951,203 1223,203 1223,226 951,226 951,203" id="MCCALL_ROBINHOOD_T31_005_line_26">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">GUARDED! THERE WOULD</metadata>
+        </polygon>
+        <polygon points="957,228 1226,228 1226,251 957,251 957,228" id="MCCALL_ROBINHOOD_T31_005_line_27">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">BE HARD FIGHTING TO...</metadata>
+        </polygon>
+        <polygon points="954,247 1168,247 1168,271 954,271 954,247" id="MCCALL_ROBINHOOD_T31_005_line_28">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">LOOK, MEN GO TO</metadata>
+        </polygon>
+        <polygon points="955,276 1192,272 1192,299 962,299 955,276" id="MCCALL_ROBINHOOD_T31_005_line_29">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4" textType="speech">TOWARD THE GATE!</metadata>
+        </polygon>
+        <polygon points="1259,107 1394,107 1398,134 1265,129 1259,107" id="MCCALL_ROBINHOOD_T31_005_line_30">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">HUNTSMEN,</metadata>
+        </polygon>
+        <polygon points="1254,132 1397,135 1397,154 1254,152 1254,132" id="MCCALL_ROBINHOOD_T31_005_line_31">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">THEY ARE...</metadata>
+        </polygon>
+        <polygon points="1256,158 1380,158 1380,183 1256,183 1256,158" id="MCCALL_ROBINHOOD_T31_005_line_32">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">SEE, THEY</metadata>
+        </polygon>
+        <polygon points="1253,183 1398,183 1398,203 1253,205 1253,183" id="MCCALL_ROBINHOOD_T31_005_line_33">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">CARRY STAGS</metadata>
+        </polygon>
+        <polygon points="1249,205 1413,205 1413,229 1249,229 1249,205" id="MCCALL_ROBINHOOD_T31_005_line_34">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">TO THE CASTLE</metadata>
+        </polygon>
+        <polygon points="1251,231 1417,231 1417,253 1251,253 1251,231" id="MCCALL_ROBINHOOD_T31_005_line_35">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">THAT THE EARL</metadata>
+        </polygon>
+        <polygon points="1266,255 1406,255 1406,277 1266,277 1266,255" id="MCCALL_ROBINHOOD_T31_005_line_36">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">MAY FEAST!</metadata>
+        </polygon>
+        <polygon points="1252,280 1433,280 1433,302 1252,302 1252,280" id="MCCALL_ROBINHOOD_T31_005_line_37">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">ZOUNDS,LITTLE-</metadata>
+        </polygon>
+        <polygon points="1243,305 1381,305 1381,328 1243,328 1243,305" id="MCCALL_ROBINHOOD_T31_005_line_38">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">JOHN, THEY</metadata>
+        </polygon>
+        <polygon points="1254,329 1414,329 1414,352 1254,352 1254,329" id="MCCALL_ROBINHOOD_T31_005_line_39">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">SHOW US THE</metadata>
+        </polygon>
+        <polygon points="1261,350 1431,350 1431,378 1261,378 1261,350" id="MCCALL_ROBINHOOD_T31_005_line_40">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5" textType="speech">WAY ! HASTEN!</metadata>
+        </polygon>
+        <polygon points="329,673 812,673 812,702 329,702 329,673" id="MCCALL_ROBINHOOD_T31_005_line_41">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_3" textType="narrative">ROBIN HOOD, AND HIS GIANT LIEUTENANT,</metadata>
+        </polygon>
+        <polygon points="324,702 844,704 845,726 324,723 324,702" id="MCCALL_ROBINHOOD_T31_005_line_42">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_3" textType="narrative">LITTLEJOHN, GRIMLY STUDY THE CASTLE FROM</metadata>
+        </polygon>
+        <polygon points="325,729 421,729 421,750 325,750 325,729" id="MCCALL_ROBINHOOD_T31_005_line_43">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_3" textType="narrative">HIDING...</metadata>
+        </polygon>
+        <polygon points="166,818 272,818 272,857 166,857 166,818" id="MCCALL_ROBINHOOD_T31_005_line_44">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">SWIFTLY</metadata>
+        </polygon>
+        <polygon points="179,855 251,855 251,876 179,876 179,855" id="MCCALL_ROBINHOOD_T31_005_line_45">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">ROBIN</metadata>
+        </polygon>
+        <polygon points="156,881 319,876 319,897 151,900 156,881" id="MCCALL_ROBINHOOD_T31_005_line_46">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">LEADS THROUGH</metadata>
+        </polygon>
+        <polygon points="144,902 329,902 329,927 144,927 144,902" id="MCCALL_ROBINHOOD_T31_005_line_47">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">THE DENSE BUSH</metadata>
+        </polygon>
+        <polygon points="152,927 293,927 293,950 152,950 152,927" id="MCCALL_ROBINHOOD_T31_005_line_48">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">...THEY RUN</metadata>
+        </polygon>
+        <polygon points="161,954 285,954 285,980 161,980 161,954" id="MCCALL_ROBINHOOD_T31_005_line_49">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">CROUCHED</metadata>
+        </polygon>
+        <polygon points="186,979 240,979 240,1001 186,1001 186,979" id="MCCALL_ROBINHOOD_T31_005_line_50">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">LOW,</metadata>
+        </polygon>
+        <polygon points="163,1004 298,1004 298,1026 163,1026 163,1004" id="MCCALL_ROBINHOOD_T31_005_line_51">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_6" textType="narrative">SILENTLY...</metadata>
+        </polygon>
+        <polygon points="1142,754 1360,754 1360,782 1142,782 1142,754" id="MCCALL_ROBINHOOD_T31_005_line_52">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7" textType="speech">STAY! LOOK AHEAD!</metadata>
+        </polygon>
+        <polygon points="1119,781 1426,774 1420,804 1123,804 1119,781" id="MCCALL_ROBINHOOD_T31_005_line_53">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7" textType="speech">A STAG IN THE CLEARING!</metadata>
+        </polygon>
+        <polygon points="1112,801 1396,801 1396,829 1112,826 1112,801" id="MCCALL_ROBINHOOD_T31_005_line_54">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7" textType="speech">'TIS SENT US BY DAME</metadata>
+        </polygon>
+        <polygon points="1125,826 1362,826 1362,855 1125,855 1125,826" id="MCCALL_ROBINHOOD_T31_005_line_55">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7" textType="speech">FORTUNE HERSELF !</metadata>
+        </polygon>
+        <polygon points="1160,853 1241,853 1241,877 1160,877 1160,853" id="MCCALL_ROBINHOOD_T31_005_line_56">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7" textType="speech">QUIET !</metadata>
+        </polygon>
+        <polygon points="818,1277 1347,1279 1349,1304 814,1302 818,1277" id="MCCALL_ROBINHOOD_T31_005_line_57">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_8" textType="narrative">AT THE EDGE OF THE CLEARING, ROBIN STOPS</metadata>
+        </polygon>
+        <polygon points="810,1302 1366,1302 1366,1333 810,1333 810,1302" id="MCCALL_ROBINHOOD_T31_005_line_58">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_8" textType="narrative">SUDDENLY, POINTS AHEAD...AND IN THE SHADOWS</metadata>
+        </polygon>
+        <polygon points="809,1329 1236,1329 1236,1353 809,1353 809,1329" id="MCCALL_ROBINHOOD_T31_005_line_59">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_8" textType="narrative">IS OUTLINED THE FORM OF A STAG...</metadata>
+        </polygon>
+        <polygon points="780,1402 1073,1402 1073,1432 780,1432 780,1402" id="MCCALL_ROBINHOOD_T31_005_line_60">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">MISSED! BY THE SRINTS,</metadata>
+        </polygon>
+        <polygon points="781,1428 1057,1428 1057,1456 781,1456 781,1428" id="MCCALL_ROBINHOOD_T31_005_line_61">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">YOU MISSED IT, SIRE !</metadata>
+        </polygon>
+        <polygon points="784,1459 1066,1458 1066,1480 783,1481 784,1459" id="MCCALL_ROBINHOOD_T31_005_line_62">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">THE GREATEST ARCHER</metadata>
+        </polygon>
+        <polygon points="791,1485 1028,1485 1028,1504 791,1504 791,1485" id="MCCALL_ROBINHOOD_T31_005_line_63">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">IN ALL THE REALM</metadata>
+        </polygon>
+        <polygon points="787,1504 1028,1504 1028,1533 787,1533 787,1504" id="MCCALL_ROBINHOOD_T31_005_line_64">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">HAS ERRED! NEVER</metadata>
+        </polygon>
+        <polygon points="798,1530 981,1530 981,1555 798,1555 798,1530" id="MCCALL_ROBINHOOD_T31_005_line_65">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">BEFORE HAVE I</metadata>
+        </polygon>
+        <polygon points="814,1555 984,1555 984,1583 814,1583 814,1555" id="MCCALL_ROBINHOOD_T31_005_line_66">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10" textType="speech">SEEN YOU...</metadata>
+        </polygon>
+        <polygon points="1196,1408 1394,1410 1397,1435 1196,1435 1196,1408" id="MCCALL_ROBINHOOD_T31_005_line_67">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">LOOK! THE STAG</metadata>
+        </polygon>
+        <polygon points="1198,1436 1389,1436 1389,1462 1198,1462 1198,1436" id="MCCALL_ROBINHOOD_T31_005_line_68">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">STILL STANDS !</metadata>
+        </polygon>
+        <polygon points="1187,1460 1372,1460 1372,1482 1187,1482 1187,1460" id="MCCALL_ROBINHOOD_T31_005_line_69">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">OUGHT'S AMISS</metadata>
+        </polygon>
+        <polygon points="1198,1487 1363,1487 1363,1505 1198,1505 1198,1487" id="MCCALL_ROBINHOOD_T31_005_line_70">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">OR THE GAME</metadata>
+        </polygon>
+        <polygon points="1190,1513 1376,1513 1376,1532 1190,1532 1190,1513" id="MCCALL_ROBINHOOD_T31_005_line_71">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">WOULD BE FAR</metadata>
+        </polygon>
+        <polygon points="1193,1539 1427,1539 1427,1558 1193,1558 1193,1539" id="MCCALL_ROBINHOOD_T31_005_line_72">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">AMONG THE TREES</metadata>
+        </polygon>
+        <polygon points="1196,1558 1386,1558 1386,1585 1196,1585 1196,1558" id="MCCALL_ROBINHOOD_T31_005_line_73">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">BY NOW! COME</metadata>
+        </polygon>
+        <polygon points="1252,1586 1305,1586 1305,1610 1252,1610 1252,1586" id="MCCALL_ROBINHOOD_T31_005_line_74">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11" textType="speech">ON !</metadata>
+        </polygon>
+        <polygon points="103,1908 294,1908 294,1933 103,1933 103,1908" id="MCCALL_ROBINHOOD_T31_005_line_75">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_9" textType="narrative">IN A FLASH, HE</metadata>
+        </polygon>
+        <polygon points="101,1934 342,1934 342,1955 101,1955 101,1934" id="MCCALL_ROBINHOOD_T31_005_line_76">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_9" textType="narrative">UNSLINGS HIS LONG-</metadata>
+        </polygon>
+        <polygon points="103,1955 345,1955 345,1976 103,1976 103,1955" id="MCCALL_ROBINHOOD_T31_005_line_77">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_9" textType="narrative">BOW AND AN ARROW</metadata>
+        </polygon>
+        <polygon points="98,1977 312,1977 312,2006 98,2006 98,1977" id="MCCALL_ROBINHOOD_T31_005_line_78">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_9" textType="narrative">WHINES TOWARD</metadata>
+        </polygon>
+        <polygon points="103,2003 271,2003 271,2028 103,2028 103,2003" id="MCCALL_ROBINHOOD_T31_005_line_79">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_9" textType="narrative">ITS TARGET...</metadata>
+        </polygon>
+        <polygon points="753,2036 1372,2032 1372,2055 753,2058 753,2036" id="MCCALL_ROBINHOOD_T31_005_line_80">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_12" textType="narrative">THE NEXT SECOND THEY ARE GASPING INTO THE</metadata>
+        </polygon>
+        <polygon points="751,2061 1074,2061 1074,2082 751,2082 751,2061" id="MCCALL_ROBINHOOD_T31_005_line_81">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_12" textType="narrative">CLERRING UNBELIEVINGLY...</metadata>
+        </polygon>
+        <polygon points="1418,2065 1435,2065 1435,2088 1418,2088 1418,2065" id="MCCALL_ROBINHOOD_T31_005_line_82">
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_12" textType="speech">5</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="455,226 456,226 381,521 380,521 455,226" idCharacter="MCCALL_ROBINHOOD_T31_005_character_1" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_1"/>
+    <polygon points="785,230 786,230 534,567 533,567 785,230" idCharacter="MCCALL_ROBINHOOD_T31_005_character_0" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_2"/>
+    <polygon points="1084,223 1085,223 1028,554 1027,554 1084,223" idCharacter="MCCALL_ROBINHOOD_T31_005_character_2" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_4"/>
+    <polygon points="1315,262 1316,262 1250,592 1249,592 1315,262" idCharacter="MCCALL_ROBINHOOD_T31_005_character_3" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_5"/>
+    <polygon points="1254,811 1255,811 999,1062 998,1062 1254,811" idCharacter="MCCALL_ROBINHOOD_T31_005_character_7" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_7"/>
+    <polygon points="929,1504 930,1504 916,1812 915,1812 929,1504" idCharacter="MCCALL_ROBINHOOD_T31_005_character_10" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_10"/>
+    <polygon points="1285,1523 1286,1523 1276,1844 1275,1844 1285,1523" idCharacter="MCCALL_ROBINHOOD_T31_005_character_11" idBalloon="MCCALL_ROBINHOOD_T31_005_balloon_11"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sun Feb 09 11:02:02 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

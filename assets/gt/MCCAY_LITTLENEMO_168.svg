@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1527mm" zoomAndPan="magnify" contentStyleType="text/css" height="2098mm" viewBox="0 0 3054 4196" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>MCCAY_LITTLENEMO_168</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="3054" xlink:href="../Pages/MCCAY_LITTLENEMO_168.jpg" xlink:type="simple" xlink:actuate="onLoad" height="4196" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Little Nemo" editorName="Delcourt" doublePage="false" website="" albumTitle="Little Nemo in Slumberland" drawerName="Winsor McCay" language="french" resolution="600" ISBN="978-2756002729" readingDirection="leftToRight" writerName="Winsor McCay" releaseDate="1905" pageNumber="168"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="79,141 807,141 807,1089 79,1089 79,141" id="MCCAY_LITTLENEMO_168_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="815,143 1539,143 1539,1091 815,1091 815,143" id="MCCAY_LITTLENEMO_168_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="1555,147 2277,147 2277,1089 1555,1089 1555,147" id="MCCAY_LITTLENEMO_168_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="2279,145 3005,145 3005,1087 2279,1087 2279,145" id="MCCAY_LITTLENEMO_168_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="71,1106 806,1106 806,2036 71,2036 71,1106" id="MCCAY_LITTLENEMO_168_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="815,1104 1537,1104 1537,2034 815,2034 815,1104" id="MCCAY_LITTLENEMO_168_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="1552,1106 2270,1106 2270,2032 1552,2032 1552,1106" id="MCCAY_LITTLENEMO_168_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="2276,1101 3009,1101 3009,2036 2276,2036 2276,1101" id="MCCAY_LITTLENEMO_168_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="73,2061 796,2061 796,2981 73,2981 73,2061" id="MCCAY_LITTLENEMO_168_panel_8">
+            <metadata viewAngle="" shot="" rank="9"/>
+        </polygon>
+        <polygon points="810,2059 1548,2059 1548,2979 810,2979 810,2059" id="MCCAY_LITTLENEMO_168_panel_9">
+            <metadata viewAngle="" shot="" rank="10"/>
+        </polygon>
+        <polygon points="1554,2061 2272,2061 2272,2977 1554,2977 1554,2061" id="MCCAY_LITTLENEMO_168_panel_10">
+            <metadata viewAngle="" shot="" rank="11"/>
+        </polygon>
+        <polygon points="2283,2065 3001,2065 3001,2973 2283,2973 2283,2065" id="MCCAY_LITTLENEMO_168_panel_11">
+            <metadata viewAngle="" shot="" rank="12"/>
+        </polygon>
+        <polygon points="69,2998 794,2998 794,3943 69,3943 69,2998" id="MCCAY_LITTLENEMO_168_panel_12">
+            <metadata viewAngle="" shot="" rank="13"/>
+        </polygon>
+        <polygon points="806,2994 1537,2994 1537,3939 806,3939 806,2994" id="MCCAY_LITTLENEMO_168_panel_13">
+            <metadata viewAngle="" shot="" rank="14"/>
+        </polygon>
+        <polygon points="1550,3004 3003,3004 3003,3947 1550,3947 1550,3004" id="MCCAY_LITTLENEMO_168_panel_14">
+            <metadata viewAngle="" shot="" rank="15"/>
+        </polygon>
+        <polygon points="2318,3261 2999,3261 2999,3945 2318,3945 2318,3261" id="MCCAY_LITTLENEMO_168_panel_15">
+            <metadata viewAngle="" shot="" rank="16"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="118,417 116,333 123,311 168,302 205,305 266,306 308,301 322,316 329,340 326,397 326,432 321,448 297,462 273,471 237,479 219,479 205,487 204,508 197,505 197,486 188,473 162,473 142,476 127,470 119,456 118,417" id="MCCAY_LITTLENEMO_168_balloon_0">
+            <metadata borderStyle="smooth" tailTip="204,508" boundingBox="" tailDirection="S" rank="1"/>
+        </polygon>
+        <polygon points="492,362 496,325 508,307 532,303 597,304 671,306 707,302 734,306 742,323 743,364 740,401 744,432 740,463 726,481 687,494 654,497 634,502 626,504 617,516 615,529 612,521 609,501 601,488 568,487 539,492 525,489 504,478 496,455 492,362" id="MCCAY_LITTLENEMO_168_balloon_1">
+            <metadata borderStyle="smooth" tailTip="615,529" boundingBox="" tailDirection="S" rank="2"/>
+        </polygon>
+        <polygon points="869,381 870,350 873,328 882,315 901,309 943,311 976,312 999,308 1032,310 1064,311 1079,317 1087,328 1090,359 1087,395 1086,424 1083,440 1063,457 1028,464 1000,468 984,472 977,488 972,481 971,460 965,456 935,456 907,458 892,457 871,439 869,381" id="MCCAY_LITTLENEMO_168_balloon_2">
+            <metadata borderStyle="smooth" tailTip="977,488" boundingBox="" tailDirection="S" rank="3"/>
+        </polygon>
+        <polygon points="1289,549 1291,462 1304,451 1328,450 1361,448 1389,448 1416,450 1448,452 1464,460 1468,480 1467,511 1464,541 1462,561 1445,573 1409,579 1382,582 1364,590 1361,603 1361,623 1355,616 1354,600 1351,586 1343,574 1307,574 1289,563 1289,549" id="MCCAY_LITTLENEMO_168_balloon_3">
+            <metadata borderStyle="smooth" tailTip="1361,623" boundingBox="" tailDirection="S" rank="4"/>
+        </polygon>
+        <polygon points="1630,513 1630,406 1637,390 1673,386 1777,387 1819,390 1832,403 1832,441 1828,514 1807,533 1777,540 1741,546 1741,559 1742,578 1734,565 1728,544 1719,537 1696,533 1675,536 1652,543 1637,535 1631,527 1630,513" id="MCCAY_LITTLENEMO_168_balloon_4">
+            <metadata borderStyle="smooth" tailTip="1742,578" boundingBox="" tailDirection="SE" rank="5"/>
+        </polygon>
+        <polygon points="1917,513 1917,445 1924,423 1938,414 1973,413 2045,414 2077,413 2094,412 2105,409 2127,410 2142,419 2145,436 2139,469 2138,498 2140,534 2142,557 2138,576 2121,590 2101,594 2066,597 2041,598 2029,598 2020,604 2016,612 2014,628 2010,612 2006,597 1993,589 1973,589 1944,591 1930,586 1917,570 1917,513" id="MCCAY_LITTLENEMO_168_balloon_5">
+            <metadata borderStyle="smooth" tailTip="2014,628" boundingBox="" tailDirection="S" rank="6"/>
+        </polygon>
+        <polygon points="2360,416 2363,320 2376,313 2514,313 2530,324 2542,345 2540,377 2540,442 2538,466 2507,487 2489,492 2473,496 2464,500 2465,512 2457,510 2452,498 2416,490 2391,487 2372,481 2357,462 2360,416" id="MCCAY_LITTLENEMO_168_balloon_6">
+            <metadata borderStyle="smooth" tailTip="2465,512" boundingBox="" tailDirection="SE" rank="7"/>
+        </polygon>
+        <polygon points="2581,401 2579,360 2588,333 2597,321 2759,322 2782,323 2792,345 2796,365 2791,404 2790,433 2791,463 2790,477 2777,492 2744,494 2699,498 2680,499 2663,505 2654,513 2654,530 2651,536 2647,534 2648,517 2649,496 2640,488 2622,487 2609,488 2601,490 2586,484 2581,401" id="MCCAY_LITTLENEMO_168_balloon_7">
+            <metadata borderStyle="smooth" tailTip="2651,536" boundingBox="" tailDirection="S" rank="8"/>
+        </polygon>
+        <polygon points="140,1251 143,1199 160,1176 194,1178 240,1179 293,1176 322,1185 326,1203 330,1286 315,1312 271,1321 252,1322 235,1331 230,1352 225,1333 206,1323 178,1325 158,1324 149,1315 140,1251" id="MCCAY_LITTLENEMO_168_balloon_8">
+            <metadata borderStyle="smooth" tailTip="230,1352" boundingBox="" tailDirection="S" rank="9"/>
+        </polygon>
+        <polygon points="440,1237 440,1177 446,1158 475,1146 516,1149 576,1150 647,1152 677,1149 696,1146 718,1157 724,1183 720,1230 719,1256 716,1281 696,1297 682,1301 664,1305 589,1305 568,1306 555,1316 549,1323 548,1344 540,1337 541,1318 534,1298 504,1298 481,1299 462,1300 441,1283 440,1237" id="MCCAY_LITTLENEMO_168_balloon_9">
+            <metadata borderStyle="smooth" tailTip="548,1344" boundingBox="" tailDirection="S" rank="10"/>
+        </polygon>
+        <polygon points="890,1274 891,1218 889,1181 898,1145 934,1144 1006,1144 1044,1146 1077,1147 1090,1164 1089,1199 1085,1232 1086,1274 1075,1299 1039,1310 997,1314 992,1321 995,1338 988,1332 985,1309 976,1300 942,1301 913,1298 894,1292 890,1274" id="MCCAY_LITTLENEMO_168_balloon_10">
+            <metadata borderStyle="smooth" tailTip="988,1332" boundingBox="" tailDirection="S" rank="11"/>
+        </polygon>
+        <polygon points="1203,1256 1201,1173 1220,1154 1265,1155 1327,1156 1349,1153 1383,1154 1405,1162 1415,1170 1418,1197 1417,1229 1417,1265 1416,1295 1401,1322 1369,1329 1331,1335 1316,1337 1304,1344 1302,1372 1296,1366 1297,1342 1293,1323 1275,1317 1232,1319 1215,1317 1206,1303 1203,1256" id="MCCAY_LITTLENEMO_168_balloon_11">
+            <metadata borderStyle="smooth" tailTip="1302,1372" boundingBox="" tailDirection="S" rank="12"/>
+        </polygon>
+        <polygon points="1625,1268 1625,1210 1634,1200 1683,1195 1729,1195 1765,1195 1788,1200 1797,1214 1797,1253 1796,1295 1793,1319 1758,1333 1732,1336 1707,1333 1692,1339 1691,1375 1685,1373 1681,1352 1676,1335 1654,1327 1626,1319 1625,1268" id="MCCAY_LITTLENEMO_168_balloon_12">
+            <metadata borderStyle="smooth" tailTip="1691,1375" boundingBox="" tailDirection="S" rank="13"/>
+        </polygon>
+        <polygon points="2015,1425 2016,1362 2017,1339 2038,1321 2055,1321 2120,1324 2167,1323 2183,1342 2178,1405 2171,1450 2138,1459 2103,1459 2080,1467 2074,1484 2070,1465 2069,1454 2030,1451 2017,1440 2015,1425" id="MCCAY_LITTLENEMO_168_balloon_13">
+            <metadata borderStyle="smooth" tailTip="2074,1484" boundingBox="" tailDirection="S" rank="14"/>
+        </polygon>
+        <polygon points="2368,1193 2368,1147 2373,1130 2386,1121 2446,1120 2503,1122 2521,1130 2522,1166 2519,1219 2509,1230 2443,1242 2432,1245 2431,1269 2426,1262 2423,1241 2399,1239 2386,1240 2367,1217 2368,1193" id="MCCAY_LITTLENEMO_168_balloon_14">
+            <metadata borderStyle="smooth" tailTip="2431,1269" boundingBox="" tailDirection="S" rank="15"/>
+        </polygon>
+        <polygon points="2646,1213 2646,1172 2643,1137 2651,1121 2675,1116 2820,1123 2851,1121 2868,1139 2868,1169 2857,1224 2830,1242 2782,1250 2755,1248 2739,1256 2737,1273 2733,1270 2732,1255 2728,1242 2698,1242 2670,1245 2651,1243 2645,1230 2646,1213" id="MCCAY_LITTLENEMO_168_balloon_15">
+            <metadata borderStyle="smooth" tailTip="2737,1273" boundingBox="" tailDirection="S" rank="16"/>
+        </polygon>
+        <polygon points="98,2360 103,2274 125,2263 180,2264 261,2265 296,2259 321,2266 326,2290 324,2341 330,2379 324,2406 329,2418 356,2435 332,2432 317,2437 258,2432 219,2436 155,2437 121,2439 97,2423 98,2360" id="MCCAY_LITTLENEMO_168_balloon_16">
+            <metadata borderStyle="smooth" tailTip="356,2435" boundingBox="" tailDirection="E" rank="17"/>
+        </polygon>
+        <polygon points="316,2154 314,2090 326,2075 363,2077 408,2080 430,2073 463,2074 475,2096 473,2135 472,2190 445,2203 429,2209 425,2208 422,2210 432,2236 402,2208 387,2197 333,2207 320,2194 316,2154" id="MCCAY_LITTLENEMO_168_balloon_17">
+            <metadata borderStyle="smooth" tailTip="432,2236" boundingBox="" tailDirection="E" rank="18"/>
+        </polygon>
+        <polygon points="840,2289 839,2166 853,2146 881,2142 959,2140 985,2134 1011,2140 1024,2162 1026,2226 1026,2279 1000,2316 964,2329 940,2336 940,2358 932,2336 924,2324 869,2323 839,2308 840,2289" id="MCCAY_LITTLENEMO_168_balloon_18">
+            <metadata borderStyle="smooth" tailTip="940,2358" boundingBox="" tailDirection="S" rank="19"/>
+        </polygon>
+        <polygon points="1071,2194 1072,2108 1078,2087 1104,2079 1126,2085 1191,2085 1217,2084 1239,2082 1251,2101 1253,2151 1253,2206 1251,2231 1220,2249 1184,2248 1152,2255 1141,2260 1140,2282 1132,2270 1128,2248 1109,2248 1090,2248 1072,2231 1071,2194" id="MCCAY_LITTLENEMO_168_balloon_19">
+            <metadata borderStyle="smooth" tailTip="1140,2282" boundingBox="" tailDirection="S" rank="20"/>
+        </polygon>
+        <polygon points="1572,2234 1572,2153 1582,2124 1623,2118 1674,2118 1714,2113 1733,2126 1739,2173 1735,2239 1735,2270 1723,2284 1698,2287 1679,2293 1698,2315 1678,2311 1666,2302 1609,2294 1579,2287 1573,2267 1572,2234" id="MCCAY_LITTLENEMO_168_balloon_20">
+            <metadata borderStyle="smooth" tailTip="1698,2315" boundingBox="" tailDirection="SE" rank="21"/>
+        </polygon>
+        <polygon points="2023,2150 2020,2099 2036,2083 2064,2081 2086,2085 2115,2084 2138,2089 2166,2092 2166,2134 2168,2179 2167,2197 2145,2209 2033,2203 2030,2186 2018,2180 2007,2192 2022,2164 2023,2150" id="MCCAY_LITTLENEMO_168_balloon_21">
+            <metadata borderStyle="smooth" tailTip="2007,2192" boundingBox="" tailDirection="SW" rank="22"/>
+        </polygon>
+        <polygon points="2295,2155 2295,2116 2299,2092 2339,2090 2381,2088 2408,2094 2412,2121 2409,2197 2400,2209 2381,2212 2362,2215 2355,2228 2356,2251 2348,2238 2345,2216 2325,2212 2297,2199 2295,2155" id="MCCAY_LITTLENEMO_168_balloon_22">
+            <metadata borderStyle="smooth" tailTip="2356,2251" boundingBox="" tailDirection="S" rank="23"/>
+        </polygon>
+        <polygon points="2600,2456 2601,2400 2618,2374 2636,2372 2711,2374 2742,2373 2752,2392 2753,2445 2750,2483 2717,2503 2674,2506 2651,2504 2634,2512 2623,2525 2625,2509 2625,2499 2603,2493 2600,2456" id="MCCAY_LITTLENEMO_168_balloon_23">
+            <metadata borderStyle="smooth" tailTip="2623,2525" boundingBox="" tailDirection="SW" rank="24"/>
+        </polygon>
+        <polygon points="89,3381 85,3273 112,3262 155,3263 183,3269 194,3288 201,3347 196,3372 209,3380 238,3385 230,3395 208,3395 200,3410 198,3437 198,3460 185,3477 113,3479 95,3468 87,3442 89,3381" id="MCCAY_LITTLENEMO_168_balloon_24">
+            <metadata borderStyle="smooth" tailTip="238,3385" boundingBox="" tailDirection="E" rank="25"/>
+        </polygon>
+        <polygon points="595,3302 597,3229 611,3201 669,3198 724,3195 767,3198 780,3217 782,3273 783,3311 771,3330 740,3342 705,3343 688,3353 680,3383 675,3368 658,3356 632,3350 609,3345 597,3327 595,3302" id="MCCAY_LITTLENEMO_168_balloon_25">
+            <metadata borderStyle="smooth" tailTip="680,3383" boundingBox="" tailDirection="S" rank="26"/>
+        </polygon>
+        <polygon points="823,3231 823,3153 822,3111 828,3079 866,3074 909,3078 968,3074 980,3090 981,3141 978,3206 974,3244 974,3287 959,3308 892,3320 876,3324 869,3336 866,3349 855,3321 838,3315 821,3306 817,3281 817,3259 823,3231" id="MCCAY_LITTLENEMO_168_balloon_26">
+            <metadata borderStyle="smooth" tailTip="866,3349" boundingBox="" tailDirection="S" rank="27"/>
+        </polygon>
+        <polygon points="1387,3738 1406,3745 1437,3745 1467,3745 1487,3754 1500,3757 1511,3778 1511,3847 1510,3898 1501,3918 1449,3923 1400,3924 1351,3918 1346,3908 1347,3849 1346,3790 1351,3763 1373,3754 1385,3747 1387,3738" id="MCCAY_LITTLENEMO_168_balloon_27">
+            <metadata borderStyle="smooth" tailTip="1387,3738" boundingBox="" tailDirection="N" rank="28"/>
+        </polygon>
+        <polygon points="1622,3148 1621,3079 1636,3058 1687,3054 1748,3062 1805,3061 1865,3056 1879,3083 1883,3138 1879,3208 1876,3243 1888,3254 1918,3268 1890,3272 1876,3275 1867,3295 1826,3309 1756,3304 1696,3305 1646,3306 1618,3276 1622,3148" id="MCCAY_LITTLENEMO_168_balloon_28">
+            <metadata borderStyle="smooth" tailTip="1918,3268" boundingBox="" tailDirection="E" rank="29"/>
+        </polygon>
+        <polygon points="1568,3432 1567,3371 1570,3340 1592,3325 1644,3323 1709,3326 1753,3325 1779,3337 1781,3361 1783,3428 1777,3474 1757,3498 1740,3510 1711,3514 1705,3529 1715,3538 1697,3530 1681,3516 1658,3517 1624,3520 1592,3515 1567,3484 1568,3432" id="MCCAY_LITTLENEMO_168_balloon_29">
+            <metadata borderStyle="smooth" tailTip="1715,3538" boundingBox="" tailDirection="SE" rank="30"/>
+        </polygon>
+        <polygon points="2099,3720 2259,3716 2280,3725 2284,3748 2282,3832 2281,3862 2269,3882 2227,3882 2163,3888 2107,3888 2079,3879 2074,3848 2077,3798 2074,3779 2045,3770 2070,3764 2081,3762 2083,3734 2099,3720" id="MCCAY_LITTLENEMO_168_balloon_30">
+            <metadata borderStyle="smooth" tailTip="2045,3770" boundingBox="" tailDirection="W" rank="31"/>
+        </polygon>
+        <polygon points="2521,3424 2519,3350 2510,3309 2531,3290 2602,3291 2663,3295 2704,3293 2735,3294 2746,3324 2743,3398 2742,3451 2770,3458 2749,3468 2746,3518 2736,3536 2707,3538 2566,3543 2540,3541 2527,3528 2521,3424 2521,3424" id="MCCAY_LITTLENEMO_168_balloon_31">
+            <metadata borderStyle="smooth" tailTip="2770,3458" boundingBox="" tailDirection="E" rank="32"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="127,549 296,549 296,1074 127,1074 127,549" id="MCCAY_LITTLENEMO_168_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="451,544 752,544 752,1021 451,1021 451,544" id="MCCAY_LITTLENEMO_168_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="864,524 1088,524 1088,832 864,832 864,524" id="MCCAY_LITTLENEMO_168_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1080,638 1419,638 1419,1064 1080,1064 1080,638" id="MCCAY_LITTLENEMO_168_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1781,705 1873,715 1919,712 1959,715 1980,740 2003,758 2018,784 1959,799 1931,804 1929,824 1878,852 1847,837 1885,929 1862,972 1862,1008 1860,1033 1804,1054 1750,1049 1733,990 1768,919 1763,878 1727,824 1720,786 1781,705" id="MCCAY_LITTLENEMO_168_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1982,791 2082,812 2122,835 2145,865 2127,908 2107,957 2102,982 2097,1018 2087,1036 2046,1041 1997,1036 1959,1036 1921,1036 1906,980 1893,926 1896,908 1901,875 1911,847 1957,791 1982,791" id="MCCAY_LITTLENEMO_168_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2428,564 2591,564 2591,1079 2428,1079 2428,564" id="MCCAY_LITTLENEMO_168_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2568,582 2764,582 2764,1054 2568,1054 2568,582" id="MCCAY_LITTLENEMO_168_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="183,1418 349,1418 349,1897 183,1897 183,1418" id="MCCAY_LITTLENEMO_168_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="464,1413 642,1413 642,1925 464,1925 464,1413" id="MCCAY_LITTLENEMO_168_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="871,1418 1136,1418 1136,1915 871,1915 871,1418" id="MCCAY_LITTLENEMO_168_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1113,1415 1378,1415 1378,1917 1113,1917 1113,1415" id="MCCAY_LITTLENEMO_168_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1575,1421 1717,1421 1717,1866 1575,1866 1575,1421" id="MCCAY_LITTLENEMO_168_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1888,1601 2189,1601 2189,1950 1888,1950 1888,1601" id="MCCAY_LITTLENEMO_168_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2405,1291 2622,1291 2622,1757 2405,1757 2405,1291" id="MCCAY_LITTLENEMO_168_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2640,1283 2892,1283 2892,1790 2640,1790 2640,1283" id="MCCAY_LITTLENEMO_168_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="487,2190 724,2190 724,2506 487,2506 487,2190" id="MCCAY_LITTLENEMO_168_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="390,2317 749,2317 749,2812 390,2812 390,2317" id="MCCAY_LITTLENEMO_168_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="889,2424 1136,2424 1136,2883 889,2883 889,2424" id="MCCAY_LITTLENEMO_168_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1075,2310 1302,2310 1302,2626 1113,2626 1075,2310" id="MCCAY_LITTLENEMO_168_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1654,2294 1875,2294 1875,2804 1654,2804 1654,2294" id="MCCAY_LITTLENEMO_168_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1857,2195 2140,2195 2140,2381 1857,2381 1857,2195" id="MCCAY_LITTLENEMO_168_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2420,2165 2637,2165 2637,2442 2420,2442 2420,2165" id="MCCAY_LITTLENEMO_168_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2454,2465 2650,2465 2650,2952 2454,2952 2454,2465" id="MCCAY_LITTLENEMO_168_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="224,3372 461,3372 461,3749 224,3749 224,3372" id="MCCAY_LITTLENEMO_168_character_24">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="479,3484 716,3484 716,3907 479,3907 479,3484" id="MCCAY_LITTLENEMO_168_character_25">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="808,3375 894,3375 894,3716 808,3716 808,3375" id="MCCAY_LITTLENEMO_168_character_26">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1147,3428 1383,3428 1383,3843 1147,3843 1147,3428" id="MCCAY_LITTLENEMO_168_character_27">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2003,3038 2428,3038 2428,3558 2003,3558 2003,3038" id="MCCAY_LITTLENEMO_168_character_28">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1896,3571 2069,3571 2069,3905 1896,3905 1896,3571" id="MCCAY_LITTLENEMO_168_character_29">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1743,3535 1901,3535 1901,3861 1743,3861 1743,3535" id="MCCAY_LITTLENEMO_168_character_30">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2428,3563 2553,3563 2553,3706 2428,3706 2428,3563" id="MCCAY_LITTLENEMO_168_character_31">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2790,3347 3001,3347 3001,3622 2790,3622 2790,3347" id="MCCAY_LITTLENEMO_168_character_32">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="79,79 317,79 317,113 79,113 79,79" id="MCCAY_LITTLENEMO_168_line_0">
+            <metadata method="" typography="" textType="note">7 mars 1909</metadata>
+        </polygon>
+        <polygon points="83,148 117,148 117,179 83,179 83,148" id="MCCAY_LITTLENEMO_168_line_1">
+            <metadata method="" typography="" textType="note">1</metadata>
+        </polygon>
+        <polygon points="833,149 869,149 869,188 833,188 833,149" id="MCCAY_LITTLENEMO_168_line_2">
+            <metadata method="" typography="" textType="note">2</metadata>
+        </polygon>
+        <polygon points="1569,157 1607,157 1607,193 1569,193 1569,157" id="MCCAY_LITTLENEMO_168_line_3">
+            <metadata method="" typography="" textType="note">3</metadata>
+        </polygon>
+        <polygon points="1661,166 1766,166 1766,219 1661,219 1661,166" id="MCCAY_LITTLENEMO_168_line_4">
+            <metadata method="" typography="" textType="note">IN</metadata>
+        </polygon>
+        <polygon points="78,138 1633,138 1633,292 78,292 78,138" id="MCCAY_LITTLENEMO_168_line_5">
+            <metadata method="" typography="" textType="note">LITTLE NEMO</metadata>
+        </polygon>
+        <polygon points="134,314 314,314 314,344 134,344 134,314" id="MCCAY_LITTLENEMO_168_line_6">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_0" textType="speech">OH! OH! FLIP</metadata>
+        </polygon>
+        <polygon points="133,346 326,346 326,374 133,374 133,346" id="MCCAY_LITTLENEMO_168_line_7">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_0" textType="speech">JE NE SAIS PAS</metadata>
+        </polygon>
+        <polygon points="136,382 331,382 331,408 136,408 136,382" id="MCCAY_LITTLENEMO_168_line_8">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_0" textType="speech">QUE VOUS SA-</metadata>
+        </polygon>
+        <polygon points="135,412 331,412 331,439 135,439 135,412" id="MCCAY_LITTLENEMO_168_line_9">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_0" textType="speech">VIEZ PATINER</metadata>
+        </polygon>
+        <polygon points="526,315 740,315 740,338 526,338 526,315" id="MCCAY_LITTLENEMO_168_line_10">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_1" textType="speech">VOUS LE SAVEZ</metadata>
+        </polygon>
+        <polygon points="514,346 725,346 725,372 514,372 514,346" id="MCCAY_LITTLENEMO_168_line_11">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_1" textType="speech">MAINTENANT</metadata>
+        </polygon>
+        <polygon points="512,377 751,377 751,407 512,407 512,377" id="MCCAY_LITTLENEMO_168_line_12">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_1" textType="speech">JE SUIS UN CHAM-</metadata>
+        </polygon>
+        <polygon points="512,407 718,407 718,439 512,439 512,407" id="MCCAY_LITTLENEMO_168_line_13">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_1" textType="speech">PION. JE PEUX</metadata>
+        </polygon>
+        <polygon points="526,435 708,435 708,469 526,469 526,435" id="MCCAY_LITTLENEMO_168_line_14">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_1" textType="speech">FAIRE TOUT.</metadata>
+        </polygon>
+        <polygon points="890,325 1088,325 1088,350 890,350 890,325" id="MCCAY_LITTLENEMO_168_line_15">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_2" textType="speech">VOUS M'AVEZ</metadata>
+        </polygon>
+        <polygon points="896,355 1088,355 1088,386 896,386 896,355" id="MCCAY_LITTLENEMO_168_line_16">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_2" textType="speech">FAIT TOMBER</metadata>
+        </polygon>
+        <polygon points="890,384 1072,384 1072,416 890,416 890,384" id="MCCAY_LITTLENEMO_168_line_17">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_2" textType="speech">FLIP ! FAITES</metadata>
+        </polygon>
+        <polygon points="885,419 1100,411 1092,445 885,445 885,419" id="MCCAY_LITTLENEMO_168_line_18">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_2" textType="speech">DONC ATTENTION</metadata>
+        </polygon>
+        <polygon points="1313,462 1472,462 1472,491 1313,491 1313,462" id="MCCAY_LITTLENEMO_168_line_19">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_3" textType="speech">VOUS FAIRE</metadata>
+        </polygon>
+        <polygon points="1308,491 1443,491 1443,520 1308,520 1308,491" id="MCCAY_LITTLENEMO_168_line_20">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_3" textType="speech">TOMBER?</metadata>
+        </polygon>
+        <polygon points="1308,509 1479,509 1479,554 1308,554 1308,509" id="MCCAY_LITTLENEMO_168_line_21">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_3" textType="speech">MAIS C'EST VOUS</metadata>
+        </polygon>
+        <polygon points="1654,407 1844,407 1844,435 1654,435 1654,407" id="MCCAY_LITTLENEMO_168_line_22">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_4" textType="speech">MAIS NON FLIP</metadata>
+        </polygon>
+        <polygon points="1657,441 1780,441 1780,471 1657,471 1657,441" id="MCCAY_LITTLENEMO_168_line_23">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_4" textType="speech">J'ETAIS</metadata>
+        </polygon>
+        <polygon points="1652,471 1798,471 1798,504 1652,504 1652,471" id="MCCAY_LITTLENEMO_168_line_24">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_4" textType="speech">LOIN DE</metadata>
+        </polygon>
+        <polygon points="1708,498 1797,498 1797,526 1708,526 1708,498" id="MCCAY_LITTLENEMO_168_line_25">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_4" textType="speech">VOUS !</metadata>
+        </polygon>
+        <polygon points="1942,431 2156,431 2156,460 1942,460 1942,431" id="MCCAY_LITTLENEMO_168_line_26">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_5" textType="speech">EH BIEN! QUEL-</metadata>
+        </polygon>
+        <polygon points="1944,471 2107,471 2107,493 1944,493 1944,471" id="MCCAY_LITTLENEMO_168_line_27">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_5" textType="speech">QUE CHOSE</metadata>
+        </polygon>
+        <polygon points="1935,498 2150,498 2150,528 1935,528 1935,498" id="MCCAY_LITTLENEMO_168_line_28">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_5" textType="speech">M'A FAIT TOM-</metadata>
+        </polygon>
+        <polygon points="1942,528 2154,528 2154,561 1942,561 1942,528" id="MCCAY_LITTLENEMO_168_line_29">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_5" textType="speech">BER...OUI...QUEL-</metadata>
+        </polygon>
+        <polygon points="1942,559 2115,559 2115,585 1942,585 1942,559" id="MCCAY_LITTLENEMO_168_line_30">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_5" textType="speech">QUE CHOSE !</metadata>
+        </polygon>
+        <polygon points="2301,155 2341,155 2341,186 2301,186 2301,155" id="MCCAY_LITTLENEMO_168_line_31">
+            <metadata method="" typography="" textType="note">4</metadata>
+        </polygon>
+        <polygon points="1633,139 2992,139 2992,316 1633,316 1633,139" id="MCCAY_LITTLENEMO_168_line_32">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="note">SLUMBERLAND</metadata>
+        </polygon>
+        <polygon points="2386,328 2538,328 2538,354 2386,354 2386,328" id="MCCAY_LITTLENEMO_168_line_33">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="speech">AVEZ-VOUS</metadata>
+        </polygon>
+        <polygon points="2382,360 2525,360 2525,394 2382,394 2382,360" id="MCCAY_LITTLENEMO_168_line_34">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="speech">MAL? LA</metadata>
+        </polygon>
+        <polygon points="2393,399 2497,399 2497,426 2393,426 2393,399" id="MCCAY_LITTLENEMO_168_line_35">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="speech">TETE...</metadata>
+        </polygon>
+        <polygon points="2404,426 2492,426 2492,454 2404,454 2404,426" id="MCCAY_LITTLENEMO_168_line_36">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="speech">HUM !</metadata>
+        </polygon>
+        <polygon points="2423,447 2514,447 2514,481 2423,481 2423,447" id="MCCAY_LITTLENEMO_168_line_37">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_6" textType="speech">HUM !</metadata>
+        </polygon>
+        <polygon points="2605,339 2783,339 2783,367 2605,367 2605,339" id="MCCAY_LITTLENEMO_168_line_38">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_7" textType="speech">C'EST BIEN</metadata>
+        </polygon>
+        <polygon points="2613,371 2801,371 2801,399 2613,399 2613,371" id="MCCAY_LITTLENEMO_168_line_39">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_7" textType="speech">LA PREMIERE</metadata>
+        </polygon>
+        <polygon points="2610,402 2782,402 2782,429 2610,429 2610,402" id="MCCAY_LITTLENEMO_168_line_40">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_7" textType="speech">FOIS QUE JE</metadata>
+        </polygon>
+        <polygon points="2617,431 2799,431 2799,457 2617,457 2617,431" id="MCCAY_LITTLENEMO_168_line_41">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_7" textType="speech">TOMBE AINSI</metadata>
+        </polygon>
+        <polygon points="2672,460 2772,460 2772,485 2672,485 2672,460" id="MCCAY_LITTLENEMO_168_line_42">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_7" textType="speech">NEMO!</metadata>
+        </polygon>
+        <polygon points="87,1109 128,1109 128,1147 87,1147 87,1109" id="MCCAY_LITTLENEMO_168_line_43">
+            <metadata method="" typography="" textType="note">5</metadata>
+        </polygon>
+        <polygon points="164,1185 322,1185 322,1212 164,1212 164,1185" id="MCCAY_LITTLENEMO_168_line_44">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_8" textType="speech">SI JE POU-</metadata>
+        </polygon>
+        <polygon points="159,1217 337,1217 337,1246 159,1246 159,1217" id="MCCAY_LITTLENEMO_168_line_45">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_8" textType="speech">VAIS PATINER</metadata>
+        </polygon>
+        <polygon points="156,1247 333,1247 333,1272 156,1272 156,1247" id="MCCAY_LITTLENEMO_168_line_46">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_8" textType="speech">COMME VOUS</metadata>
+        </polygon>
+        <polygon points="203,1276 276,1276 276,1306 203,1306 203,1276" id="MCCAY_LITTLENEMO_168_line_47">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_8" textType="speech">FLIP!</metadata>
+        </polygon>
+        <polygon points="461,1162 726,1162 726,1180 461,1180 461,1162" id="MCCAY_LITTLENEMO_168_line_48">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_9" textType="speech">TOUT LE MONDE LE</metadata>
+        </polygon>
+        <polygon points="459,1188 713,1188 713,1209 459,1209 459,1188" id="MCCAY_LITTLENEMO_168_line_49">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_9" textType="speech">SOUHAITE ! ALLONS</metadata>
+        </polygon>
+        <polygon points="461,1215 686,1215 686,1245 461,1245 461,1215" id="MCCAY_LITTLENEMO_168_line_50">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_9" textType="speech">INSPECTER CET</metadata>
+        </polygon>
+        <polygon points="455,1251 710,1251 710,1283 455,1283 455,1251" id="MCCAY_LITTLENEMO_168_line_51">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_9" textType="speech">ETANG.. EN ROUTE</metadata>
+        </polygon>
+        <polygon points="829,1108 867,1108 867,1144 829,1144 829,1108" id="MCCAY_LITTLENEMO_168_line_52">
+            <metadata method="" typography="" textType="note">6</metadata>
+        </polygon>
+        <polygon points="912,1152 1093,1152 1093,1181 912,1181 912,1152" id="MCCAY_LITTLENEMO_168_line_53">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_10" textType="speech">CETTE GLACE</metadata>
+        </polygon>
+        <polygon points="912,1185 1093,1185 1093,1209 912,1209 912,1185" id="MCCAY_LITTLENEMO_168_line_54">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_10" textType="speech">EST CURIEUSE</metadata>
+        </polygon>
+        <polygon points="916,1216 1083,1216 1083,1238 916,1238 916,1216" id="MCCAY_LITTLENEMO_168_line_55">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_10" textType="speech">ATTENTION...</metadata>
+        </polygon>
+        <polygon points="912,1242 1069,1242 1069,1268 912,1268 912,1242" id="MCCAY_LITTLENEMO_168_line_56">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_10" textType="speech">ELLE FORME</metadata>
+        </polygon>
+        <polygon points="916,1270 1082,1270 1082,1293 916,1293 916,1270" id="MCCAY_LITTLENEMO_168_line_57">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_10" textType="speech">UNE COLLINE</metadata>
+        </polygon>
+        <polygon points="1234,1167 1408,1167 1408,1191 1234,1191 1234,1167" id="MCCAY_LITTLENEMO_168_line_58">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_11" textType="speech">AUCUNE IM-</metadata>
+        </polygon>
+        <polygon points="1222,1194 1403,1194 1403,1223 1222,1223 1222,1194" id="MCCAY_LITTLENEMO_168_line_59">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_11" textType="speech">PORTANCE ...</metadata>
+        </polygon>
+        <polygon points="1217,1225 1424,1225 1424,1252 1217,1252 1217,1225" id="MCCAY_LITTLENEMO_168_line_60">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_11" textType="speech">J'AVANCE A RE</metadata>
+        </polygon>
+        <polygon points="1219,1256 1392,1256 1392,1280 1219,1280 1219,1256" id="MCCAY_LITTLENEMO_168_line_61">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_11" textType="speech">CULONS AUSSI</metadata>
+        </polygon>
+        <polygon points="1228,1284 1398,1284 1398,1313 1228,1313 1228,1284" id="MCCAY_LITTLENEMO_168_line_62">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_11" textType="speech">BIEN QU'EN ...</metadata>
+        </polygon>
+        <polygon points="1566,1114 1590,1114 1590,1148 1566,1148 1566,1114" id="MCCAY_LITTLENEMO_168_line_63">
+            <metadata method="" typography="" textType="note">7</metadata>
+        </polygon>
+        <polygon points="1645,1206 1759,1206 1759,1235 1645,1235 1645,1206" id="MCCAY_LITTLENEMO_168_line_64">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_12" textType="speech">JE VOUS</metadata>
+        </polygon>
+        <polygon points="1640,1238 1794,1238 1794,1262 1640,1262 1640,1238" id="MCCAY_LITTLENEMO_168_line_65">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_12" textType="speech">AVAIS DIT DE</metadata>
+        </polygon>
+        <polygon points="1651,1262 1797,1262 1797,1283 1651,1283 1651,1262" id="MCCAY_LITTLENEMO_168_line_66">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_12" textType="speech">REGARDER</metadata>
+        </polygon>
+        <polygon points="1650,1284 1787,1284 1787,1305 1650,1305 1650,1284" id="MCCAY_LITTLENEMO_168_line_67">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_12" textType="speech">DERRIèRE</metadata>
+        </polygon>
+        <polygon points="1683,1304 1762,1304 1762,1328 1683,1328 1683,1304" id="MCCAY_LITTLENEMO_168_line_68">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_12" textType="speech">FLIP!</metadata>
+        </polygon>
+        <polygon points="2040,1337 2192,1337 2192,1359 2040,1359 2040,1337" id="MCCAY_LITTLENEMO_168_line_69">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_13" textType="speech">A-T-ON JA-</metadata>
+        </polygon>
+        <polygon points="2037,1369 2189,1369 2189,1392 2037,1392 2037,1369" id="MCCAY_LITTLENEMO_168_line_70">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_13" textType="speech">MAIS VU UN</metadata>
+        </polygon>
+        <polygon points="2042,1393 2182,1393 2182,1424 2042,1424 2042,1393" id="MCCAY_LITTLENEMO_168_line_71">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_13" textType="speech">TEL ETANG</metadata>
+        </polygon>
+        <polygon points="2071,1425 2162,1425 2162,1452 2071,1452 2071,1425" id="MCCAY_LITTLENEMO_168_line_72">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_13" textType="speech">NON ?</metadata>
+        </polygon>
+        <polygon points="2287,1111 2327,1111 2327,1145 2287,1145 2287,1111" id="MCCAY_LITTLENEMO_168_line_73">
+            <metadata method="" typography="" textType="note">8</metadata>
+        </polygon>
+        <polygon points="2388,1135 2533,1135 2533,1163 2388,1163 2388,1135" id="MCCAY_LITTLENEMO_168_line_74">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_14" textType="speech">çA ME DE-</metadata>
+        </polygon>
+        <polygon points="2388,1163 2534,1163 2534,1192 2388,1192 2388,1163" id="MCCAY_LITTLENEMO_168_line_75">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_14" textType="speech">PASSE! JE N'Y</metadata>
+        </polygon>
+        <polygon points="2386,1192 2533,1192 2533,1212 2386,1212 2386,1192" id="MCCAY_LITTLENEMO_168_line_76">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_14" textType="speech">COMPRENDS</metadata>
+        </polygon>
+        <polygon points="2426,1212 2487,1212 2487,1235 2426,1235 2426,1212" id="MCCAY_LITTLENEMO_168_line_77">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_14" textType="speech">RIEN!</metadata>
+        </polygon>
+        <polygon points="2676,1133 2852,1133 2852,1164 2676,1164 2676,1133" id="MCCAY_LITTLENEMO_168_line_78">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_15" textType="speech">UNE TOUFFE</metadata>
+        </polygon>
+        <polygon points="2670,1165 2883,1165 2883,1192 2670,1192 2670,1165" id="MCCAY_LITTLENEMO_168_line_79">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_15" textType="speech">DE ROSEAUX VRAI-</metadata>
+        </polygon>
+        <polygon points="2674,1195 2861,1195 2861,1227 2674,1227 2674,1195" id="MCCAY_LITTLENEMO_168_line_80">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_15" textType="speech">MENT CURIEUSE!</metadata>
+        </polygon>
+        <polygon points="85,2066 123,2066 123,2104 85,2104 85,2066" id="MCCAY_LITTLENEMO_168_line_81">
+            <metadata method="" typography="" textType="note">9</metadata>
+        </polygon>
+        <polygon points="331,2086 460,2086 460,2108 331,2108 331,2086" id="MCCAY_LITTLENEMO_168_line_82">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_17" textType="speech">OUI DES-</metadata>
+        </polygon>
+        <polygon points="331,2113 464,2113 464,2136 331,2136 331,2113" id="MCCAY_LITTLENEMO_168_line_83">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_17" textType="speech">CENDONS</metadata>
+        </polygon>
+        <polygon points="330,2136 470,2136 470,2161 330,2161 330,2136" id="MCCAY_LITTLENEMO_168_line_84">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_17" textType="speech">DONC PAR</metadata>
+        </polygon>
+        <polygon points="372,2165 419,2165 419,2190 372,2190 372,2165" id="MCCAY_LITTLENEMO_168_line_85">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_17" textType="speech">LA!</metadata>
+        </polygon>
+        <polygon points="111,2273 319,2273 319,2300 111,2300 111,2273" id="MCCAY_LITTLENEMO_168_line_86">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_16" textType="speech">DE PLUS EN PLUS</metadata>
+        </polygon>
+        <polygon points="115,2303 270,2303 270,2326 115,2326 115,2303" id="MCCAY_LITTLENEMO_168_line_87">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_16" textType="speech">ETONNANT!</metadata>
+        </polygon>
+        <polygon points="110,2332 323,2332 323,2360 110,2360 110,2332" id="MCCAY_LITTLENEMO_168_line_88">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_16" textType="speech">MAIS NOUS AL-</metadata>
+        </polygon>
+        <polygon points="110,2362 320,2362 320,2392 110,2392 110,2362" id="MCCAY_LITTLENEMO_168_line_89">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_16" textType="speech">LONS DECOUVRIR</metadata>
+        </polygon>
+        <polygon points="120,2391 269,2391 269,2420 120,2420 120,2391" id="MCCAY_LITTLENEMO_168_line_90">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_16" textType="speech">LA VERITE!</metadata>
+        </polygon>
+        <polygon points="823,2071 867,2071 867,2100 823,2100 823,2071" id="MCCAY_LITTLENEMO_168_line_91">
+            <metadata method="" typography="" textType="note">10</metadata>
+        </polygon>
+        <polygon points="859,2154 1005,2154 1005,2179 859,2179 859,2154" id="MCCAY_LITTLENEMO_168_line_92">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_18" textType="speech">OUI PROCE-</metadata>
+        </polygon>
+        <polygon points="858,2184 1028,2184 1028,2210 858,2210 858,2184" id="MCCAY_LITTLENEMO_168_line_93">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_18" textType="speech">DONS A UNE</metadata>
+        </polygon>
+        <polygon points="852,2213 992,2213 992,2244 852,2244 852,2213" id="MCCAY_LITTLENEMO_168_line_94">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_18" textType="speech">ENQUETE</metadata>
+        </polygon>
+        <polygon points="862,2250 1019,2250 1019,2276 862,2276 862,2250" id="MCCAY_LITTLENEMO_168_line_95">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_18" textType="speech">COMPLETE!</metadata>
+        </polygon>
+        <polygon points="1090,2099 1244,2099 1244,2128 1090,2128 1090,2099" id="MCCAY_LITTLENEMO_168_line_96">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_19" textType="speech">çA PARAIT</metadata>
+        </polygon>
+        <polygon points="1089,2136 1258,2136 1258,2164 1089,2164 1089,2136" id="MCCAY_LITTLENEMO_168_line_97">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_19" textType="speech">DANGEREUX</metadata>
+        </polygon>
+        <polygon points="1087,2169 1247,2169 1247,2198 1087,2198 1087,2169" id="MCCAY_LITTLENEMO_168_line_98">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_19" textType="speech">FAISONS AT-</metadata>
+        </polygon>
+        <polygon points="1088,2201 1228,2201 1228,2228 1088,2228 1088,2201" id="MCCAY_LITTLENEMO_168_line_99">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_19" textType="speech">TENTION!</metadata>
+        </polygon>
+        <polygon points="1569,2071 1605,2071 1605,2099 1569,2099 1569,2071" id="MCCAY_LITTLENEMO_168_line_100">
+            <metadata method="" typography="" textType="note">11</metadata>
+        </polygon>
+        <polygon points="1593,2137 1730,2137 1730,2169 1593,2169 1593,2137" id="MCCAY_LITTLENEMO_168_line_101">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_20" textType="speech">ÇA VA! ÇA</metadata>
+        </polygon>
+        <polygon points="1594,2170 1741,2170 1741,2199 1594,2199 1594,2170" id="MCCAY_LITTLENEMO_168_line_102">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_20" textType="speech">VA! JE VAIS</metadata>
+        </polygon>
+        <polygon points="1594,2204 1741,2204 1741,2229 1594,2229 1594,2204" id="MCCAY_LITTLENEMO_168_line_103">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_20" textType="speech">VOUS DON-</metadata>
+        </polygon>
+        <polygon points="1591,2234 1688,2234 1688,2260 1591,2260 1591,2234" id="MCCAY_LITTLENEMO_168_line_104">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_20" textType="speech">NER LA</metadata>
+        </polygon>
+        <polygon points="1626,2254 1704,2254 1704,2289 1626,2289 1626,2254" id="MCCAY_LITTLENEMO_168_line_105">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_20" textType="speech">MAIN!</metadata>
+        </polygon>
+        <polygon points="2038,2092 2167,2092 2167,2122 2038,2122 2038,2092" id="MCCAY_LITTLENEMO_168_line_106">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_21" textType="speech">C'EST RU-</metadata>
+        </polygon>
+        <polygon points="2049,2124 2157,2124 2157,2148 2049,2148 2049,2124" id="MCCAY_LITTLENEMO_168_line_107">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_21" textType="speech">DEMENT</metadata>
+        </polygon>
+        <polygon points="2046,2149 2151,2149 2151,2177 2046,2177 2046,2149" id="MCCAY_LITTLENEMO_168_line_108">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_21" textType="speech">ABRUPT</metadata>
+        </polygon>
+        <polygon points="2067,2175 2154,2175 2154,2201 2067,2201 2067,2175" id="MCCAY_LITTLENEMO_168_line_109">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_21" textType="speech">NON ?</metadata>
+        </polygon>
+        <polygon points="2297,2074 2345,2074 2345,2100 2297,2100 2297,2074" id="MCCAY_LITTLENEMO_168_line_110">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_22" textType="note">12</metadata>
+        </polygon>
+        <polygon points="2314,2105 2416,2105 2416,2130 2314,2130 2314,2105" id="MCCAY_LITTLENEMO_168_line_111">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_22" textType="speech">RETENEZ</metadata>
+        </polygon>
+        <polygon points="2319,2140 2414,2140 2414,2163 2319,2163 2319,2140" id="MCCAY_LITTLENEMO_168_line_112">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_22" textType="speech">MOI FLIP</metadata>
+        </polygon>
+        <polygon points="2320,2165 2399,2165 2399,2183 2320,2183 2320,2165" id="MCCAY_LITTLENEMO_168_line_113">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_22" textType="speech">JE VOUS</metadata>
+        </polygon>
+        <polygon points="2322,2176 2409,2176 2409,2207 2322,2207 2322,2176" id="MCCAY_LITTLENEMO_168_line_114">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_22" textType="speech">EN PRIE!</metadata>
+        </polygon>
+        <polygon points="2623,2385 2763,2385 2763,2415 2623,2415 2623,2385" id="MCCAY_LITTLENEMO_168_line_115">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_23" textType="speech">LE TOUT C'EST</metadata>
+        </polygon>
+        <polygon points="2621,2419 2761,2419 2761,2441 2621,2441 2621,2419" id="MCCAY_LITTLENEMO_168_line_116">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_23" textType="speech">DE NE PAS GLIS-</metadata>
+        </polygon>
+        <polygon points="2616,2449 2755,2449 2755,2474 2616,2474 2616,2449" id="MCCAY_LITTLENEMO_168_line_117">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_23" textType="speech">SER JUSQU'</metadata>
+        </polygon>
+        <polygon points="2627,2474 2731,2474 2731,2499 2627,2499 2627,2474" id="MCCAY_LITTLENEMO_168_line_118">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_23" textType="speech">EN BAS!</metadata>
+        </polygon>
+        <polygon points="84,3004 122,3004 122,3035 84,3035 84,3004" id="MCCAY_LITTLENEMO_168_line_119">
+            <metadata method="" typography="" textType="note">13</metadata>
+        </polygon>
+        <polygon points="817,3005 862,3005 862,3048 817,3048 817,3005" id="MCCAY_LITTLENEMO_168_line_120">
+            <metadata method="" typography="" textType="note">14</metadata>
+        </polygon>
+        <polygon points="1558,3007 1605,3007 1605,3054 1558,3054 1558,3007" id="MCCAY_LITTLENEMO_168_line_121">
+            <metadata method="" typography="" textType="note">15</metadata>
+        </polygon>
+        <polygon points="96,3275 183,3275 183,3308 96,3308 96,3275" id="MCCAY_LITTLENEMO_168_line_122">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">QUELLE</metadata>
+        </polygon>
+        <polygon points="94,3308 167,3308 167,3337 94,3337 94,3308" id="MCCAY_LITTLENEMO_168_line_123">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">DROLE</metadata>
+        </polygon>
+        <polygon points="97,3334 195,3334 195,3361 97,3361 97,3334" id="MCCAY_LITTLENEMO_168_line_124">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">D'ESPÈCE</metadata>
+        </polygon>
+        <polygon points="99,3361 187,3361 187,3386 99,3386 99,3361" id="MCCAY_LITTLENEMO_168_line_125">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">D'HER-</metadata>
+        </polygon>
+        <polygon points="104,3391 136,3391 136,3417 104,3417 104,3391" id="MCCAY_LITTLENEMO_168_line_126">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">BE</metadata>
+        </polygon>
+        <polygon points="110,3408 180,3408 180,3452 110,3452 110,3408" id="MCCAY_LITTLENEMO_168_line_127">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_24" textType="speech">FLIP?</metadata>
+        </polygon>
+        <polygon points="614,3208 766,3208 766,3231 614,3231 614,3208" id="MCCAY_LITTLENEMO_168_line_128">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_25" textType="speech">A MON AVIS</metadata>
+        </polygon>
+        <polygon points="615,3233 775,3233 775,3265 615,3265 615,3233" id="MCCAY_LITTLENEMO_168_line_129">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_25" textType="speech">CE N'EST PAS</metadata>
+        </polygon>
+        <polygon points="609,3268 651,3268 651,3304 609,3304 609,3268" id="MCCAY_LITTLENEMO_168_line_130">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_25" textType="speech">DE</metadata>
+        </polygon>
+        <polygon points="626,3271 764,3271 764,3339 626,3339 626,3271" id="MCCAY_LITTLENEMO_168_line_131">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_25" textType="speech">L'HERBE!</metadata>
+        </polygon>
+        <polygon points="844,3088 969,3088 969,3118 844,3118 844,3088" id="MCCAY_LITTLENEMO_168_line_132">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_26" textType="speech">QUOI? ON</metadata>
+        </polygon>
+        <polygon points="844,3121 950,3121 950,3151 844,3151 844,3121" id="MCCAY_LITTLENEMO_168_line_133">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_26" textType="speech">DIRAIT</metadata>
+        </polygon>
+        <polygon points="843,3159 912,3159 912,3189 843,3189 843,3159" id="MCCAY_LITTLENEMO_168_line_134">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_26" textType="speech">UNE</metadata>
+        </polygon>
+        <polygon points="841,3201 953,3201 953,3238 841,3238 841,3201" id="MCCAY_LITTLENEMO_168_line_135">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_26" textType="speech">FIGU-</metadata>
+        </polygon>
+        <polygon points="847,3244 915,3244 915,3291 847,3291 847,3244" id="MCCAY_LITTLENEMO_168_line_136">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_26" textType="speech">RE !</metadata>
+        </polygon>
+        <polygon points="1368,3759 1498,3759 1498,3783 1368,3783 1368,3759" id="MCCAY_LITTLENEMO_168_line_137">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">C'EST BIEN</metadata>
+        </polygon>
+        <polygon points="1356,3793 1487,3793 1487,3817 1356,3817 1356,3793" id="MCCAY_LITTLENEMO_168_line_138">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">UNE TETE.</metadata>
+        </polygon>
+        <polygon points="1357,3822 1478,3822 1478,3846 1357,3846 1357,3822" id="MCCAY_LITTLENEMO_168_line_139">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">DONNONS</metadata>
+        </polygon>
+        <polygon points="1357,3850 1507,3850 1507,3873 1357,3873 1357,3850" id="MCCAY_LITTLENEMO_168_line_140">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">LUI UN COUP</metadata>
+        </polygon>
+        <polygon points="1355,3876 1454,3876 1454,3896 1355,3896 1355,3876" id="MCCAY_LITTLENEMO_168_line_141">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">SUR LE</metadata>
+        </polygon>
+        <polygon points="1406,3893 1469,3893 1469,3923 1406,3923 1406,3893" id="MCCAY_LITTLENEMO_168_line_142">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_27" textType="speech">NEZ!</metadata>
+        </polygon>
+        <polygon points="63,4092 128,4092 128,4125 63,4125 63,4092" id="MCCAY_LITTLENEMO_168_line_143">
+            <metadata method="" typography="" textType="note">168</metadata>
+        </polygon>
+        <polygon points="1637,3071 1839,3071 1839,3105 1637,3105 1637,3071" id="MCCAY_LITTLENEMO_168_line_144">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">ET ALORS C'EST</metadata>
+        </polygon>
+        <polygon points="1639,3106 1864,3106 1864,3138 1639,3138 1639,3106" id="MCCAY_LITTLENEMO_168_line_145">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">TOI NEMO? QU'-</metadata>
+        </polygon>
+        <polygon points="1639,3145 1877,3145 1877,3172 1639,3172 1639,3145" id="MCCAY_LITTLENEMO_168_line_146">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">EST-CE QUE TU</metadata>
+        </polygon>
+        <polygon points="1645,3176 1827,3176 1827,3210 1645,3210 1645,3176" id="MCCAY_LITTLENEMO_168_line_147">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">FAIS A TON</metadata>
+        </polygon>
+        <polygon points="1645,3213 1858,3213 1858,3239 1645,3239 1645,3213" id="MCCAY_LITTLENEMO_168_line_148">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">VIEUX GRAND-</metadata>
+        </polygon>
+        <polygon points="1638,3244 1825,3244 1825,3280 1638,3280 1638,3244" id="MCCAY_LITTLENEMO_168_line_149">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_28" textType="speech">PÈRE HEIN ?</metadata>
+        </polygon>
+        <polygon points="1584,3338 1740,3338 1740,3368 1584,3368 1584,3338" id="MCCAY_LITTLENEMO_168_line_150">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_29" textType="speech">OH! GRAND</metadata>
+        </polygon>
+        <polygon points="1586,3376 1776,3376 1776,3408 1586,3408 1586,3376" id="MCCAY_LITTLENEMO_168_line_151">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_29" textType="speech">PERE! C'EST TOI</metadata>
+        </polygon>
+        <polygon points="1591,3414 1782,3414 1782,3441 1591,3441 1591,3414" id="MCCAY_LITTLENEMO_168_line_152">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_29" textType="speech">JE NE VOULAIS</metadata>
+        </polygon>
+        <polygon points="1582,3452 1669,3452 1669,3481 1582,3481 1582,3452" id="MCCAY_LITTLENEMO_168_line_153">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_29" textType="speech">PAS ...</metadata>
+        </polygon>
+        <polygon points="2102,3739 2273,3739 2273,3761 2102,3761 2102,3739" id="MCCAY_LITTLENEMO_168_line_154">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_30" textType="speech">DIS-DONC...</metadata>
+        </polygon>
+        <polygon points="2092,3769 2281,3769 2281,3795 2092,3795 2092,3769" id="MCCAY_LITTLENEMO_168_line_155">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_30" textType="speech">ET NOUS PA-</metadata>
+        </polygon>
+        <polygon points="2095,3799 2275,3799 2275,3825 2095,3825 2095,3799" id="MCCAY_LITTLENEMO_168_line_156">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_30" textType="speech">TINIONS SUR</metadata>
+        </polygon>
+        <polygon points="2097,3831 2261,3831 2261,3860 2097,3860 2097,3831" id="MCCAY_LITTLENEMO_168_line_157">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_30" textType="speech">SON CRANE!</metadata>
+        </polygon>
+        <polygon points="2536,3307 2702,3307 2702,3339 2536,3339 2536,3307" id="MCCAY_LITTLENEMO_168_line_158">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">N'AVAIS-TU</metadata>
+        </polygon>
+        <polygon points="2535,3350 2747,3350 2747,3373 2535,3373 2535,3350" id="MCCAY_LITTLENEMO_168_line_159">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">PAS DIT QUE TU</metadata>
+        </polygon>
+        <polygon points="2539,3378 2723,3378 2723,3405 2539,3405 2539,3378" id="MCCAY_LITTLENEMO_168_line_160">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">SERAIS LEVE</metadata>
+        </polygon>
+        <polygon points="2541,3408 2742,3408 2742,3437 2541,3437 2541,3408" id="MCCAY_LITTLENEMO_168_line_161">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">AVANT GRAND-</metadata>
+        </polygon>
+        <polygon points="2542,3437 2677,3437 2677,3470 2542,3470 2542,3437" id="MCCAY_LITTLENEMO_168_line_162">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">PÈRE CE</metadata>
+        </polygon>
+        <polygon points="2557,3473 2666,3473 2666,3500 2557,3500 2557,3473" id="MCCAY_LITTLENEMO_168_line_163">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">MATIN</metadata>
+        </polygon>
+        <polygon points="2589,3499 2693,3499 2693,3533 2589,3533 2589,3499" id="MCCAY_LITTLENEMO_168_line_164">
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_168_balloon_31" textType="speech">NEMO!</metadata>
+        </polygon>
+        <polygon points="2891,3719 2992,3719 2992,3761 2891,3761 2891,3719" id="MCCAY_LITTLENEMO_168_line_165">
+            <metadata method="" typography="" textType="note">WINSOR</metadata>
+        </polygon>
+        <polygon points="2892,3783 2992,3783 2992,3866 2892,3866 2892,3783" id="MCCAY_LITTLENEMO_168_line_166">
+            <metadata method="" typography="" textType="speech">McCAY</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="222,404 223,404 212,811 211,811 222,404" idCharacter="MCCAY_LITTLENEMO_168_character_0" idBalloon="MCCAY_LITTLENEMO_168_balloon_0"/>
+    <polygon points="618,415 619,415 602,782 601,782 618,415" idCharacter="MCCAY_LITTLENEMO_168_character_1" idBalloon="MCCAY_LITTLENEMO_168_balloon_1"/>
+    <polygon points="979,398 980,398 977,678 976,678 979,398" idCharacter="MCCAY_LITTLENEMO_168_character_2" idBalloon="MCCAY_LITTLENEMO_168_balloon_2"/>
+    <polygon points="1378,535 1379,535 1250,851 1249,851 1378,535" idCharacter="MCCAY_LITTLENEMO_168_character_3" idBalloon="MCCAY_LITTLENEMO_168_balloon_3"/>
+    <polygon points="1731,482 1732,482 1870,879 1869,879 1731,482" idCharacter="MCCAY_LITTLENEMO_168_character_4" idBalloon="MCCAY_LITTLENEMO_168_balloon_4"/>
+    <polygon points="2031,518 2032,518 2020,916 2019,916 2031,518" idCharacter="MCCAY_LITTLENEMO_168_character_5" idBalloon="MCCAY_LITTLENEMO_168_balloon_5"/>
+    <polygon points="2449,412 2450,412 2510,821 2509,821 2449,412" idCharacter="MCCAY_LITTLENEMO_168_character_6" idBalloon="MCCAY_LITTLENEMO_168_balloon_6"/>
+    <polygon points="2687,428 2688,428 2667,818 2666,818 2687,428" idCharacter="MCCAY_LITTLENEMO_168_character_7" idBalloon="MCCAY_LITTLENEMO_168_balloon_7"/>
+    <polygon points="2755,1194 2756,1194 2767,1536 2766,1536 2755,1194" idCharacter="MCCAY_LITTLENEMO_168_character_15" idBalloon="MCCAY_LITTLENEMO_168_balloon_15"/>
+    <polygon points="2444,1194 2445,1194 2514,1524 2513,1524 2444,1194" idCharacter="MCCAY_LITTLENEMO_168_character_14" idBalloon="MCCAY_LITTLENEMO_168_balloon_14"/>
+    <polygon points="2099,1402 2100,1402 2039,1775 2038,1775 2099,1402" idCharacter="MCCAY_LITTLENEMO_168_character_13" idBalloon="MCCAY_LITTLENEMO_168_balloon_13"/>
+    <polygon points="1711,1285 1712,1285 1647,1643 1646,1643 1711,1285" idCharacter="MCCAY_LITTLENEMO_168_character_12" idBalloon="MCCAY_LITTLENEMO_168_balloon_12"/>
+    <polygon points="1309,1262 1310,1262 1246,1666 1245,1666 1309,1262" idCharacter="MCCAY_LITTLENEMO_168_character_11" idBalloon="MCCAY_LITTLENEMO_168_balloon_11"/>
+    <polygon points="989,1241 990,1241 1004,1666 1003,1666 989,1241" idCharacter="MCCAY_LITTLENEMO_168_character_10" idBalloon="MCCAY_LITTLENEMO_168_balloon_10"/>
+    <polygon points="582,1245 583,1245 554,1669 553,1669 582,1245" idCharacter="MCCAY_LITTLENEMO_168_character_9" idBalloon="MCCAY_LITTLENEMO_168_balloon_9"/>
+    <polygon points="235,1264 236,1264 267,1657 266,1657 235,1264" idCharacter="MCCAY_LITTLENEMO_168_character_8" idBalloon="MCCAY_LITTLENEMO_168_balloon_8"/>
+    <polygon points="226,2349 227,2349 570,2564 569,2564 226,2349" idCharacter="MCCAY_LITTLENEMO_168_character_17" idBalloon="MCCAY_LITTLENEMO_168_balloon_16"/>
+    <polygon points="394,2154 395,2154 606,2348 605,2348 394,2154" idCharacter="MCCAY_LITTLENEMO_168_character_16" idBalloon="MCCAY_LITTLENEMO_168_balloon_17"/>
+    <polygon points="932,2246 933,2246 1013,2653 1012,2653 932,2246" idCharacter="MCCAY_LITTLENEMO_168_character_18" idBalloon="MCCAY_LITTLENEMO_168_balloon_18"/>
+    <polygon points="1162,2180 1163,2180 1189,2468 1188,2468 1162,2180" idCharacter="MCCAY_LITTLENEMO_168_character_19" idBalloon="MCCAY_LITTLENEMO_168_balloon_19"/>
+    <polygon points="1655,2214 1656,2214 1765,2549 1764,2549 1655,2214" idCharacter="MCCAY_LITTLENEMO_168_character_20" idBalloon="MCCAY_LITTLENEMO_168_balloon_20"/>
+    <polygon points="2087,2145 2088,2145 1999,2288 1998,2288 2087,2145" idCharacter="MCCAY_LITTLENEMO_168_character_21" idBalloon="MCCAY_LITTLENEMO_168_balloon_21"/>
+    <polygon points="2676,2448 2677,2448 2553,2708 2552,2708 2676,2448" idCharacter="MCCAY_LITTLENEMO_168_character_23" idBalloon="MCCAY_LITTLENEMO_168_balloon_23"/>
+    <polygon points="2353,2169 2354,2169 2529,2303 2528,2303 2353,2169" idCharacter="MCCAY_LITTLENEMO_168_character_22" idBalloon="MCCAY_LITTLENEMO_168_balloon_22"/>
+    <polygon points="2640,3416 2641,3416 2896,3484 2895,3484 2640,3416" idCharacter="MCCAY_LITTLENEMO_168_character_32" idBalloon="MCCAY_LITTLENEMO_168_balloon_31"/>
+    <polygon points="2164,3802 2165,3802 1983,3738 1982,3738 2164,3802" idCharacter="MCCAY_LITTLENEMO_168_character_29" idBalloon="MCCAY_LITTLENEMO_168_balloon_30"/>
+    <polygon points="1675,3430 1676,3430 1823,3698 1822,3698 1675,3430" idCharacter="MCCAY_LITTLENEMO_168_character_30" idBalloon="MCCAY_LITTLENEMO_168_balloon_29"/>
+    <polygon points="1768,3181 1769,3181 2216,3298 2215,3298 1768,3181" idCharacter="MCCAY_LITTLENEMO_168_character_28" idBalloon="MCCAY_LITTLENEMO_168_balloon_28"/>
+    <polygon points="1428,3831 1429,3831 1266,3635 1265,3635 1428,3831" idCharacter="MCCAY_LITTLENEMO_168_character_27" idBalloon="MCCAY_LITTLENEMO_168_balloon_27"/>
+    <polygon points="899,3211 900,3211 852,3545 851,3545 899,3211" idCharacter="MCCAY_LITTLENEMO_168_character_26" idBalloon="MCCAY_LITTLENEMO_168_balloon_26"/>
+    <polygon points="689,3289 690,3289 598,3695 597,3695 689,3289" idCharacter="MCCAY_LITTLENEMO_168_character_25" idBalloon="MCCAY_LITTLENEMO_168_balloon_25"/>
+    <polygon points="161,3370 162,3370 343,3560 342,3560 161,3370" idCharacter="MCCAY_LITTLENEMO_168_character_24" idBalloon="MCCAY_LITTLENEMO_168_balloon_24"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:32:22 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

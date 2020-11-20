@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="2480mm" zoomAndPan="magnify" contentStyleType="text/css" height="1754mm" viewBox="0 0 4961 3508" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>TRONDHEIM_LES_TROIS_CHEMINS_003</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="4961" xlink:href="../Pages/TRONDHEIM_LES_TROIS_CHEMINS_003.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3508" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Les Trois Chemins" editorName="Delcourt" doublePage="true" website="" albumTitle="Les Trois Chemins" drawerName="Sergio Garcia" language="french" resolution="600" ISBN="978-2211206662" readingDirection="leftToRight" writerName="Lewis Trondheim" releaseDate="2000" pageNumber="3"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="0,186 4949,186 4949,3421 0,3421 0,186" id="TRONDHEIM_LES_TROIS_CHEMINS_003_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="16,356 447,359 423,534 275,518 241,526 246,556 233,529 181,529 21,519 16,356" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_0">
+            <metadata borderStyle="other" tailTip="246,556" boundingBox="" tailDirection="S" rank="1"/>
+        </polygon>
+        <polygon points="502,533 465,525 479,421 579,430 616,520 574,530 544,537 517,578 532,540 502,533" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_1">
+            <metadata borderStyle="other" tailTip="517,578" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+        <polygon points="836,628 674,619 680,430 960,432 991,593 894,618 856,628 870,667 844,628 836,628" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2">
+            <metadata borderStyle="smooth" tailTip="870,667" boundingBox="" tailDirection="SE" rank="3"/>
+        </polygon>
+        <polygon points="1027,521 1153,527 1160,603 1033,599 1027,521" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_3">
+            <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
+        </polygon>
+        <polygon points="1586,625 1462,620 1463,417 1687,417 1683,615 1644,617 1622,623 1627,663 1615,626 1586,625" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4">
+            <metadata borderStyle="other" tailTip="1627,663" boundingBox="" tailDirection="S" rank="5"/>
+        </polygon>
+        <polygon points="1782,386 1995,400 2036,563 1970,585 1947,592 1945,614 1940,595 1898,595 1762,587 1782,386" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5">
+            <metadata borderStyle="other" tailTip="1945,614" boundingBox="" tailDirection="S" rank="6"/>
+        </polygon>
+        <polygon points="2152,265 2307,270 2387,391 2349,516 2291,514 2269,515 2255,556 2257,516 2219,523 2112,513 2096,344 2152,265" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6">
+            <metadata borderStyle="other" tailTip="2255,556" boundingBox="" tailDirection="S" rank="7"/>
+        </polygon>
+        <polygon points="2468,339 2711,344 2711,527 2654,560 2627,573 2622,602 2623,576 2586,579 2469,574 2468,339" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7">
+            <metadata borderStyle="other" tailTip="2622,602" boundingBox="" tailDirection="S" rank="8"/>
+        </polygon>
+        <polygon points="2770,384 3018,401 3018,577 2872,595 2850,595 2844,619 2841,596 2804,594 2739,548 2770,384" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8">
+            <metadata borderStyle="other" tailTip="2844,619" boundingBox="" tailDirection="S" rank="9"/>
+        </polygon>
+        <polygon points="3035,601 3139,604 3136,664 3091,670 3090,689 3083,672 3028,672 3035,601" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_9">
+            <metadata borderStyle="other" tailTip="3090,689" boundingBox="" tailDirection="S" rank="10"/>
+        </polygon>
+        <polygon points="3254,409 3634,436 3679,527 3648,638 3516,663 3467,665 3441,667 3405,700 3430,667 3395,663 3265,629 3217,537 3254,409" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10">
+            <metadata borderStyle="other" tailTip="3405,700" boundingBox="" tailDirection="SW" rank="11"/>
+        </polygon>
+        <polygon points="3746,858 3838,857 3993,864 3983,939 3910,968 3827,974 3813,976 3796,1004 3804,977 3725,946 3746,858" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_11">
+            <metadata borderStyle="other" tailTip="3796,1004" boundingBox="" tailDirection="SW" rank="12"/>
+        </polygon>
+        <polygon points="4015,953 4341,965 4325,1100 4116,1094 4080,1103 4033,1146 4068,1104 4001,1090 4015,953" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_12">
+            <metadata borderStyle="other" tailTip="4033,1146" boundingBox="" tailDirection="SW" rank="13"/>
+        </polygon>
+        <polygon points="4459,871 4836,877 4885,956 4875,1057 4788,1077 4765,1087 4751,1105 4771,1104 4736,1164 4753,1116 4735,1118 4750,1087 4724,1090 4442,1079 4396,989 4459,871" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13">
+            <metadata borderStyle="other" tailTip="4736,1164" boundingBox="" tailDirection="SW" rank="14"/>
+        </polygon>
+        <polygon points="0,1104 322,1101 326,1228 205,1263 182,1276 169,1322 168,1280 135,1281 0,1251 0,1104" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_14">
+            <metadata borderStyle="other" tailTip="169,1322" boundingBox="" tailDirection="S" rank="15"/>
+        </polygon>
+        <polygon points="520,1166 780,1182 791,1276 662,1296 631,1302 610,1346 619,1302 587,1297 495,1254 520,1166" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_15">
+            <metadata borderStyle="other" tailTip="610,1346" boundingBox="" tailDirection="S" rank="16"/>
+        </polygon>
+        <polygon points="810,1201 1216,1213 1151,1394 1053,1409 1038,1417 1032,1456 1026,1420 987,1418 841,1371 810,1201" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16">
+            <metadata borderStyle="other" tailTip="1032,1456" boundingBox="" tailDirection="S" rank="17"/>
+        </polygon>
+        <polygon points="1592,1855 2005,1869 1922,2060 1699,2060 1677,2032 1658,2021 1636,2043 1649,2011 1611,1955 1592,1855" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17">
+            <metadata borderStyle="other" tailTip="1636,2043" boundingBox="" tailDirection="SW" rank="18"/>
+        </polygon>
+        <polygon points="1859,2252 2066,2267 2053,2431 1969,2429 1970,2444 1988,2436 1993,2463 1981,2449 1957,2462 1961,2433 1929,2429 1869,2396 1859,2252" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_18">
+            <metadata borderStyle="other" tailTip="1993,2463" boundingBox="" tailDirection="S" rank="19"/>
+        </polygon>
+        <polygon points="2505,2495 2761,2501 2760,2572 2761,2592 2797,2616 2761,2614 2755,2635 2720,2728 2483,2709 2505,2495" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19">
+            <metadata borderStyle="other" tailTip="2797,2616" boundingBox="" tailDirection="E" rank="20"/>
+        </polygon>
+        <polygon points="2648,1844 2847,1836 2857,1864 2864,1880 2890,1872 2866,1889 2866,1915 2845,1973 2731,1998 2641,1996 2648,1844" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_20">
+            <metadata borderStyle="other" tailTip="2890,1872" boundingBox="" tailDirection="NE" rank="21"/>
+        </polygon>
+        <polygon points="3537,1783 3830,1791 3771,1939 3685,1943 3685,1972 3678,1943 3575,1935 3537,1783" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_21">
+            <metadata borderStyle="other" tailTip="3685,1972" boundingBox="" tailDirection="S" rank="22"/>
+        </polygon>
+        <polygon points="4196,1891 4594,1912 4568,2042 4330,2058 4292,2066 4243,2111 4274,2064 4238,2063 4196,1994 4196,1891" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_22">
+            <metadata borderStyle="other" tailTip="4243,2111" boundingBox="" tailDirection="SW" rank="23"/>
+        </polygon>
+        <polygon points="4534,2084 4815,2097 4793,2320 4676,2336 4639,2337 4603,2372 4625,2335 4587,2324 4519,2213 4534,2084" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23">
+            <metadata borderStyle="other" tailTip="4603,2372" boundingBox="" tailDirection="SW" rank="24"/>
+        </polygon>
+        <polygon points="19,2090 253,2097 304,2284 206,2307 193,2366 187,2309 0,2293 19,2090" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24">
+            <metadata borderStyle="other" tailTip="193,2366" boundingBox="" tailDirection="S" rank="25"/>
+        </polygon>
+        <polygon points="386,1993 512,1987 612,2106 584,2164 590,2192 568,2171 526,2184 375,2180 321,2095 386,1993" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25">
+            <metadata borderStyle="other" tailTip="590,2192" boundingBox="" tailDirection="SE" rank="26"/>
+        </polygon>
+        <polygon points="491,1835 751,1838 755,1880 787,1892 753,1894 740,1949 499,1936 491,1835" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_26">
+            <metadata borderStyle="other" tailTip="787,1892" boundingBox="" tailDirection="E" rank="27"/>
+        </polygon>
+        <polygon points="1307,1160 1679,1160 1656,1281 1625,1279 1618,1299 1635,1293 1634,1332 1613,1324 1622,1309 1598,1312 1615,1275 1580,1282 1286,1260 1307,1160" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_27">
+            <metadata borderStyle="other" tailTip="1634,1332" boundingBox="" tailDirection="S" rank="28"/>
+        </polygon>
+        <polygon points="1818,1103 2291,1123 2274,1312 2193,1314 2180,1362 2179,1315 1791,1307 1818,1103" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28">
+            <metadata borderStyle="other" tailTip="2180,1362" boundingBox="" tailDirection="S" rank="29"/>
+        </polygon>
+        <polygon points="2512,1034 2707,1054 2762,1109 2732,1250 2704,1254 2710,1297 2697,1257 2668,1256 2440,1225 2470,1086 2512,1034" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29">
+            <metadata borderStyle="other" tailTip="2710,1297" boundingBox="" tailDirection="S" rank="30"/>
+        </polygon>
+        <polygon points="2755,1259 3124,1247 3187,1281 3187,1335 3177,1352 3193,1377 3176,1366 3162,1381 3025,1425 2821,1427 2759,1411 2755,1259" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30">
+            <metadata borderStyle="other" tailTip="3193,1377" boundingBox="" tailDirection="SE" rank="31"/>
+        </polygon>
+        <polygon points="3560,1535 3783,1531 3782,1631 3540,1631 3526,1587 3526,1569 3509,1551 3529,1558 3560,1535" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_31">
+            <metadata borderStyle="other" tailTip="3509,1551" boundingBox="" tailDirection="NW" rank="32"/>
+        </polygon>
+        <polygon points="4188,165 4642,181 4666,306 4489,323 4456,356 4465,321 4151,291 4188,165" id="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_32">
+            <metadata borderStyle="other" tailTip="4456,356" boundingBox="" tailDirection="SW" rank="33"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="154,593 389,593 389,997 154,997 154,593" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="394,597 593,597 593,1012 394,1012 394,597" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="779,700 1003,700 1003,1108 779,1108 779,700" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="993,690 1206,690 1206,1068 993,1068 993,690" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1381,683 1584,683 1584,1107 1381,1107 1381,683" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1581,700 1773,700 1773,1083 1581,1083 1581,700" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1898,671 2116,671 2116,1007 1898,1007 1898,671" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2143,588 2371,588 2371,1010 2143,1010 2143,588" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2470,663 2718,663 2718,1004 2470,1004 2470,663" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2727,627 2938,627 2938,985 2727,985 2727,627" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2958,784 3183,784 3183,1134 2958,1134 2958,784" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3210,742 3426,742 3426,1152 3210,1152 3210,742" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4309,339 4452,339 4452,664 4309,664 4309,339" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3556,1069 3775,1069 3775,1296 3556,1296 3556,1069" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3805,1009 3979,1009 3979,1421 3805,1421 3805,1009" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4140,1221 4369,1221 4369,1520 4140,1520 4140,1221" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4406,1299 4671,1299 4671,1714 4406,1714 4406,1299" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="24,1375 264,1375 264,1760 24,1760 24,1375" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="436,1397 659,1397 659,1768 436,1768 436,1397" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="964,1547 1174,1547 1174,1760 964,1760 964,1547" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="850,1784 976,1784 976,2094 850,2094 850,1784" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1500,1441 1670,1441 1670,1736 1500,1736 1500,1441" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1999,1478 2143,1478 2143,1775 1999,1775 1999,1478" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2641,1319 2807,1319 2807,1659 2641,1659 2641,1319" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3201,1242 3372,1242 3372,1593 3201,1593 3201,1242" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_24">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2888,1726 3057,1726 3057,2019 2888,2019 2888,1726" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_25">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4387,2390 4556,2390 4556,2696 4387,2696 4387,2390" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_26">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="4016,2138 4245,2138 4245,2464 4016,2464 4016,2138" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_27">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="3570,1994 3764,1994 3764,2320 3570,2320 3570,1994" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_28">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2924,2219 3147,2219 3147,2543 2924,2543 2924,2219" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_29">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2749,2613 2947,2613 2947,2942 2749,2942 2749,2613" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_30">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2508,2971 2726,2971 2726,3248 2508,3248 2508,2971" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_31">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2150,2811 2359,2811 2359,3092 2150,3092 2150,2811" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_32">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1936,2462 2091,2462 2091,2683 1874,2688 1936,2462" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_33">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1479,2055 1657,2055 1657,2386 1479,2386 1479,2055" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_34">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="577,2206 815,2206 815,2487 577,2487 577,2206" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_35">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="142,2352 343,2352 343,2687 142,2687 142,2352" id="TRONDHEIM_LES_TROIS_CHEMINS_003_character_36">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="19,374 413,374 413,417 19,417 19,374" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_0">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_0" textType="speech">Monsieur, ne voyez-</metadata>
+        </polygon>
+        <polygon points="19,415 414,415 414,464 19,464 19,415" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_1">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_0" textType="speech">vous rien dans la vie qui</metadata>
+        </polygon>
+        <polygon points="19,457 366,457 366,501 19,501 19,457" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_2">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_0" textType="speech">vous soit agréable ?</metadata>
+        </polygon>
+        <polygon points="514,427 572,427 572,464 514,464 514,427" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_3">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_1" textType="speech">Si...</metadata>
+        </polygon>
+        <polygon points="484,473 603,473 603,513 484,513 484,473" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_4">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_1" textType="speech">l'argent.</metadata>
+        </polygon>
+        <polygon points="707,438 961,438 961,483 707,483 707,438" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_5">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2" textType="speech">Euh...je voulais</metadata>
+        </polygon>
+        <polygon points="684,482 986,482 986,529 684,529 684,482" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_6">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2" textType="speech">parler des fleurs,</metadata>
+        </polygon>
+        <polygon points="697,523 970,523 970,563 697,563 697,523" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_7">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2" textType="speech">des oiseaux, des</metadata>
+        </polygon>
+        <polygon points="751,570 918,570 918,615 751,615 751,570" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_8">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2" textType="speech">papillons...</metadata>
+        </polygon>
+        <polygon points="1048,539 1155,539 1155,578 1048,578 1048,539" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_9">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_3" textType="speech">Peuh...</metadata>
+        </polygon>
+        <polygon points="1485,435 1675,435 1675,479 1485,479 1485,435" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_10">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4" textType="speech">C'est pour</metadata>
+        </polygon>
+        <polygon points="1513,476 1652,476 1652,519 1513,519 1513,476" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_11">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4" textType="speech">ceux qui</metadata>
+        </polygon>
+        <polygon points="1502,517 1663,517 1663,565 1502,565 1502,517" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_12">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4" textType="speech">n'ont pas</metadata>
+        </polygon>
+        <polygon points="1503,558 1668,558 1668,601 1503,601 1503,558" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_13">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4" textType="speech">d'argent.</metadata>
+        </polygon>
+        <polygon points="1807,401 1986,401 1986,438 1807,438 1807,401" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_14">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5" textType="speech">Mais...avec</metadata>
+        </polygon>
+        <polygon points="1774,446 2021,446 2021,487 1774,487 1774,446" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_15">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5" textType="speech">votre argent</metadata>
+        </polygon>
+        <polygon points="1770,487 2024,487 2024,534 1770,534 1770,487" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_16">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5" textType="speech">qu'avez-vous</metadata>
+        </polygon>
+        <polygon points="1805,531 1998,531 1998,564 1805,564 1805,531" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_17">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5" textType="speech">vraiment ?</metadata>
+        </polygon>
+        <polygon points="2173,284 2300,284 2300,337 2173,337 2173,284" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_18">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6" textType="speech">Je peux</metadata>
+        </polygon>
+        <polygon points="2116,329 2358,329 2358,368 2116,368 2116,329" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_19">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6" textType="speech">m'acheter les</metadata>
+        </polygon>
+        <polygon points="2153,374 2323,374 2323,410 2153,410 2153,374" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_20">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6" textType="speech">fleurs, les</metadata>
+        </polygon>
+        <polygon points="2121,415 2358,415 2358,452 2121,452 2121,415" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_21">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6" textType="speech">oiseaux et les</metadata>
+        </polygon>
+        <polygon points="2165,459 2318,459 2318,507 2165,507 2165,459" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_22">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6" textType="speech">papillons.</metadata>
+        </polygon>
+        <polygon points="2485,354 2702,354 2702,399 2485,399 2485,354" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_23">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7" textType="speech">Tout ce qui</metadata>
+        </polygon>
+        <polygon points="2487,394 2702,394 2702,433 2487,433 2487,394" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_24">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7" textType="speech">est dans la</metadata>
+        </polygon>
+        <polygon points="2489,434 2701,434 2701,482 2489,482 2489,434" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_25">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7" textType="speech">nature n'a pas</metadata>
+        </polygon>
+        <polygon points="2487,477 2702,477 2702,517 2487,517 2487,477" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_26">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7" textType="speech">besoin d'être</metadata>
+        </polygon>
+        <polygon points="2487,519 2607,519 2607,560 2487,560 2487,519" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_27">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7" textType="speech">acheté.</metadata>
+        </polygon>
+        <polygon points="2781,399 2999,399 2999,450 2781,450 2781,399" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_28">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8" textType="speech">Et pourquoi</metadata>
+        </polygon>
+        <polygon points="2776,444 3003,444 3003,486 2776,492 2776,444" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_29">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8" textType="speech">pas ? Ainsi, je</metadata>
+        </polygon>
+        <polygon points="2766,486 3009,486 3009,521 2766,519 2766,486" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_30">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8" textType="speech">serai le seul à</metadata>
+        </polygon>
+        <polygon points="2775,527 3005,527 3005,574 2775,574 2775,527" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_31">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8" textType="speech">les posséder.</metadata>
+        </polygon>
+        <polygon points="3276,432 3625,432 3625,484 3276,484 3276,432" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_32">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10" textType="speech">D'ailleurs, je suis en</metadata>
+        </polygon>
+        <polygon points="3252,478 3648,478 3648,536 3252,536 3252,478" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_33">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10" textType="speech">train de négocier pour</metadata>
+        </polygon>
+        <polygon points="3248,514 3635,514 3635,569 3248,569 3248,514" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_34">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10" textType="speech">acheter la Lune et elle</metadata>
+        </polygon>
+        <polygon points="3250,558 3643,558 3643,613 3250,613 3250,558" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_35">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10" textType="speech">n'appartiendra bientôt</metadata>
+        </polygon>
+        <polygon points="3362,607 3520,607 3520,654 3362,654 3362,607" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_36">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10" textType="speech">qu'à moi.</metadata>
+        </polygon>
+        <polygon points="4210,190 4623,190 4623,238 4210,238 4210,190" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_37">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_32" textType="speech">Je suis de nouveau seul.</metadata>
+        </polygon>
+        <polygon points="4197,236 4645,236 4645,281 4197,281 4197,236" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_38">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_32" textType="speech">Est-ce que je préfère ça ?</metadata>
+        </polygon>
+        <polygon points="14,1122 320,1122 320,1165 15,1165 14,1122" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_39">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_14" textType="speech">iens ? Un chevalier</metadata>
+        </polygon>
+        <polygon points="1,1166 326,1166 326,1204 1,1204 1,1166" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_40">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_14" textType="speech">n armure dans une</metadata>
+        </polygon>
+        <polygon points="89,1216 216,1216 216,1256 89,1256 89,1216" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_41">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_14" textType="speech">barque.</metadata>
+        </polygon>
+        <polygon points="520,1176 777,1176 777,1231 520,1231 520,1176" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_42">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_15" textType="speech">Il pourrait sans</metadata>
+        </polygon>
+        <polygon points="520,1228 777,1228 777,1264 520,1264 520,1228" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_43">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_15" textType="speech">doute m'aider.</metadata>
+        </polygon>
+        <polygon points="824,1225 1200,1225 1200,1276 824,1276 824,1225" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_44">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16" textType="speech">Ohé, preux chevalier !</metadata>
+        </polygon>
+        <polygon points="854,1270 1167,1270 1167,1305 854,1305 854,1270" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_45">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16" textType="speech">Sauriez-vous me</metadata>
+        </polygon>
+        <polygon points="880,1314 1141,1314 1141,1348 880,1348 880,1314" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_46">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16" textType="speech">délivrer de ma</metadata>
+        </polygon>
+        <polygon points="900,1355 1134,1355 1134,1395 900,1395 900,1355" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_47">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16" textType="speech">malédiction ?</metadata>
+        </polygon>
+        <polygon points="1325,1174 1656,1174 1656,1222 1325,1222 1325,1174" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_48">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_27" textType="speech">Que se passe-t-il ?</metadata>
+        </polygon>
+        <polygon points="1320,1216 1648,1216 1648,1262 1320,1262 1320,1216" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_49">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_27" textType="speech">On me jette du pain !</metadata>
+        </polygon>
+        <polygon points="1821,1126 2275,1126 2275,1165 1821,1165 1821,1126" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_50">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28" textType="speech">Voici un nouveau malheur</metadata>
+        </polygon>
+        <polygon points="1822,1166 2275,1166 2275,1220 1822,1220 1822,1166" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_51">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28" textType="speech">parmi mes malheurs. Je ne</metadata>
+        </polygon>
+        <polygon points="1822,1215 2275,1215 2275,1262 1822,1262 1822,1215" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_52">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28" textType="speech">peux manger ce pain et il va</metadata>
+        </polygon>
+        <polygon points="1823,1256 2249,1259 2249,1291 1823,1292 1823,1256" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_53">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28" textType="speech">faire couler mon bateau.</metadata>
+        </polygon>
+        <polygon points="2550,1050 2670,1050 2670,1089 2550,1089 2550,1050" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_54">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">Revoilà</metadata>
+        </polygon>
+        <polygon points="2475,1075 2738,1075 2738,1123 2475,1123 2475,1075" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_55">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">l'humaine... Selon</metadata>
+        </polygon>
+        <polygon points="2497,1108 2715,1108 2715,1154 2497,1154 2497,1108" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_56">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">toute logique,</metadata>
+        </polygon>
+        <polygon points="2493,1141 2716,1141 2716,1178 2493,1178 2493,1141" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_57">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">cette fois, elle</metadata>
+        </polygon>
+        <polygon points="2475,1172 2732,1172 2732,1207 2475,1207 2475,1172" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_58">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">veut m'achever</metadata>
+        </polygon>
+        <polygon points="2478,1203 2724,1203 2724,1238 2478,1238 2478,1203" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_59">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29" textType="speech">avec son bâton.</metadata>
+        </polygon>
+        <polygon points="2774,1269 3138,1269 3138,1319 2774,1319 2774,1269" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_60">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30" textType="speech">Bien esquivé. Voici</metadata>
+        </polygon>
+        <polygon points="2777,1308 3139,1304 3139,1340 2777,1346 2777,1308" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_61">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30" textType="speech">d'autres humains. Eux</metadata>
+        </polygon>
+        <polygon points="2777,1339 3138,1339 3138,1395 2777,1395 2777,1339" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_62">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30" textType="speech">pourront sans doute</metadata>
+        </polygon>
+        <polygon points="2783,1379 2916,1379 2916,1415 2783,1415 2783,1379" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_63">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30" textType="speech">m'aider</metadata>
+        </polygon>
+        <polygon points="3561,1546 3771,1546 3771,1582 3561,1582 3561,1546" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_64">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_31" textType="speech">Aidez-moi !</metadata>
+        </polygon>
+        <polygon points="3560,1590 3773,1586 3773,1626 3560,1626 3560,1590" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_65">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_31" textType="speech">Aidez-moi !</metadata>
+        </polygon>
+        <polygon points="4218,1909 4575,1909 4575,1960 4218,1960 4218,1909" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_66">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_22" textType="speech">J'y retrouverai la</metadata>
+        </polygon>
+        <polygon points="4219,1955 4575,1955 4575,1994 4219,1994 4219,1955" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_67">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_22" textType="speech">rivière, le chevalier et</metadata>
+        </polygon>
+        <polygon points="4220,2001 4519,2001 4519,2049 4220,2049 4220,2001" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_68">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_22" textType="speech">mon nuage à pain.</metadata>
+        </polygon>
+        <polygon points="4551,2103 4786,2103 4786,2150 4551,2150 4551,2103" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_69">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23" textType="speech">Et peut-être</metadata>
+        </polygon>
+        <polygon points="4529,2144 4807,2144 4807,2192 4529,2192 4529,2144" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_70">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23" textType="speech">que le chevalier</metadata>
+        </polygon>
+        <polygon points="4579,2189 4756,2189 4756,2224 4579,2224 4579,2189" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_71">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23" textType="speech">voudra se</metadata>
+        </polygon>
+        <polygon points="4559,2234 4776,2234 4776,2267 4559,2267 4559,2234" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_72">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23" textType="speech">marier avec</metadata>
+        </polygon>
+        <polygon points="4631,2276 4705,2276 4705,2308 4631,2308 4631,2276" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_73">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23" textType="speech">moi.</metadata>
+        </polygon>
+        <polygon points="3036,616 3132,616 3132,651 3036,651 3036,616" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_74">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_9" textType="speech">Mais...</metadata>
+        </polygon>
+        <polygon points="3740,860 3982,860 3982,897 3740,897 3740,860" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_75">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_11" textType="speech">Oh, regardez... Ce</metadata>
+        </polygon>
+        <polygon points="3740,893 3983,893 3983,926 3740,926 3740,893" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_76">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_11" textType="speech">drôle de type veut</metadata>
+        </polygon>
+        <polygon points="3741,923 3925,923 3925,960 3741,960 3741,923" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_77">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_11" textType="speech">qu'on l'aide.</metadata>
+        </polygon>
+        <polygon points="4032,967 4308,967 4308,1008 4032,1008 4032,967" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_78">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_12" textType="speech">Gratuitement ?</metadata>
+        </polygon>
+        <polygon points="4065,1010 4275,1010 4275,1058 4065,1058 4065,1010" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_79">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_12" textType="speech">Et puis quoi</metadata>
+        </polygon>
+        <polygon points="4022,1052 4315,1052 4315,1088 4022,1088 4022,1052" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_80">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_12" textType="speech">encore... Venez !</metadata>
+        </polygon>
+        <polygon points="4505,889 4772,889 4772,941 4505,941 4505,889" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_81">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13" textType="speech">Voilà qu'il pleut</metadata>
+        </polygon>
+        <polygon points="4430,936 4851,936 4851,983 4430,983 4430,936" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_82">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13" textType="speech">maintenant. Remplissez</metadata>
+        </polygon>
+        <polygon points="4413,983 4871,978 4871,1012 4413,1025 4413,983" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_83">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13" textType="speech">les gourdes, Robert. C'est</metadata>
+        </polygon>
+        <polygon points="4448,1024 4834,1015 4834,1069 4448,1069 4448,1024" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_84">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13" textType="speech">de l'eau pour pas cher.</metadata>
+        </polygon>
+        <polygon points="3874,1934 4020,1934 4020,2011 3874,2011 3874,1934" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_85">
+            <metadata method="" typography="" textType="illustrative">LA MER</metadata>
+        </polygon>
+        <polygon points="3554,1795 3811,1795 3811,1835 3554,1835 3554,1795" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_86">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_21" textType="speech">Ah... Ce chemin</metadata>
+        </polygon>
+        <polygon points="3607,1842 3770,1842 3770,1878 3607,1878 3607,1842" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_87">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_21" textType="speech">mène à la</metadata>
+        </polygon>
+        <polygon points="3640,1892 3739,1892 3739,1920 3640,1920 3640,1892" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_88">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_21" textType="speech">mer...</metadata>
+        </polygon>
+        <polygon points="2661,1864 2829,1864 2829,1911 2661,1911 2661,1864" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_89">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_20" textType="speech">Attrapez</metadata>
+        </polygon>
+        <polygon points="2697,1907 2792,1907 2792,1942 2697,1942 2697,1907" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_90">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_20" textType="speech">cette</metadata>
+        </polygon>
+        <polygon points="2674,1945 2820,1945 2820,1984 2674,1984 2674,1945" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_91">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_20" textType="speech">branche !</metadata>
+        </polygon>
+        <polygon points="1608,1875 1977,1875 1977,1917 1608,1917 1608,1875" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_92">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17" textType="speech">Sacré bon sang ! Mon</metadata>
+        </polygon>
+        <polygon points="1627,1919 1961,1919 1961,1962 1627,1962 1627,1919" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_93">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17" textType="speech">nuage est parti et il</metadata>
+        </polygon>
+        <polygon points="1680,1962 1911,1962 1911,2009 1680,2009 1680,1962" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_94">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17" textType="speech">donne du pain</metadata>
+        </polygon>
+        <polygon points="1694,2008 1901,2006 1901,2040 1694,2041 1694,2008" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_95">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17" textType="speech">maintenant.</metadata>
+        </polygon>
+        <polygon points="1873,2271 2052,2276 2052,2314 1873,2314 1873,2271" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_96">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_18" textType="speech">Il faut vite</metadata>
+        </polygon>
+        <polygon points="1890,2319 2038,2319 2038,2368 1890,2368 1890,2319" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_97">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_18" textType="speech">que je le</metadata>
+        </polygon>
+        <polygon points="1878,2357 2054,2357 2049,2409 1878,2409 1878,2357" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_98">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_18" textType="speech">rattrape !</metadata>
+        </polygon>
+        <polygon points="2513,2499 2754,2499 2754,2545 2513,2545 2513,2499" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_99">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">Et si je ne me</metadata>
+        </polygon>
+        <polygon points="2517,2543 2748,2543 2748,2583 2517,2583 2517,2543" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_100">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">presse pas, le</metadata>
+        </polygon>
+        <polygon points="2552,2573 2714,2573 2714,2611 2552,2611 2552,2573" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_101">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">chevalier</metadata>
+        </polygon>
+        <polygon points="2552,2610 2714,2610 2714,2652 2552,2652 2552,2610" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_102">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">risque de</metadata>
+        </polygon>
+        <polygon points="2512,2642 2753,2648 2753,2682 2512,2681 2512,2642" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_103">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">dévorer tout</metadata>
+        </polygon>
+        <polygon points="2551,2682 2712,2682 2712,2727 2551,2727 2551,2682" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_104">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19" textType="speech">mon pain.</metadata>
+        </polygon>
+        <polygon points="24,2109 255,2109 255,2148 24,2148 24,2109" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_105">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24" textType="speech">Je ne connais</metadata>
+        </polygon>
+        <polygon points="24,2149 253,2149 253,2200 24,2200 24,2149" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_106">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24" textType="speech">même pas de</metadata>
+        </polygon>
+        <polygon points="28,2194 255,2194 255,2242 28,2242 28,2194" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_107">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24" textType="speech">chanson pour</metadata>
+        </polygon>
+        <polygon points="2,2238 284,2238 284,2283 2,2291 2,2238" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_108">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24" textType="speech">passer le temps.</metadata>
+        </polygon>
+        <polygon points="414,2005 511,2005 511,2040 414,2040 414,2005" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_109">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25" textType="speech">Bien...</metadata>
+        </polygon>
+        <polygon points="384,2047 544,2047 544,2083 384,2083 384,2047" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_110">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25" textType="speech">Voilà une</metadata>
+        </polygon>
+        <polygon points="343,2089 587,2089 587,2122 343,2128 343,2089" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_111">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25" textType="speech">humaine et un</metadata>
+        </polygon>
+        <polygon points="412,2140 523,2140 523,2173 412,2173 412,2140" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_112">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25" textType="speech">nuage.</metadata>
+        </polygon>
+        <polygon points="513,1849 720,1849 720,1887 513,1887 513,1849" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_113">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_26" textType="speech">Aidez-moi !</metadata>
+        </polygon>
+        <polygon points="511,1891 721,1891 721,1930 511,1930 511,1891" id="TRONDHEIM_LES_TROIS_CHEMINS_003_line_114">
+            <metadata method="" typography="" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_26" textType="speech">Aidez-moi !</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="231,456 232,456 272,795 271,795 231,456" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_0" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_0"/>
+    <polygon points="540,499 541,499 494,804 493,804 540,499" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_1" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_1"/>
+    <polygon points="832,548 833,548 892,904 891,904 832,548" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_2" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_2"/>
+    <polygon points="1093,562 1094,562 1100,879 1099,879 1093,562" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_3" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_3"/>
+    <polygon points="1574,540 1575,540 1678,891 1677,891 1574,540" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_5" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_4"/>
+    <polygon points="1899,500 1900,500 2008,839 2007,839 1899,500" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_6" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_5"/>
+    <polygon points="2241,410 2242,410 2258,799 2257,799 2241,410" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_7" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_6"/>
+    <polygon points="2589,470 2590,470 2595,833 2594,833 2589,470" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_8" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_7"/>
+    <polygon points="2878,501 2879,501 2833,806 2832,806 2878,501" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_9" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_8"/>
+    <polygon points="3083,645 3084,645 3071,959 3070,959 3083,645" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_10" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_9"/>
+    <polygon points="3448,554 3449,554 3319,947 3318,947 3448,554" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_11" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_10"/>
+    <polygon points="4408,260 4409,260 4381,501 4380,501 4408,260" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_12" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_32"/>
+    <polygon points="3859,930 3860,930 3666,1182 3665,1182 3859,930" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_13" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_11"/>
+    <polygon points="4171,1049 4172,1049 3893,1215 3892,1215 4171,1049" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_14" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_12"/>
+    <polygon points="4640,1017 4641,1017 4539,1506 4538,1506 4640,1017" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_16" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_13"/>
+    <polygon points="162,1211 163,1211 145,1567 144,1567 162,1211" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_17" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_14"/>
+    <polygon points="643,1256 644,1256 548,1582 547,1582 643,1256" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_18" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_15"/>
+    <polygon points="1013,1328 1014,1328 1070,1653 1069,1653 1013,1328" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_19" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_16"/>
+    <polygon points="1482,1246 1483,1246 1586,1588 1585,1588 1482,1246" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_21" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_27"/>
+    <polygon points="2041,1232 2042,1232 2072,1626 2071,1626 2041,1232" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_22" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_28"/>
+    <polygon points="2601,1165 2602,1165 2725,1489 2724,1489 2601,1165" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_23" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_29"/>
+    <polygon points="2974,1337 2975,1337 3287,1417 3286,1417 2974,1337" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_24" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_30"/>
+    <polygon points="3646,1581 3647,1581 3287,1417 3286,1417 3646,1581" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_24" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_31"/>
+    <polygon points="4667,2228 4668,2228 4472,2543 4471,2543 4667,2228" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_26" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_23"/>
+    <polygon points="4395,2001 4396,2001 4131,2301 4130,2301 4395,2001" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_27" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_22"/>
+    <polygon points="3683,1877 3684,1877 3668,2157 3667,2157 3683,1877" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_28" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_21"/>
+    <polygon points="2765,1917 2766,1917 2973,1872 2972,1872 2765,1917" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_25" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_20"/>
+    <polygon points="2640,2611 2641,2611 2849,2777 2848,2777 2640,2611" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_30" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_19"/>
+    <polygon points="1962,2357 1963,2357 1983,2575 1982,2575 1962,2357" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_33" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_18"/>
+    <polygon points="1798,1957 1799,1957 1569,2220 1568,2220 1798,1957" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_34" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_17"/>
+    <polygon points="639,1892 640,1892 914,1939 913,1939 639,1892" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_20" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_26"/>
+    <polygon points="466,2089 467,2089 697,2346 696,2346 466,2089" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_35" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_25"/>
+    <polygon points="145,2228 146,2228 243,2519 242,2519 145,2228" idCharacter="TRONDHEIM_LES_TROIS_CHEMINS_003_character_36" idBalloon="TRONDHEIM_LES_TROIS_CHEMINS_003_balloon_24"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sun Jan 26 18:37:28 CET 2014" lastStepModified="Balloon_Metadata"/>
+</svg>

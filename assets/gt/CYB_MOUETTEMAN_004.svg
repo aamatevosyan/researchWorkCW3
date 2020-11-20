@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="640mm" zoomAndPan="magnify" contentStyleType="text/css" height="899mm" viewBox="0 0 1280 1798" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>CYB_MOUETTEMAN_004</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="1280" xlink:href="../Pages/CYB_MOUETTEMAN_004.jpg" xlink:type="simple" xlink:actuate="onLoad" height="1798" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Les aventures de MouetteMan et TeckelBoy" editorName="Studio Cyborga" doublePage="false" website="http://30joursdebd.com/author/cyborg07/" albumTitle="" drawerName="Cyborg 07" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2011" pageNumber="4"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="277,51 987,51 987,473 277,473 277,51" id="CYB_MOUETTEMAN_004_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="465,509 988,509 988,906 465,906 465,509" id="CYB_MOUETTEMAN_004_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="466,940 988,940 988,1339 466,1339 466,940" id="CYB_MOUETTEMAN_004_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="465,1375 986,1375 986,1771 465,1771 465,1375" id="CYB_MOUETTEMAN_004_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="634,85 659,53 990,38 986,171 972,181 954,191 929,200 923,201 928,212 935,230 929,238 914,249 920,256 927,270 928,280 923,292 914,297 898,303 913,287 917,271 914,263 901,257 905,243 910,234 919,225 916,218 904,209 868,211 814,214 753,208 706,191 665,168 638,133 634,107 634,85" id="CYB_MOUETTEMAN_004_balloon_0">
+            <metadata borderStyle="smooth" tailTip="898,303" boundingBox="" tailDirection="SW" rank="1"/>
+        </polygon>
+        <polygon points="651,508 859,508 872,522 881,536 888,553 888,573 880,594 864,608 844,624 814,638 779,643 747,645 739,657 720,665 732,652 735,645 709,640 684,629 665,622 637,598 626,567 626,543 651,508" id="CYB_MOUETTEMAN_004_balloon_1">
+            <metadata borderStyle="smooth" tailTip="720,665" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+        <polygon points="884,599 917,588 939,589 960,596 977,605 988,621 989,670 977,687 958,698 940,703 932,703 933,721 929,728 907,733 901,733 920,717 918,705 896,699 878,688 856,658 856,633 869,615 884,599" id="CYB_MOUETTEMAN_004_balloon_2">
+            <metadata borderStyle="smooth" tailTip="907,733" boundingBox="" tailDirection="SW" rank="3"/>
+        </polygon>
+        <polygon points="598,965 608,938 973,937 982,953 984,968 978,996 955,1034 906,1065 861,1077 829,1084 795,1087 776,1085 774,1097 769,1105 755,1107 747,1110 739,1118 740,1107 747,1098 758,1095 760,1091 760,1083 731,1080 707,1075 636,1042 610,1015 601,987 598,965" id="CYB_MOUETTEMAN_004_balloon_3">
+            <metadata borderStyle="smooth" tailTip="739,1118" boundingBox="" tailDirection="SW" rank="4"/>
+        </polygon>
+        <polygon points="691,1373 989,1373 992,1485 978,1493 954,1505 964,1524 953,1530 967,1546 935,1563 950,1543 934,1532 943,1521 952,1516 944,1508 916,1516 890,1518 810,1522 778,1515 737,1507 696,1485 670,1458 658,1423 669,1400 691,1373" id="CYB_MOUETTEMAN_004_balloon_4">
+            <metadata borderStyle="smooth" tailTip="935,1563" boundingBox="" tailDirection="SW" rank="5"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="685,224 914,224 914,479 685,479 685,224" id="CYB_MOUETTEMAN_004_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="494,585 731,585 731,907 494,907 494,585" id="CYB_MOUETTEMAN_004_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="710,651 922,651 922,902 710,902 710,651" id="CYB_MOUETTEMAN_004_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="532,1024 765,1024 765,1334 532,1334 532,1024" id="CYB_MOUETTEMAN_004_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="753,1079 938,1079 938,1334 753,1334 753,1079" id="CYB_MOUETTEMAN_004_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="751,1511 959,1511 959,1768 751,1768 751,1511" id="CYB_MOUETTEMAN_004_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="545,1456 747,1456 747,1769 545,1769 545,1456" id="CYB_MOUETTEMAN_004_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="253,18 490,18 490,44 253,44 253,18" id="CYB_MOUETTEMAN_004_line_0">
+            <metadata method="" typography="" textType="note">MOUETTE MAN</metadata>
+        </polygon>
+        <polygon points="524,13 561,13 561,60 524,60 524,13" id="CYB_MOUETTEMAN_004_line_1">
+            <metadata method="" typography="" textType="note">&amp;</metadata>
+        </polygon>
+        <polygon points="593,19 802,19 802,45 593,45 593,19" id="CYB_MOUETTEMAN_004_line_2">
+            <metadata method="" typography="" textType="note">TECKEL BOY</metadata>
+        </polygon>
+        <polygon points="684,73 960,73 960,88 684,88 684,73" id="CYB_MOUETTEMAN_004_line_3">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">FORMELLES : UN GANG DE</metadata>
+        </polygon>
+        <polygon points="654,93 980,93 980,106 654,106 654,93" id="CYB_MOUETTEMAN_004_line_4">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">SUPERS VILAINS VA TENTER DE</metadata>
+        </polygon>
+        <polygon points="687,130 960,130 960,144 687,144 687,130" id="CYB_MOUETTEMAN_004_line_5">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">22 HEURES. JE DOIS VITE</metadata>
+        </polygon>
+        <polygon points="680,149 964,149 964,163 680,163 680,149" id="CYB_MOUETTEMAN_004_line_6">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">AVERTIR TECKEL BOY, MON</metadata>
+        </polygon>
+        <polygon points="671,577 840,577 840,594 671,594 671,577" id="CYB_MOUETTEMAN_004_line_7">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_1" textType="speech">ORDINATEUR, JE</metadata>
+        </polygon>
+        <polygon points="693,596 819,596 819,610 693,610 693,596" id="CYB_MOUETTEMAN_004_line_8">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_1" textType="speech">SAIS TOUT !</metadata>
+        </polygon>
+        <polygon points="885,639 942,639 942,653 885,653 885,639" id="CYB_MOUETTEMAN_004_line_9">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_2" textType="speech">TOUT</metadata>
+        </polygon>
+        <polygon points="897,658 931,658 931,673 897,673 897,658" id="CYB_MOUETTEMAN_004_line_10">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_2" textType="speech">?!!</metadata>
+        </polygon>
+        <polygon points="641,946 956,946 956,962 641,962 641,946" id="CYB_MOUETTEMAN_004_line_11">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">LE NOMBRE DE PARTICIPANTS,</metadata>
+        </polygon>
+        <polygon points="663,962 934,962 934,977 663,977 663,962" id="CYB_MOUETTEMAN_004_line_12">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">LA NATURE IMMORALE DU</metadata>
+        </polygon>
+        <polygon points="650,979 947,979 947,997 650,997 650,979" id="CYB_MOUETTEMAN_004_line_13">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">RASSEMBLEMENT, AINSI QUE</metadata>
+        </polygon>
+        <polygon points="652,997 945,997 945,1012 652,1012 652,997" id="CYB_MOUETTEMAN_004_line_14">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">L'HEURE. IL NE ME MANQUE</metadata>
+        </polygon>
+        <polygon points="668,1015 928,1015 928,1029 668,1029 668,1015" id="CYB_MOUETTEMAN_004_line_15">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">QUE LE LIEU ET JUSTICE</metadata>
+        </polygon>
+        <polygon points="738,1032 861,1032 861,1047 738,1047 738,1032" id="CYB_MOUETTEMAN_004_line_16">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_3" textType="speech">SERA FAITE.</metadata>
+        </polygon>
+        <polygon points="718,1388 959,1388 959,1408 718,1408 718,1388" id="CYB_MOUETTEMAN_004_line_17">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">J'AVOUE TOUT ! ÇA SE</metadata>
+        </polygon>
+        <polygon points="714,1408 963,1408 963,1422 714,1422 714,1408" id="CYB_MOUETTEMAN_004_line_18">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">PASSE CHEZ MOI. TOUS</metadata>
+        </polygon>
+        <polygon points="740,1426 937,1426 937,1441 740,1440 740,1426" id="CYB_MOUETTEMAN_004_line_19">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">LES JEUDIS SOIRS</metadata>
+        </polygon>
+        <polygon points="712,1458 966,1463 966,1477 712,1477 712,1458" id="CYB_MOUETTEMAN_004_line_20">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">ÉHANGISTES DANS MON</metadata>
+        </polygon>
+        <polygon points="798,1481 880,1481 880,1495 798,1495 798,1481" id="CYB_MOUETTEMAN_004_line_21">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">SALON !</metadata>
+        </polygon>
+        <polygon points="434,288 507,288 507,307 434,307 434,288" id="CYB_MOUETTEMAN_004_line_22">
+            <metadata method="" typography="" textType="illustrative">Bad Cochon</metadata>
+        </polygon>
+        <polygon points="527,298 609,298 609,317 527,317 527,298" id="CYB_MOUETTEMAN_004_line_23">
+            <metadata method="" typography="" textType="illustrative">Radioactif man</metadata>
+        </polygon>
+        <polygon points="589,328 640,328 640,342 589,342 589,328" id="CYB_MOUETTEMAN_004_line_24">
+            <metadata method="" typography="" textType="illustrative">Alerte !</metadata>
+        </polygon>
+        <polygon points="714,54 933,54 933,71 714,71 714,54" id="CYB_MOUETTEMAN_004_line_25">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">MES DONNEES SONT</metadata>
+        </polygon>
+        <polygon points="652,111 993,111 993,126 652,126 652,111" id="CYB_MOUETTEMAN_004_line_26">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">DETRUIRE HERO-CITY CE SOIR A</metadata>
+        </polygon>
+        <polygon points="731,167 914,167 914,183 731,183 731,167" id="CYB_MOUETTEMAN_004_line_27">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_0" textType="speech">FIDELE ASSOCIE !</metadata>
+        </polygon>
+        <polygon points="657,537 867,537 867,555 657,555 657,537" id="CYB_MOUETTEMAN_004_line_28">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_1" textType="speech">TECKEL BOY, GRÂCE</metadata>
+        </polygon>
+        <polygon points="678,557 832,557 832,574 678,574 678,557" id="CYB_MOUETTEMAN_004_line_29">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_1" textType="speech">A MON SUPER</metadata>
+        </polygon>
+        <polygon points="699,1445 976,1445 976,1459 699,1459 699,1445" id="CYB_MOUETTEMAN_004_line_30">
+            <metadata method="" typography="" idBalloon="CYB_MOUETTEMAN_004_balloon_4" textType="speech">J'ORGANISE DES SOIRÉES</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="812,170 813,170 800,351 799,351 812,170" idCharacter="CYB_MOUETTEMAN_004_character_0" idBalloon="CYB_MOUETTEMAN_004_balloon_0"/>
+    <polygon points="757,586 758,586 613,746 612,746 757,586" idCharacter="CYB_MOUETTEMAN_004_character_1" idBalloon="CYB_MOUETTEMAN_004_balloon_1"/>
+    <polygon points="922,660 923,660 817,776 816,776 922,660" idCharacter="CYB_MOUETTEMAN_004_character_2" idBalloon="CYB_MOUETTEMAN_004_balloon_2"/>
+    <polygon points="791,1027 792,1027 649,1179 648,1179 791,1027" idCharacter="CYB_MOUETTEMAN_004_character_3" idBalloon="CYB_MOUETTEMAN_004_balloon_3"/>
+    <polygon points="825,1468 826,1468 856,1639 855,1639 825,1468" idCharacter="CYB_MOUETTEMAN_004_character_5" idBalloon="CYB_MOUETTEMAN_004_balloon_4"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Wed Feb 05 18:34:00 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

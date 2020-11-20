@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1240mm" zoomAndPan="magnify" contentStyleType="text/css" height="1746mm" viewBox="0 0 2481 3492" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>SAINTOGAN_ZIGPUCE_ET_ALFRED_010</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="2481" xlink:href="../Pages/SAINTOGAN_ZIGPUCE_ET_ALFRED_010.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3492" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Zig Et Puce" editorName="Hachette" doublePage="false" website="http://collections.citebd.org/saintogan/www/fonds.php" albumTitle="Zig, Puce et Alfred" drawerName="Alain Saint Ogan" language="french" resolution="600" ISBN="" readingDirection="leftToRight" writerName="Alain Saint Ogan" releaseDate="1952" pageNumber="10"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_0" points="76,75 2322,68 2316,396 75,394 76,75">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="85,432 794,432 794,1090 85,1090 85,432" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="825,432 1552,432 1552,1090 825,1090 825,432" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="1590,428 2317,428 2317,1086 1590,1086 1590,428" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="80,1125 794,1125 794,1795 80,1795 80,1125" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="825,1129 1556,1129 1556,1800 825,1800 825,1129" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="1586,1120 2313,1120 2313,1795 1586,1795 1586,1120" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="80,1839 790,1839 790,2509 80,2509 80,1839" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="825,1834 1556,1834 1556,2514 825,2514 825,1834" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_8">
+            <metadata viewAngle="" shot="" rank="9"/>
+        </polygon>
+        <polygon points="1586,1834 2309,1834 2309,2514 1586,2514 1586,1834" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_9">
+            <metadata viewAngle="" shot="" rank="10"/>
+        </polygon>
+        <polygon points="72,2540 790,2540 790,3228 72,3228 72,2540" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_10">
+            <metadata viewAngle="" shot="" rank="11"/>
+        </polygon>
+        <polygon points="820,2544 1552,2544 1552,3232 820,3232 820,2544" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_11">
+            <metadata viewAngle="" shot="" rank="12"/>
+        </polygon>
+        <polygon points="1582,2548 2313,2548 2313,3236 1582,3236 1582,2548" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_panel_12">
+            <metadata viewAngle="" shot="" rank="13"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="111,440 154,441 179,440 211,440 245,440 268,442 301,442 342,439 365,438 408,444 412,492 413,552 413,605 406,642 388,658 364,656 353,668 348,686 351,695 353,714 342,733 326,740 331,726 333,713 324,692 324,672 327,659 274,660 216,664 148,667 98,665 87,637 89,564 91,514 89,467 91,449 111,440" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0">
+            <metadata borderStyle="smooth" tailTip="326,740" boundingBox="" tailDirection="S" rank="1"/>
+        </polygon>
+        <polygon points="462,423 512,413 603,417 712,414 778,411 814,433 815,478 817,518 821,565 801,594 678,598 598,602 540,597 523,579 517,544 483,512 466,514 448,527 441,547 443,576 442,591 439,616 434,633 432,655 445,676 456,681 479,676 465,692 450,696 422,678 417,658 413,640 424,603 422,578 419,557 432,519 444,497 447,470 447,447 454,431 462,423" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1">
+            <metadata borderStyle="smooth" tailTip="479,676" boundingBox="" tailDirection="NE" rank="2"/>
+        </polygon>
+        <polygon points="863,403 1045,408 1166,407 1236,409 1303,406 1401,407 1458,410 1530,412 1555,417 1570,449 1571,489 1573,532 1557,563 1490,569 1429,589 1405,601 1349,605 1307,604 1237,602 1186,604 1181,610 1176,629 1167,643 1136,647 1151,636 1160,618 1160,603 1129,594 1110,578 1093,557 1073,549 1055,523 1015,530 981,516 964,500 940,492 917,478 890,468 854,456 846,426 863,403" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2">
+            <metadata borderStyle="smooth" tailTip="1136,647" boundingBox="" tailDirection="SW" rank="3"/>
+        </polygon>
+        <polygon points="1387,606 1474,598 1537,595 1560,595 1581,605 1589,655 1584,711 1589,745 1586,799 1586,835 1586,894 1582,929 1581,976 1588,1025 1578,1053 1531,1063 1466,1066 1434,1056 1426,1019 1424,971 1421,883 1426,853 1417,791 1398,733 1384,700 1374,680 1359,674 1371,663 1376,628 1387,606" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3">
+            <metadata borderStyle="smooth" tailTip="1359,674" boundingBox="" tailDirection="W" rank="4"/>
+        </polygon>
+        <polygon points="1813,441 1917,443 1949,435 1978,439 2019,432 2056,431 2085,436 2114,436 2137,432 2174,435 2202,443 2206,463 2206,494 2202,537 2203,574 2207,607 2203,636 2180,640 2147,643 2122,645 2105,640 2111,664 2117,664 2127,678 2136,691 2147,683 2156,696 2165,711 2139,701 2128,705 2115,689 2102,689 2081,644 2060,637 1987,637 1940,644 1871,644 1809,637 1788,625 1792,555 1790,512 1789,455 1813,441" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4">
+            <metadata borderStyle="smooth" tailTip="2165,711" boundingBox="" tailDirection="SE" rank="5"/>
+        </polygon>
+        <polygon points="1898,874 1914,859 1935,855 1949,861 1950,865 1964,863 1986,871 1992,883 1991,897 1988,907 1997,914 2002,924 2003,938 1995,947 1990,955 1986,956 1984,964 1977,974 1972,980 1964,982 1954,979 1947,978 1939,988 1931,979 1925,980 1913,980 1908,978 1902,970 1898,874" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_5">
+            <metadata borderStyle="wavy" tailTip="1939,988" boundingBox="" tailDirection="S" rank="6"/>
+        </polygon>
+        <polygon points="195,1096 254,1101 314,1103 373,1096 406,1101 431,1096 456,1100 528,1097 589,1098 630,1096 648,1110 654,1127 649,1142 621,1176 591,1197 581,1212 573,1238 571,1270 557,1280 531,1280 504,1281 463,1281 421,1278 364,1277 340,1260 339,1222 341,1195 336,1175 314,1175 275,1175 253,1176 231,1183 226,1198 226,1209 213,1202 210,1185 214,1179 206,1179 192,1176 183,1164 189,1143 191,1107 195,1096" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6">
+            <metadata borderStyle="smooth" tailTip="226,1209" boundingBox="" tailDirection="S" rank="7"/>
+        </polygon>
+        <polygon points="848,1118 968,1118 1055,1113 1114,1116 1163,1115 1196,1119 1261,1114 1307,1113 1355,1114 1385,1118 1437,1111 1487,1111 1530,1108 1558,1121 1569,1143 1573,1165 1569,1215 1571,1242 1569,1276 1567,1317 1552,1347 1496,1371 1442,1372 1397,1370 1381,1365 1349,1366 1325,1374 1309,1396 1292,1423 1294,1480 1294,1529 1295,1583 1273,1603 1218,1610 1167,1613 1147,1603 1125,1577 1120,1537 1122,1495 1126,1471 1123,1437 1124,1391 1119,1374 1111,1364 1099,1367 1091,1388 1083,1404 1059,1412 1071,1391 1068,1368 1047,1331 1040,1314 1018,1309 1000,1286 968,1288 908,1294 857,1290 839,1281 836,1256 840,1215 835,1199 837,1164 841,1130 848,1118" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7">
+            <metadata borderStyle="smooth" tailTip="1059,1412" boundingBox="" tailDirection="SW" rank="8"/>
+        </polygon>
+        <polygon points="1675,1111 1978,1115 2030,1113 2051,1116 2065,1177 2064,1239 2063,1293 2065,1361 2065,1395 2044,1436 2014,1467 1970,1470 1901,1470 1833,1395 1837,1357 1843,1307 1837,1266 1831,1238 1818,1233 1753,1262 1756,1276 1762,1291 1752,1306 1745,1324 1749,1342 1733,1333 1732,1306 1739,1297 1738,1284 1735,1263 1746,1247 1761,1239 1777,1233 1790,1224 1728,1231 1676,1226 1640,1215 1631,1203 1635,1171 1638,1143 1647,1118 1675,1111" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8">
+            <metadata borderStyle="smooth" tailTip="1749,1342" boundingBox="" tailDirection="S" rank="9"/>
+        </polygon>
+        <polygon points="2134,1182 2147,1163 2169,1160 2194,1160 2208,1173 2212,1177 2235,1179 2255,1184 2269,1199 2272,1219 2285,1225 2297,1240 2302,1262 2298,1276 2302,1293 2294,1327 2286,1345 2270,1361 2253,1367 2239,1368 2219,1360 2210,1368 2187,1376 2176,1375 2166,1368 2164,1374 2160,1384 2146,1391 2141,1397 2134,1409 2128,1412 2120,1414 2117,1419 2105,1427 2100,1426 2094,1432 2092,1424 2096,1417 2097,1405 2104,1402 2109,1396 2113,1393 2115,1381 2124,1375 2135,1369 2137,1360 2128,1362 2112,1363 2097,1360 2091,1346 2087,1335 2082,1329 2069,1311 2069,1297 2073,1282 2076,1277 2068,1267 2066,1250 2077,1231 2082,1223 2082,1210 2087,1196 2098,1188 2107,1186 2134,1182" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_9">
+            <metadata borderStyle="wavy" tailTip="2094,1432" boundingBox="" tailDirection="SW" rank="10"/>
+        </polygon>
+        <polygon points="225,1832 250,1815 272,1815 302,1821 312,1831 335,1823 355,1822 370,1824 376,1828 384,1818 419,1813 438,1816 451,1824 457,1832 462,1844 481,1840 494,1837 510,1839 528,1846 541,1865 544,1859 566,1856 584,1854 602,1855 615,1860 628,1867 637,1883 644,1881 646,1881 663,1881 708,1897 726,1918 733,1940 739,1948 756,1965 774,1993 777,2012 775,2028 767,2049 757,2056 766,2080 769,2115 764,2138 750,2160 727,2178 708,2189 699,2190 697,2205 691,2221 678,2233 660,2242 652,2245 660,2257 651,2278 636,2295 609,2307 570,2312 545,2302 530,2291 520,2277 514,2280 503,2280 492,2279 484,2273 473,2275 460,2277 439,2274 436,2273 419,2267 406,2257 395,2238 389,2237 376,2234 367,2226 358,2210 356,2201 360,2220 367,2233 366,2245 359,2250 365,2260 371,2264 372,2272 363,2283 357,2288 356,2300 356,2304 362,2314 346,2309 336,2297 339,2276 343,2271 332,2263 333,2246 340,2239 330,2228 325,2210 333,2195 316,2197 288,2196 261,2182 257,2159 258,2136 239,2131 216,2119 212,2089 214,2064 222,2049 226,2042 193,2044 168,2032 143,2006 138,1993 137,1971 141,1960 119,1959 97,1942 89,1914 96,1886 103,1871 108,1866 114,1854 132,1844 156,1841 161,1842 177,1833 192,1829 213,1831 225,1832" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_10">
+            <metadata borderStyle="wavy" tailTip="362,2314" boundingBox="" tailDirection="S" rank="11"/>
+        </polygon>
+        <polygon points="1192,1820 1201,1812 1239,1810 1264,1818 1267,1828 1298,1820 1319,1820 1332,1824 1342,1834 1345,1841 1353,1843 1363,1843 1375,1842 1389,1844 1399,1845 1411,1852 1417,1856 1418,1863 1428,1857 1449,1855 1474,1860 1500,1874 1517,1880 1531,1898 1527,1921 1533,1928 1544,1938 1551,1956 1545,1976 1545,1989 1538,2007 1543,2019 1544,2026 1545,2041 1540,2054 1537,2066 1522,2076 1531,2087 1537,2102 1535,2117 1531,2129 1539,2147 1541,2175 1537,2202 1519,2228 1508,2237 1501,2249 1465,2266 1429,2273 1402,2266 1382,2255 1371,2245 1357,2249 1339,2234 1332,2213 1323,2205 1304,2191 1303,2166 1306,2146 1293,2140 1280,2126 1274,2096 1276,2075 1279,2061 1269,2051 1264,2030 1262,2014 1267,2002 1256,1996 1244,1988 1240,1973 1228,1976 1215,1970 1206,1961 1181,1967 1157,1980 1150,1985 1157,2010 1141,2008 1130,1983 1134,1967 1158,1952 1175,1944 1160,1939 1147,1929 1141,1911 1127,1902 1117,1871 1129,1855 1145,1846 1154,1830 1167,1819 1186,1819 1192,1820" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11">
+            <metadata borderStyle="wavy" tailTip="1157,2010" boundingBox="" tailDirection="SE" rank="12"/>
+        </polygon>
+        <polygon points="157,2548 222,2548 291,2547 364,2555 464,2553 578,2555 639,2556 726,2550 775,2556 806,2594 807,2649 814,2698 798,2759 778,2818 740,2830 679,2834 630,2835 621,2835 622,2847 615,2861 624,2872 618,2890 610,2878 598,2874 595,2864 589,2857 595,2837 572,2831 451,2831 317,2834 188,2828 151,2814 130,2785 124,2756 134,2698 129,2643 126,2587 135,2561 157,2548" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12">
+            <metadata borderStyle="smooth" tailTip="618,2890" boundingBox="" tailDirection="S" rank="13"/>
+        </polygon>
+        <polygon points="273,2844 301,2847 314,2847 341,2847 361,2851 378,2847 401,2847 416,2850 431,2841 457,2849 473,2853 484,2860 483,2882 472,2936 464,2944 450,2948 465,2955 457,2964 443,2964 430,2953 435,2942 426,2943 405,2940 399,2937 381,2944 362,2943 338,2943 306,2940 285,2946 254,2939 248,2920 257,2890 257,2860 273,2844" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_13">
+            <metadata borderStyle="smooth" tailTip="465,2955" boundingBox="" tailDirection="E" rank="14"/>
+        </polygon>
+        <polygon points="1227,2527 1265,2520 1334,2521 1398,2522 1475,2525 1553,2523 1569,2539 1568,2566 1571,2588 1573,2621 1569,2657 1555,2683 1536,2688 1497,2697 1510,2702 1527,2707 1553,2702 1558,2721 1531,2728 1494,2728 1480,2717 1468,2704 1438,2708 1410,2702 1374,2706 1348,2706 1319,2702 1245,2707 1215,2692 1205,2666 1210,2630 1211,2606 1216,2585 1211,2556 1217,2529 1227,2527" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14">
+            <metadata borderStyle="smooth" tailTip="1553,2702" boundingBox="" tailDirection="E" rank="15"/>
+        </polygon>
+        <polygon points="1670,2560 1802,2566 1933,2568 2070,2577 2186,2574 2283,2570 2315,2602 2309,2646 2305,2689 2303,2714 2311,2740 2309,2796 2303,2843 2255,2863 2210,2869 2145,2854 2075,2867 2002,2852 1971,2861 1971,2869 1965,2902 1968,2924 1963,2940 1975,2949 1970,2975 1978,2993 2007,2997 1991,3011 1959,3006 1952,2979 1953,2968 1940,2958 1943,2931 1933,2916 1933,2872 1907,2860 1856,2856 1808,2864 1745,2853 1676,2860 1642,2849 1623,2774 1630,2747 1631,2687 1634,2641 1630,2590 1642,2574 1670,2560" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15">
+            <metadata borderStyle="smooth" tailTip="2007,2997" boundingBox="" tailDirection="E" rank="16"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="440,545 657,545 657,1041 440,1041 440,545" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="182,696 425,696 425,1034 182,1034 182,696" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="107,801 269,801 269,1087 107,1087 107,801" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="985,533 1201,533 1201,1093 985,1093 985,533" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1215,581 1425,581 1425,1091 1215,1091 1215,581" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1589,747 1775,747 1775,1091 1589,1091 1589,747" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1784,661 1916,661 1916,1090 1784,1090 1784,661" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1901,986 1999,986 1999,1091 1901,1091 1901,986" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2131,586 2318,586 2318,1006 2131,1006 2131,586" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1960,1420 2272,1420 2272,1766 1960,1766 1960,1420" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1629,1221 1927,1221 1927,1782 1629,1782 1629,1221" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1340,1451 1559,1451 1559,1798 1340,1798 1340,1451" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1236,1369 1420,1369 1420,1803 1236,1803 1236,1369" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="827,1285 1076,1285 1076,1806 827,1806 827,1285" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="350,1363 456,1363 456,1529 350,1529 350,1363" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="154,1153 350,1153 350,1532 154,1532 154,1153" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="82,1222 206,1222 206,1518 82,1518 82,1222" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="91,1189 120,1221 83,1297" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="323,2290 556,2290 556,2513 323,2513 323,2290" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="110,2161 321,2161 321,2511 110,2511 110,2161" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="823,2161 1011,2161 1011,2517 823,2517 823,2161" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1031,1996 1321,1996 1321,2524 1031,2524 1031,1996" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="562,2784 793,2784 793,3238 562,3238 562,2784" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="264,2835 602,2835 602,3238 264,3238 264,2835" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1643,3045 1830,3045 1830,3234 1643,3234 1643,3045" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_24">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1790,2958 1909,2958 1909,3234 1790,3234 1790,2958" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_25">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1958,2901 2275,2901 2275,3239 1958,3239 1958,2901" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_26">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="543,121 1703,121 1703,259 543,259 543,121" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_0">
+            <metadata method="" typography="" textType="note">ZIG et PUCE</metadata>
+        </polygon>
+        <polygon points="552,263 1647,263 1647,372 552,372 552,263" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_1">
+            <metadata method="" typography="" textType="note">LA LETTRE À SECRET</metadata>
+        </polygon>
+        <polygon points="102,445 392,445 392,475 102,475 102,445" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_2">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0" textType="speech">QUELLE MAL-</metadata>
+        </polygon>
+        <polygon points="93,480 392,480 392,514 93,514 93,480" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_3">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0" textType="speech">CHANCE D'ÊTRE</metadata>
+        </polygon>
+        <polygon points="93,519 401,519 401,549 93,549 93,519" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_4">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0" textType="speech">RETOMBÉS DANS</metadata>
+        </polygon>
+        <polygon points="93,558 405,558 405,588 93,588 93,558" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_5">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0" textType="speech">LES PATTES DE CES</metadata>
+        </polygon>
+        <polygon points="89,601 288,601 288,640 89,640 89,601" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_6">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0" textType="speech">BANDITS !</metadata>
+        </polygon>
+        <polygon points="448,428 803,428 803,463 448,463 448,428" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_7">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1" textType="speech">JE CROIS, PUCE QUE</metadata>
+        </polygon>
+        <polygon points="452,467 812,467 812,506 452,506 452,467" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_8">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1" textType="speech">NOUS N'ARRIVERONS</metadata>
+        </polygon>
+        <polygon points="513,506 807,506 807,540 513,540 513,506" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_9">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1" textType="speech">JAMAIS EN AMÉ</metadata>
+        </polygon>
+        <polygon points="526,545 664,545 664,584 526,584 526,545" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_10">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1" textType="speech">RIQUE !</metadata>
+        </polygon>
+        <polygon points="881,406 1534,406 1534,445 881,445 881,406" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_11">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2" textType="speech">JAMBE-DE-BOIS. JE TE CHARGE</metadata>
+        </polygon>
+        <polygon points="924,450 1543,450 1543,480 924,480 924,450" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_12">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2" textType="speech">DE FAIRE ECRIRE LA LETTRE QUE</metadata>
+        </polygon>
+        <polygon points="989,493 1560,493 1560,519 989,519 989,493" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_13">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2" textType="speech">LES ENFANTS DOIVENT ENVOYER</metadata>
+        </polygon>
+        <polygon points="1080,523 1547,523 1547,549 1080,549 1080,523" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_14">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2" textType="speech">À LA JEUNE DOLLY POUR</metadata>
+        </polygon>
+        <polygon points="1119,553 1409,553 1409,592 1119,592 1119,553" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_15">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2" textType="speech">L'ATTIRER ICI ...</metadata>
+        </polygon>
+        <polygon points="1387,610 1539,610 1539,636 1387,636 1387,610" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_16">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">POUVEZ</metadata>
+        </polygon>
+        <polygon points="1383,640 1586,640 1586,670 1383,670 1383,640" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_17">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">ÊTRE TRAN-</metadata>
+        </polygon>
+        <polygon points="1383,675 1582,675 1582,705 1383,705 1383,675" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_18">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">QUILLE, CHEF</metadata>
+        </polygon>
+        <polygon points="1400,705 1539,705 1539,731 1400,731 1400,705" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_19">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">et une</metadata>
+        </polygon>
+        <polygon points="1409,735 1565,735 1565,765 1409,765 1409,735" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_20">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">FOIS DOL-</metadata>
+        </polygon>
+        <polygon points="1422,765 1582,765 1582,800 1422,800 1422,765" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_21">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">LY PRISON-</metadata>
+        </polygon>
+        <polygon points="1422,804 1578,804 1578,835 1422,835 1422,804" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_22">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">NIÈRE, il</metadata>
+        </polygon>
+        <polygon points="1426,839 1573,839 1573,874 1426,874 1426,839" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_23">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">FAUDRA</metadata>
+        </polygon>
+        <polygon points="1435,878 1513,878 1513,908 1435,908 1435,878" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_24">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">QUE</metadata>
+        </polygon>
+        <polygon points="1448,908 1582,908 1582,938 1448,938 1448,908" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_25">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">L'ON LE</metadata>
+        </polygon>
+        <polygon points="1443,943 1552,943 1552,982 1443,982 1443,943" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_26">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">PAIE</metadata>
+        </polygon>
+        <polygon points="1430,982 1582,982 1582,1012 1430,1012 1430,982" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_27">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">LA RAN-</metadata>
+        </polygon>
+        <polygon points="1443,1016 1539,1016 1539,1042 1443,1042 1443,1016" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_28">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3" textType="speech">ÇON.</metadata>
+        </polygon>
+        <polygon points="1798,437 2196,437 2196,475 1798,475 1798,437" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_29">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4" textType="speech">EH ! .. LES MOUTARDS ...</metadata>
+        </polygon>
+        <polygon points="1798,480 2192,480 2192,510 1798,510 1798,480" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_30">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4" textType="speech">VENEZ UN PEU AVEC</metadata>
+        </polygon>
+        <polygon points="1798,519 2179,519 2179,549 1798,549 1798,519" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_31">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4" textType="speech">MOI QUE JE VOUS</metadata>
+        </polygon>
+        <polygon points="1798,553 2188,553 2188,584 1798,584 1798,553" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_32">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4" textType="speech">FASSE VISITER LE</metadata>
+        </polygon>
+        <polygon points="1803,588 2041,588 2041,631 1803,631 1803,588" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_33">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4" textType="speech">DOMAINE...</metadata>
+        </polygon>
+        <polygon points="189,1086 643,1086 643,1142 189,1142 189,1086" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_34">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6" textType="speech">VOICI LA CHAMBRE DES</metadata>
+        </polygon>
+        <polygon points="189,1125 617,1125 617,1168 189,1168 189,1125" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_35">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6" textType="speech">SUPPLICES POUR LES</metadata>
+        </polygon>
+        <polygon points="340,1168 582,1168 582,1207 340,1207 340,1168" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_36">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6" textType="speech">GENS QUI NE</metadata>
+        </polygon>
+        <polygon points="344,1207 578,1207 578,1237 344,1237 344,1207" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_37">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6" textType="speech">SONT PAS SA</metadata>
+        </polygon>
+        <polygon points="344,1237 452,1237 452,1272 344,1272 344,1237" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_38">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6" textType="speech">GES.</metadata>
+        </polygon>
+        <polygon points="859,1125 1547,1125 1547,1164 859,1164 859,1125" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_39">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">ET MAINTENANT, VOICI UNE PLUME</metadata>
+        </polygon>
+        <polygon points="838,1164 1547,1164 1547,1198 838,1198 838,1164" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_40">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">DE L'ENCRE ET DU PAPIER... VOUS  AL</metadata>
+        </polygon>
+        <polygon points="842,1202 1560,1202 1560,1237 842,1237 842,1202" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_41">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">LEZ ÉCRIRE À VOTRE AMIE DOLLY POUR</metadata>
+        </polygon>
+        <polygon points="842,1237 1547,1237 1547,1276 842,1276 842,1237" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_42">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">L'INVITER À VENIR PASSER QUELQUES</metadata>
+        </polygon>
+        <polygon points="1028,1276 1556,1276 1556,1319 1028,1319 1028,1276" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_43">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">JOURS ICI... JE VAIS REVE-</metadata>
+        </polygon>
+        <polygon points="1058,1306 1517,1306 1517,1350 1058,1350 1058,1306" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_44">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">NIR DANS UNE HEURE.</metadata>
+        </polygon>
+        <polygon points="1110,1354 1314,1354 1314,1389 1110,1389 1110,1354" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_45">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">IL FAUDRA</metadata>
+        </polygon>
+        <polygon points="1127,1393 1292,1393 1292,1427 1127,1427 1127,1393" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_46">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">QUE LA</metadata>
+        </polygon>
+        <polygon points="1127,1423 1266,1423 1266,1453 1127,1453 1127,1423" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_47">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">lettre</metadata>
+        </polygon>
+        <polygon points="1132,1458 1270,1458 1270,1492 1132,1492 1132,1458" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_48">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">SOIT É-</metadata>
+        </polygon>
+        <polygon points="1127,1488 1270,1488 1270,1523 1127,1523 1127,1488" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_49">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">CRITE</metadata>
+        </polygon>
+        <polygon points="1123,1523 1292,1523 1292,1553 1123,1553 1123,1523" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_50">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">N'EST-CE</metadata>
+        </polygon>
+        <polygon points="1132,1557 1249,1557 1249,1592 1132,1592 1132,1557" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_51">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7" textType="speech">PAS?</metadata>
+        </polygon>
+        <polygon points="1642,1129 2049,1129 2049,1164 1642,1164 1642,1129" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_52">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">ILS VEULENT FAIRE</metadata>
+        </polygon>
+        <polygon points="1642,1168 2058,1168 2058,1202 1642,1202 1642,1168" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_53">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">TOMBER DOLLY DANS</metadata>
+        </polygon>
+        <polygon points="1828,1202 2049,1202 2049,1241 1828,1241 1828,1202" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_54">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">UN GUET. À</metadata>
+        </polygon>
+        <polygon points="1846,1246 2062,1246 2062,1276 1846,1276 1846,1246" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_55">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">PENS... NOUS</metadata>
+        </polygon>
+        <polygon points="1833,1276 2049,1276 2049,1315 1833,1315 1833,1276" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_56">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">NE POUVONS</metadata>
+        </polygon>
+        <polygon points="1833,1315 2054,1315 2054,1354 1833,1354 1833,1315" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_57">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">PAS ÉCRIRE...</metadata>
+        </polygon>
+        <polygon points="1837,1358 2041,1358 2041,1384 1837,1384 1837,1358" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_58">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">CE SERAIT</metadata>
+        </polygon>
+        <polygon points="1841,1384 2054,1384 2054,1419 1841,1419 1841,1384" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_59">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">UNE LÂCHE</metadata>
+        </polygon>
+        <polygon points="1885,1410 1976,1410 1976,1453 1885,1453 1885,1410" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_60">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8" textType="speech">TÉ !</metadata>
+        </polygon>
+        <polygon points="2075,1202 2244,1202 2244,1246 2075,1246 2075,1202" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_61">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_9" textType="speech">NOUS NE</metadata>
+        </polygon>
+        <polygon points="2084,1259 2291,1259 2291,1285 2084,1285 2084,1259" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_62">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_9" textType="speech">LE POUVONS</metadata>
+        </polygon>
+        <polygon points="2088,1293 2287,1293 2287,1328 2088,1328 2088,1293" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_63">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_9" textType="speech">PAS... NON!</metadata>
+        </polygon>
+        <polygon points="1145,1834 1288,1834 1288,1882 1145,1882 1145,1834" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_64">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">PUCE</metadata>
+        </polygon>
+        <polygon points="1201,1873 1374,1873 1374,1934 1201,1934 1201,1873" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_65">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">PUCE</metadata>
+        </polygon>
+        <polygon points="1240,1925 1526,1925 1526,1986 1240,1986 1240,1925" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_66">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">PUCE !...</metadata>
+        </polygon>
+        <polygon points="1283,1986 1478,1986 1478,2033 1283,2033 1283,1986" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_67">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">J'AI UNE</metadata>
+        </polygon>
+        <polygon points="1288,2038 1521,2038 1521,2090 1288,2090 1288,2038" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_68">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">IDÉE !..</metadata>
+        </polygon>
+        <polygon points="1305,2098 1521,2098 1521,2141 1305,2141 1305,2098" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_69">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">PASSE MOI</metadata>
+        </polygon>
+        <polygon points="1327,2141 1530,2141 1530,2176 1327,2176 1327,2141" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_70">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">L'ENCRIER</metadata>
+        </polygon>
+        <polygon points="1353,2176 1474,2176 1474,2202 1353,2202 1353,2176" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_71">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">ET LE</metadata>
+        </polygon>
+        <polygon points="1361,2198 1508,2198 1508,2241 1361,2241 1361,2198" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_72">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11" textType="speech">PAPIER</metadata>
+        </polygon>
+        <polygon points="141,2561 760,2561 760,2600 141,2600 141,2561" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_73">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">J'AI HABILEMENT SOULIGNÉ</metadata>
+        </polygon>
+        <polygon points="150,2600 803,2600 803,2648 150,2648 150,2600" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_74">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">LE MOT PLIEZ ; DOLLY COMPREN-</metadata>
+        </polygon>
+        <polygon points="158,2643 777,2643 777,2691 158,2691 158,2643" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_75">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">DRA QU'IL FAUT PLIER NOTRE</metadata>
+        </polygon>
+        <polygon points="158,2695 786,2695 786,2739 158,2739 158,2695" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_76">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">LETTRE ... EN CHERCHANT UN</metadata>
+        </polygon>
+        <polygon points="154,2739 760,2739 760,2778 154,2778 154,2739" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_77">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">PEU, ELLE TROUVERA BIEN</metadata>
+        </polygon>
+        <polygon points="158,2782 509,2782 509,2812 158,2812 158,2782" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_78">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12" textType="speech">LA MANIÈRE ...</metadata>
+        </polygon>
+        <polygon points="275,2855 474,2855 474,2903 275,2903 275,2855" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_79">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_13" textType="speech">OUI ... OUI !</metadata>
+        </polygon>
+        <polygon points="1227,2522 1539,2522 1539,2557 1227,2557 1227,2522" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_80">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14" textType="speech">MAIS ESPÉRONS</metadata>
+        </polygon>
+        <polygon points="1227,2561 1552,2561 1552,2591 1227,2591 1227,2561" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_81">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14" textType="speech">QUE LES BANDITS</metadata>
+        </polygon>
+        <polygon points="1214,2596 1565,2596 1565,2626 1214,2626 1214,2596" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_82">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14" textType="speech">NE LA TROUVERONT</metadata>
+        </polygon>
+        <polygon points="1214,2626 1565,2626 1565,2661 1214,2661 1214,2626" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_83">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14" textType="speech">PAS, EUX, LA MANIÈ-</metadata>
+        </polygon>
+        <polygon points="1218,2661 1318,2661 1318,2700 1218,2700 1218,2661" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_84">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_14" textType="speech">RE!...</metadata>
+        </polygon>
+        <polygon points="1638,2574 2296,2574 2296,2622 1638,2622 1638,2574" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_85">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">ELLE EST TRÈS BIEN VOTRE LET</metadata>
+        </polygon>
+        <polygon points="1642,2622 2296,2622 2296,2674 1642,2674 1642,2622" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_86">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">TRE ... GENTILLE ET NAÏVE. C'est</metadata>
+        </polygon>
+        <polygon points="1642,2674 2257,2674 2257,2713 1642,2713 1642,2674" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_87">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">TOUT À FAIT CE QU'IL FAUT...</metadata>
+        </polygon>
+        <polygon points="1647,2713 2270,2713 2270,2752 1647,2752 1647,2713" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_88">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">JE VOIS AVEC PLAISIR QUE MES</metadata>
+        </polygon>
+        <polygon points="1638,2760 2313,2760 2313,2799 1638,2799 1638,2760" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_89">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">ARGUMENTS ONT SU VOUS CONVAIN-</metadata>
+        </polygon>
+        <polygon points="1634,2799 1794,2799 1794,2842 1634,2842 1634,2799" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_90">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15" textType="speech">CRE...</metadata>
+        </polygon>
+        <polygon points="1921,876 1962,876 1962,969 1921,969 1921,876" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_91">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_5" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="130,1827 467,1827 467,1943 130,1943 130,1827" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_92">
+            <metadata method="" typography="" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_10" textType="speech">MAIS ALORS ?</metadata>
+        </polygon>
+        <polygon points="1197,3271 1257,3271 1257,3336 1197,3336 1197,3271" id="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_line_93">
+            <metadata method="" typography="" textType="speech">10</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="250,589 251,589 304,865 303,865 250,589" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_1" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_0"/>
+    <polygon points="617,553 618,553 549,793 548,793 617,553" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_0" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_1"/>
+    <polygon points="1209,525 1210,525 1094,813 1093,813 1209,525" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_3" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_2"/>
+    <polygon points="1474,830 1475,830 1321,836 1320,836 1474,830" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_4" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_3"/>
+    <polygon points="1950,921 1951,921 1951,1038 1950,1038 1950,921" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_7" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_5"/>
+    <polygon points="1997,571 1998,571 2225,796 2224,796 1997,571" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_8" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_4"/>
+    <polygon points="418,1188 419,1188 253,1342 252,1342 418,1188" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_15" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_6"/>
+    <polygon points="1204,1360 1205,1360 952,1545 951,1545 1204,1360" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_13" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_7"/>
+    <polygon points="1848,1290 1849,1290 1779,1501 1778,1501 1848,1290" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_10" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_8"/>
+    <polygon points="2184,1296 2185,1296 2117,1593 2116,1593 2184,1296" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_9" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_9"/>
+    <polygon points="433,2063 434,2063 440,2401 439,2401 433,2063" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_18" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_10"/>
+    <polygon points="1334,2041 1335,2041 1177,2260 1176,2260 1334,2041" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_21" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_11"/>
+    <polygon points="366,2902 367,2902 434,3036 433,3036 366,2902" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_23" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_13"/>
+    <polygon points="469,2718 470,2718 678,3011 677,3011 469,2718" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_22" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_12"/>
+    <polygon points="1969,2785 1970,2785 2117,3070 2116,3070 1969,2785" idCharacter="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_character_26" idBalloon="SAINTOGAN_ZIGPUCE_ET_ALFRED_010_balloon_15"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sun Feb 09 10:42:16 CET 2014" lastStepModified="Balloon_Polygons"/>
+</svg>

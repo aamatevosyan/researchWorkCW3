@@ -1,0 +1,1043 @@
+{
+    "py/object": "core.comicspage.ComicsPage",
+    "title": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036",
+    "width": "5320",
+    "height": "3632",
+    "href": "assets/pages/SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036.jpg",
+    "speechbubbles": [
+        {
+            "points": [
+                [
+                    400,
+                    1425
+                ],
+                [
+                    850,
+                    1430
+                ],
+                [
+                    850,
+                    1808
+                ],
+                [
+                    390,
+                    1803
+                ],
+                [
+                    400,
+                    1425
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "1"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            400,
+                            1476
+                        ],
+                        [
+                            828,
+                            1476
+                        ],
+                        [
+                            828,
+                            1521
+                        ],
+                        [
+                            400,
+                            1521
+                        ],
+                        [
+                            400,
+                            1476
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - Avec la"
+                },
+                {
+                    "points": [
+                        [
+                            441,
+                            1530
+                        ],
+                        [
+                            832,
+                            1530
+                        ],
+                        [
+                            832,
+                            1570
+                        ],
+                        [
+                            441,
+                            1570
+                        ],
+                        [
+                            441,
+                            1530
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "prime que j'ai tou-"
+                },
+                {
+                    "points": [
+                        [
+                            436,
+                            1575
+                        ],
+                        [
+                            832,
+                            1575
+                        ],
+                        [
+                            832,
+                            1611
+                        ],
+                        [
+                            436,
+                            1611
+                        ],
+                        [
+                            436,
+                            1575
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "chée pour la cap-"
+                },
+                {
+                    "points": [
+                        [
+                            441,
+                            1620
+                        ],
+                        [
+                            832,
+                            1620
+                        ],
+                        [
+                            832,
+                            1651
+                        ],
+                        [
+                            441,
+                            1651
+                        ],
+                        [
+                            441,
+                            1620
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "ture du monstre"
+                },
+                {
+                    "points": [
+                        [
+                            436,
+                            1660
+                        ],
+                        [
+                            828,
+                            1660
+                        ],
+                        [
+                            828,
+                            1696
+                        ],
+                        [
+                            436,
+                            1696
+                        ],
+                        [
+                            436,
+                            1660
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "du Loch Ness, me"
+                },
+                {
+                    "points": [
+                        [
+                            499,
+                            1705
+                        ],
+                        [
+                            778,
+                            1705
+                        ],
+                        [
+                            778,
+                            1741
+                        ],
+                        [
+                            499,
+                            1741
+                        ],
+                        [
+                            499,
+                            1705
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "voici à l'aise"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_0"
+        },
+        {
+            "points": [
+                [
+                    1534,
+                    1805
+                ],
+                [
+                    2546,
+                    1827
+                ],
+                [
+                    2542,
+                    2122
+                ],
+                [
+                    1530,
+                    2104
+                ],
+                [
+                    1534,
+                    1805
+                ],
+                [
+                    1534,
+                    1805
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "2"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1557,
+                            1899
+                        ],
+                        [
+                            2529,
+                            1899
+                        ],
+                        [
+                            2529,
+                            1953
+                        ],
+                        [
+                            1557,
+                            1953
+                        ],
+                        [
+                            1557,
+                            1899
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - évidemment je peux pas le"
+                },
+                {
+                    "points": [
+                        [
+                            1606,
+                            1957
+                        ],
+                        [
+                            2529,
+                            1957
+                        ],
+                        [
+                            2529,
+                            1998
+                        ],
+                        [
+                            1606,
+                            1998
+                        ],
+                        [
+                            1606,
+                            1957
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "laisser dans l'état où il est, ce pauvre"
+                },
+                {
+                    "points": [
+                        [
+                            1692,
+                            2002
+                        ],
+                        [
+                            2434,
+                            2002
+                        ],
+                        [
+                            2434,
+                            2038
+                        ],
+                        [
+                            1692,
+                            2038
+                        ],
+                        [
+                            1692,
+                            2002
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "monstre... Il lui faut un vêtement."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_1"
+        },
+        {
+            "points": [
+                [
+                    380,
+                    2781
+                ],
+                [
+                    1009,
+                    2790
+                ],
+                [
+                    1006,
+                    3317
+                ],
+                [
+                    365,
+                    3301
+                ],
+                [
+                    380,
+                    2781
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "3"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            382,
+                            2835
+                        ],
+                        [
+                            985,
+                            2835
+                        ],
+                        [
+                            985,
+                            2875
+                        ],
+                        [
+                            382,
+                            2875
+                        ],
+                        [
+                            382,
+                            2835
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - Monsieur, je"
+                },
+                {
+                    "points": [
+                        [
+                            427,
+                            2875
+                        ],
+                        [
+                            981,
+                            2875
+                        ],
+                        [
+                            981,
+                            2925
+                        ],
+                        [
+                            427,
+                            2925
+                        ],
+                        [
+                            427,
+                            2875
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "voudrais que vous fissiez"
+                },
+                {
+                    "points": [
+                        [
+                            423,
+                            2920
+                        ],
+                        [
+                            981,
+                            2920
+                        ],
+                        [
+                            981,
+                            2965
+                        ],
+                        [
+                            423,
+                            2965
+                        ],
+                        [
+                            423,
+                            2920
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "un complet pour un de mes"
+                },
+                {
+                    "points": [
+                        [
+                            427,
+                            2970
+                        ],
+                        [
+                            981,
+                            2970
+                        ],
+                        [
+                            981,
+                            3010
+                        ],
+                        [
+                            427,
+                            3010
+                        ],
+                        [
+                            427,
+                            2970
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "amis...seulement, je vous"
+                },
+                {
+                    "points": [
+                        [
+                            427,
+                            3010
+                        ],
+                        [
+                            985,
+                            3010
+                        ],
+                        [
+                            985,
+                            3055
+                        ],
+                        [
+                            427,
+                            3055
+                        ],
+                        [
+                            427,
+                            3010
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "préviens, il est gros."
+                },
+                {
+                    "points": [
+                        [
+                            373,
+                            3055
+                        ],
+                        [
+                            976,
+                            3055
+                        ],
+                        [
+                            976,
+                            3100
+                        ],
+                        [
+                            373,
+                            3100
+                        ],
+                        [
+                            373,
+                            3055
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le tailleur. - Oh! j'ai la"
+                },
+                {
+                    "points": [
+                        [
+                            418,
+                            3100
+                        ],
+                        [
+                            981,
+                            3100
+                        ],
+                        [
+                            981,
+                            3141
+                        ],
+                        [
+                            418,
+                            3141
+                        ],
+                        [
+                            418,
+                            3100
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "clientèle de plusieurs mes-"
+                },
+                {
+                    "points": [
+                        [
+                            423,
+                            3141
+                        ],
+                        [
+                            976,
+                            3141
+                        ],
+                        [
+                            976,
+                            3186
+                        ],
+                        [
+                            423,
+                            3186
+                        ],
+                        [
+                            423,
+                            3141
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "sieurs Eléphants!... Où"
+                },
+                {
+                    "points": [
+                        [
+                            405,
+                            3195
+                        ],
+                        [
+                            985,
+                            3195
+                        ],
+                        [
+                            985,
+                            3235
+                        ],
+                        [
+                            405,
+                            3235
+                        ],
+                        [
+                            405,
+                            3195
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "est-il. Monsieur votre"
+                },
+                {
+                    "points": [
+                        [
+                            490,
+                            3231
+                        ],
+                        [
+                            895,
+                            3231
+                        ],
+                        [
+                            895,
+                            3276
+                        ],
+                        [
+                            490,
+                            3276
+                        ],
+                        [
+                            490,
+                            3231
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "ami? - Le voici."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_2"
+        },
+        {
+            "points": [
+                [
+                    1474,
+                    3196
+                ],
+                [
+                    2319,
+                    3203
+                ],
+                [
+                    2309,
+                    3323
+                ],
+                [
+                    1468,
+                    3309
+                ],
+                [
+                    1474,
+                    3196
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "4"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            1485,
+                            3204
+                        ],
+                        [
+                            2304,
+                            3204
+                        ],
+                        [
+                            2304,
+                            3244
+                        ],
+                        [
+                            1485,
+                            3244
+                        ],
+                        [
+                            1485,
+                            3204
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "En attendant son costume, le monstre"
+                },
+                {
+                    "points": [
+                        [
+                            1521,
+                            3244
+                        ],
+                        [
+                            2259,
+                            3244
+                        ],
+                        [
+                            2259,
+                            3298
+                        ],
+                        [
+                            1521,
+                            3298
+                        ],
+                        [
+                            1521,
+                            3244
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "du Loch Ness apprend ses lettres."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_3"
+        },
+        {
+            "points": [
+                [
+                    2882,
+                    1410
+                ],
+                [
+                    3554,
+                    1415
+                ],
+                [
+                    3552,
+                    1612
+                ],
+                [
+                    2876,
+                    1606
+                ],
+                [
+                    2882,
+                    1410
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "5"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2907,
+                            1453
+                        ],
+                        [
+                            3510,
+                            1453
+                        ],
+                        [
+                            3510,
+                            1498
+                        ],
+                        [
+                            2907,
+                            1498
+                        ],
+                        [
+                            2907,
+                            1453
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Le tailleur. - Voilà le cos-"
+                },
+                {
+                    "points": [
+                        [
+                            2952,
+                            1507
+                        ],
+                        [
+                            3515,
+                            1507
+                        ],
+                        [
+                            3515,
+                            1543
+                        ],
+                        [
+                            2952,
+                            1543
+                        ],
+                        [
+                            2952,
+                            1507
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "tume de Monsieur de Loch"
+                },
+                {
+                    "points": [
+                        [
+                            3159,
+                            1548
+                        ],
+                        [
+                            3294,
+                            1548
+                        ],
+                        [
+                            3294,
+                            1597
+                        ],
+                        [
+                            3159,
+                            1597
+                        ],
+                        [
+                            3159,
+                            1548
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Ness."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_4"
+        },
+        {
+            "points": [
+                [
+                    3756,
+                    2434
+                ],
+                [
+                    4227,
+                    2436
+                ],
+                [
+                    4228,
+                    2498
+                ],
+                [
+                    3756,
+                    2497
+                ],
+                [
+                    3756,
+                    2434
+                ],
+                [
+                    3756,
+                    2434
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "6"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3762,
+                            2434
+                        ],
+                        [
+                            4221,
+                            2434
+                        ],
+                        [
+                            4221,
+                            2488
+                        ],
+                        [
+                            3762,
+                            2488
+                        ],
+                        [
+                            3762,
+                            2434
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "Le salon de coiffure."
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_5"
+        },
+        {
+            "points": [
+                [
+                    2910,
+                    3167
+                ],
+                [
+                    3734,
+                    3168
+                ],
+                [
+                    3734,
+                    3335
+                ],
+                [
+                    2905,
+                    3329
+                ],
+                [
+                    2910,
+                    3167
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "7"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            2907,
+                            3168
+                        ],
+                        [
+                            3726,
+                            3168
+                        ],
+                        [
+                            3726,
+                            3222
+                        ],
+                        [
+                            2907,
+                            3222
+                        ],
+                        [
+                            2907,
+                            3168
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "Prosper. - Il est indispensable que"
+                },
+                {
+                    "points": [
+                        [
+                            2943,
+                            3226
+                        ],
+                        [
+                            3731,
+                            3226
+                        ],
+                        [
+                            3731,
+                            3271
+                        ],
+                        [
+                            2943,
+                            3271
+                        ],
+                        [
+                            2943,
+                            3226
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "vous marchiez sur deux pieds,"
+                },
+                {
+                    "points": [
+                        [
+                            3065,
+                            3267
+                        ],
+                        [
+                            3605,
+                            3267
+                        ],
+                        [
+                            3605,
+                            3312
+                        ],
+                        [
+                            3065,
+                            3312
+                        ],
+                        [
+                            3065,
+                            3267
+                        ]
+                    ],
+                    "textType": "speech",
+                    "text": "comme tout le monde!"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_6"
+        },
+        {
+            "points": [
+                [
+                    3901,
+                    3257
+                ],
+                [
+                    4864,
+                    3261
+                ],
+                [
+                    4872,
+                    3337
+                ],
+                [
+                    3908,
+                    3333
+                ],
+                [
+                    3901,
+                    3257
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "8"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            3906,
+                            3267
+                        ],
+                        [
+                            4865,
+                            3267
+                        ],
+                        [
+                            4865,
+                            3321
+                        ],
+                        [
+                            3906,
+                            3321
+                        ],
+                        [
+                            3906,
+                            3267
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "M. du Loch Ness (ex-monstre) gentleman!"
+                }
+            ],
+            "id": "SAINTOGAN_PROSPER_ET_LE_MONSTRE_MARIN_036_balloon_7"
+        }
+    ]
+}

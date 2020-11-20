@@ -1,0 +1,230 @@
+[
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            107,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/reduce": [
+                            {
+                                "py/type": "numpy.dtype"
+                            },
+                            {
+                                "py/tuple": [
+                                    "i4",
+                                    false,
+                                    true
+                                ]
+                            },
+                            {
+                                "py/tuple": [
+                                    3,
+                                    "<",
+                                    null,
+                                    null,
+                                    null,
+                                    -1,
+                                    -1,
+                                    0
+                                ]
+                            }
+                        ]
+                    },
+                    false,
+                    {
+                        "py/b64": "vQAAAOgBAAC8AAAA6QEAALoAAADpAQAAuQAAAOoBAAC3AAAA6gEAALYAAADrAQAAtAAAAOsBAACzAAAA7AEAALAAAADsAQAArgAAAO4BAACuAAAA8AEAAKsAAADzAQAApAAAAPMBAACjAAAA9AEAAKIAAAD0AQAAoQAAAPUBAACgAAAA9QEAAKAAAAD2AQAAnwAAAPcBAACgAAAA+AEAAJ0AAAD7AQAAnAAAAPsBAACbAAAA/AEAAJsAAAD9AQAAmQAAAP8BAACaAAAAAAIAAJcAAAADAgAAlwAAAAoCAACWAAAACwIAAJYAAAANAgAAlwAAAA4CAACXAAAAEQIAAJgAAAARAgAAmQAAABICAACYAAAAEwIAAJoAAAAVAgAAmwAAABUCAACdAAAAFwIAAJ4AAAAXAgAAnwAAABgCAACeAAAAGQIAAJ8AAAAaAgAAnwAAABsCAACgAAAAGwIAAKIAAAAdAgAAowAAAB0CAACkAAAAHgIAAKYAAAAeAgAApwAAAB8CAAC+AAAAHwIAAL8AAAAgAgAAwAAAACACAADCAAAAIgIAAMUAAAAiAgAAxgAAACMCAADRAAAAIwIAANIAAAAiAgAA1AAAACICAADWAAAAIAIAANcAAAAhAgAA2QAAAB8CAADaAAAAHwIAANoAAAAeAgAA2wAAAB0CAADcAAAAHQIAAN8AAAAaAgAA3wAAABkCAADhAAAAFwIAAOcAAAAXAgAA5wAAABYCAADoAAAAFQIAAOgAAAAUAgAA6QAAABMCAADpAAAAEgIAAOwAAAAPAgAA7AAAAA0CAADtAAAADAIAAO0AAAADAgAA6wAAAAECAADrAAAAAAIAAOoAAAD/AQAA6gAAAP4BAADlAAAA+QEAAOQAAAD5AQAA4wAAAPgBAADiAAAA+QEAAOAAAAD3AQAA3gAAAPcBAADdAAAA9gEAANsAAAD2AQAA2gAAAPcBAADXAAAA9AEAANgAAADzAQAA2AAAAPIBAADTAAAA7QEAANIAAADtAQAA0QAAAOwBAADQAAAA7AEAAM8AAADrAQAAzgAAAOsBAADNAAAA6gEAAMwAAADqAQAAywAAAOkBAADKAAAA6QEAAMkAAADoAQAAvwAAAOgBAAC+AAAA6QEAAA=="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            133,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "MgAAAN8BAAAxAAAA4AEAAC4AAADgAQAALAAAAOIBAAArAAAA4gEAACoAAADjAQAAKQAAAOMBAAAoAAAA5AEAACYAAADkAQAAJQAAAOUBAAAjAAAA5QEAACIAAADmAQAAIgAAAOgBAAAhAAAA6QEAACEAAADqAQAAIAAAAOsBAAAgAAAA7gEAAB0AAADxAQAAGwAAAPEBAAAZAAAA8wEAABgAAADzAQAAFgAAAPUBAAAWAAAA9gEAABUAAAD3AQAAFQAAAPgBAAAUAAAA+QEAABUAAAD6AQAAFQAAAP0BAAATAAAA/wEAABMAAAAFAgAAFAAAAAYCAAATAAAABwIAABMAAAANAgAAEgAAAA4CAAASAAAAFwIAABMAAAAYAgAAFgAAABgCAAAXAAAAGQIAABgAAAAZAgAAGQAAABoCAAAZAAAAHAIAABwAAAAfAgAAHgAAAB8CAAAgAAAAIQIAACQAAAAhAgAAJQAAACICAAAxAAAAIgIAADIAAAAjAgAAMwAAACICAAA2AAAAIgIAADcAAAAhAgAAOQAAACECAAA6AAAAIAIAADsAAAAgAgAAPAAAAB8CAAA9AAAAHwIAAD8AAAAdAgAAQAAAAB4CAABDAAAAHgIAAEQAAAAdAgAATQAAAB0CAABPAAAAHwIAAFYAAAAfAgAAVwAAACACAABZAAAAIAIAAFoAAAAhAgAAXgAAACECAABfAAAAIAIAAGAAAAAhAgAAYgAAACECAABjAAAAIAIAAGUAAAAgAgAAZgAAAB8CAABnAAAAHwIAAGkAAAAdAgAAagAAAB0CAABrAAAAHAIAAGwAAAAcAgAAcgAAABYCAABzAAAAFgIAAHYAAAATAgAAdgAAABICAAB3AAAAEQIAAHcAAAAOAgAAeAAAAA0CAAB3AAAADAIAAHgAAAALAgAAdwAAAAoCAAB3AAAA+wEAAHYAAAD6AQAAdgAAAPkBAAB1AAAA+QEAAHQAAAD4AQAAdAAAAPcBAABzAAAA9wEAAHEAAAD1AQAAbQAAAPUBAABqAAAA8gEAAGoAAADxAQAAZAAAAOsBAABjAAAA6wEAAGIAAADqAQAAYQAAAOoBAABgAAAA6QEAAF4AAADpAQAAXQAAAOgBAABcAAAA6AEAAFsAAADpAQAAWgAAAOgBAABYAAAA6AEAAFcAAADpAQAAVgAAAOgBAABVAAAA6QEAAFMAAADpAQAAUgAAAOoBAABRAAAA6gEAAFAAAADrAQAATwAAAOoBAABOAAAA6gEAAEwAAADoAQAATAAAAOYBAABLAAAA5QEAAEsAAADkAQAASgAAAOMBAABJAAAA4wEAAEgAAADiAQAARwAAAOIBAABFAAAA4AEAAEQAAADgAQAAQwAAAN8BAABCAAAA3wEAAEEAAADgAQAAQAAAAN8BAAA="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            114,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "GgEAAAUBAAAYAQAABwEAABcBAAAGAQAAFgEAAAcBAAAVAQAABgEAABQBAAAHAQAAEwEAAAcBAAAQAQAACgEAAA8BAAAKAQAADgEAAAsBAAANAQAACwEAAAsBAAANAQAACgEAAA0BAAAJAQAADgEAAAcBAAAOAQAABgEAAA8BAAACAQAADwEAAAEBAAAQAQAAAAEAABABAAAAAQAAEQEAAP8AAAASAQAA/gAAABIBAAD9AAAAEwEAAPwAAAATAQAA+gAAABUBAAD5AAAAFQEAAPYAAAAYAQAA9gAAABkBAAD1AAAAGgEAAPYAAAAbAQAA9QAAABwBAAD0AAAAHAEAAPQAAAAeAQAA9QAAAB8BAAD0AAAAIAEAAPQAAAAnAQAA9QAAACgBAAD1AAAAKwEAAPYAAAAsAQAA9gAAAC0BAAD3AAAALQEAAPgAAAAuAQAA+gAAAC4BAAD8AAAAMAEAAP0AAAAwAQAA/gAAADEBAAD+AAAAMgEAAAABAAA0AQAAAQEAADQBAAACAQAANQEAAAQBAAA1AQAABQEAADYBAAAHAQAANgEAAAgBAAA1AQAACQEAADYBAAAKAQAANgEAAAsBAAA3AQAADAEAADcBAAANAQAAOAEAAA8BAAA4AQAAEAEAADkBAAAVAQAAOQEAABYBAAA6AQAAHAEAADoBAAAdAQAAOQEAACMBAAA5AQAAJAEAADgBAAAlAQAAOAEAACYBAAA3AQAAKQEAADcBAAArAQAANQEAACwBAAA1AQAALgEAADMBAAAvAQAAMwEAADEBAAAxAQAANgEAADEBAAA3AQAAMAEAADgBAAAwAQAAOQEAAC8BAAA8AQAALwEAAD8BAAAyAQAAQAEAADIBAABBAQAAMwEAAEEBAAAyAQAAQAEAADEBAABBAQAAMAEAAEABAAAvAQAAQAEAACoBAABBAQAAKQEAAEEBAAAoAQAAQAEAACcBAABAAQAAJgEAAEEBAAAlAQAAQQEAAB8BAABCAQAAHgEAAEIBAAAYAQAAQQEAABcBAABAAQAAFwEAAD0BAAAUAQAAPgEAABMBAAA9AQAAEgEAAD0BAAARAQAAPAEAABIBAAA7AQAAEQEAADsBAAAPAQAAOgEAAA4BAAA6AQAACwEAADkBAAAKAQAAOAEAAAoBAAA1AQAABwEAADQBAAAHAQAAMwEAAAYBAAAvAQAABgEAAC4BAAAFAQAA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            133,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "oAEAAAIBAACfAQAAAwEAAJsBAAADAQAAmgEAAAQBAACYAQAABAEAAJcBAAAFAQAAlQEAAAUBAACUAQAABgEAAJEBAAAGAQAAkAEAAAcBAACPAQAABwEAAI0BAAAJAQAAjAEAAAkBAACKAQAACwEAAIcBAAALAQAAhgEAAAwBAACBAQAADAEAAH0BAAAQAQAAeAEAABABAAB2AQAAEgEAAHUBAAASAQAAdAEAABMBAABzAQAAEwEAAHMBAAAUAQAAbwEAABgBAABvAQAAGQEAAG0BAAAbAQAAbQEAABwBAABsAQAAHQEAAGwBAAAhAQAAawEAACIBAABrAQAAJwEAAGwBAAAoAQAAbAEAACkBAABtAQAAKgEAAG0BAAArAQAAbgEAACwBAABuAQAALQEAAG8BAAAtAQAAdgEAADQBAAB+AQAANAEAAIABAAA2AQAAgAEAADgBAACBAQAAOAEAAIIBAAA5AQAAggEAADoBAACEAQAAOgEAAIYBAAA8AQAAhwEAADwBAACIAQAAPQEAAJYBAAA9AQAAlwEAADwBAACYAQAAPQEAAJoBAAA9AQAAnAEAADsBAACdAQAAOwEAAJ4BAAA8AQAAnwEAADwBAACgAQAAOwEAAKEBAAA8AQAApAEAADwBAAClAQAAPQEAAKcBAAA9AQAAqAEAAD4BAACrAQAAPgEAAKwBAAA9AQAArgEAAD0BAACvAQAAPgEAALcBAAA+AQAAuAEAAD0BAAC6AQAAPQEAALsBAAA8AQAAvAEAAD0BAAC9AQAAPAEAAL8BAAA8AQAAwAEAADsBAADBAQAAOwEAAMIBAAA6AQAAwwEAADoBAADEAQAAOQEAAMUBAAA5AQAAxQEAADgBAADGAQAANwEAAMgBAAA3AQAAyQEAADYBAADPAQAANgEAANEBAAA0AQAA0gEAADUBAADSAQAANAEAANMBAAAzAQAA1AEAADMBAADTAQAAMgEAANUBAAAwAQAA1QEAACwBAADWAQAAKwEAANYBAAAqAQAA1wEAACkBAADXAQAAJwEAANgBAAAmAQAA2AEAAB8BAADXAQAAHgEAANcBAAAdAQAA1gEAABwBAADXAQAAGwEAANQBAAAYAQAA1AEAABcBAADTAQAAFwEAANIBAAAWAQAA0gEAABUBAADRAQAAFAEAANABAAAUAQAAzwEAABMBAADOAQAAEwEAAM0BAAASAQAAywEAABIBAADKAQAAEQEAAMgBAAARAQAAxwEAABABAAC+AQAAEAEAAL0BAAARAQAAuwEAABEBAAC5AQAADwEAALkBAAAOAQAAuAEAAA0BAAC5AQAADAEAALkBAAALAQAAtQEAAAcBAAC0AQAABwEAALEBAAAEAQAArQEAAAQBAACsAQAAAwEAAKkBAAADAQAAqAEAAAIBAAA="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            220,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "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"
+                    }
+                ]
+            }
+        ]
+    }
+]

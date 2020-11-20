@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1240mm" zoomAndPan="magnify" contentStyleType="text/css" height="1754mm" viewBox="0 0 2480 3508" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>FRED_PHILEMON12_040</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="2480" xlink:href="../Pages/FRED_PHILEMON12_040.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3508" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Philémon" editorName="Dargaud" doublePage="false" website="" albumTitle="Le Chat A Neuf Queues" drawerName="Fred" language="french" resolution="600" ISBN="978-2205055153" readingDirection="leftToRight" writerName="Fred" releaseDate="2004" pageNumber="40"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="1,343 1100,330 1118,1276 1,1291 1,343" id="FRED_PHILEMON12_040_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="1131,335 2272,315 2288,1259 1148,1274 1131,335" id="FRED_PHILEMON12_040_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="757,1308 1511,1300 1527,2244 770,2252 757,1308" id="FRED_PHILEMON12_040_panel_2">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="1540,1299 2288,1291 2303,2235 1553,2243 1540,1299" id="FRED_PHILEMON12_040_panel_3">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="0,2289 6,3234 552,3228 535,2280 0,2289" id="FRED_PHILEMON12_040_panel_4">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="566,2367 1572,2354 1587,3219 584,3231 566,2367" id="FRED_PHILEMON12_040_panel_5">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="1597,2270 2315,2260 2319,3212 1609,3219 1597,2270" id="FRED_PHILEMON12_040_panel_6">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="0,1316 727,1307 745,2252 0,2261 0,1316" id="FRED_PHILEMON12_040_panel_7">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="573,634 610,591 657,583 713,585 742,601 763,643 768,660 760,810 711,839 655,855 605,852 604,844 596,877 587,921 583,880 585,847 562,836 548,804 555,669 573,634" id="FRED_PHILEMON12_040_balloon_0">
+            <metadata borderStyle="smooth" tailTip="587,921" boundingBox="" tailDirection="S" rank="1"/>
+        </polygon>
+        <polygon points="722,833 744,837 756,851 761,914 742,927 721,937 707,957 708,943 678,948 658,946 652,940 637,940 620,937 616,929 608,913 609,882 628,856 722,833" id="FRED_PHILEMON12_040_balloon_1">
+            <metadata borderStyle="smooth" tailTip="707,957" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+        <polygon points="1904,386 1997,370 2118,370 2197,370 2240,396 2265,458 2268,535 2262,613 2242,676 2201,700 2170,708 2116,731 2144,706 2120,711 2046,710 1985,706 1896,692 1848,658 1817,581 1822,480 1855,406 1904,386" id="FRED_PHILEMON12_040_balloon_2">
+            <metadata borderStyle="smooth" tailTip="2116,731" boundingBox="" tailDirection="SW" rank="3"/>
+        </polygon>
+        <polygon points="1711,936 1733,924 1758,921 1780,936 1794,959 1789,979 1778,995 1759,1004 1750,1004 1755,1021 1740,1009 1719,1003 1700,982 1697,952 1711,936" id="FRED_PHILEMON12_040_balloon_3">
+            <metadata borderStyle="smooth" tailTip="1755,1021" boundingBox="" tailDirection="SE" rank="4"/>
+        </polygon>
+        <polygon points="1918,868 1932,861 1951,860 1973,860 1982,870 1990,881 1995,900 1987,931 1979,943 1928,963 1908,957 1909,968 1915,978 1901,976 1893,952 1879,957 1862,956 1842,929 1849,900 1866,873 1887,860 1902,864 1918,868" id="FRED_PHILEMON12_040_balloon_4">
+            <metadata borderStyle="smooth" tailTip="1915,978" boundingBox="" tailDirection="S" rank="5"/>
+        </polygon>
+        <polygon points="2047,1093 2057,1084 2062,1082 2074,1083 2081,1091 2086,1098 2082,1107 2076,1113 2069,1117 2054,1128 2058,1117 2051,1117 2043,1113 2042,1104 2047,1093" id="FRED_PHILEMON12_040_balloon_5">
+            <metadata borderStyle="smooth" tailTip="2054,1128" boundingBox="" tailDirection="SW" rank="6"/>
+        </polygon>
+        <polygon points="2100,1102 2119,1086 2129,1086 2145,1090 2149,1096 2153,1108 2152,1115 2135,1127 2117,1128 2111,1130 2100,1130 2109,1121 2102,1117 2099,1110 2100,1102" id="FRED_PHILEMON12_040_balloon_6">
+            <metadata borderStyle="smooth" tailTip="2100,1130" boundingBox="" tailDirection="SW" rank="7"/>
+        </polygon>
+        <polygon points="323,1464 365,1444 389,1438 413,1440 428,1442 460,1430 484,1429 505,1428 520,1431 531,1433 545,1437 568,1430 588,1424 606,1424 629,1423 662,1431 683,1449 690,1457 694,1478 694,1492 694,1508 688,1532 682,1548 670,1556 661,1558 650,1575 623,1589 639,1571 645,1558 624,1564 494,1600 476,1602 465,1604 442,1607 427,1609 377,1613 342,1613 314,1605 292,1595 285,1575 289,1547 282,1528 291,1496 323,1464" id="FRED_PHILEMON12_040_balloon_7">
+            <metadata borderStyle="smooth" tailTip="623,1589" boundingBox="" tailDirection="SW" rank="8"/>
+        </polygon>
+        <polygon points="1085,1488 1132,1463 1197,1462 1241,1475 1290,1499 1314,1523 1311,1546 1303,1588 1283,1609 1266,1613 1278,1651 1265,1643 1256,1626 1247,1615 1208,1620 1179,1613 1150,1619 1098,1606 1072,1585 1067,1547 1069,1521 1085,1488" id="FRED_PHILEMON12_040_balloon_8">
+            <metadata borderStyle="smooth" tailTip="1278,1651" boundingBox="" tailDirection="SE" rank="9"/>
+        </polygon>
+        <polygon points="1793,1423 1835,1407 1855,1407 1889,1413 1914,1429 1959,1406 2006,1400 2043,1398 2093,1410 2131,1420 2169,1450 2193,1504 2198,1558 2182,1596 2158,1632 2118,1661 2073,1679 2020,1676 1993,1670 1951,1681 1902,1681 1862,1676 1834,1668 1812,1657 1823,1702 1802,1680 1791,1656 1761,1634 1736,1590 1736,1523 1763,1460 1793,1423" id="FRED_PHILEMON12_040_balloon_9">
+            <metadata borderStyle="smooth" tailTip="1823,1702" boundingBox="" tailDirection="S" rank="10"/>
+        </polygon>
+        <polygon points="2164,2017 2197,2017 2226,2036 2229,2078 2201,2106 2180,2113 2171,2105 2156,2129 2154,2113 2129,2103 2123,2070 2143,2032 2164,2017" id="FRED_PHILEMON12_040_balloon_10">
+            <metadata borderStyle="smooth" tailTip="2156,2129" boundingBox="" tailDirection="S" rank="11"/>
+        </polygon>
+        <polygon points="53,2335 108,2307 150,2294 194,2294 230,2297 270,2305 292,2298 336,2293 387,2307 413,2325 431,2361 439,2394 419,2433 380,2453 318,2460 247,2464 211,2460 209,2486 197,2498 183,2509 181,2522 174,2549 161,2547 166,2514 175,2492 193,2478 192,2467 153,2466 109,2452 87,2437 59,2429 45,2419 42,2388 38,2354 53,2335" id="FRED_PHILEMON12_040_balloon_11">
+            <metadata borderStyle="smooth" tailTip="161,2547" boundingBox="" tailDirection="S" rank="12"/>
+        </polygon>
+        <polygon points="234,2485 257,2471 272,2468 295,2473 307,2485 310,2501 307,2519 288,2536 267,2538 259,2559 247,2557 251,2536 235,2529 225,2505 234,2485" id="FRED_PHILEMON12_040_balloon_12">
+            <metadata borderStyle="smooth" tailTip="247,2557" boundingBox="" tailDirection="S" rank="13"/>
+        </polygon>
+        <polygon points="341,2485 368,2459 392,2456 417,2456 434,2474 436,2498 425,2524 410,2536 386,2537 376,2552 376,2567 362,2564 364,2548 369,2534 354,2535 338,2516 338,2501 341,2485" id="FRED_PHILEMON12_040_balloon_13">
+            <metadata borderStyle="smooth" tailTip="362,2564" boundingBox="" tailDirection="S" rank="14"/>
+        </polygon>
+        <polygon points="666,2410 708,2396 752,2397 788,2410 821,2396 871,2392 913,2392 953,2404 996,2392 1039,2406 1066,2420 1082,2449 1070,2500 1037,2528 885,2559 794,2556 721,2543 705,2579 687,2596 666,2620 659,2641 656,2668 661,2697 667,2728 692,2770 659,2750 646,2701 647,2640 658,2600 692,2573 702,2540 668,2534 644,2519 636,2500 629,2490 620,2472 626,2448 666,2410" id="FRED_PHILEMON12_040_balloon_14">
+            <metadata borderStyle="smooth" tailTip="692,2770" boundingBox="" tailDirection="SE" rank="15"/>
+        </polygon>
+        <polygon points="809,2566 846,2558 880,2556 911,2560 946,2569 981,2559 1016,2556 1038,2559 1074,2569 1098,2631 1076,2672 1040,2696 975,2723 916,2728 855,2733 850,2747 857,2773 842,2755 833,2733 774,2725 726,2699 704,2672 704,2630 716,2601 740,2579 768,2566 809,2566" id="FRED_PHILEMON12_040_balloon_15">
+            <metadata borderStyle="smooth" tailTip="857,2773" boundingBox="" tailDirection="SE" rank="16"/>
+        </polygon>
+        <polygon points="1227,2660 1264,2631 1293,2618 1325,2622 1356,2631 1358,2644 1385,2639 1424,2647 1453,2675 1473,2714 1474,2747 1467,2779 1438,2804 1393,2827 1335,2839 1308,2835 1281,2825 1272,2887 1257,2941 1261,2892 1262,2830 1232,2821 1206,2799 1200,2764 1205,2706 1227,2660" id="FRED_PHILEMON12_040_balloon_16">
+            <metadata borderStyle="smooth" tailTip="1257,2941" boundingBox="" tailDirection="S" rank="17"/>
+        </polygon>
+        <polygon points="1474,2767 1500,2771 1524,2773 1552,2787 1582,2809 1607,2857 1619,2907 1619,2935 1611,2967 1582,2992 1546,3008 1473,3017 1436,3009 1416,3012 1382,3015 1354,3011 1327,3002 1322,2998 1311,3018 1310,3003 1313,2994 1292,2975 1280,2931 1284,2886 1298,2852 1312,2833 1468,2769 1474,2767" id="FRED_PHILEMON12_040_balloon_17">
+            <metadata borderStyle="smooth" tailTip="1311,3018" boundingBox="" tailDirection="S" rank="18"/>
+        </polygon>
+        <polygon points="1637,2948 1648,2927 1660,2913 1673,2909 1688,2912 1702,2922 1707,2935 1707,2953 1702,2971 1692,2979 1680,2983 1669,3005 1668,2986 1641,2983 1634,2973 1637,2948" id="FRED_PHILEMON12_040_balloon_18">
+            <metadata borderStyle="smooth" tailTip="1669,3005" boundingBox="" tailDirection="S" rank="19"/>
+        </polygon>
+        <polygon points="1662,2674 1680,2647 1696,2630 1723,2615 1740,2607 1767,2606 1794,2606 1823,2609 1857,2614 1868,2616 1897,2607 1925,2605 1948,2605 1972,2606 1988,2606 2007,2610 2026,2617 2032,2619 2051,2613 2081,2610 2103,2610 2129,2610 2145,2613 2161,2621 2169,2633 2170,2666 2162,2687 2151,2706 2088,2747 2060,2757 2029,2765 1999,2772 1966,2775 1939,2780 1935,2822 1927,2865 1909,2938 1919,2863 1920,2805 1918,2780 1852,2782 1797,2776 1732,2757 1693,2739 1672,2724 1657,2692 1662,2674" id="FRED_PHILEMON12_040_balloon_19">
+            <metadata borderStyle="smooth" tailTip="1909,2938" boundingBox="" tailDirection="S" rank="20"/>
+        </polygon>
+        <polygon points="2172,2706 2207,2701 2237,2702 2270,2704 2292,2718 2302,2724 2306,2753 2293,2787 2261,2806 2229,2812 2184,2814 2152,2810 2132,2800 2119,2797 2104,2784 2095,2780 2091,2774 2050,2787 2009,2819 1988,2861 1984,2890 1994,2936 2000,2957 2001,2986 1990,3011 1991,2986 1993,2957 1983,2929 1977,2901 1979,2855 1991,2816 2016,2790 2059,2770 2078,2763 2089,2742 2100,2721 2127,2708 2142,2706 2172,2706" id="FRED_PHILEMON12_040_balloon_20">
+            <metadata borderStyle="smooth" tailTip="1990,3011" boundingBox="" tailDirection="S" rank="21"/>
+        </polygon>
+        <polygon points="2008,2833 2018,2814 2049,2791 2080,2782 2100,2780 2188,2817 2193,2840 2185,2867 2161,2888 2128,2902 2101,2903 2087,2898 2064,2904 2042,2903 2027,2895 2018,2879 1989,2903 1961,2924 1931,2940 1951,2921 1979,2900 1996,2878 2011,2858 2004,2848 2008,2833" id="FRED_PHILEMON12_040_balloon_21">
+            <metadata borderStyle="smooth" tailTip="1931,2940" boundingBox="" tailDirection="SW" rank="22"/>
+        </polygon>
+        <polygon points="2199,2850 2231,2855 2254,2850 2275,2848 2300,2856 2312,2870 2314,2926 2295,2948 2271,2959 2251,2963 2226,2957 2205,2959 2188,2955 2177,2946 2163,2943 2150,2931 2124,2937 2082,2956 2071,2966 2043,2986 2022,3016 2012,3027 2027,2995 2050,2970 2071,2949 2093,2937 2127,2923 2142,2914 2147,2893 2190,2854 2199,2850" id="FRED_PHILEMON12_040_balloon_22">
+            <metadata borderStyle="smooth" tailTip="2012,3027" boundingBox="" tailDirection="SW" rank="23"/>
+        </polygon>
+        <polygon points="2098,2982 2117,2964 2144,2948 2173,2944 2174,2947 2256,2965 2267,2990 2267,3020 2253,3049 2236,3065 2213,3073 2195,3074 2180,3069 2152,3072 2120,3061 2109,3049 2107,3038 2090,3029 2093,3007 2081,3002 2064,2978 2041,2965 2018,2964 1996,2964 1965,2968 1939,2982 1901,2999 1909,2984 1937,2969 1966,2959 2001,2953 2037,2954 2060,2962 2079,2977 2088,2986 2092,2989 2098,2982" id="FRED_PHILEMON12_040_balloon_23">
+            <metadata borderStyle="smooth" tailTip="1901,2999" boundingBox="" tailDirection="SW" rank="24"/>
+        </polygon>
+        <polygon points="2134,3082 2153,3068 2249,3054 2273,3058 2292,3065 2303,3078 2307,3094 2310,3109 2308,3130 2295,3150 2271,3157 2248,3153 2230,3162 2210,3165 2193,3164 2176,3161 2163,3157 2151,3149 2141,3153 2125,3145 2118,3137 2119,3118 2128,3099 2100,3094 2049,3072 2082,3078 2113,3085 2134,3082" id="FRED_PHILEMON12_040_balloon_24">
+            <metadata borderStyle="smooth" tailTip="2049,3072" boundingBox="" tailDirection="NW" rank="25"/>
+        </polygon>
+        <polygon points="2106,3134 2122,3137 2187,3162 2196,3181 2191,3201 2179,3212 2062,3212 2058,3189 2056,3176 2055,3156 2070,3145 2086,3134 2094,3105 2087,3077 2072,3050 2051,3033 2031,3016 2012,3015 1986,3004 1967,3003 1933,3007 1882,3025 1903,3007 1935,2999 1967,2995 1995,2994 2015,3003 2046,3013 2076,3040 2099,3074 2105,3096 2105,3129 2106,3134" id="FRED_PHILEMON12_040_balloon_25">
+            <metadata borderStyle="smooth" tailTip="1882,3025" boundingBox="" tailDirection="W" rank="26"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="553,921 618,921 618,1054 553,1054 553,921" id="FRED_PHILEMON12_040_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="642,947 727,947 727,1080 642,1080 642,947" id="FRED_PHILEMON12_040_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1153,845 1315,845 1315,1279 1153,1279 1153,845" id="FRED_PHILEMON12_040_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2065,1131 2098,1131 2098,1195 2065,1195 2065,1131" id="FRED_PHILEMON12_040_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2034,1134 2061,1134 2061,1197 2034,1197 2034,1134" id="FRED_PHILEMON12_040_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1759,1017 1886,1017 1886,1209 1759,1209 1759,1017" id="FRED_PHILEMON12_040_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1896,993 1992,993 1992,1160 1896,1160 1896,993" id="FRED_PHILEMON12_040_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1702,684 1919,684 1919,1044 1702,1044 1702,684" id="FRED_PHILEMON12_040_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1913,684 2138,684 2138,984 1913,984 1913,684" id="FRED_PHILEMON12_040_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="462,1520 634,1520 634,1850 462,1850 462,1520" id="FRED_PHILEMON12_040_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="134,1516 299,1516 299,1864 134,1864 134,1516" id="FRED_PHILEMON12_040_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1043,1602 1153,1602 1153,1915 1043,1915 1043,1602" id="FRED_PHILEMON12_040_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1227,1645 1389,1645 1389,2006 1227,2006 1227,1645" id="FRED_PHILEMON12_040_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1669,1651 2256,1651 2256,2208 1669,2208 1669,1651" id="FRED_PHILEMON12_040_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="2052,2115 2241,2115 2241,2561 2052,2561 2052,2115" id="FRED_PHILEMON12_040_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1847,3001 2077,3001 2077,3223 1847,3223 1847,3001" id="FRED_PHILEMON12_040_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1642,2936 1904,2936 1904,3218 1642,3218 1642,2936" id="FRED_PHILEMON12_040_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1604,2986 1728,2986 1728,3208 1604,3208 1604,2986" id="FRED_PHILEMON12_040_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1391,3013 1463,3013 1463,3148 1391,3148 1391,3013" id="FRED_PHILEMON12_040_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1298,3011 1376,3011 1376,3159 1298,3159 1298,3011" id="FRED_PHILEMON12_040_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="1187,2960 1275,2960 1275,3146 1187,3146 1187,2960" id="FRED_PHILEMON12_040_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="990,2688 1124,2688 1124,2990 990,2990 990,2688" id="FRED_PHILEMON12_040_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="814,2765 1133,2765 1133,3136 814,3136 814,2765" id="FRED_PHILEMON12_040_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="637,2747 832,2747 832,3166 637,3166 637,2747" id="FRED_PHILEMON12_040_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="609,604 711,604 711,638 609,638 609,604" id="FRED_PHILEMON12_040_line_0">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">QUOI ?</metadata>
+        </polygon>
+        <polygon points="590,642 698,642 698,667 590,667 590,642" id="FRED_PHILEMON12_040_line_1">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">VOUS</metadata>
+        </polygon>
+        <polygon points="589,669 670,669 670,692 589,692 589,669" id="FRED_PHILEMON12_040_line_2">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">VOUS</metadata>
+        </polygon>
+        <polygon points="585,688 759,688 759,721 585,721 585,688" id="FRED_PHILEMON12_040_line_3">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">CONNAISSEZ</metadata>
+        </polygon>
+        <polygon points="582,725 726,725 726,750 582,750 582,725" id="FRED_PHILEMON12_040_line_4">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">LE CHAT</metadata>
+        </polygon>
+        <polygon points="580,756 722,756 719,784 580,786 580,756" id="FRED_PHILEMON12_040_line_5">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">A NEUF</metadata>
+        </polygon>
+        <polygon points="578,776 740,776 740,814 578,814 578,776" id="FRED_PHILEMON12_040_line_6">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_0" textType="speech">QUEUES ?</metadata>
+        </polygon>
+        <polygon points="634,860 750,860 750,885 634,885 634,860" id="FRED_PHILEMON12_040_line_7">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_1" textType="speech">ÉVIDEM-</metadata>
+        </polygon>
+        <polygon points="634,886 742,886 741,908 634,914 634,886" id="FRED_PHILEMON12_040_line_8">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_1" textType="speech">MENT.</metadata>
+        </polygon>
+        <polygon points="1878,412 2236,412 2236,451 1878,451 1878,412" id="FRED_PHILEMON12_040_line_9">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">DANS LE CHOBISE?</metadata>
+        </polygon>
+        <polygon points="1865,448 2189,448 2189,476 1865,476 1865,448" id="FRED_PHILEMON12_040_line_10">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">TOUT LE MONDE</metadata>
+        </polygon>
+        <polygon points="1868,472 2179,472 2179,504 1868,504 1868,472" id="FRED_PHILEMON12_040_line_11">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">CONNAÎT TOUT</metadata>
+        </polygon>
+        <polygon points="1873,506 2157,506 2157,536 1873,536 1873,506" id="FRED_PHILEMON12_040_line_12">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">LE MONDE ET</metadata>
+        </polygon>
+        <polygon points="1868,532 2205,532 2205,567 1868,567 1868,532" id="FRED_PHILEMON12_040_line_13">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">TOUT LE MONDE</metadata>
+        </polygon>
+        <polygon points="1873,564 2234,564 2234,596 1873,596 1873,564" id="FRED_PHILEMON12_040_line_14">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">CONNAIT LE CHAT</metadata>
+        </polygon>
+        <polygon points="1868,596 2227,596 2227,626 1868,626 1868,596" id="FRED_PHILEMON12_040_line_15">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">A NEUF QUEUES...</metadata>
+        </polygon>
+        <polygon points="1874,628 2203,628 2203,656 1874,656 1874,628" id="FRED_PHILEMON12_040_line_16">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">C'EST UN VIEUX</metadata>
+        </polygon>
+        <polygon points="1979,658 2126,658 2126,687 1979,687 1979,658" id="FRED_PHILEMON12_040_line_17">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_2" textType="speech">CABOT.</metadata>
+        </polygon>
+        <polygon points="1857,900 1968,900 1968,922 1857,922 1857,900" id="FRED_PHILEMON12_040_line_18">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_4" textType="speech">PARDON</metadata>
+        </polygon>
+        <polygon points="1963,882 1981,882 1981,920 1963,920 1963,882" id="FRED_PHILEMON12_040_line_19">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_4" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="1715,947 1763,947 1763,959 1715,959 1715,947" id="FRED_PHILEMON12_040_line_20">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_3" textType="speech">........</metadata>
+        </polygon>
+        <polygon points="1717,968 1764,968 1764,975 1717,975 1717,968" id="FRED_PHILEMON12_040_line_21">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_3" textType="speech">......</metadata>
+        </polygon>
+        <polygon points="1730,982 1769,982 1769,988 1730,988 1730,982" id="FRED_PHILEMON12_040_line_22">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_3" textType="speech">.....</metadata>
+        </polygon>
+        <polygon points="2052,1095 2073,1095 2073,1102 2052,1102 2052,1095" id="FRED_PHILEMON12_040_line_23">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_5" textType="speech">...</metadata>
+        </polygon>
+        <polygon points="2055,1105 2069,1105 2068,1109 2055,1109 2055,1105" id="FRED_PHILEMON12_040_line_24">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_5" textType="speech">..</metadata>
+        </polygon>
+        <polygon points="2113,1102 2137,1102 2137,1108 2113,1108 2113,1102" id="FRED_PHILEMON12_040_line_25">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_6" textType="speech">...</metadata>
+        </polygon>
+        <polygon points="2118,1111 2133,1112 2133,1116 2118,1116 2118,1111" id="FRED_PHILEMON12_040_line_26">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_6" textType="speech">..</metadata>
+        </polygon>
+        <polygon points="357,1453 664,1453 664,1492 357,1492 357,1453" id="FRED_PHILEMON12_040_line_27">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_7" textType="speech">IL Y A DES SIÈCLES</metadata>
+        </polygon>
+        <polygon points="317,1495 669,1485 669,1522 317,1522 317,1495" id="FRED_PHILEMON12_040_line_28">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_7" textType="speech">QU'IL CHERCHE A SE</metadata>
+        </polygon>
+        <polygon points="319,1529 486,1524 487,1551 319,1554 319,1529" id="FRED_PHILEMON12_040_line_29">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_7" textType="speech">PRODUIRE</metadata>
+        </polygon>
+        <polygon points="327,1552 501,1552 501,1584 327,1584 327,1552" id="FRED_PHILEMON12_040_line_30">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_7" textType="speech">SUR SCÈNE</metadata>
+        </polygon>
+        <polygon points="1093,1492 1221,1492 1221,1522 1093,1524 1093,1492" id="FRED_PHILEMON12_040_line_31">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_8" textType="speech">MAIS IL</metadata>
+        </polygon>
+        <polygon points="1089,1526 1259,1526 1259,1555 1089,1555 1089,1526" id="FRED_PHILEMON12_040_line_32">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_8" textType="speech">EST TROP</metadata>
+        </polygon>
+        <polygon points="1087,1556 1292,1556 1292,1584 1087,1584 1087,1556" id="FRED_PHILEMON12_040_line_33">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_8" textType="speech">NERVEUX...</metadata>
+        </polygon>
+        <polygon points="1790,1454 2141,1450 2141,1481 1789,1481 1790,1454" id="FRED_PHILEMON12_040_line_34">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">EH OUI...LE CHAT</metadata>
+        </polygon>
+        <polygon points="1782,1481 2132,1481 2132,1515 1782,1515 1782,1481" id="FRED_PHILEMON12_040_line_35">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">A NEUF QUEUES</metadata>
+        </polygon>
+        <polygon points="1783,1513 2159,1513 2159,1542 1783,1542 1783,1513" id="FRED_PHILEMON12_040_line_36">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">PÈTE DE TRAC...</metadata>
+        </polygon>
+        <polygon points="1783,1545 2164,1545 2164,1572 1783,1572 1783,1545" id="FRED_PHILEMON12_040_line_37">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">C'EST POUR CELA</metadata>
+        </polygon>
+        <polygon points="1776,1572 2147,1572 2147,1605 1776,1605 1776,1572" id="FRED_PHILEMON12_040_line_38">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">QU'IL RONGE LES</metadata>
+        </polygon>
+        <polygon points="1854,1604 2039,1604 2039,1631 1854,1631 1854,1604" id="FRED_PHILEMON12_040_line_39">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_9" textType="speech">ONGLES.</metadata>
+        </polygon>
+        <polygon points="85,2335 376,2323 371,2360 85,2365 85,2335" id="FRED_PHILEMON12_040_line_40">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_11" textType="speech">PAR EXEMPLE !</metadata>
+        </polygon>
+        <polygon points="77,2361 385,2361 385,2391 77,2391 77,2361" id="FRED_PHILEMON12_040_line_41">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_11" textType="speech">QU'EST-CE QUE</metadata>
+        </polygon>
+        <polygon points="79,2391 400,2391 400,2427 79,2427 79,2391" id="FRED_PHILEMON12_040_line_42">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_11" textType="speech">TU FAIS LA, COCO</metadata>
+        </polygon>
+        <polygon points="393,2376 417,2376 417,2419 393,2419 393,2376" id="FRED_PHILEMON12_040_line_43">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_11" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="250,2487 282,2487 282,2529 250,2529 250,2487" id="FRED_PHILEMON12_040_line_44">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_12" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="366,2475 404,2475 404,2528 366,2528 366,2475" id="FRED_PHILEMON12_040_line_45">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_13" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="649,2426 1046,2422 1046,2460 649,2460 649,2426" id="FRED_PHILEMON12_040_line_46">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_14" textType="speech">J'CROYAIS QU'T'ÉTAIS</metadata>
+        </polygon>
+        <polygon points="659,2458 1051,2458 1051,2490 659,2490 659,2458" id="FRED_PHILEMON12_040_line_47">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_14" textType="speech">ENFERMÉ DANS UN</metadata>
+        </polygon>
+        <polygon points="719,2493 999,2493 999,2529 719,2529 719,2493" id="FRED_PHILEMON12_040_line_48">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_14" textType="speech">TUBE, COCO ?</metadata>
+        </polygon>
+        <polygon points="759,2587 1053,2589 1052,2615 759,2617 759,2587" id="FRED_PHILEMON12_040_line_49">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_15" textType="speech">BEN OUI, COCO...</metadata>
+        </polygon>
+        <polygon points="727,2612 1063,2612 1063,2642 727,2642 727,2612" id="FRED_PHILEMON12_040_line_50">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_15" textType="speech">MAIS J'AI RÉUSSI</metadata>
+        </polygon>
+        <polygon points="751,2645 1041,2645 1041,2676 751,2676 751,2645" id="FRED_PHILEMON12_040_line_51">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_15" textType="speech">A EN SORTIR.</metadata>
+        </polygon>
+        <polygon points="801,2675 955,2671 951,2703 801,2703 801,2675" id="FRED_PHILEMON12_040_line_52">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_15" textType="speech">HE ! HE !</metadata>
+        </polygon>
+        <polygon points="1260,2654 1370,2654 1370,2679 1260,2679 1260,2654" id="FRED_PHILEMON12_040_line_53">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_16" textType="speech">...ET...</metadata>
+        </polygon>
+        <polygon points="1242,2682 1432,2682 1432,2710 1242,2710 1242,2682" id="FRED_PHILEMON12_040_line_54">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_16" textType="speech">T'AS UNE</metadata>
+        </polygon>
+        <polygon points="1244,2715 1427,2715 1427,2741 1244,2741 1244,2715" id="FRED_PHILEMON12_040_line_55">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_16" textType="speech">NOUVELLE</metadata>
+        </polygon>
+        <polygon points="1243,2743 1447,2743 1447,2773 1243,2773 1243,2743" id="FRED_PHILEMON12_040_line_56">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_16" textType="speech">CHANSON,</metadata>
+        </polygon>
+        <polygon points="1261,2774 1406,2774 1406,2803 1261,2803 1261,2774" id="FRED_PHILEMON12_040_line_57">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_16" textType="speech">COCO ?</metadata>
+        </polygon>
+        <polygon points="1460,2802 1563,2802 1563,2830 1460,2830 1460,2802" id="FRED_PHILEMON12_040_line_58">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">BEN...</metadata>
+        </polygon>
+        <polygon points="1376,2838 1579,2838 1579,2867 1376,2867 1376,2838" id="FRED_PHILEMON12_040_line_59">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">OUI, COCO...</metadata>
+        </polygon>
+        <polygon points="1314,2864 1580,2864 1580,2894 1314,2894 1314,2864" id="FRED_PHILEMON12_040_line_60">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">"LA NUIT, TOUS</metadata>
+        </polygon>
+        <polygon points="1334,2891 1574,2891 1574,2920 1334,2920 1334,2891" id="FRED_PHILEMON12_040_line_61">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">LES CHATS A</metadata>
+        </polygon>
+        <polygon points="1330,2923 1565,2923 1565,2952 1330,2952 1330,2923" id="FRED_PHILEMON12_040_line_62">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">NEUF QUEUES</metadata>
+        </polygon>
+        <polygon points="1334,2951 1575,2951 1568,2983 1334,2983 1334,2951" id="FRED_PHILEMON12_040_line_63">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_17" textType="speech">SONT BLEUS."</metadata>
+        </polygon>
+        <polygon points="1704,2624 2143,2630 2143,2664 1704,2664 1704,2624" id="FRED_PHILEMON12_040_line_64">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_19" textType="speech">OH !...MAIS C'EST TRÈS</metadata>
+        </polygon>
+        <polygon points="1709,2664 2077,2664 2077,2700 1709,2700 1709,2664" id="FRED_PHILEMON12_040_line_65">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_19" textType="speech">BON, CA, COCO!...</metadata>
+        </polygon>
+        <polygon points="1710,2699 2056,2699 2056,2733 1710,2733 1710,2699" id="FRED_PHILEMON12_040_line_66">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_19" textType="speech">ÇA VA FAIRE UN</metadata>
+        </polygon>
+        <polygon points="1790,2725 1946,2727 1943,2758 1790,2757 1790,2725" id="FRED_PHILEMON12_040_line_67">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_19" textType="speech">TUBE !</metadata>
+        </polygon>
+        <polygon points="2118,2725 2293,2725 2293,2756 2118,2756 2118,2725" id="FRED_PHILEMON12_040_line_68">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_20" textType="speech">TU CROIS,</metadata>
+        </polygon>
+        <polygon points="2140,2763 2276,2758 2276,2789 2141,2784 2140,2763" id="FRED_PHILEMON12_040_line_69">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_20" textType="speech">COCO ?</metadata>
+        </polygon>
+        <polygon points="2046,2810 2147,2812 2150,2849 2046,2849 2046,2810" id="FRED_PHILEMON12_040_line_70">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_21" textType="speech">SUR ,</metadata>
+        </polygon>
+        <polygon points="2034,2856 2148,2856 2151,2875 2034,2874 2034,2856" id="FRED_PHILEMON12_040_line_71">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_21" textType="speech">COCO.</metadata>
+        </polygon>
+        <polygon points="2176,2875 2303,2875 2303,2909 2176,2909 2176,2875" id="FRED_PHILEMON12_040_line_72">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_22" textType="speech">MERCI,</metadata>
+        </polygon>
+        <polygon points="2183,2914 2285,2914 2289,2936 2183,2936 2183,2914" id="FRED_PHILEMON12_040_line_73">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_22" textType="speech">COCO.</metadata>
+        </polygon>
+        <polygon points="2127,2966 2188,2966 2188,2991 2127,2991 2127,2966" id="FRED_PHILEMON12_040_line_74">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_23" textType="speech">PAS</metadata>
+        </polygon>
+        <polygon points="2122,2994 2241,2994 2241,3027 2122,3027 2122,2994" id="FRED_PHILEMON12_040_line_75">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_23" textType="speech">D'QUOI,</metadata>
+        </polygon>
+        <polygon points="2129,3030 2228,3030 2228,3049 2129,3049 2129,3030" id="FRED_PHILEMON12_040_line_76">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_23" textType="speech">COCO.</metadata>
+        </polygon>
+        <polygon points="2165,3075 2252,3075 2252,3105 2165,3105 2165,3075" id="FRED_PHILEMON12_040_line_77">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_24" textType="speech">MAIS</metadata>
+        </polygon>
+        <polygon points="2147,3106 2288,3106 2288,3141 2147,3141 2147,3106" id="FRED_PHILEMON12_040_line_78">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_24" textType="speech">SI, COCO.</metadata>
+        </polygon>
+        <polygon points="2078,3158 2140,3158 2140,3183 2078,3183 2078,3158" id="FRED_PHILEMON12_040_line_79">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_25" textType="speech">ETC.</metadata>
+        </polygon>
+        <polygon points="2078,3188 2172,3188 2172,3206 2078,3206 2078,3188" id="FRED_PHILEMON12_040_line_80">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_25" textType="speech">COCO.</metadata>
+        </polygon>
+        <polygon points="2256,3178 2302,3178 2302,3202 2256,3202 2256,3178" id="FRED_PHILEMON12_040_line_81">
+            <metadata method="" typography="" textType="speech">26</metadata>
+        </polygon>
+        <polygon points="1659,2923 1688,2923 1688,2966 1659,2966 1659,2923" id="FRED_PHILEMON12_040_line_82">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_18" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="2,3327 44,3327 44,3357 2,3357 2,3327" id="FRED_PHILEMON12_040_line_83">
+            <metadata method="" typography="" textType="note">40</metadata>
+        </polygon>
+        <polygon points="2145,2031 2202,2031 2202,2101 2145,2101 2145,2031" id="FRED_PHILEMON12_040_line_84">
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON12_040_balloon_10" textType="speech">?</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="658,752 659,752 586,987 585,987 658,752" idCharacter="FRED_PHILEMON12_040_character_0" idBalloon="FRED_PHILEMON12_040_balloon_0"/>
+    <polygon points="684,895 685,895 685,1013 684,1013 684,895" idCharacter="FRED_PHILEMON12_040_character_1" idBalloon="FRED_PHILEMON12_040_balloon_1"/>
+    <polygon points="2042,550 2043,550 2026,834 2025,834 2042,550" idCharacter="FRED_PHILEMON12_040_character_8" idBalloon="FRED_PHILEMON12_040_balloon_2"/>
+    <polygon points="1745,971 1746,971 1823,1113 1822,1113 1745,971" idCharacter="FRED_PHILEMON12_040_character_5" idBalloon="FRED_PHILEMON12_040_balloon_3"/>
+    <polygon points="1918,919 1919,919 1945,1076 1944,1076 1918,919" idCharacter="FRED_PHILEMON12_040_character_6" idBalloon="FRED_PHILEMON12_040_balloon_4"/>
+    <polygon points="2064,1105 2065,1105 2048,1165 2047,1165 2064,1105" idCharacter="FRED_PHILEMON12_040_character_4" idBalloon="FRED_PHILEMON12_040_balloon_5"/>
+    <polygon points="2126,1108 2127,1108 2082,1163 2081,1163 2126,1108" idCharacter="FRED_PHILEMON12_040_character_3" idBalloon="FRED_PHILEMON12_040_balloon_6"/>
+    <polygon points="488,1518 489,1518 549,1685 548,1685 488,1518" idCharacter="FRED_PHILEMON12_040_character_9" idBalloon="FRED_PHILEMON12_040_balloon_7"/>
+    <polygon points="1190,1556 1191,1556 1309,1825 1308,1825 1190,1556" idCharacter="FRED_PHILEMON12_040_character_12" idBalloon="FRED_PHILEMON12_040_balloon_8"/>
+    <polygon points="1967,1550 1968,1550 1963,1929 1962,1929 1967,1550" idCharacter="FRED_PHILEMON12_040_character_13" idBalloon="FRED_PHILEMON12_040_balloon_9"/>
+    <polygon points="2176,2073 2177,2073 2147,2338 2146,2338 2176,2073" idCharacter="FRED_PHILEMON12_040_character_14" idBalloon="FRED_PHILEMON12_040_balloon_10"/>
+    <polygon points="851,2581 852,2581 735,2956 734,2956 851,2581" idCharacter="FRED_PHILEMON12_040_character_23" idBalloon="FRED_PHILEMON12_040_balloon_14"/>
+    <polygon points="901,2664 902,2664 974,2950 973,2950 901,2664" idCharacter="FRED_PHILEMON12_040_character_22" idBalloon="FRED_PHILEMON12_040_balloon_15"/>
+    <polygon points="1337,2779 1338,2779 1232,3053 1231,3053 1337,2779" idCharacter="FRED_PHILEMON12_040_character_20" idBalloon="FRED_PHILEMON12_040_balloon_16"/>
+    <polygon points="1449,2892 1450,2892 1338,3085 1337,3085 1449,2892" idCharacter="FRED_PHILEMON12_040_character_19" idBalloon="FRED_PHILEMON12_040_balloon_17"/>
+    <polygon points="1670,2957 1671,2957 1667,3097 1666,3097 1670,2957" idCharacter="FRED_PHILEMON12_040_character_17" idBalloon="FRED_PHILEMON12_040_balloon_18"/>
+    <polygon points="1913,2771 1914,2771 1774,3077 1773,3077 1913,2771" idCharacter="FRED_PHILEMON12_040_character_16" idBalloon="FRED_PHILEMON12_040_balloon_19"/>
+    <polygon points="2191,2756 2192,2756 1963,3112 1962,3112 2191,2756" idCharacter="FRED_PHILEMON12_040_character_15" idBalloon="FRED_PHILEMON12_040_balloon_20"/>
+    <polygon points="2093,2851 2094,2851 1774,3077 1773,3077 2093,2851" idCharacter="FRED_PHILEMON12_040_character_16" idBalloon="FRED_PHILEMON12_040_balloon_21"/>
+    <polygon points="2243,2917 2244,2917 1963,3112 1962,3112 2243,2917" idCharacter="FRED_PHILEMON12_040_character_15" idBalloon="FRED_PHILEMON12_040_balloon_22"/>
+    <polygon points="2184,3009 2185,3010 1774,3077 1773,3076 2184,3009" idCharacter="FRED_PHILEMON12_040_character_16" idBalloon="FRED_PHILEMON12_040_balloon_23"/>
+    <polygon points="2180,3109 2180,3110 1963,3111 1962,3110 2179,3109" idCharacter="FRED_PHILEMON12_040_character_15" idBalloon="FRED_PHILEMON12_040_balloon_24"/>
+    <polygon points="2139,3183 2140,3184 1774,3076 1773,3075 2139,3183" idCharacter="FRED_PHILEMON12_040_character_16" idBalloon="FRED_PHILEMON12_040_balloon_25"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sun Feb 02 15:31:22 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

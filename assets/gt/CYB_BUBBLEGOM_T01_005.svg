@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="375mm" zoomAndPan="magnify" contentStyleType="text/css" height="530mm" viewBox="0 0 750 1060" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <title>CYB_BUBBLEGOM_T01_005</title>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="750" xlink:href="../Pages/CYB_BUBBLEGOM_T01_005.jpg" xlink:type="simple" xlink:actuate="onLoad" height="1060" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Bubblegôm Gôm" editorName="Studio Cyborga" doublePage="false" website="http://bubblegom.webcomics.fr/page/bubbleg%C3%B4m-la-couv#page" albumTitle="La Légende des Yaouanks" drawerName="Cyborg 07" language="french" resolution="" ISBN="979-10-90655-01-0" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2009" pageNumber="5"/>
+    </svg>
+	<style type="text/css" xml:space="preserve">
+        * { stroke-width: 0; stroke-linejoin: round; }
+        .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
+        .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Panel { fill: red; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Line { fill: green; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .TextArea { fill: grey; stroke: none; opacity: 0.2; visibility: visible; image-rendering: optimizeSpeed; }
+        .Balloon { fill: cyan; stroke: none; opacity: 0.5; visibility: visible; image-rendering: optimizeSpeed; }
+        .Letter { fill: blue; stroke: none; opacity: 0.2; visibility: hidden; }
+        .Character { fill: yellow; stroke: none; opacity: 0.3; visibility: visible; image-rendering: optimizeSpeed; }
+        .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
+        .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
+        polygon:hover { stroke:red;stroke-width:2; } 
+    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="53,95 268,95 268,292 53,292 53,95" id="CYB_BUBBLEGOM_T01_005_panel_0">
+            <metadata viewAngle="" shot="" rank="1"/>
+        </polygon>
+        <polygon points="285,97 696,97 696,294 285,294 285,97" id="CYB_BUBBLEGOM_T01_005_panel_1">
+            <metadata viewAngle="" shot="" rank="2"/>
+        </polygon>
+        <polygon points="51,321 445,321 445,538 51,538 51,321" id="CYB_BUBBLEGOM_T01_005_panel_2">
+            <metadata viewAngle="" shot="" rank="3"/>
+        </polygon>
+        <polygon points="463,323 696,323 696,541 463,541 463,323" id="CYB_BUBBLEGOM_T01_005_panel_3">
+            <metadata viewAngle="" shot="" rank="4"/>
+        </polygon>
+        <polygon points="51,567 373,567 373,784 51,784 51,567" id="CYB_BUBBLEGOM_T01_005_panel_4">
+            <metadata viewAngle="" shot="" rank="5"/>
+        </polygon>
+        <polygon points="390,568 695,568 695,784 390,784 390,568" id="CYB_BUBBLEGOM_T01_005_panel_5">
+            <metadata viewAngle="" shot="" rank="6"/>
+        </polygon>
+        <polygon points="50,810 283,810 283,973 50,973 50,810" id="CYB_BUBBLEGOM_T01_005_panel_6">
+            <metadata viewAngle="" shot="" rank="7"/>
+        </polygon>
+        <polygon points="301,813 533,813 533,974 301,974 301,813" id="CYB_BUBBLEGOM_T01_005_panel_7">
+            <metadata viewAngle="" shot="" rank="8"/>
+        </polygon>
+        <polygon points="533,828 695,828 695,974 533,974 533,828" id="CYB_BUBBLEGOM_T01_005_panel_8">
+            <metadata viewAngle="" shot="" rank="9"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="82,108 95,103 107,102 117,103 129,107 138,113 144,122 146,129 145,139 142,148 134,157 134,161 137,168 131,165 127,164 118,169 104,173 93,173 87,171 81,168 80,164 77,165 71,161 65,151 62,141 61,136 63,129 68,122 73,116 76,113 78,115 78,110 82,108" id="CYB_BUBBLEGOM_T01_005_balloon_0">
+            <metadata borderStyle="smooth" tailTip="137,168" boundingBox="" tailDirection="SE" rank="1"/>
+        </polygon>
+        <polygon points="359,114 370,107 380,104 399,102 400,106 401,102 415,102 424,104 434,106 442,110 450,117 455,125 456,132 457,136 453,145 444,152 433,157 423,159 412,159 401,165 402,161 404,159 391,158 377,157 367,155 359,151 351,144 348,136 349,129 352,122 359,114" id="CYB_BUBBLEGOM_T01_005_balloon_1">
+            <metadata borderStyle="smooth" tailTip="401,165" boundingBox="" tailDirection="SW" rank="2"/>
+        </polygon>
+        <polygon points="610,230 616,227 623,225 629,224 644,224 642,222 640,218 644,218 646,220 648,223 659,226 667,229 673,233 678,240 679,246 677,253 674,255 671,254 673,256 671,260 662,263 656,265 647,266 640,267 624,267 613,264 605,260 601,254 598,249 598,242 600,238 604,236 606,236 605,234 610,230" id="CYB_BUBBLEGOM_T01_005_balloon_2">
+            <metadata borderStyle="smooth" tailTip="640,218" boundingBox="" tailDirection="NW" rank="3"/>
+        </polygon>
+        <polygon points="138,346 139,335 142,329 149,321 370,322 374,328 376,334 372,336 377,338 378,345 375,356 373,363 369,369 382,376 384,381 376,390 382,393 386,397 386,403 379,411 372,420 359,433 357,433 358,429 365,423 371,416 376,409 376,401 372,396 366,392 365,389 368,385 373,383 365,378 360,378 353,383 338,386 325,387 295,387 260,387 219,386 181,383 160,382 149,373 140,357 142,354 139,353 138,346" id="CYB_BUBBLEGOM_T01_005_balloon_3">
+            <metadata borderStyle="smooth" tailTip="359,433" boundingBox="" tailDirection="SW" rank="4"/>
+        </polygon>
+        <polygon points="171,423 171,405 176,393 184,383 334,385 337,389 340,394 337,399 341,399 342,408 339,424 333,436 322,447 310,455 265,464 252,464 244,463 241,468 236,475 229,478 232,474 233,469 235,462 220,462 209,459 181,441 174,429 171,423" id="CYB_BUBBLEGOM_T01_005_balloon_4">
+            <metadata borderStyle="smooth" tailTip="229,478" boundingBox="" tailDirection="SW" rank="5"/>
+        </polygon>
+        <polygon points="479,413 469,410 462,406 465,324 648,323 654,327 657,339 658,350 657,360 654,372 648,372 652,374 648,383 638,391 632,397 625,400 527,414 515,415 500,415 500,419 505,431 499,427 495,421 490,415 479,413" id="CYB_BUBBLEGOM_T01_005_balloon_5">
+            <metadata borderStyle="smooth" tailTip="505,431" boundingBox="" tailDirection="SE" rank="6"/>
+        </polygon>
+        <polygon points="57,653 53,648 51,565 182,566 190,571 188,578 192,581 192,595 199,600 195,611 195,617 188,617 189,622 184,627 182,636 173,637 168,643 162,642 160,643 165,645 168,647 165,652 165,658 149,672 149,668 154,662 153,660 157,654 156,652 151,651 150,646 149,645 140,649 136,647 127,652 123,651 115,657 108,652 97,656 93,650 86,656 83,652 77,651 68,658 66,653 57,653" id="CYB_BUBBLEGOM_T01_005_balloon_6">
+            <metadata borderStyle="spiky" tailTip="149,672" boundingBox="" tailDirection="SW" rank="7"/>
+        </polygon>
+        <polygon points="211,576 215,571 220,566 361,566 365,571 368,578 369,587 367,595 364,602 358,608 362,611 367,616 369,621 367,626 362,630 361,633 360,636 361,641 361,647 361,654 362,659 359,655 359,652 358,640 353,634 354,629 357,624 359,622 361,619 354,612 348,616 338,620 319,622 295,622 266,620 240,618 224,615 214,608 207,599 206,588 209,581 211,581 211,576" id="CYB_BUBBLEGOM_T01_005_balloon_7">
+            <metadata borderStyle="smooth" tailTip="362,659" boundingBox="" tailDirection="S" rank="8"/>
+        </polygon>
+        <polygon points="184,651 185,639 189,630 200,620 204,622 203,618 208,614 213,613 220,612 321,621 324,628 328,640 328,649 326,660 321,669 312,679 298,684 283,688 270,689 260,690 243,689 240,698 234,688 220,687 199,681 189,672 185,663 184,651" id="CYB_BUBBLEGOM_T01_005_balloon_8">
+            <metadata borderStyle="smooth" tailTip="240,698" boundingBox="" tailDirection="S" rank="9"/>
+        </polygon>
+        <polygon points="435,621 415,619 402,614 391,609 392,565 481,567 483,573 484,580 484,583 492,582 493,589 501,589 503,601 512,602 519,610 509,606 500,608 498,606 497,597 486,598 485,592 483,597 480,603 473,608 464,616 448,619 435,621" id="CYB_BUBBLEGOM_T01_005_balloon_9">
+            <metadata borderStyle="smooth" tailTip="519,610" boundingBox="" tailDirection="SE" rank="10"/>
+        </polygon>
+        <polygon points="597,605 598,585 602,577 608,570 616,566 695,567 696,637 691,640 679,643 668,645 657,644 650,644 649,644 653,647 646,654 643,658 642,653 645,648 642,647 643,644 635,643 622,640 614,636 608,630 609,626 605,627 599,616 597,605" id="CYB_BUBBLEGOM_T01_005_balloon_10">
+            <metadata borderStyle="smooth" tailTip="643,658" boundingBox="" tailDirection="S" rank="11"/>
+        </polygon>
+        <polygon points="56,877 50,867 52,811 191,810 194,818 194,822 189,825 194,827 193,834 189,848 184,859 177,867 172,871 175,876 173,883 163,893 165,887 165,881 163,877 153,880 142,883 133,885 67,883 56,877" id="CYB_BUBBLEGOM_T01_005_balloon_11">
+            <metadata borderStyle="smooth" tailTip="163,893" boundingBox="" tailDirection="S" rank="12"/>
+        </polygon>
+        <polygon points="202,838 204,830 206,823 211,817 221,811 286,812 288,827 287,846 285,859 274,862 260,863 254,863 243,873 245,862 235,862 222,860 208,852 204,846 202,838" id="CYB_BUBBLEGOM_T01_005_balloon_12">
+            <metadata borderStyle="smooth" tailTip="243,873" boundingBox="" tailDirection="SW" rank="13"/>
+        </polygon>
+        <polygon points="331,821 335,816 340,812 453,812 462,814 467,821 472,827 476,836 475,851 472,853 473,855 468,862 455,868 439,874 427,875 422,874 420,879 414,885 407,889 409,884 414,874 399,874 374,872 358,871 344,867 332,861 325,851 324,836 328,828 331,828 329,826 331,821" id="CYB_BUBBLEGOM_T01_005_balloon_13">
+            <metadata borderStyle="smooth" tailTip="407,889" boundingBox="" tailDirection="SW" rank="14"/>
+        </polygon>
+        <polygon points="494,857 492,853 495,839 498,831 507,830 516,831 520,835 520,842 520,852 518,860 513,864 505,864 503,872 501,870 502,864 498,863 494,859 494,857" id="CYB_BUBBLEGOM_T01_005_balloon_14">
+            <metadata borderStyle="other" tailTip="503,872" boundingBox="" tailDirection="S" rank="15"/>
+        </polygon>
+        <polygon points="615,816 615,812 616,812 617,805 623,805 624,803 627,802 630,802 631,801 633,800 634,799 638,798 642,799 643,800 646,798 649,797 652,798 653,799 655,798 657,798 661,797 665,798 668,800 670,799 674,798 677,800 678,801 681,800 683,801 686,803 691,804 695,805 695,811 695,814 696,815 696,819 696,824 695,826 690,830 685,832 681,832 680,833 674,834 671,835 667,836 664,836 663,835 659,836 656,836 654,837 653,839 655,841 655,844 652,846 651,847 645,849 641,848 641,851 640,853 635,854 636,856 638,859 637,862 632,867 631,864 632,862 635,860 634,858 631,856 632,852 635,851 638,850 638,846 642,844 645,845 647,846 648,844 650,843 651,842 649,839 648,837 651,835 647,834 643,833 642,832 640,833 637,833 637,831 634,832 631,832 629,831 628,830 625,830 622,829 620,827 620,824 617,824 616,821 617,819 615,817 615,816" id="CYB_BUBBLEGOM_T01_005_balloon_15">
+            <metadata borderStyle="wavy" tailTip="632,867" boundingBox="" tailDirection="SW" rank="16"/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="84,153 261,153 261,295 84,295 84,153" id="CYB_BUBBLEGOM_T01_005_character_0">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="285,166 390,166 390,297 285,297 285,166" id="CYB_BUBBLEGOM_T01_005_character_1">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="386,167 546,167 546,298 386,298 386,167" id="CYB_BUBBLEGOM_T01_005_character_2">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="602,175 636,175 636,215 602,215 602,175" id="CYB_BUBBLEGOM_T01_005_character_3">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="648,173 685,173 685,217 648,217 648,173" id="CYB_BUBBLEGOM_T01_005_character_4">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="560,175 599,175 599,217 560,217 560,175" id="CYB_BUBBLEGOM_T01_005_character_5">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="490,388 671,388 671,541 490,541 490,388" id="CYB_BUBBLEGOM_T01_005_character_6">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="366,392 446,392 446,540 366,540 366,392" id="CYB_BUBBLEGOM_T01_005_character_7">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="301,436 388,436 388,538 301,538 301,436" id="CYB_BUBBLEGOM_T01_005_character_8">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="242,450 326,450 326,540 242,540 242,450" id="CYB_BUBBLEGOM_T01_005_character_9">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="122,434 212,434 212,540 122,540 122,434" id="CYB_BUBBLEGOM_T01_005_character_10">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="54,392 154,392 154,536 54,536 54,392" id="CYB_BUBBLEGOM_T01_005_character_11">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="50,667 178,667 178,788 50,788 50,667" id="CYB_BUBBLEGOM_T01_005_character_12">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="161,688 246,688 246,785 161,785 161,688" id="CYB_BUBBLEGOM_T01_005_character_13">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="231,687 307,687 307,785 231,785 231,687" id="CYB_BUBBLEGOM_T01_005_character_14">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="304,656 372,656 372,787 304,787 304,656" id="CYB_BUBBLEGOM_T01_005_character_15">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="402,647 517,647 517,785 402,785 402,647" id="CYB_BUBBLEGOM_T01_005_character_16">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="462,604 515,604 515,661 462,661 462,604" id="CYB_BUBBLEGOM_T01_005_character_17">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="518,608 557,608 557,661 518,661 518,608" id="CYB_BUBBLEGOM_T01_005_character_18">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="562,608 613,608 613,658 562,658 562,608" id="CYB_BUBBLEGOM_T01_005_character_19">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="570,642 694,642 694,785 570,785 570,642" id="CYB_BUBBLEGOM_T01_005_character_20">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="529,829 695,829 695,978 529,978 529,829" id="CYB_BUBBLEGOM_T01_005_character_21">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="428,863 534,863 534,976 428,976 428,863" id="CYB_BUBBLEGOM_T01_005_character_22">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="302,872 408,872 408,976 302,976 302,872" id="CYB_BUBBLEGOM_T01_005_character_23">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="168,870 283,870 283,974 168,974 168,870" id="CYB_BUBBLEGOM_T01_005_character_24">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+        <polygon points="50,874 161,874 161,972 50,972 50,874" id="CYB_BUBBLEGOM_T01_005_character_25">
+            <metadata uri="" area="" fillingPcent=""/>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="373,121 432,121 432,132 373,132 373,121" id="CYB_BUBBLEGOM_T01_005_line_0">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_1" textType="speech">MERDE!</metadata>
+        </polygon>
+        <polygon points="365,133 438,133 438,144 365,144 365,133" id="CYB_BUBBLEGOM_T01_005_line_1">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_1" textType="speech">LES FILLES</metadata>
+        </polygon>
+        <polygon points="617,237 660,237 660,246 617,246 617,237" id="CYB_BUBBLEGOM_T01_005_line_2">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_2" textType="speech">MERDE !</metadata>
+        </polygon>
+        <polygon points="613,246 663,246 663,255 613,255 613,246" id="CYB_BUBBLEGOM_T01_005_line_3">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_2" textType="speech">LES MECS</metadata>
+        </polygon>
+        <polygon points="160,329 358,329 359,339 159,339 160,329" id="CYB_BUBBLEGOM_T01_005_line_4">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_3" textType="speech">ALORS DES PUCEAUX, ENCORE</metadata>
+        </polygon>
+        <polygon points="156,341 362,340 362,352 157,352 156,341" id="CYB_BUBBLEGOM_T01_005_line_5">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_3" textType="speech">A JOUER A LA GUERRE ? PAS</metadata>
+        </polygon>
+        <polygon points="166,353 354,353 354,364 165,364 166,353" id="CYB_BUBBLEGOM_T01_005_line_6">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_3" textType="speech">ETONNANT QUE VOUS N'AYEZ</metadata>
+        </polygon>
+        <polygon points="204,366 316,366 316,376 205,375 204,366" id="CYB_BUBBLEGOM_T01_005_line_7">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_3" textType="speech">PAS DE COPINE !</metadata>
+        </polygon>
+        <polygon points="193,390 321,392 321,401 193,401 193,390" id="CYB_BUBBLEGOM_T01_005_line_8">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4" textType="speech">ON A AUTRE CHOSE</metadata>
+        </polygon>
+        <polygon points="205,403 310,402 310,413 205,413 205,403" id="CYB_BUBBLEGOM_T01_005_line_9">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4" textType="speech">A FAIRE QUE DE</metadata>
+        </polygon>
+        <polygon points="184,415 332,415 332,424 184,425 184,415" id="CYB_BUBBLEGOM_T01_005_line_10">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4" textType="speech">PERDRE NOTRE TEMPS</metadata>
+        </polygon>
+        <polygon points="205,427 310,426 310,436 205,436 205,427" id="CYB_BUBBLEGOM_T01_005_line_11">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4" textType="speech">AVEC DES FILLES</metadata>
+        </polygon>
+        <polygon points="221,439 293,438 293,448 221,449 221,439" id="CYB_BUBBLEGOM_T01_005_line_12">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4" textType="speech">COMME TOI.</metadata>
+        </polygon>
+        <polygon points="73,114 129,115 129,164 79,166 73,114" id="CYB_BUBBLEGOM_T01_005_line_13">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_0" textType="speech">?</metadata>
+        </polygon>
+        <polygon points="472,324 637,324 637,340 472,339 472,324" id="CYB_BUBBLEGOM_T01_005_line_14">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">PATHETIQUE ! VOUS ETES</metadata>
+        </polygon>
+        <polygon points="471,340 606,340 606,350 471,351 471,340" id="CYB_BUBBLEGOM_T01_005_line_15">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">ENCORE DES BEBES</metadata>
+        </polygon>
+        <polygon points="471,352 629,353 629,362 471,363 471,352" id="CYB_BUBBLEGOM_T01_005_line_16">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">COMPARES A NOUS QUI</metadata>
+        </polygon>
+        <polygon points="471,365 612,365 612,374 471,375 471,365" id="CYB_BUBBLEGOM_T01_005_line_17">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">ALLONS RENTRER EN</metadata>
+        </polygon>
+        <polygon points="472,376 626,377 626,387 472,387 472,376" id="CYB_BUBBLEGOM_T01_005_line_18">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">TROISIEME AU COLLEGE</metadata>
+        </polygon>
+        <polygon points="472,389 515,389 515,399 472,399 472,389" id="CYB_BUBBLEGOM_T01_005_line_19">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5" textType="speech">ROYAL.</metadata>
+        </polygon>
+        <polygon points="51,569 178,569 178,579 51,579 51,569" id="CYB_BUBBLEGOM_T01_005_line_20">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">GRRR ! ANDRAGOR</metadata>
+        </polygon>
+        <polygon points="53,580 132,580 132,590 53,591 53,580" id="CYB_BUBBLEGOM_T01_005_line_21">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">LE PUISSANT</metadata>
+        </polygon>
+        <polygon points="52,592 174,592 174,602 52,602 52,592" id="CYB_BUBBLEGOM_T01_005_line_22">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">GUERRIER DOIT SE</metadata>
+        </polygon>
+        <polygon points="53,604 175,604 175,614 53,615 53,604" id="CYB_BUBBLEGOM_T01_005_line_23">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">CONTROLER S'IL NE</metadata>
+        </polygon>
+        <polygon points="52,616 157,615 157,626 52,626 52,616" id="CYB_BUBBLEGOM_T01_005_line_24">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">VEUT PAS FAIRE</metadata>
+        </polygon>
+        <polygon points="52,629 146,629 146,638 52,638 52,629" id="CYB_BUBBLEGOM_T01_005_line_25">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6" textType="speech">UN CARNAGE !!</metadata>
+        </polygon>
+        <polygon points="248,580 327,581 327,590 248,590 248,580" id="CYB_BUBBLEGOM_T01_005_line_26">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_7" textType="speech">VOUS ALLEZ</metadata>
+        </polygon>
+        <polygon points="268,593 307,593 307,603 268,603 268,593" id="CYB_BUBBLEGOM_T01_005_line_27">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_7" textType="speech">OU ?</metadata>
+        </polygon>
+        <polygon points="203,627 312,626 312,639 203,640 203,627" id="CYB_BUBBLEGOM_T01_005_line_28">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_8" textType="speech">AU LAC, TETARD.</metadata>
+        </polygon>
+        <polygon points="202,642 314,640 314,652 202,653 202,642" id="CYB_BUBBLEGOM_T01_005_line_29">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_8" textType="speech">TOI ET TON POTE</metadata>
+        </polygon>
+        <polygon points="201,654 316,654 316,663 201,664 201,654" id="CYB_BUBBLEGOM_T01_005_line_30">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_8" textType="speech">VOUS N'ETES PAS</metadata>
+        </polygon>
+        <polygon points="209,667 307,666 307,676 209,677 209,667" id="CYB_BUBBLEGOM_T01_005_line_31">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_8" textType="speech">INVITES, PIGE ?</metadata>
+        </polygon>
+        <polygon points="415,577 454,577 454,585 415,585 415,577" id="CYB_BUBBLEGOM_T01_005_line_32">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_9" textType="speech">ALORS</metadata>
+        </polygon>
+        <polygon points="396,586 472,586 472,595 396,595 396,586" id="CYB_BUBBLEGOM_T01_005_line_33">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_9" textType="speech">GARDEZ VOS</metadata>
+        </polygon>
+        <polygon points="399,596 470,597 470,606 399,606 399,596" id="CYB_BUBBLEGOM_T01_005_line_34">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_9" textType="speech">DISTANCES !</metadata>
+        </polygon>
+        <polygon points="618,572 691,572 690,584 619,583 618,572" id="CYB_BUBBLEGOM_T01_005_line_35">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10" textType="speech">OUAIS BEN</metadata>
+        </polygon>
+        <polygon points="616,583 691,584 691,595 616,595 616,583" id="CYB_BUBBLEGOM_T01_005_line_36">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10" textType="speech">DE TOUTES</metadata>
+        </polygon>
+        <polygon points="617,599 692,598 692,610 617,610 617,599" id="CYB_BUBBLEGOM_T01_005_line_37">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10" textType="speech">FACONS ON</metadata>
+        </polygon>
+        <polygon points="612,608 695,608 695,620 612,620 612,608" id="CYB_BUBBLEGOM_T01_005_line_38">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10" textType="speech">VOULAIT PAS</metadata>
+        </polygon>
+        <polygon points="630,622 679,620 678,632 630,632 630,622" id="CYB_BUBBLEGOM_T01_005_line_39">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10" textType="speech">VENIR !</metadata>
+        </polygon>
+        <polygon points="69,812 165,812 165,827 68,827 69,812" id="CYB_BUBBLEGOM_T01_005_line_40">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_11" textType="speech">APPRES UN TEL</metadata>
+        </polygon>
+        <polygon points="67,828 164,828 164,840 67,840 67,828" id="CYB_BUBBLEGOM_T01_005_line_41">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_11" textType="speech">AFRONT, NOUS</metadata>
+        </polygon>
+        <polygon points="69,840 164,840 164,851 69,851 69,840" id="CYB_BUBBLEGOM_T01_005_line_42">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_11" textType="speech">DEVONS NOUS</metadata>
+        </polygon>
+        <polygon points="89,852 144,851 144,863 89,863 89,852" id="CYB_BUBBLEGOM_T01_005_line_43">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_11" textType="speech">VENGER.</metadata>
+        </polygon>
+        <polygon points="226,819 277,819 277,830 226,830 226,819" id="CYB_BUBBLEGOM_T01_005_line_44">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_12" textType="speech">OUAIS !</metadata>
+        </polygon>
+        <polygon points="216,831 287,831 287,842 216,842 216,831" id="CYB_BUBBLEGOM_T01_005_line_45">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_12" textType="speech">TRUCIDONS</metadata>
+        </polygon>
+        <polygon points="234,844 270,843 270,854 234,854 234,844" id="CYB_BUBBLEGOM_T01_005_line_46">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_12" textType="speech">LES !</metadata>
+        </polygon>
+        <polygon points="344,823 457,823 456,834 344,834 344,823" id="CYB_BUBBLEGOM_T01_005_line_47">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_13" textType="speech">CE SERAIT TROP</metadata>
+        </polygon>
+        <polygon points="350,837 450,836 449,845 351,846 350,837" id="CYB_BUBBLEGOM_T01_005_line_48">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_13" textType="speech">DOUX. J'AI UNE</metadata>
+        </polygon>
+        <polygon points="346,848 453,848 453,858 346,859 346,848" id="CYB_BUBBLEGOM_T01_005_line_49">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_13" textType="speech">MEILLEURE IDEE.</metadata>
+        </polygon>
+        <polygon points="635,803 671,804 670,815 634,816 635,803" id="CYB_BUBBLEGOM_T01_005_line_50">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_15" textType="speech">GNIAK</metadata>
+        </polygon>
+        <polygon points="635,816 671,816 671,828 635,828 635,816" id="CYB_BUBBLEGOM_T01_005_line_51">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_15" textType="speech">GNIAK</metadata>
+        </polygon>
+        <polygon points="547,812 576,799 580,806 552,820 547,812" id="CYB_BUBBLEGOM_T01_005_line_52">
+            <metadata method="" typography="" textType="speech">REGARD</metadata>
+        </polygon>
+        <polygon points="536,828 597,800 601,807 539,836 536,828" id="CYB_BUBBLEGOM_T01_005_line_53">
+            <metadata method="" typography="" textType="speech">INCROYABLEMENT</metadata>
+        </polygon>
+        <polygon points="547,832 593,812 597,818 550,840 547,832" id="CYB_BUBBLEGOM_T01_005_line_54">
+            <metadata method="" typography="" textType="speech">DEMONIAQUE</metadata>
+        </polygon>
+        <polygon points="498,833 517,833 517,853 498,853 498,833" id="CYB_BUBBLEGOM_T01_005_line_55">
+            <metadata method="" typography="" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_14" textType="speech">?</metadata>
+        </polygon>
+    </svg>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <polygon points="402,133 403,133 338,231 337,231 402,133" idCharacter="CYB_BUBBLEGOM_T01_005_character_1" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_1"/>
+    <polygon points="103,137 104,137 173,225 172,225 103,137" idCharacter="CYB_BUBBLEGOM_T01_005_character_0" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_0"/>
+    <polygon points="638,242 639,242 620,195 619,195 638,242" idCharacter="CYB_BUBBLEGOM_T01_005_character_3" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_2"/>
+    <polygon points="560,377 561,377 581,464 580,464 560,377" idCharacter="CYB_BUBBLEGOM_T01_005_character_6" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_5"/>
+    <polygon points="262,377 263,377 345,487 344,487 262,377" idCharacter="CYB_BUBBLEGOM_T01_005_character_8" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_3"/>
+    <polygon points="256,430 257,430 168,488 167,488 256,430" idCharacter="CYB_BUBBLEGOM_T01_005_character_10" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_4"/>
+    <polygon points="125,618 126,618 115,727 114,727 125,618" idCharacter="CYB_BUBBLEGOM_T01_005_character_12" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_6"/>
+    <polygon points="256,655 257,655 270,738 269,738 256,655" idCharacter="CYB_BUBBLEGOM_T01_005_character_14" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_8"/>
+    <polygon points="287,612 288,612 339,721 338,721 287,612" idCharacter="CYB_BUBBLEGOM_T01_005_character_15" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_7"/>
+    <polygon points="455,593 456,593 538,634 537,634 455,593" idCharacter="CYB_BUBBLEGOM_T01_005_character_18" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_9"/>
+    <polygon points="646,612 647,612 633,713 632,713 646,612" idCharacter="CYB_BUBBLEGOM_T01_005_character_20" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_10"/>
+    <polygon points="245,842 246,842 226,922 225,922 245,842" idCharacter="CYB_BUBBLEGOM_T01_005_character_24" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_12"/>
+    <polygon points="122,851 123,851 106,923 105,923 122,851" idCharacter="CYB_BUBBLEGOM_T01_005_character_25" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_11"/>
+    <polygon points="400,850 401,850 356,924 355,924 400,850" idCharacter="CYB_BUBBLEGOM_T01_005_character_23" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_13"/>
+    <polygon points="506,851 507,851 482,919 481,919 506,851" idCharacter="CYB_BUBBLEGOM_T01_005_character_22" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_14"/>
+    <polygon points="655,832 656,832 613,903 612,903 655,832" idCharacter="CYB_BUBBLEGOM_T01_005_character_21" idBalloon="CYB_BUBBLEGOM_T01_005_balloon_15"/>
+  </svg>
+<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:07:46 CET 2014" lastStepModified="Balloon_Rank"/>
+</svg>

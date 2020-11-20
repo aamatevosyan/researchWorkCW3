@@ -1,0 +1,148 @@
+[
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            1,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/reduce": [
+                            {
+                                "py/type": "numpy.dtype"
+                            },
+                            {
+                                "py/tuple": [
+                                    "i4",
+                                    false,
+                                    true
+                                ]
+                            },
+                            {
+                                "py/tuple": [
+                                    3,
+                                    "<",
+                                    null,
+                                    null,
+                                    null,
+                                    -1,
+                                    -1,
+                                    0
+                                ]
+                            }
+                        ]
+                    },
+                    false,
+                    {
+                        "py/b64": "EQEAACQBAAA="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            129,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "YwEAAB4BAABiAQAAHwEAAFIBAAAfAQAAUQEAACABAABPAQAAIAEAAE8BAAAhAQAATgEAACIBAABOAQAAOQEAAE8BAAA6AQAATwEAAD0BAABOAQAAPgEAAE4BAABLAQAATQEAAEwBAABNAQAAUwEAAE4BAABUAQAATgEAAFcBAABNAQAAWAEAAE4BAABZAQAATgEAAGUBAABPAQAAZgEAAFABAABlAQAAUgEAAGUBAABVAQAAaAEAAFYBAABoAQAAVwEAAGkBAABZAQAAaQEAAFoBAABqAQAAWwEAAGoBAABcAQAAawEAAF4BAABrAQAAXwEAAGwBAABgAQAAbAEAAGEBAABtAQAAaAEAAG0BAABpAQAAbgEAAGoBAABuAQAAawEAAG8BAABrAQAAcgEAAGoBAABzAQAAagEAAHQBAABsAQAAdgEAAGsBAAB3AQAAbAEAAHgBAABsAQAAeQEAAG4BAAB5AQAAcAEAAHcBAABwAQAAcwEAAHIBAABxAQAAcwEAAHEBAAB0AQAAcAEAAHUBAABwAQAAdwEAAHIBAAB5AQAAcgEAAHoBAABxAQAAewEAAHEBAAB9AQAAbwEAAIEBAABvAQAAggEAAG4BAACEAQAAbgEAAIUBAABtAQAAhwEAAG0BAACIAQAAbgEAAIkBAABtAQAAigEAAG0BAACLAQAAbAEAAI0BAABsAQAAjgEAAGsBAACPAQAAawEAAI8BAABqAQAAkAEAAGkBAACSAQAAaQEAAJMBAABoAQAAlAEAAGkBAACWAQAAZwEAAJcBAABnAQAAmAEAAGYBAACZAQAAZgEAAJoBAABlAQAAnAEAAGUBAACdAQAAZAEAAJ4BAABkAQAAnwEAAGMBAACgAQAAYwEAAKQBAABfAQAApQEAAF8BAACmAQAAXgEAAKkBAABeAQAAqQEAAF0BAACrAQAAWwEAAKwBAABbAQAArAEAAFMBAACtAQAAUgEAAK0BAABPAQAArAEAAE4BAACtAQAATQEAAK0BAABMAQAArAEAAEsBAACsAQAASgEAAK4BAABIAQAArwEAAEgBAACvAQAARwEAALABAABGAQAAsQEAAEcBAACxAQAAQwEAALABAABCAQAAsgEAAEABAAC1AQAAQAEAALUBAAA5AQAAtAEAADgBAAC1AQAANwEAALUBAAA2AQAAtAEAADYBAACzAQAANQEAALQBAAA0AQAAtAEAADMBAACyAQAAMQEAALIBAAAwAQAAsQEAAC8BAACxAQAAJwEAALABAAAmAQAAsQEAACUBAACxAQAAIgEAALABAAAiAQAArwEAACEBAACvAQAAIAEAAK0BAAAgAQAArAEAAB8BAAB4AQAAHwEAAHcBAAAeAQAA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "py/reduce": [
+            {
+                "py/function": "numpy.core.multiarray._reconstruct"
+            },
+            {
+                "py/tuple": [
+                    {
+                        "py/type": "numpy.ndarray"
+                    },
+                    {
+                        "py/tuple": [
+                            0
+                        ]
+                    },
+                    {
+                        "py/b64": "Yg=="
+                    }
+                ]
+            },
+            {
+                "py/tuple": [
+                    1,
+                    {
+                        "py/tuple": [
+                            99,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "py/id": 2
+                    },
+                    false,
+                    {
+                        "py/b64": "vwAAAB4BAAC+AAAAHwEAAL0AAAAfAQAAvQAAACYBAAC8AAAAJwEAALwAAAAxAQAAvQAAADIBAAC9AAAANwEAALwAAAA4AQAAvAAAAEcBAAC9AAAASAEAAL0AAABJAQAAvAAAAEoBAAC8AAAASwEAAL0AAABMAQAAvQAAAFkBAAC+AAAAWQEAAMAAAABbAQAAwQAAAFoBAADCAAAAWwEAAMIAAABcAQAAwwAAAF0BAADEAAAAXQEAAMYAAABfAQAAxwAAAF8BAADIAAAAYAEAAMkAAABgAQAAygAAAGEBAADLAAAAYQEAAMwAAABiAQAAzQAAAGIBAADOAAAAYwEAANAAAABjAQAA0QAAAGQBAADTAAAAZAEAANQAAABlAQAA1wAAAGUBAADYAAAAZgEAAN8AAABmAQAA4QAAAGgBAADhAAAAaQEAAOMAAABrAQAA4wAAAGwBAADkAAAAbQEAAOQAAABuAQAA5AAAAG0BAADlAAAAbAEAAOUAAABoAQAA5gAAAGcBAADzAAAAZwEAAPQAAABmAQAA9gAAAGYBAAD3AAAAZQEAAPgAAABmAQAA+QAAAGUBAAD7AAAAZQEAAPwAAABkAQAA/gAAAGQBAAD/AAAAYwEAAAABAABjAQAABQEAAF4BAAAFAQAAXQEAAAgBAABaAQAACAEAAEcBAAAHAQAARgEAAAcBAABFAQAACAEAAEQBAAAIAQAAQwEAAAcBAABCAQAABwEAADwBAAAIAQAAOwEAAAcBAAA6AQAACAEAADkBAAAJAQAAOQEAAAsBAAA3AQAADAEAADgBAAAMAQAANwEAAAsBAAA2AQAACwEAADUBAAAKAQAANQEAAAgBAAAzAQAACQEAADIBAAAJAQAALgEAAAgBAAAvAQAABwEAAC8BAAAEAQAALAEAAAYBAAAqAQAABwEAACoBAAAIAQAAKQEAAAkBAAApAQAACQEAACYBAAAKAQAAJQEAAA0BAAAlAQAADQEAACIBAAAMAQAAIQEAAA0BAAAgAQAADAEAAB8BAAAIAQAAHwEAAAcBAAAeAQAA"
+                    }
+                ]
+            }
+        ]
+    }
+]

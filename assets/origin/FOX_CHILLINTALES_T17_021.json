@@ -1,0 +1,777 @@
+{
+    "py/object": "core.comicspage.ComicsPage",
+    "title": "FOX_CHILLINTALES_T17_021",
+    "width": "1280",
+    "height": "1844",
+    "href": "assets/pages/FOX_CHILLINTALES_T17_021.jpg",
+    "speechbubbles": [
+        {
+            "points": [
+                [
+                    66,
+                    490
+                ],
+                [
+                    191,
+                    485
+                ],
+                [
+                    384,
+                    487
+                ],
+                [
+                    593,
+                    484
+                ],
+                [
+                    594,
+                    510
+                ],
+                [
+                    593,
+                    556
+                ],
+                [
+                    591,
+                    588
+                ],
+                [
+                    466,
+                    587
+                ],
+                [
+                    175,
+                    590
+                ],
+                [
+                    66,
+                    589
+                ],
+                [
+                    66,
+                    490
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "1"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            73,
+                            493
+                        ],
+                        [
+                            575,
+                            493
+                        ],
+                        [
+                            575,
+                            519
+                        ],
+                        [
+                            73,
+                            519
+                        ],
+                        [
+                            73,
+                            493
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "ONE EVENING LEANING OVER THE TAFFRAIL,"
+                },
+                {
+                    "points": [
+                        [
+                            74,
+                            524
+                        ],
+                        [
+                            583,
+                            524
+                        ],
+                        [
+                            583,
+                            541
+                        ],
+                        [
+                            74,
+                            541
+                        ],
+                        [
+                            74,
+                            524
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "I'OBSERVED A STRANGE CLOUD THAT STRUCK"
+                },
+                {
+                    "points": [
+                        [
+                            77,
+                            553
+                        ],
+                        [
+                            331,
+                            553
+                        ],
+                        [
+                            331,
+                            571
+                        ],
+                        [
+                            77,
+                            571
+                        ],
+                        [
+                            77,
+                            553
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "A CHILL TO MY HEART."
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_0"
+        },
+        {
+            "points": [
+                [
+                    656,
+                    503
+                ],
+                [
+                    964,
+                    496
+                ],
+                [
+                    1179,
+                    492
+                ],
+                [
+                    1242,
+                    495
+                ],
+                [
+                    1243,
+                    610
+                ],
+                [
+                    654,
+                    613
+                ],
+                [
+                    656,
+                    503
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "2"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            672,
+                            506
+                        ],
+                        [
+                            1180,
+                            506
+                        ],
+                        [
+                            1180,
+                            529
+                        ],
+                        [
+                            672,
+                            529
+                        ],
+                        [
+                            672,
+                            506
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "SUDDENLY IT BECAME INTOLERABLY HOT AND"
+                },
+                {
+                    "points": [
+                        [
+                            672,
+                            536
+                        ],
+                        [
+                            1175,
+                            536
+                        ],
+                        [
+                            1175,
+                            553
+                        ],
+                        [
+                            672,
+                            553
+                        ],
+                        [
+                            672,
+                            536
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "EVERY BREATH WIND DIED AWAY. i WENT"
+                },
+                {
+                    "points": [
+                        [
+                            673,
+                            563
+                        ],
+                        [
+                            1213,
+                            563
+                        ],
+                        [
+                            1213,
+                            581
+                        ],
+                        [
+                            673,
+                            581
+                        ],
+                        [
+                            673,
+                            563
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "BELOW WITH A FEELING OF APPROACHING EVIL."
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_1"
+        },
+        {
+            "points": [
+                [
+                    38,
+                    1070
+                ],
+                [
+                    239,
+                    1071
+                ],
+                [
+                    415,
+                    1064
+                ],
+                [
+                    551,
+                    1071
+                ],
+                [
+                    627,
+                    1072
+                ],
+                [
+                    631,
+                    1196
+                ],
+                [
+                    38,
+                    1198
+                ],
+                [
+                    38,
+                    1070
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "3"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            60,
+                            1075
+                        ],
+                        [
+                            560,
+                            1075
+                        ],
+                        [
+                            560,
+                            1098
+                        ],
+                        [
+                            60,
+                            1098
+                        ],
+                        [
+                            60,
+                            1075
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "I TOLD THE CAPTAIN OF MY FEARS, BUT HE"
+                },
+                {
+                    "points": [
+                        [
+                            60,
+                            1105
+                        ],
+                        [
+                            547,
+                            1105
+                        ],
+                        [
+                            547,
+                            1123
+                        ],
+                        [
+                            60,
+                            1123
+                        ],
+                        [
+                            60,
+                            1105
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "PAID NO ATTENTION TO WHAT I SAID AND"
+                },
+                {
+                    "points": [
+                        [
+                            61,
+                            1134
+                        ],
+                        [
+                            474,
+                            1134
+                        ],
+                        [
+                            474,
+                            1154
+                        ],
+                        [
+                            61,
+                            1153
+                        ],
+                        [
+                            61,
+                            1134
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "LEFT WITHOUT DEIGNING TO REPLY."
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_2"
+        },
+        {
+            "points": [
+                [
+                    656,
+                    1077
+                ],
+                [
+                    790,
+                    1073
+                ],
+                [
+                    933,
+                    1074
+                ],
+                [
+                    1045,
+                    1075
+                ],
+                [
+                    1143,
+                    1076
+                ],
+                [
+                    1244,
+                    1077
+                ],
+                [
+                    1244,
+                    1190
+                ],
+                [
+                    652,
+                    1192
+                ],
+                [
+                    656,
+                    1077
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "4"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            693,
+                            1071
+                        ],
+                        [
+                            1186,
+                            1071
+                        ],
+                        [
+                            1186,
+                            1101
+                        ],
+                        [
+                            693,
+                            1100
+                        ],
+                        [
+                            693,
+                            1071
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "MY UNEASINESS KEPT ME FROM SLEEPING,"
+                },
+                {
+                    "points": [
+                        [
+                            692,
+                            1104
+                        ],
+                        [
+                            1150,
+                            1104
+                        ],
+                        [
+                            1150,
+                            1121
+                        ],
+                        [
+                            692,
+                            1121
+                        ],
+                        [
+                            692,
+                            1104
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "AND ABOUT MIDNIGHT I DECIDED TO GO"
+                },
+                {
+                    "points": [
+                        [
+                            692,
+                            1134
+                        ],
+                        [
+                            799,
+                            1134
+                        ],
+                        [
+                            799,
+                            1150
+                        ],
+                        [
+                            692,
+                            1150
+                        ],
+                        [
+                            692,
+                            1134
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "ON DECK."
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_3"
+        },
+        {
+            "points": [
+                [
+                    38,
+                    1652
+                ],
+                [
+                    287,
+                    1655
+                ],
+                [
+                    404,
+                    1653
+                ],
+                [
+                    554,
+                    1646
+                ],
+                [
+                    632,
+                    1646
+                ],
+                [
+                    632,
+                    1774
+                ],
+                [
+                    40,
+                    1778
+                ],
+                [
+                    38,
+                    1652
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "5"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            76,
+                            1656
+                        ],
+                        [
+                            569,
+                            1656
+                        ],
+                        [
+                            569,
+                            1679
+                        ],
+                        [
+                            76,
+                            1679
+                        ],
+                        [
+                            76,
+                            1656
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "AS I PLACED MY FOOT ON THE UPPER RUNG"
+                },
+                {
+                    "points": [
+                        [
+                            74,
+                            1689
+                        ],
+                        [
+                            579,
+                            1689
+                        ],
+                        [
+                            579,
+                            1709
+                        ],
+                        [
+                            74,
+                            1709
+                        ],
+                        [
+                            74,
+                            1689
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "OF THE COMPANION LADDER, I WAS STARLED"
+                },
+                {
+                    "points": [
+                        [
+                            74,
+                            1711
+                        ],
+                        [
+                            591,
+                            1711
+                        ],
+                        [
+                            591,
+                            1734
+                        ],
+                        [
+                            74,
+                            1734
+                        ],
+                        [
+                            74,
+                            1711
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "BY A LOUD AND FRIGHTTENING HUMMING NOISE!"
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_4"
+        },
+        {
+            "points": [
+                [
+                    700,
+                    1648
+                ],
+                [
+                    873,
+                    1647
+                ],
+                [
+                    1029,
+                    1644
+                ],
+                [
+                    1120,
+                    1644
+                ],
+                [
+                    1134,
+                    1644
+                ],
+                [
+                    1135,
+                    1745
+                ],
+                [
+                    1036,
+                    1746
+                ],
+                [
+                    844,
+                    1747
+                ],
+                [
+                    741,
+                    1746
+                ],
+                [
+                    701,
+                    1746
+                ],
+                [
+                    700,
+                    1648
+                ]
+            ],
+            "metadata": {
+                "borderStyle": "smooth",
+                "tailTip": "",
+                "boundingBox": "",
+                "tailDirection": "none",
+                "rank": "6"
+            },
+            "lines": [
+                {
+                    "points": [
+                        [
+                            726,
+                            1653
+                        ],
+                        [
+                            1106,
+                            1653
+                        ],
+                        [
+                            1106,
+                            1679
+                        ],
+                        [
+                            726,
+                            1679
+                        ],
+                        [
+                            726,
+                            1653
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "AS I STEPPED ON DECK I FOUND"
+                },
+                {
+                    "points": [
+                        [
+                            729,
+                            1689
+                        ],
+                        [
+                            1047,
+                            1689
+                        ],
+                        [
+                            1047,
+                            1705
+                        ],
+                        [
+                            729,
+                            1705
+                        ],
+                        [
+                            729,
+                            1689
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "THE SHIP QUIVERING LIKE A"
+                },
+                {
+                    "points": [
+                        [
+                            727,
+                            1713
+                        ],
+                        [
+                            921,
+                            1713
+                        ],
+                        [
+                            921,
+                            1733
+                        ],
+                        [
+                            727,
+                            1733
+                        ],
+                        [
+                            727,
+                            1713
+                        ]
+                    ],
+                    "textType": "narrative",
+                    "text": "STRIKEN BEAST."
+                }
+            ],
+            "id": "FOX_CHILLINTALES_T17_021_balloon_5"
+        }
+    ]
+}
