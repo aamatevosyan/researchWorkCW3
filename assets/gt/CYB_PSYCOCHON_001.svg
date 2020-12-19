@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="374mm" zoomAndPan="magnify" contentStyleType="text/css" height="424mm" viewBox="0 0 749 848" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="374mm" zoomAndPan="magnify" contentStyleType="text/css" height="424mm" viewBox="0 0 749 848"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>CYB_PSYCOCHON_001</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="749" xlink:href="../Pages/CYB_PSYCOCHON_001.jpg" xlink:type="simple" xlink:actuate="onLoad" height="848" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Psycochon" editorName="Studio Cyborga" doublePage="false" website="http://30joursdebd.com/author/cyborg07/" albumTitle="" drawerName="Cyborg 07" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2010" pageNumber="1"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="749" xlink:href="../Pages/CYB_PSYCOCHON_001.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="848" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Psycochon" editorName="Studio Cyborga" doublePage="false"
+                  website="http://30joursdebd.com/author/cyborg07/" albumTitle="" drawerName="Cyborg 07"
+                  language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07"
+                  releaseDate="2010" pageNumber="1"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="24,17 322,17 322,166 24,166 24,17" id="CYB_PSYCOCHON_001_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -32,19 +41,28 @@
             <metadata viewAngle="" shot="" rank="4"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="414,46 428,37 447,31 456,29 471,29 483,32 496,36 509,41 521,51 529,62 533,74 533,88 528,99 522,108 513,115 500,123 487,127 475,130 460,130 462,137 468,144 472,148 464,147 457,139 453,134 454,128 435,125 417,116 401,100 396,88 396,71 402,58 414,46" id="CYB_PSYCOCHON_001_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="414,46 428,37 447,31 456,29 471,29 483,32 496,36 509,41 521,51 529,62 533,74 533,88 528,99 522,108 513,115 500,123 487,127 475,130 460,130 462,137 468,144 472,148 464,147 457,139 453,134 454,128 435,125 417,116 401,100 396,88 396,71 402,58 414,46"
+                id="CYB_PSYCOCHON_001_balloon_0">
             <metadata borderStyle="smooth" tailTip="472,148" boundingBox="" tailDirection="SE" rank="1"/>
         </polygon>
-        <polygon points="381,327 400,303 422,291 448,284 462,284 484,285 506,292 528,305 542,320 549,341 548,359 541,373 526,389 508,400 484,408 467,409 460,409 460,417 468,426 473,431 468,432 461,428 453,416 450,411 450,408 430,404 407,392 387,375 378,357 378,341 381,327" id="CYB_PSYCOCHON_001_balloon_1">
+        <polygon
+                points="381,327 400,303 422,291 448,284 462,284 484,285 506,292 528,305 542,320 549,341 548,359 541,373 526,389 508,400 484,408 467,409 460,409 460,417 468,426 473,431 468,432 461,428 453,416 450,411 450,408 430,404 407,392 387,375 378,357 378,341 381,327"
+                id="CYB_PSYCOCHON_001_balloon_1">
             <metadata borderStyle="smooth" tailTip="473,431" boundingBox="" tailDirection="SE" rank="2"/>
         </polygon>
-        <polygon points="539,597 554,585 572,578 587,577 600,577 619,582 632,589 643,599 646,610 646,620 640,631 628,641 615,647 603,649 594,649 588,649 591,655 597,662 606,671 607,676 600,672 591,665 584,657 581,649 569,648 556,642 545,636 537,626 533,619 534,605 539,597" id="CYB_PSYCOCHON_001_balloon_2">
+        <polygon
+                points="539,597 554,585 572,578 587,577 600,577 619,582 632,589 643,599 646,610 646,620 640,631 628,641 615,647 603,649 594,649 588,649 591,655 597,662 606,671 607,676 600,672 591,665 584,657 581,649 569,648 556,642 545,636 537,626 533,619 534,605 539,597"
+                id="CYB_PSYCOCHON_001_balloon_2">
             <metadata borderStyle="smooth" tailTip="607,676" boundingBox="" tailDirection="SE" rank="3"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="477,128 587,128 587,270 477,270 477,128" id="CYB_PSYCOCHON_001_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -64,7 +82,8 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="18,15 251,15 251,147 18,147 18,15" id="CYB_PSYCOCHON_001_line_0">
             <metadata method="" typography="" textType="note">Psycochon</metadata>
         </polygon>
@@ -75,64 +94,97 @@
             <metadata method="" typography="" textType="note">LE RESPECT</metadata>
         </polygon>
         <polygon points="418,50 512,50 512,64 418,64 418,50" id="CYB_PSYCOCHON_001_line_3">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">C'est toujours la</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">C'est toujours
+                la
+            </metadata>
         </polygon>
         <polygon points="411,61 519,61 519,74 411,74 411,61" id="CYB_PSYCOCHON_001_line_4">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">même chose, dans</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">même chose,
+                dans
+            </metadata>
         </polygon>
         <polygon points="408,73 522,73 522,84 408,84 408,73" id="CYB_PSYCOCHON_001_line_5">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">cette porcherie : les</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">cette porcherie
+                : les
+            </metadata>
         </polygon>
         <polygon points="407,83 522,83 522,95 407,95 407,83" id="CYB_PSYCOCHON_001_line_6">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">cochons ne pensent</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">cochons ne
+                pensent
+            </metadata>
         </polygon>
         <polygon points="421,94 509,94 509,106 421,106 421,94" id="CYB_PSYCOCHON_001_line_7">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">qu'à bâfrer et à</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">qu'à bâfrer et
+                à
+            </metadata>
         </polygon>
         <polygon points="442,103 489,103 489,114 442,114 442,103" id="CYB_PSYCOCHON_001_line_8">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">dormir !</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_0" textType="speech">dormir !
+            </metadata>
         </polygon>
         <polygon points="423,298 506,298 506,311 423,311 423,298" id="CYB_PSYCOCHON_001_line_9">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">Ne pourrait-on</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">Ne pourrait-on
+            </metadata>
         </polygon>
         <polygon points="411,309 519,309 519,322 411,323 411,309" id="CYB_PSYCOCHON_001_line_10">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">pas s'intéresser au</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">pas s'intéresser
+                au
+            </metadata>
         </polygon>
         <polygon points="409,319 520,319 520,330 409,330 409,319" id="CYB_PSYCOCHON_001_line_11">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">monde, se cultiver,</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">monde, se
+                cultiver,
+            </metadata>
         </polygon>
         <polygon points="401,331 534,331 534,340 401,340 401,331" id="CYB_PSYCOCHON_001_line_12">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">élever notre condition</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">élever notre
+                condition
+            </metadata>
         </polygon>
         <polygon points="395,340 535,340 535,354 395,354 395,340" id="CYB_PSYCOCHON_001_line_13">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">pour enfin être respecté</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">pour enfin être
+                respecté
+            </metadata>
         </polygon>
         <polygon points="392,351 536,351 536,364 392,364 392,351" id="CYB_PSYCOCHON_001_line_14">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">en tant que personne, en</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">en tant que
+                personne, en
+            </metadata>
         </polygon>
         <polygon points="397,362 532,362 532,375 397,375 397,362" id="CYB_PSYCOCHON_001_line_15">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">tant que peuple, au lieu</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">tant que peuple,
+                au lieu
+            </metadata>
         </polygon>
         <polygon points="407,372 522,372 522,385 407,385 407,372" id="CYB_PSYCOCHON_001_line_16">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">de servir de repas à</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">de servir de
+                repas à
+            </metadata>
         </polygon>
         <polygon points="435,383 494,383 494,393 435,393 435,383" id="CYB_PSYCOCHON_001_line_17">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">l'homme ?</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_1" textType="speech">l'homme ?
+            </metadata>
         </polygon>
         <polygon points="561,597 617,597 617,608 561,608 561,597" id="CYB_PSYCOCHON_001_line_18">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_2" textType="speech">Mmmm...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_2" textType="speech">Mmmm...
+            </metadata>
         </polygon>
         <polygon points="563,608 617,608 617,620 563,620 563,608" id="CYB_PSYCOCHON_001_line_19">
-            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_2" textType="speech">Manger...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_PSYCOCHON_001_balloon_2" textType="speech">Manger...
+            </metadata>
         </polygon>
         <polygon points="618,826 735,826 735,835 618,835 618,826" id="CYB_PSYCOCHON_001_line_20">
             <metadata method="" typography="" textType="speech">Cyborg 07 - copyright 2010</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="464,88 465,88 533,199 532,199 464,88" idCharacter="CYB_PSYCOCHON_001_character_0" idBalloon="CYB_PSYCOCHON_001_balloon_0"/>
-    <polygon points="463,358 464,358 538,481 537,481 463,358" idCharacter="CYB_PSYCOCHON_001_character_2" idBalloon="CYB_PSYCOCHON_001_balloon_1"/>
-    <polygon points="589,626 590,626 658,743 657,743 589,626" idCharacter="CYB_PSYCOCHON_001_character_5" idBalloon="CYB_PSYCOCHON_001_balloon_2"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Wed Feb 12 18:34:42 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="464,88 465,88 533,199 532,199 464,88" idCharacter="CYB_PSYCOCHON_001_character_0"
+                 idBalloon="CYB_PSYCOCHON_001_balloon_0"/>
+        <polygon points="463,358 464,358 538,481 537,481 463,358" idCharacter="CYB_PSYCOCHON_001_character_2"
+                 idBalloon="CYB_PSYCOCHON_001_balloon_1"/>
+        <polygon points="589,626 590,626 658,743 657,743 589,626" idCharacter="CYB_PSYCOCHON_001_character_5"
+                 idBalloon="CYB_PSYCOCHON_001_balloon_2"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Wed Feb 12 18:34:42 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

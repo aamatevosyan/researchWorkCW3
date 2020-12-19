@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="311mm" zoomAndPan="magnify" contentStyleType="text/css" height="429mm" viewBox="0 0 1280 1844" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="311mm" zoomAndPan="magnify" contentStyleType="text/css" height="429mm" viewBox="0 0 1280 1844"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>FOX_CHILLINTALES_T17_016</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="1280" xlink:href="../Pages/FOX_CHILLINTALES_T17_016.jpg" xlink:type="simple" xlink:actuate="onLoad" height="1844" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Chilling Tales" editorName="Youthful Magazines" doublePage="false" website="http://comicbookplus.com/?dlid=23923" albumTitle="Chilling Tales 17 Geo" drawerName="Matt Fox" language="english" resolution="" ISBN="" readingDirection="leftToRight" writerName="Matt Fox" releaseDate="" pageNumber="16"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="1280" xlink:href="../Pages/FOX_CHILLINTALES_T17_016.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="1844" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Chilling Tales" editorName="Youthful Magazines" doublePage="false"
+                  website="http://comicbookplus.com/?dlid=23923" albumTitle="Chilling Tales 17 Geo"
+                  drawerName="Matt Fox" language="english" resolution="" ISBN="" readingDirection="leftToRight"
+                  writerName="Matt Fox" releaseDate="" pageNumber="16"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="42,66 488,64 489,535 39,536 42,66" id="FOX_CHILLINTALES_T17_016_panel_0">
             <metadata viewAngle="" uri="" shot="" area="" rank="1" fillingPcent=""/>
         </polygon>
@@ -38,52 +47,82 @@
             <metadata viewAngle="" uri="" shot="" area="" rank="6" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="41,64 490,62 492,67 490,87 490,106 490,111 487,120 481,126 477,129 470,133 460,134 450,135 433,134 412,136 388,136 363,136 322,132 320,137 322,145 322,148 321,151 320,151 318,153 315,158 312,161 308,164 304,167 299,168 287,171 256,172 232,173 208,169 209,176 210,178 203,187 198,189 173,197 144,199 112,202 84,200 81,219 76,234 73,271 68,233 61,202 43,199 38,175 41,64" id="FOX_CHILLINTALES_T17_016_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="41,64 490,62 492,67 490,87 490,106 490,111 487,120 481,126 477,129 470,133 460,134 450,135 433,134 412,136 388,136 363,136 322,132 320,137 322,145 322,148 321,151 320,151 318,153 315,158 312,161 308,164 304,167 299,168 287,171 256,172 232,173 208,169 209,176 210,178 203,187 198,189 173,197 144,199 112,202 84,200 81,219 76,234 73,271 68,233 61,202 43,199 38,175 41,64"
+                id="FOX_CHILLINTALES_T17_016_balloon_0">
             <metadata borderStyle="smooth" tailTip="73,271" boundingBox="" tailDirection="S" rank="1"/>
         </polygon>
-        <polygon points="318,133 330,134 373,139 427,138 466,133 476,130 487,118 490,172 490,221 489,260 460,265 442,267 433,267 416,293 395,320 402,295 406,272 373,270 325,270 281,270 221,270 191,264 175,254 159,233 161,215 169,198 189,189 202,183 208,178 205,166 229,166 257,170 275,169 294,167 310,161 320,149 318,133" id="FOX_CHILLINTALES_T17_016_balloon_1">
+        <polygon
+                points="318,133 330,134 373,139 427,138 466,133 476,130 487,118 490,172 490,221 489,260 460,265 442,267 433,267 416,293 395,320 402,295 406,272 373,270 325,270 281,270 221,270 191,264 175,254 159,233 161,215 169,198 189,189 202,183 208,178 205,166 229,166 257,170 275,169 294,167 310,161 320,149 318,133"
+                id="FOX_CHILLINTALES_T17_016_balloon_1">
             <metadata borderStyle="smooth" tailTip="395,320" boundingBox="" tailDirection="S" rank="2"/>
         </polygon>
-        <polygon points="514,63 939,59 952,73 958,83 960,95 961,105 960,114 958,121 956,128 955,134 950,142 948,146 944,152 940,157 937,162 928,168 913,174 896,180 830,180 811,176 810,187 811,190 800,199 795,202 792,204 769,213 722,217 690,217 680,241 657,299 659,261 660,233 662,217 633,217 587,216 555,213 525,209 512,204 514,63" id="FOX_CHILLINTALES_T17_016_balloon_2">
+        <polygon
+                points="514,63 939,59 952,73 958,83 960,95 961,105 960,114 958,121 956,128 955,134 950,142 948,146 944,152 940,157 937,162 928,168 913,174 896,180 830,180 811,176 810,187 811,190 800,199 795,202 792,204 769,213 722,217 690,217 680,241 657,299 659,261 660,233 662,217 633,217 587,216 555,213 525,209 512,204 514,63"
+                id="FOX_CHILLINTALES_T17_016_balloon_2">
             <metadata borderStyle="smooth" tailTip="657,299" boundingBox="" tailDirection="S" rank="3"/>
         </polygon>
-        <polygon points="45,542 80,541 90,541 101,544 107,545 113,545 151,542 164,542 179,540 192,542 204,544 229,543 257,541 284,544 328,545 340,545 377,543 387,544 402,544 421,545 473,539 520,539 543,538 555,540 569,539 577,541 585,537 616,541 638,542 644,542 639,551 638,559 639,568 643,573 642,576 643,587 641,597 640,606 605,610 554,610 510,610 474,611 460,610 454,607 444,609 428,608 418,605 394,607 365,609 360,610 346,607 316,612 300,611 291,611 261,612 251,610 235,609 221,611 211,612 204,612 191,610 164,615 157,615 138,614 129,613 120,614 107,611 99,611 92,611 80,611 70,610 53,610 42,611 47,601 41,581 42,569 40,557 44,552 45,542" id="FOX_CHILLINTALES_T17_016_balloon_3">
+        <polygon
+                points="45,542 80,541 90,541 101,544 107,545 113,545 151,542 164,542 179,540 192,542 204,544 229,543 257,541 284,544 328,545 340,545 377,543 387,544 402,544 421,545 473,539 520,539 543,538 555,540 569,539 577,541 585,537 616,541 638,542 644,542 639,551 638,559 639,568 643,573 642,576 643,587 641,597 640,606 605,610 554,610 510,610 474,611 460,610 454,607 444,609 428,608 418,605 394,607 365,609 360,610 346,607 316,612 300,611 291,611 261,612 251,610 235,609 221,611 211,612 204,612 191,610 164,615 157,615 138,614 129,613 120,614 107,611 99,611 92,611 80,611 70,610 53,610 42,611 47,601 41,581 42,569 40,557 44,552 45,542"
+                id="FOX_CHILLINTALES_T17_016_balloon_3">
             <metadata borderStyle="wavy" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
         </polygon>
-        <polygon points="136,610 164,614 175,611 184,611 196,611 207,612 216,611 224,609 234,609 248,609 259,608 279,607 288,608 301,611 321,609 345,606 351,608 359,607 375,603 383,605 393,605 409,615 411,631 408,646 404,653 373,669 347,678 307,681 286,680 267,680 270,712 270,747 275,795 275,832 279,873 283,914 283,946 270,871 258,797 253,747 249,717 243,678 209,677 184,672 158,670 140,662 131,643 130,630 136,610" id="FOX_CHILLINTALES_T17_016_balloon_4">
+        <polygon
+                points="136,610 164,614 175,611 184,611 196,611 207,612 216,611 224,609 234,609 248,609 259,608 279,607 288,608 301,611 321,609 345,606 351,608 359,607 375,603 383,605 393,605 409,615 411,631 408,646 404,653 373,669 347,678 307,681 286,680 267,680 270,712 270,747 275,795 275,832 279,873 283,914 283,946 270,871 258,797 253,747 249,717 243,678 209,677 184,672 158,670 140,662 131,643 130,630 136,610"
+                id="FOX_CHILLINTALES_T17_016_balloon_4">
             <metadata borderStyle="smooth" tailTip="283,946" boundingBox="" tailDirection="S" rank="5"/>
         </polygon>
-        <polygon points="440,610 464,610 487,606 496,606 508,605 518,606 533,609 558,607 570,603 580,603 588,605 599,607 609,608 639,602 649,612 660,625 664,638 663,651 660,661 656,673 654,684 645,691 633,701 622,708 608,716 589,720 571,723 548,724 540,724 526,723 512,722 504,722 494,722 488,722 486,734 483,742 476,758 466,777 456,796 444,821 454,778 459,746 466,716 445,705 428,692 415,665 420,640 425,625 431,618 440,610" id="FOX_CHILLINTALES_T17_016_balloon_5">
+        <polygon
+                points="440,610 464,610 487,606 496,606 508,605 518,606 533,609 558,607 570,603 580,603 588,605 599,607 609,608 639,602 649,612 660,625 664,638 663,651 660,661 656,673 654,684 645,691 633,701 622,708 608,716 589,720 571,723 548,724 540,724 526,723 512,722 504,722 494,722 488,722 486,734 483,742 476,758 466,777 456,796 444,821 454,778 459,746 466,716 445,705 428,692 415,665 420,640 425,625 431,618 440,610"
+                id="FOX_CHILLINTALES_T17_016_balloon_5">
             <metadata borderStyle="smooth" tailTip="444,821" boundingBox="" tailDirection="S" rank="6"/>
         </polygon>
-        <polygon points="729,512 897,511 1040,510 1153,508 1207,511 1240,512 1244,523 1244,533 1243,562 1241,585 725,589 726,550 729,512" id="FOX_CHILLINTALES_T17_016_balloon_6">
+        <polygon
+                points="729,512 897,511 1040,510 1153,508 1207,511 1240,512 1244,523 1244,533 1243,562 1241,585 725,589 726,550 729,512"
+                id="FOX_CHILLINTALES_T17_016_balloon_6">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="7"/>
         </polygon>
-        <polygon points="726,592 1001,595 1017,603 1024,613 1024,623 1026,629 1026,637 1027,642 1027,646 1021,654 1016,659 1008,666 1000,669 989,671 966,677 937,680 945,729 923,698 913,682 890,675 889,689 885,692 880,696 875,697 839,708 801,706 774,706 739,702 726,695 726,592" id="FOX_CHILLINTALES_T17_016_balloon_7">
+        <polygon
+                points="726,592 1001,595 1017,603 1024,613 1024,623 1026,629 1026,637 1027,642 1027,646 1021,654 1016,659 1008,666 1000,669 989,671 966,677 937,680 945,729 923,698 913,682 890,675 889,689 885,692 880,696 875,697 839,708 801,706 774,706 739,702 726,695 726,592"
+                id="FOX_CHILLINTALES_T17_016_balloon_7">
             <metadata borderStyle="smooth" tailTip="945,729" boundingBox="" tailDirection="SE" rank="8"/>
         </polygon>
-        <polygon points="1060,593 1212,592 1226,603 1232,615 1232,626 1233,632 1233,641 1229,650 1226,654 1221,659 1213,665 1195,671 1167,678 1147,681 1125,680 1087,726 1100,699 1104,681 1086,678 1068,671 1048,661 1038,641 1035,623 1041,608 1060,593" id="FOX_CHILLINTALES_T17_016_balloon_8">
+        <polygon
+                points="1060,593 1212,592 1226,603 1232,615 1232,626 1233,632 1233,641 1229,650 1226,654 1221,659 1213,665 1195,671 1167,678 1147,681 1125,680 1087,726 1100,699 1104,681 1086,678 1068,671 1048,661 1038,641 1035,623 1041,608 1060,593"
+                id="FOX_CHILLINTALES_T17_016_balloon_8">
             <metadata borderStyle="smooth" tailTip="1087,726" boundingBox="" tailDirection="SW" rank="9"/>
         </polygon>
-        <polygon points="37,1116 656,1117 659,1130 659,1139 660,1154 660,1170 657,1190 641,1202 43,1196 37,1116" id="FOX_CHILLINTALES_T17_016_balloon_9">
+        <polygon points="37,1116 656,1117 659,1130 659,1139 660,1154 660,1170 657,1190 641,1202 43,1196 37,1116"
+                 id="FOX_CHILLINTALES_T17_016_balloon_9">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="10"/>
         </polygon>
-        <polygon points="37,1201 395,1201 401,1214 403,1220 404,1227 403,1234 402,1239 398,1246 396,1251 393,1256 386,1264 384,1265 377,1269 371,1271 356,1277 337,1279 315,1279 280,1274 270,1270 270,1284 268,1289 261,1298 255,1307 251,1310 247,1316 240,1321 237,1324 234,1327 233,1328 219,1383 216,1335 194,1343 161,1339 133,1341 102,1334 81,1330 61,1321 36,1298 37,1201" id="FOX_CHILLINTALES_T17_016_balloon_10">
+        <polygon
+                points="37,1201 395,1201 401,1214 403,1220 404,1227 403,1234 402,1239 398,1246 396,1251 393,1256 386,1264 384,1265 377,1269 371,1271 356,1277 337,1279 315,1279 280,1274 270,1270 270,1284 268,1289 261,1298 255,1307 251,1310 247,1316 240,1321 237,1324 234,1327 233,1328 219,1383 216,1335 194,1343 161,1339 133,1341 102,1334 81,1330 61,1321 36,1298 37,1201"
+                id="FOX_CHILLINTALES_T17_016_balloon_10">
             <metadata borderStyle="smooth" tailTip="219,1383" boundingBox="" tailDirection="S" rank="11"/>
         </polygon>
-        <polygon points="439,1203 644,1201 642,1254 634,1265 622,1271 614,1272 604,1275 600,1277 588,1277 588,1277 591,1281 585,1290 567,1299 549,1307 539,1307 524,1399 516,1357 511,1309 492,1303 475,1293 471,1278 457,1273 438,1260 432,1248 427,1226 439,1203" id="FOX_CHILLINTALES_T17_016_balloon_11">
+        <polygon
+                points="439,1203 644,1201 642,1254 634,1265 622,1271 614,1272 604,1275 600,1277 588,1277 588,1277 591,1281 585,1290 567,1299 549,1307 539,1307 524,1399 516,1357 511,1309 492,1303 475,1293 471,1278 457,1273 438,1260 432,1248 427,1226 439,1203"
+                id="FOX_CHILLINTALES_T17_016_balloon_11">
             <metadata borderStyle="smooth" tailTip="524,1399" boundingBox="" tailDirection="S" rank="12"/>
         </polygon>
-        <polygon points="710,1077 761,1074 782,1077 807,1075 829,1075 847,1077 865,1080 939,1071 948,1072 960,1074 974,1077 1013,1072 1037,1072 1052,1072 1067,1072 1104,1068 1124,1072 1136,1074 1152,1078 1204,1077 1212,1077 1234,1075 1238,1080 1240,1098 1240,1109 1239,1132 1234,1139 1196,1142 1176,1144 1157,1145 1140,1148 1106,1151 1077,1147 1048,1148 1007,1150 990,1144 942,1148 934,1147 910,1145 898,1146 894,1155 896,1166 895,1173 887,1175 838,1178 833,1174 823,1173 806,1174 794,1173 769,1170 758,1172 710,1172 710,1077" id="FOX_CHILLINTALES_T17_016_balloon_12">
+        <polygon
+                points="710,1077 761,1074 782,1077 807,1075 829,1075 847,1077 865,1080 939,1071 948,1072 960,1074 974,1077 1013,1072 1037,1072 1052,1072 1067,1072 1104,1068 1124,1072 1136,1074 1152,1078 1204,1077 1212,1077 1234,1075 1238,1080 1240,1098 1240,1109 1239,1132 1234,1139 1196,1142 1176,1144 1157,1145 1140,1148 1106,1151 1077,1147 1048,1148 1007,1150 990,1144 942,1148 934,1147 910,1145 898,1146 894,1155 896,1166 895,1173 887,1175 838,1178 833,1174 823,1173 806,1174 794,1173 769,1170 758,1172 710,1172 710,1077"
+                id="FOX_CHILLINTALES_T17_016_balloon_12">
             <metadata borderStyle="wavy" tailTip="" boundingBox="" tailDirection="none" rank="13"/>
         </polygon>
-        <polygon points="896,1147 928,1145 957,1145 962,1148 990,1148 1006,1147 1069,1147 1081,1146 1096,1144 1107,1143 1119,1144 1136,1143 1149,1142 1160,1141 1183,1141 1206,1141 1214,1141 1225,1142 1234,1144 1240,1144 1242,1264 1194,1272 1161,1271 1135,1271 1116,1261 1108,1251 1103,1248 1096,1247 1096,1238 1099,1228 1085,1228 1075,1232 1051,1235 1024,1237 992,1239 972,1236 951,1235 940,1262 938,1272 932,1292 926,1296 931,1275 933,1257 933,1242 933,1232 911,1224 901,1218 889,1208 881,1179 893,1173 896,1147" id="FOX_CHILLINTALES_T17_016_balloon_13">
+        <polygon
+                points="896,1147 928,1145 957,1145 962,1148 990,1148 1006,1147 1069,1147 1081,1146 1096,1144 1107,1143 1119,1144 1136,1143 1149,1142 1160,1141 1183,1141 1206,1141 1214,1141 1225,1142 1234,1144 1240,1144 1242,1264 1194,1272 1161,1271 1135,1271 1116,1261 1108,1251 1103,1248 1096,1247 1096,1238 1099,1228 1085,1228 1075,1232 1051,1235 1024,1237 992,1239 972,1236 951,1235 940,1262 938,1272 932,1292 926,1296 931,1275 933,1257 933,1242 933,1232 911,1224 901,1218 889,1208 881,1179 893,1173 896,1147"
+                id="FOX_CHILLINTALES_T17_016_balloon_13">
             <metadata borderStyle="smooth" tailTip="926,1296" boundingBox="" tailDirection="S" rank="14"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="304,346 455,346 455,538 304,538 304,346" id="FOX_CHILLINTALES_T17_016_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -121,139 +160,240 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="54,77 471,77 471,99 54,99 54,77" id="FOX_CHILLINTALES_T17_016_line_0">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">YES, I KILLED THEM. HOW ELSE COULD</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">YES, I KILLED THEM. HOW ELSE
+                COULD
+            </metadata>
         </polygon>
         <polygon points="57,103 436,103 436,125 57,125 57,103" id="FOX_CHILLINTALES_T17_016_line_1">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">I GET WHAT I NEEDED-- SERUMS,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">I GET WHAT I NEEDED-- SERUMS,
+            </metadata>
         </polygon>
         <polygon points="50,130 301,130 301,152 50,152 50,130" id="FOX_CHILLINTALES_T17_016_line_2">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">GLANDULAR EXTRACTS,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">GLANDULAR EXTRACTS,
+            </metadata>
         </polygon>
         <polygon points="83,157 180,157 180,175 83,175 83,157" id="FOX_CHILLINTALES_T17_016_line_3">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">BLOOD...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_0" textType="speech">BLOOD...
+            </metadata>
         </polygon>
         <polygon points="336,144 482,144 482,166 336,166 336,144" id="FOX_CHILLINTALES_T17_016_line_4">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">YOU'RE MAD--</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">YOU'RE MAD--
+            </metadata>
         </polygon>
         <polygon points="319,173 466,173 466,191 319,191 319,173" id="FOX_CHILLINTALES_T17_016_line_5">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">STARK RAVING</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">STARK RAVING
+            </metadata>
         </polygon>
         <polygon points="183,194 451,194 451,217 183,217 183,194" id="FOX_CHILLINTALES_T17_016_line_6">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">MAD! DO YOU THINK THIS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">MAD! DO YOU THINK THIS
+            </metadata>
         </polygon>
         <polygon points="175,226 454,226 454,246 175,246 175,226" id="FOX_CHILLINTALES_T17_016_line_7">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">CRAZY IDEA WILL WORK?</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_1" textType="speech">CRAZY IDEA WILL WORK?
+            </metadata>
         </polygon>
         <polygon points="528,72 917,72 917,98 528,98 528,72" id="FOX_CHILLINTALES_T17_016_line_8">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">MAD, YOU SAY! YOU SHALL SEE HOW</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">MAD, YOU SAY! YOU SHALL SEE HOW
+            </metadata>
         </polygon>
         <polygon points="533,101 907,101 907,124 533,124 533,101" id="FOX_CHILLINTALES_T17_016_line_9">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">MAD I AM. YOU SHALL SEE WHAT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">MAD I AM. YOU SHALL SEE WHAT
+            </metadata>
         </polygon>
         <polygon points="528,129 883,129 883,150 528,150 528,129" id="FOX_CHILLINTALES_T17_016_line_10">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">NO MAN HAS SEEN BEFORE-- THE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">NO MAN HAS SEEN BEFORE-- THE
+            </metadata>
         </polygon>
         <polygon points="529,151 740,151 740,175 529,175 529,151" id="FOX_CHILLINTALES_T17_016_line_11">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">CREATION OF LIFE!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_2" textType="speech">CREATION OF LIFE!
+            </metadata>
         </polygon>
         <polygon points="59,550 596,550 596,578 59,578 59,550" id="FOX_CHILLINTALES_T17_016_line_12">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_3" textType="narrative">IN AN AGONY OF APPREHENSION I STRAIND AT MY</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_3" textType="narrative">IN AN AGONY OF APPREHENSION I
+                STRAIND AT MY
+            </metadata>
         </polygon>
         <polygon points="56,583 446,583 446,604 56,604 56,583" id="FOX_CHILLINTALES_T17_016_line_13">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_3" textType="narrative">BONDS. SUDDENLY THEY SNAPPED...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_3" textType="narrative">BONDS. SUDDENLY THEY
+                SNAPPED...
+            </metadata>
         </polygon>
         <polygon points="165,614 376,614 376,642 165,642 165,614" id="FOX_CHILLINTALES_T17_016_line_14">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_4" textType="speech">NOW, PROFESSOR!...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_4" textType="speech">NOW, PROFESSOR!...
+            </metadata>
         </polygon>
         <polygon points="464,612 625,612 625,639 464,639 464,612" id="FOX_CHILLINTALES_T17_016_line_15">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_5" textType="speech">THE FLASK!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_5" textType="speech">THE FLASK!
+            </metadata>
         </polygon>
         <polygon points="461,634 624,634 624,664 461,664 461,634" id="FOX_CHILLINTALES_T17_016_line_16">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_5" textType="speech">THE FLASK!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_5" textType="speech">THE FLASK!
+            </metadata>
         </polygon>
         <polygon points="728,509 1194,509 1194,540 728,540 728,509" id="FOX_CHILLINTALES_T17_016_line_17">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">BUT IT WAS TOO LATE! IT FELL AND EX-</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">BUT IT WAS TOO LATE! IT FELL
+                AND EX-
+            </metadata>
         </polygon>
         <polygon points="731,543 1162,543 1162,569 731,569 731,543" id="FOX_CHILLINTALES_T17_016_line_18">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">PLODED, SPARYING EVERYTHING WITH ITS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">PLODED, SPARYING EVERYTHING
+                WITH ITS
+            </metadata>
         </polygon>
         <polygon points="727,571 859,571 859,590 727,590 727,571" id="FOX_CHILLINTALES_T17_016_line_19">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">CONTENTS...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_6" textType="narrative">CONTENTS...
+            </metadata>
         </polygon>
         <polygon points="744,601 979,601 979,624 744,624 744,601" id="FOX_CHILLINTALES_T17_016_line_20">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">MY ELIXIR! MY LIFE'S</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">MY ELIXIR! MY LIFE'S
+            </metadata>
         </polygon>
         <polygon points="746,627 991,627 991,651 746,651 746,627" id="FOX_CHILLINTALES_T17_016_line_21">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">WORK! I'LL KILL YOU</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">WORK! I'LL KILL YOU
+            </metadata>
         </polygon>
         <polygon points="743,654 855,654 855,679 743,679 743,654" id="FOX_CHILLINTALES_T17_016_line_22">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">FOR THIS!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_7" textType="speech">FOR THIS!
+            </metadata>
         </polygon>
         <polygon points="1075,600 1173,600 1173,623 1075,623 1075,600" id="FOX_CHILLINTALES_T17_016_line_23">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_8" textType="speech">YOU ARE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_8" textType="speech">YOU ARE
+            </metadata>
         </polygon>
         <polygon points="1093,625 1174,625 1174,649 1093,649 1093,625" id="FOX_CHILLINTALES_T17_016_line_24">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_8" textType="speech">CRAZY!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_8" textType="speech">CRAZY!
+            </metadata>
         </polygon>
         <polygon points="44,1118 603,1118 603,1145 44,1145 44,1118" id="FOX_CHILLINTALES_T17_016_line_25">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">AS THE FRIGHTFUL LIQUID SETTLED ON THE DIS-</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">AS THE FRIGHTFUL LIQUID
+                SETTLED ON THE DIS-
+            </metadata>
         </polygon>
         <polygon points="49,1149 589,1149 589,1170 49,1170 49,1149" id="FOX_CHILLINTALES_T17_016_line_26">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">MEMBERED PARTS OF THE BODIES IN THAT AWFUL</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">MEMBERED PARTS OF THE BODIES
+                IN THAT AWFUL
+            </metadata>
         </polygon>
         <polygon points="49,1178 472,1178 472,1197 49,1197 49,1178" id="FOX_CHILLINTALES_T17_016_line_27">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">ROOM A TERRIBLE THING HAPPENED...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_9" textType="narrative">ROOM A TERRIBLE THING
+                HAPPENED...
+            </metadata>
         </polygon>
         <polygon points="56,1216 369,1216 369,1244 56,1244 56,1216" id="FOX_CHILLINTALES_T17_016_line_28">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">LOOK! LOOK! THE ...THE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">LOOK! LOOK! THE ...THE
+            </metadata>
         </polygon>
         <polygon points="87,1246 245,1246 245,1268 87,1268 87,1246" id="FOX_CHILLINTALES_T17_016_line_29">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">THINGS ARE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">THINGS ARE
+            </metadata>
         </polygon>
         <polygon points="77,1270 218,1270 218,1306 77,1306 77,1270" id="FOX_CHILLINTALES_T17_016_line_30">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">ALIVE!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_10" textType="speech">ALIVE!
+            </metadata>
         </polygon>
         <polygon points="462,1220 586,1220 586,1240 462,1240 462,1220" id="FOX_CHILLINTALES_T17_016_line_31">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_11" textType="speech">THE ELIXIR</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_11" textType="speech">THE ELIXIR
+            </metadata>
         </polygon>
         <polygon points="486,1242 570,1242 570,1267 486,1267 486,1242" id="FOX_CHILLINTALES_T17_016_line_32">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_11" textType="speech">DID IT!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_11" textType="speech">DID IT!
+            </metadata>
         </polygon>
         <polygon points="717,1081 1187,1081 1187,1112 717,1112 717,1081" id="FOX_CHILLINTALES_T17_016_line_33">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">WITH ONE ACCORD THE FRIGHTFUL THINGS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">WITH ONE ACCORD THE FRIGHTFUL
+                THINGS
+            </metadata>
         </polygon>
         <polygon points="719,1114 1184,1114 1184,1138 719,1138 719,1114" id="FOX_CHILLINTALES_T17_016_line_34">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">WRITHED, WIGGLED, SQUIRMED TOWARD THE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">WRITHED, WIGGLED, SQUIRMED
+                TOWARD THE
+            </metadata>
         </polygon>
         <polygon points="721,1143 867,1143 867,1163 721,1163 721,1143" id="FOX_CHILLINTALES_T17_016_line_35">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">PROFESSOR...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_12" textType="narrative">PROFESSOR...
+            </metadata>
         </polygon>
         <polygon points="906,1158 1230,1158 1230,1179 906,1179 906,1158" id="FOX_CHILLINTALES_T17_016_line_36">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">THEY... THEY'RE COMING AFTER</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">THEY... THEY'RE COMING AFTER
+            </metadata>
         </polygon>
         <polygon points="928,1178 1203,1178 1203,1205 928,1205 928,1178" id="FOX_CHILLINTALES_T17_016_line_37">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">ME! --- NO! NO! STAY</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">ME! --- NO! NO! STAY
+            </metadata>
         </polygon>
         <polygon points="1134,1203 1225,1203 1225,1231 1134,1231 1134,1203" id="FOX_CHILLINTALES_T17_016_line_38">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">BACK!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="FOX_CHILLINTALES_T17_016_balloon_13" textType="speech">BACK!
+            </metadata>
         </polygon>
         <polygon id="FOX_CHILLINTALES_T17_016_line_39" points="1217,1757 1230,1757 1230,1773 1217,1773 1217,1757">
             <metadata method="" typography="" rank="" textType="speech">6</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="265,166 266,166 143,389 142,389 265,166" idCharacter="FOX_CHILLINTALES_T17_016_character_1" idBalloon="FOX_CHILLINTALES_T17_016_balloon_0"/>
-    <polygon points="324,219 325,219 380,442 379,442 324,219" idCharacter="FOX_CHILLINTALES_T17_016_character_0" idBalloon="FOX_CHILLINTALES_T17_016_balloon_1"/>
-    <polygon points="736,179 737,179 609,371 608,371 736,179" idCharacter="FOX_CHILLINTALES_T17_016_character_2" idBalloon="FOX_CHILLINTALES_T17_016_balloon_2"/>
-    <polygon points="539,711 540,711 418,940 417,940 539,711" idCharacter="FOX_CHILLINTALES_T17_016_character_3" idBalloon="FOX_CHILLINTALES_T17_016_balloon_5"/>
-    <polygon points="270,774 271,774 323,1044 322,1044 270,774" idCharacter="FOX_CHILLINTALES_T17_016_character_4" idBalloon="FOX_CHILLINTALES_T17_016_balloon_4"/>
-    <polygon points="876,660 877,660 966,828 965,828 876,660" idCharacter="FOX_CHILLINTALES_T17_016_character_5" idBalloon="FOX_CHILLINTALES_T17_016_balloon_7"/>
-    <polygon points="1134,659 1135,659 1077,817 1076,817 1134,659" idCharacter="FOX_CHILLINTALES_T17_016_character_6" idBalloon="FOX_CHILLINTALES_T17_016_balloon_8"/>
-    <polygon points="535,1300 536,1300 509,1599 508,1599 535,1300" idCharacter="FOX_CHILLINTALES_T17_016_character_7" idBalloon="FOX_CHILLINTALES_T17_016_balloon_11"/>
-    <polygon points="220,1292 221,1292 173,1528 172,1528 220,1292" idCharacter="FOX_CHILLINTALES_T17_016_character_8" idBalloon="FOX_CHILLINTALES_T17_016_balloon_10"/>
-    <polygon points="1061,1218 1062,1218 934,1459 933,1459 1061,1218" idCharacter="FOX_CHILLINTALES_T17_016_character_9" idBalloon="FOX_CHILLINTALES_T17_016_balloon_13"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 21:09:16 CET 2014" lastStepModified="Line_Metadata"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="265,166 266,166 143,389 142,389 265,166" idCharacter="FOX_CHILLINTALES_T17_016_character_1"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_0"/>
+        <polygon points="324,219 325,219 380,442 379,442 324,219" idCharacter="FOX_CHILLINTALES_T17_016_character_0"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_1"/>
+        <polygon points="736,179 737,179 609,371 608,371 736,179" idCharacter="FOX_CHILLINTALES_T17_016_character_2"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_2"/>
+        <polygon points="539,711 540,711 418,940 417,940 539,711" idCharacter="FOX_CHILLINTALES_T17_016_character_3"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_5"/>
+        <polygon points="270,774 271,774 323,1044 322,1044 270,774" idCharacter="FOX_CHILLINTALES_T17_016_character_4"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_4"/>
+        <polygon points="876,660 877,660 966,828 965,828 876,660" idCharacter="FOX_CHILLINTALES_T17_016_character_5"
+                 idBalloon="FOX_CHILLINTALES_T17_016_balloon_7"/>
+        <polygon points="1134,659 1135,659 1077,817 1076,817 1134,659"
+                 idCharacter="FOX_CHILLINTALES_T17_016_character_6" idBalloon="FOX_CHILLINTALES_T17_016_balloon_8"/>
+        <polygon points="535,1300 536,1300 509,1599 508,1599 535,1300"
+                 idCharacter="FOX_CHILLINTALES_T17_016_character_7" idBalloon="FOX_CHILLINTALES_T17_016_balloon_11"/>
+        <polygon points="220,1292 221,1292 173,1528 172,1528 220,1292"
+                 idCharacter="FOX_CHILLINTALES_T17_016_character_8" idBalloon="FOX_CHILLINTALES_T17_016_balloon_10"/>
+        <polygon points="1061,1218 1062,1218 934,1459 933,1459 1061,1218"
+                 idCharacter="FOX_CHILLINTALES_T17_016_character_9" idBalloon="FOX_CHILLINTALES_T17_016_balloon_13"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Sat Feb 15 21:09:16 CET 2014"
+              lastStepModified="Line_Metadata"/>
 </svg>

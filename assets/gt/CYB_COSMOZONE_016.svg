@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="284mm" zoomAndPan="magnify" contentStyleType="text/css" height="330mm" viewBox="0 0 569 661" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="284mm" zoomAndPan="magnify" contentStyleType="text/css" height="330mm" viewBox="0 0 569 661"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>CYB_COSMOZONE_016</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" fill-opacity="0.5" width="569" xlink:href="../Pages/CYB_COSMOZONE_016.jpg" xlink:type="simple" xlink:actuate="onLoad" height="661" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Cosmozone" editorName="Studio Cyborga" doublePage="false" website="http://cosmozone.webcomics.fr/archives" albumTitle="Volume 1" drawerName="Cyborg 07" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07" releaseDate="2008" pageNumber="16"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="569" xlink:href="../Pages/CYB_COSMOZONE_016.jpg"
+               xlink:type="simple" xlink:actuate="onLoad" height="661" opacity="0.5" preserveAspectRatio="xMidYMid meet"
+               xlink:show="embed"/>
+        <metadata collectionTitle="Cosmozone" editorName="Studio Cyborga" doublePage="false"
+                  website="http://cosmozone.webcomics.fr/archives" albumTitle="Volume 1" drawerName="Cyborg 07"
+                  language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Cyborg 07"
+                  releaseDate="2008" pageNumber="16"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +26,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="10,86 277,86 277,356 10,356 10,86" id="CYB_COSMOZONE_016_panel_0">
             <metadata viewAngle="" shot="" rank="2"/>
         </polygon>
@@ -35,19 +45,28 @@
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="156,167 156,131 163,119 181,110 214,111 271,111 280,116 287,123 291,134 292,146 291,199 289,207 283,216 273,222 265,223 180,224 172,220 169,223 159,225 164,222 168,218 163,214 156,202 156,167" id="CYB_COSMOZONE_016_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="156,167 156,131 163,119 181,110 214,111 271,111 280,116 287,123 291,134 292,146 291,199 289,207 283,216 273,222 265,223 180,224 172,220 169,223 159,225 164,222 168,218 163,214 156,202 156,167"
+                id="CYB_COSMOZONE_016_balloon_0">
             <metadata borderStyle="smooth" tailTip="159,225" boundingBox="" tailDirection="SW" rank="1"/>
         </polygon>
-        <polygon points="293,150 293,85 562,87 562,170 522,174 488,175 460,175 452,175 450,185 440,199 442,190 446,174 401,172 363,167 314,159 294,154 293,150" id="CYB_COSMOZONE_016_balloon_1">
+        <polygon
+                points="293,150 293,85 562,87 562,170 522,174 488,175 460,175 452,175 450,185 440,199 442,190 446,174 401,172 363,167 314,159 294,154 293,150"
+                id="CYB_COSMOZONE_016_balloon_1">
             <metadata borderStyle="smooth" tailTip="440,199" boundingBox="" tailDirection="S" rank="2"/>
         </polygon>
-        <polygon points="439,460 439,447 447,425 464,406 488,393 514,389 531,390 547,395 562,401 562,509 552,514 540,518 520,521 504,520 487,517 470,509 457,498 453,492 449,494 438,495 442,492 448,486 443,474 439,460" id="CYB_COSMOZONE_016_balloon_2">
+        <polygon
+                points="439,460 439,447 447,425 464,406 488,393 514,389 531,390 547,395 562,401 562,509 552,514 540,518 520,521 504,520 487,517 470,509 457,498 453,492 449,494 438,495 442,492 448,486 443,474 439,460"
+                id="CYB_COSMOZONE_016_balloon_2">
             <metadata borderStyle="smooth" tailTip="438,495" boundingBox="" tailDirection="SW" rank="3"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="81,170 160,170 160,304 81,304 81,170" id="CYB_COSMOZONE_016_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -73,7 +92,8 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="68,36 191,36 191,63 68,63 68,36" id="CYB_COSMOZONE_016_line_0">
             <metadata method="" typography="" textType="note">Studio cyboRGa</metadata>
         </polygon>
@@ -81,76 +101,109 @@
             <metadata method="" typography="" textType="note">présente :</metadata>
         </polygon>
         <polygon points="172,135 279,135 279,147 172,147 172,135" id="CYB_COSMOZONE_016_line_2">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">Et maintenant, je</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">Et maintenant,
+                je
+            </metadata>
         </polygon>
         <polygon points="173,147 277,147 277,160 173,160 173,147" id="CYB_COSMOZONE_016_line_3">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">laisse la parole à</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">laisse la parole
+                à
+            </metadata>
         </polygon>
         <polygon points="189,159 262,159 262,170 189,170 189,159" id="CYB_COSMOZONE_016_line_4">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">l'homme du</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">l'homme du
+            </metadata>
         </polygon>
         <polygon points="201,170 248,170 248,184 201,184 201,170" id="CYB_COSMOZONE_016_line_5">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">jour : le</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">jour : le
+            </metadata>
         </polygon>
         <polygon points="184,183 266,183 266,194 184,194 184,183" id="CYB_COSMOZONE_016_line_6">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">commandant</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">commandant
+            </metadata>
         </polygon>
         <polygon points="210,195 240,195 240,206 210,206 210,195" id="CYB_COSMOZONE_016_line_7">
             <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_0" textType="speech">Cool.</metadata>
         </polygon>
         <polygon points="322,93 538,93 538,107 322,107 322,93" id="CYB_COSMOZONE_016_line_8">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">Merci à tous, Je dois dire que je ne</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">Merci à tous, Je
+                dois dire que je ne
+            </metadata>
         </polygon>
         <polygon points="314,105 547,105 547,118 314,118 314,105" id="CYB_COSMOZONE_016_line_9">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">m'attendais pas du tout à jouer dans</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">m'attendais pas
+                du tout à jouer dans
+            </metadata>
         </polygon>
         <polygon points="321,118 539,118 539,131 321,131 321,118" id="CYB_COSMOZONE_016_line_10">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">une BD de S-F., Je tournais un spot</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">une BD de S-F.,
+                Je tournais un spot
+            </metadata>
         </polygon>
         <polygon points="315,130 548,130 548,143 315,143 315,130" id="CYB_COSMOZONE_016_line_11">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">pour une marque de croquettes pour</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">pour une marque
+                de croquettes pour
+            </metadata>
         </polygon>
         <polygon points="307,141 553,141 553,155 307,155 307,141" id="CYB_COSMOZONE_016_line_12">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">chat végétarien, quand mon agent m'a</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">chat végétarien,
+                quand mon agent m'a
+            </metadata>
         </polygon>
         <polygon points="390,153 471,153 471,165 390,165 390,153" id="CYB_COSMOZONE_016_line_13">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">contacté et...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_1" textType="speech">contacté et...
+            </metadata>
         </polygon>
         <polygon points="469,407 558,407 558,420 469,420 469,407" id="CYB_COSMOZONE_016_line_14">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">L'espace nous</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">L'espace nous
+            </metadata>
         </polygon>
         <polygon points="464,418 563,418 563,430 464,430 464,418" id="CYB_COSMOZONE_016_line_15">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">attend !! Quelle</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">attend !!
+                Quelle
+            </metadata>
         </polygon>
         <polygon points="469,430 557,430 557,444 469,444 469,430" id="CYB_COSMOZONE_016_line_16">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">joie de piloter</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">joie de
+                piloter
+            </metadata>
         </polygon>
         <polygon points="471,444 557,444 557,455 471,455 471,444" id="CYB_COSMOZONE_016_line_17">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">un super gros</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">un super gros
+            </metadata>
         </polygon>
         <polygon points="467,454 560,454 560,465 467,465 467,454" id="CYB_COSMOZONE_016_line_18">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">vaisseau et de</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">vaisseau et de
+            </metadata>
         </polygon>
         <polygon points="482,465 545,465 545,479 482,479 482,465" id="CYB_COSMOZONE_016_line_19">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">percer les</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">percer les
+            </metadata>
         </polygon>
         <polygon points="480,477 545,477 545,488 480,488 480,477" id="CYB_COSMOZONE_016_line_20">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">secrets du</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">secrets du
+            </metadata>
         </polygon>
         <polygon points="466,489 560,489 560,500 466,500 466,489" id="CYB_COSMOZONE_016_line_21">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">cosmos. Ouais,</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">cosmos. Ouais,
+            </metadata>
         </polygon>
         <polygon points="491,501 535,501 535,513 491,513 491,501" id="CYB_COSMOZONE_016_line_22">
-            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">super!!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_COSMOZONE_016_balloon_2" textType="speech">super!!
+            </metadata>
         </polygon>
         <polygon points="427,640 559,640 559,648 427,648 427,640" id="CYB_COSMOZONE_016_line_23">
-            <metadata method="" typography="" textType="speech">2008/2009  copyright Cyborg 07</metadata>
+            <metadata method="" typography="" textType="speech">2008/2009 copyright Cyborg 07</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="224,167 225,167 121,237 120,237 224,167" idCharacter="CYB_COSMOZONE_016_character_0" idBalloon="CYB_COSMOZONE_016_balloon_0"/>
-    <polygon points="427,142 428,142 403,240 402,240 427,142" idCharacter="CYB_COSMOZONE_016_character_3" idBalloon="CYB_COSMOZONE_016_balloon_1"/>
-    <polygon points="500,455 501,455 409,520 408,520 500,455" idCharacter="CYB_COSMOZONE_016_character_7" idBalloon="CYB_COSMOZONE_016_balloon_2"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:10:21 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="224,167 225,167 121,237 120,237 224,167" idCharacter="CYB_COSMOZONE_016_character_0"
+                 idBalloon="CYB_COSMOZONE_016_balloon_0"/>
+        <polygon points="427,142 428,142 403,240 402,240 427,142" idCharacter="CYB_COSMOZONE_016_character_3"
+                 idBalloon="CYB_COSMOZONE_016_balloon_1"/>
+        <polygon points="500,455 501,455 409,520 408,520 500,455" idCharacter="CYB_COSMOZONE_016_character_7"
+                 idBalloon="CYB_COSMOZONE_016_balloon_2"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Sat Feb 15 15:10:21 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="400mm" zoomAndPan="magnify" contentStyleType="text/css" height="150mm" viewBox="0 0 800 301" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="400mm" zoomAndPan="magnify" contentStyleType="text/css" height="150mm" viewBox="0 0 800 301"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>LAMISSEB_ETPISTAF_005</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="800" xlink:href="../Pages/LAMISSEB_ETPISTAF_005.jpg" xlink:type="simple" xlink:actuate="onLoad" height="301" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Et Pis Taf !" editorName="" doublePage="false" website="http://et-pis-taf.webcomics.fr/archives" albumTitle="Volume 1" drawerName="Lamisseb" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Lamisseb" releaseDate="2012" pageNumber="5"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="800" xlink:href="../Pages/LAMISSEB_ETPISTAF_005.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="301" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Et Pis Taf !" editorName="" doublePage="false"
+                  website="http://et-pis-taf.webcomics.fr/archives" albumTitle="Volume 1" drawerName="Lamisseb"
+                  language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Lamisseb"
+                  releaseDate="2012" pageNumber="5"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="13,20 236,20 236,285 13,285 13,20" id="LAMISSEB_ETPISTAF_005_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -32,22 +41,33 @@
             <metadata viewAngle="" shot="" rank="4"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="22,12 60,11 124,12 165,13 181,14 188,18 192,26 194,35 192,45 186,56 175,60 164,61 154,61 140,61 138,59 142,71 132,71 128,59 101,58 62,61 24,61 12,50 10,30 15,19 22,12" id="LAMISSEB_ETPISTAF_005_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="22,12 60,11 124,12 165,13 181,14 188,18 192,26 194,35 192,45 186,56 175,60 164,61 154,61 140,61 138,59 142,71 132,71 128,59 101,58 62,61 24,61 12,50 10,30 15,19 22,12"
+                id="LAMISSEB_ETPISTAF_005_balloon_0">
             <metadata borderStyle="smooth" tailTip="142,71" boundingBox="" tailDirection="SE" rank="1"/>
         </polygon>
-        <polygon points="122,72 148,72 183,72 203,74 212,83 215,97 212,113 201,127 183,132 173,131 177,145 180,159 170,160 170,146 165,133 138,135 105,135 82,135 54,136 43,123 38,108 40,93 46,80 53,74 67,72 122,72" id="LAMISSEB_ETPISTAF_005_balloon_1">
+        <polygon
+                points="122,72 148,72 183,72 203,74 212,83 215,97 212,113 201,127 183,132 173,131 177,145 180,159 170,160 170,146 165,133 138,135 105,135 82,135 54,136 43,123 38,108 40,93 46,80 53,74 67,72 122,72"
+                id="LAMISSEB_ETPISTAF_005_balloon_1">
             <metadata borderStyle="smooth" tailTip="180,159" boundingBox="" tailDirection="SE" rank="2"/>
         </polygon>
-        <polygon points="160,160 185,160 218,162 237,166 244,174 247,186 247,204 243,218 238,227 215,228 189,229 172,227 161,243 154,242 134,231 143,233 153,236 159,234 162,228 148,224 139,215 137,193 139,176 148,164 160,160" id="LAMISSEB_ETPISTAF_005_balloon_2">
+        <polygon
+                points="160,160 185,160 218,162 237,166 244,174 247,186 247,204 243,218 238,227 215,228 189,229 172,227 161,243 154,242 134,231 143,233 153,236 159,234 162,228 148,224 139,215 137,193 139,176 148,164 160,160"
+                id="LAMISSEB_ETPISTAF_005_balloon_2">
             <metadata borderStyle="smooth" tailTip="134,231" boundingBox="" tailDirection="NW" rank="3"/>
         </polygon>
-        <polygon points="295,24 339,24 356,25 369,25 378,33 384,45 386,59 385,74 384,86 380,97 365,101 346,103 311,102 301,103 304,114 308,126 317,146 307,139 298,119 295,103 275,102 268,90 264,74 263,57 266,39 270,32 295,24" id="LAMISSEB_ETPISTAF_005_balloon_3">
+        <polygon
+                points="295,24 339,24 356,25 369,25 378,33 384,45 386,59 385,74 384,86 380,97 365,101 346,103 311,102 301,103 304,114 308,126 317,146 307,139 298,119 295,103 275,102 268,90 264,74 263,57 266,39 270,32 295,24"
+                id="LAMISSEB_ETPISTAF_005_balloon_3">
             <metadata borderStyle="smooth" tailTip="317,146" boundingBox="" tailDirection="SE" rank="4"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="36,154 120,154 120,283 36,283 36,154" id="LAMISSEB_ETPISTAF_005_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -58,42 +78,67 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="20,19 182,19 182,35 20,35 20,19" id="LAMISSEB_ETPISTAF_005_line_0">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_0" textType="speech">TOUJOURS CES PROBLEMES</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_0" textType="speech">TOUJOURS CES
+                PROBLEMES
+            </metadata>
         </polygon>
         <polygon points="31,37 171,37 171,51 31,51 31,37" id="LAMISSEB_ETPISTAF_005_line_1">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_0" textType="speech">D'INSOMNIE, DOCTEUR.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_0" textType="speech">D'INSOMNIE,
+                DOCTEUR.
+            </metadata>
         </polygon>
         <polygon points="55,82 193,82 193,94 55,94 55,82" id="LAMISSEB_ETPISTAF_005_line_2">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">C'EST DE PIRE EN PIRE.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">C'EST DE
+                PIRE EN PIRE.
+            </metadata>
         </polygon>
         <polygon points="50,94 200,94 200,109 50,109 50,94" id="LAMISSEB_ETPISTAF_005_line_3">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">MES SOMNIFERES N'ONT</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">MES
+                SOMNIFERES N'ONT
+            </metadata>
         </polygon>
         <polygon points="67,111 182,111 182,124 67,124 67,111" id="LAMISSEB_ETPISTAF_005_line_4">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">PLUS AUCUN EFFET.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1" textType="speech">PLUS AUCUN
+                EFFET.
+            </metadata>
         </polygon>
         <polygon points="155,174 229,174 229,186 155,186 155,174" id="LAMISSEB_ETPISTAF_005_line_5">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">VOUS AURIEZ</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">VOUS
+                AURIEZ
+            </metadata>
         </polygon>
         <polygon points="144,187 238,187 238,199 144,199 144,187" id="LAMISSEB_ETPISTAF_005_line_6">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">QUELQUE CHOSE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">QUELQUE
+                CHOSE
+            </metadata>
         </polygon>
         <polygon points="146,202 237,201 237,213 146,214 146,202" id="LAMISSEB_ETPISTAF_005_line_7">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">DE PLUS FORT ?</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2" textType="speech">DE PLUS FORT
+                ?
+            </metadata>
         </polygon>
         <polygon points="280,37 372,38 372,49 280,49 280,37" id="LAMISSEB_ETPISTAF_005_line_8">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">ON VA ESSAYER</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">ON VA
+                ESSAYER
+            </metadata>
         </polygon>
         <polygon points="283,50 369,50 369,63 283,63 283,50" id="LAMISSEB_ETPISTAF_005_line_9">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">CECI. REVENEZ</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">CECI.
+                REVENEZ
+            </metadata>
         </polygon>
         <polygon points="273,64 378,64 378,79 273,79 273,64" id="LAMISSEB_ETPISTAF_005_line_10">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">ME VOIR SI CA NE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">ME VOIR SI
+                CA NE
+            </metadata>
         </polygon>
         <polygon points="283,79 367,79 367,90 283,90 283,79" id="LAMISSEB_ETPISTAF_005_line_11">
-            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">VA PAS MIEUX.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3" textType="speech">VA PAS
+                MIEUX.
+            </metadata>
         </polygon>
         <polygon points="646,194 745,202 744,219 650,207 646,194" id="LAMISSEB_ETPISTAF_005_line_12">
             <metadata method="" typography="" textType="illustrative">YAHOOUUU !</metadata>
@@ -102,11 +147,16 @@
             <metadata method="" typography="" textType="speech">Chuis guéri.</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="190,201 191,201 79,218 78,218 190,201" idCharacter="LAMISSEB_ETPISTAF_005_character_0" idBalloon="LAMISSEB_ETPISTAF_005_balloon_2"/>
-    <polygon points="126,116 127,116 79,218 78,218 126,116" idCharacter="LAMISSEB_ETPISTAF_005_character_0" idBalloon="LAMISSEB_ETPISTAF_005_balloon_1"/>
-    <polygon points="102,41 103,41 79,218 78,218 102,41" idCharacter="LAMISSEB_ETPISTAF_005_character_0" idBalloon="LAMISSEB_ETPISTAF_005_balloon_0"/>
-    <polygon points="324,85 325,85 349,214 348,214 324,85" idCharacter="LAMISSEB_ETPISTAF_005_character_1" idBalloon="LAMISSEB_ETPISTAF_005_balloon_3"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Wed Feb 05 18:28:58 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="190,201 191,201 79,218 78,218 190,201" idCharacter="LAMISSEB_ETPISTAF_005_character_0"
+                 idBalloon="LAMISSEB_ETPISTAF_005_balloon_2"/>
+        <polygon points="126,116 127,116 79,218 78,218 126,116" idCharacter="LAMISSEB_ETPISTAF_005_character_0"
+                 idBalloon="LAMISSEB_ETPISTAF_005_balloon_1"/>
+        <polygon points="102,41 103,41 79,218 78,218 102,41" idCharacter="LAMISSEB_ETPISTAF_005_character_0"
+                 idBalloon="LAMISSEB_ETPISTAF_005_balloon_0"/>
+        <polygon points="324,85 325,85 349,214 348,214 324,85" idCharacter="LAMISSEB_ETPISTAF_005_character_1"
+                 idBalloon="LAMISSEB_ETPISTAF_005_balloon_3"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Wed Feb 05 18:28:58 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

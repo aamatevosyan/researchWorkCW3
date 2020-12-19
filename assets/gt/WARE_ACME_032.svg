@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1347mm" zoomAndPan="magnify" contentStyleType="text/css" height="2217mm" viewBox="0 0 2694 4435" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="1347mm" zoomAndPan="magnify" contentStyleType="text/css" height="2217mm" viewBox="0 0 2694 4435"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>WARE_ACME_032</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" fill-opacity="0.5" width="2694" xlink:href="../Pages/WARE_ACME_032.jpg" xlink:type="simple" xlink:actuate="onLoad" height="4435" opacity="0.5" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="" editorName="New York Pantheon" doublePage="false" website="" albumTitle="Acme novelty library" drawerName="Chris Ware" language="english" resolution="600" ISBN="0-375-42295-1" readingDirection="leftToRight" writerName="Chris Ware" releaseDate="2005" pageNumber="32"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" fill-opacity="0.5" width="2694" xlink:href="../Pages/WARE_ACME_032.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="4435" opacity="0.5" preserveAspectRatio="xMidYMid meet"
+               xlink:show="embed"/>
+        <metadata collectionTitle="" editorName="New York Pantheon" doublePage="false" website=""
+                  albumTitle="Acme novelty library" drawerName="Chris Ware" language="english" resolution="600"
+                  ISBN="0-375-42295-1" readingDirection="leftToRight" writerName="Chris Ware" releaseDate="2005"
+                  pageNumber="32"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +26,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="233,633 1009,633 1009,1365 233,1365 233,633" id="WARE_ACME_032_panel_0">
             <metadata viewAngle="" shot="" rank="2"/>
         </polygon>
@@ -68,55 +78,88 @@
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="417,1109 469,1108 476,1093 500,1074 521,1069 508,1081 500,1099 499,1108 527,1107 540,1123 540,1156 540,1202 520,1217 490,1214 440,1214 406,1212 402,1191 400,1147 409,1117 417,1109" id="WARE_ACME_032_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="417,1109 469,1108 476,1093 500,1074 521,1069 508,1081 500,1099 499,1108 527,1107 540,1123 540,1156 540,1202 520,1217 490,1214 440,1214 406,1212 402,1191 400,1147 409,1117 417,1109"
+                id="WARE_ACME_032_balloon_0">
             <metadata borderStyle="smooth" tailTip="521,1069" boundingBox="" tailDirection="NE" rank="1"/>
         </polygon>
-        <polygon points="620,659 720,656 797,660 931,659 985,660 994,680 994,728 996,797 996,856 993,903 978,931 937,936 916,937 842,937 776,934 783,947 793,968 787,989 790,1001 802,1010 781,1009 774,978 774,964 757,950 754,934 726,931 711,917 712,870 693,864 685,855 684,781 635,780 613,775 610,727 613,669 620,659" id="WARE_ACME_032_balloon_1">
+        <polygon
+                points="620,659 720,656 797,660 931,659 985,660 994,680 994,728 996,797 996,856 993,903 978,931 937,936 916,937 842,937 776,934 783,947 793,968 787,989 790,1001 802,1010 781,1009 774,978 774,964 757,950 754,934 726,931 711,917 712,870 693,864 685,855 684,781 635,780 613,775 610,727 613,669 620,659"
+                id="WARE_ACME_032_balloon_1">
             <metadata borderStyle="smooth" tailTip="802,1010" boundingBox="" tailDirection="SE" rank="2"/>
         </polygon>
-        <polygon points="1520,659 1596,659 1691,656 1755,657 1764,666 1767,718 1766,756 1759,788 1736,791 1631,790 1536,791 1485,787 1477,772 1476,720 1455,709 1417,714 1380,714 1364,694 1351,678 1334,670 1316,670 1327,659 1353,659 1372,669 1391,686 1407,690 1438,682 1464,683 1478,689 1478,670 1489,658 1520,659" id="WARE_ACME_032_balloon_2">
+        <polygon
+                points="1520,659 1596,659 1691,656 1755,657 1764,666 1767,718 1766,756 1759,788 1736,791 1631,790 1536,791 1485,787 1477,772 1476,720 1455,709 1417,714 1380,714 1364,694 1351,678 1334,670 1316,670 1327,659 1353,659 1372,669 1391,686 1407,690 1438,682 1464,683 1478,689 1478,670 1489,658 1520,659"
+                id="WARE_ACME_032_balloon_2">
             <metadata borderStyle="smooth" tailTip="1316,670" boundingBox="" tailDirection="W" rank="3"/>
         </polygon>
-        <polygon points="2322,1001 2544,1005 2561,1007 2570,1024 2569,1080 2572,1133 2570,1178 2563,1197 2476,1199 2389,1196 2311,1195 2292,1183 2293,1073 2274,1061 2254,1041 2241,1033 2217,1025 2206,1011 2187,1003 2198,991 2219,1003 2250,1012 2271,1024 2284,1041 2293,1044 2294,1015 2322,1001" id="WARE_ACME_032_balloon_3">
+        <polygon
+                points="2322,1001 2544,1005 2561,1007 2570,1024 2569,1080 2572,1133 2570,1178 2563,1197 2476,1199 2389,1196 2311,1195 2292,1183 2293,1073 2274,1061 2254,1041 2241,1033 2217,1025 2206,1011 2187,1003 2198,991 2219,1003 2250,1012 2271,1024 2284,1041 2293,1044 2294,1015 2322,1001"
+                id="WARE_ACME_032_balloon_3">
             <metadata borderStyle="smooth" tailTip="2187,1003" boundingBox="" tailDirection="NW" rank="4"/>
         </polygon>
-        <polygon points="347,1456 401,1457 414,1466 417,1521 406,1533 347,1533 278,1531 268,1519 268,1466 280,1453 309,1456 309,1442 299,1429 286,1425 275,1393 270,1377 278,1375 289,1382 306,1393 309,1412 319,1419 328,1431 332,1443 344,1457 347,1456" id="WARE_ACME_032_balloon_4">
+        <polygon
+                points="347,1456 401,1457 414,1466 417,1521 406,1533 347,1533 278,1531 268,1519 268,1466 280,1453 309,1456 309,1442 299,1429 286,1425 275,1393 270,1377 278,1375 289,1382 306,1393 309,1412 319,1419 328,1431 332,1443 344,1457 347,1456"
+                id="WARE_ACME_032_balloon_4">
             <metadata borderStyle="smooth" tailTip="278,1375" boundingBox="" tailDirection="NW" rank="5"/>
         </polygon>
-        <polygon points="678,1627 751,1627 831,1626 935,1624 961,1625 971,1651 969,1694 969,1711 969,1765 971,1799 966,1836 955,1847 854,1847 782,1845 772,1873 755,1886 729,1891 717,1885 698,1891 665,1859 677,1859 695,1869 715,1866 732,1869 754,1845 676,1847 661,1834 660,1643 678,1627" id="WARE_ACME_032_balloon_5">
+        <polygon
+                points="678,1627 751,1627 831,1626 935,1624 961,1625 971,1651 969,1694 969,1711 969,1765 971,1799 966,1836 955,1847 854,1847 782,1845 772,1873 755,1886 729,1891 717,1885 698,1891 665,1859 677,1859 695,1869 715,1866 732,1869 754,1845 676,1847 661,1834 660,1643 678,1627"
+                id="WARE_ACME_032_balloon_5">
             <metadata borderStyle="smooth" tailTip="665,1859" boundingBox="" tailDirection="W" rank="6"/>
         </polygon>
-        <polygon points="1162,1569 1231,1565 1281,1565 1316,1567 1333,1580 1334,1609 1333,1654 1328,1670 1171,1676 1019,1675 990,1661 993,1584 1004,1569 1094,1569 1084,1542 1069,1527 1054,1509 1045,1481 1030,1470 1022,1465 1025,1453 1031,1442 1049,1448 1069,1471 1076,1490 1085,1506 1105,1520 1113,1547 1125,1566 1162,1569" id="WARE_ACME_032_balloon_6">
+        <polygon
+                points="1162,1569 1231,1565 1281,1565 1316,1567 1333,1580 1334,1609 1333,1654 1328,1670 1171,1676 1019,1675 990,1661 993,1584 1004,1569 1094,1569 1084,1542 1069,1527 1054,1509 1045,1481 1030,1470 1022,1465 1025,1453 1031,1442 1049,1448 1069,1471 1076,1490 1085,1506 1105,1520 1113,1547 1125,1566 1162,1569"
+                id="WARE_ACME_032_balloon_6">
             <metadata borderStyle="smooth" tailTip="1025,1453" boundingBox="" tailDirection="NW" rank="7"/>
         </polygon>
-        <polygon points="1494,1683 1583,1685 1663,1683 1681,1688 1687,1699 1689,1755 1689,1819 1680,1843 1636,1846 1562,1847 1465,1849 1451,1839 1447,1767 1440,1785 1415,1793 1399,1791 1382,1802 1395,1776 1424,1769 1437,1742 1449,1733 1448,1699 1460,1683 1494,1683" id="WARE_ACME_032_balloon_7">
+        <polygon
+                points="1494,1683 1583,1685 1663,1683 1681,1688 1687,1699 1689,1755 1689,1819 1680,1843 1636,1846 1562,1847 1465,1849 1451,1839 1447,1767 1440,1785 1415,1793 1399,1791 1382,1802 1395,1776 1424,1769 1437,1742 1449,1733 1448,1699 1460,1683 1494,1683"
+                id="WARE_ACME_032_balloon_7">
             <metadata borderStyle="smooth" tailTip="1382,1802" boundingBox="" tailDirection="SW" rank="8"/>
         </polygon>
-        <polygon points="2375,1613 2459,1614 2556,1612 2572,1621 2575,1661 2577,1709 2574,1728 2556,1737 2439,1734 2343,1734 2251,1736 2231,1721 2230,1630 2242,1611 2281,1616 2323,1615 2314,1588 2297,1573 2279,1556 2273,1530 2253,1515 2242,1494 2227,1472 2208,1458 2202,1433 2197,1426 2183,1412 2172,1388 2170,1374 2181,1368 2191,1376 2202,1391 2223,1416 2233,1434 2240,1449 2257,1460 2268,1477 2272,1497 2283,1505 2294,1514 2302,1537 2313,1552 2337,1571 2342,1592 2352,1610 2375,1613" id="WARE_ACME_032_balloon_8">
+        <polygon
+                points="2375,1613 2459,1614 2556,1612 2572,1621 2575,1661 2577,1709 2574,1728 2556,1737 2439,1734 2343,1734 2251,1736 2231,1721 2230,1630 2242,1611 2281,1616 2323,1615 2314,1588 2297,1573 2279,1556 2273,1530 2253,1515 2242,1494 2227,1472 2208,1458 2202,1433 2197,1426 2183,1412 2172,1388 2170,1374 2181,1368 2191,1376 2202,1391 2223,1416 2233,1434 2240,1449 2257,1460 2268,1477 2272,1497 2283,1505 2294,1514 2302,1537 2313,1552 2337,1571 2342,1592 2352,1610 2375,1613"
+                id="WARE_ACME_032_balloon_8">
             <metadata borderStyle="smooth" tailTip="2181,1368" boundingBox="" tailDirection="NW" rank="9"/>
         </polygon>
-        <polygon points="1464,2207 1539,2208 1617,2209 1693,2211 1717,2215 1721,2243 1721,2344 1707,2361 1636,2359 1540,2354 1535,2375 1523,2399 1505,2418 1481,2448 1485,2429 1490,2397 1507,2373 1510,2351 1474,2357 1420,2355 1407,2334 1408,2281 1407,2248 1409,2222 1420,2208 1464,2207" id="WARE_ACME_032_balloon_9">
+        <polygon
+                points="1464,2207 1539,2208 1617,2209 1693,2211 1717,2215 1721,2243 1721,2344 1707,2361 1636,2359 1540,2354 1535,2375 1523,2399 1505,2418 1481,2448 1485,2429 1490,2397 1507,2373 1510,2351 1474,2357 1420,2355 1407,2334 1408,2281 1407,2248 1409,2222 1420,2208 1464,2207"
+                id="WARE_ACME_032_balloon_9">
             <metadata borderStyle="smooth" tailTip="1481,2448" boundingBox="" tailDirection="SW" rank="10"/>
         </polygon>
-        <polygon points="2235,2207 2494,2203 2507,2203 2517,2226 2517,2242 2516,2284 2517,2336 2512,2373 2494,2379 2363,2375 2363,2390 2352,2412 2333,2430 2322,2435 2300,2472 2306,2443 2310,2423 2326,2399 2337,2385 2336,2373 2277,2376 2224,2376 2209,2363 2209,2302 2209,2248 2211,2214 2226,2205 2235,2207" id="WARE_ACME_032_balloon_10">
+        <polygon
+                points="2235,2207 2494,2203 2507,2203 2517,2226 2517,2242 2516,2284 2517,2336 2512,2373 2494,2379 2363,2375 2363,2390 2352,2412 2333,2430 2322,2435 2300,2472 2306,2443 2310,2423 2326,2399 2337,2385 2336,2373 2277,2376 2224,2376 2209,2363 2209,2302 2209,2248 2211,2214 2226,2205 2235,2207"
+                id="WARE_ACME_032_balloon_10">
             <metadata borderStyle="smooth" tailTip="2300,2472" boundingBox="" tailDirection="SW" rank="11"/>
         </polygon>
-        <polygon points="430,2999 447,3005 463,3000 482,2997 498,3015 508,3032 513,3049 494,3072 470,3090 447,3085 445,3083 444,3100 439,3114 447,3131 429,3159 414,3177 419,3149 424,3138 413,3116 424,3091 417,3084 396,3085 379,3072 363,3056 363,3040 370,3017 380,3005 390,3000 413,3002 430,2999" id="WARE_ACME_032_balloon_11">
+        <polygon
+                points="430,2999 447,3005 463,3000 482,2997 498,3015 508,3032 513,3049 494,3072 470,3090 447,3085 445,3083 444,3100 439,3114 447,3131 429,3159 414,3177 419,3149 424,3138 413,3116 424,3091 417,3084 396,3085 379,3072 363,3056 363,3040 370,3017 380,3005 390,3000 413,3002 430,2999"
+                id="WARE_ACME_032_balloon_11">
             <metadata borderStyle="wavy" tailTip="414,3177" boundingBox="" tailDirection="S" rank="12"/>
         </polygon>
-        <polygon points="599,2873 1020,2874 1025,3049 1001,3072 959,3074 871,3075 795,3071 714,3073 717,3085 745,3111 732,3120 698,3098 687,3074 601,3080 583,3067 578,3002 577,2910 587,2880 599,2873" id="WARE_ACME_032_balloon_12">
+        <polygon
+                points="599,2873 1020,2874 1025,3049 1001,3072 959,3074 871,3075 795,3071 714,3073 717,3085 745,3111 732,3120 698,3098 687,3074 601,3080 583,3067 578,3002 577,2910 587,2880 599,2873"
+                id="WARE_ACME_032_balloon_12">
             <metadata borderStyle="smooth" tailTip="745,3111" boundingBox="" tailDirection="SE" rank="13"/>
         </polygon>
-        <polygon points="1385,2868 1815,2870 1819,3043 1806,3068 1764,3075 1735,3071 1685,3062 1666,3125 1642,3131 1634,3160 1615,3173 1572,3166 1552,3165 1569,3182 1583,3192 1615,3183 1618,3193 1588,3213 1558,3204 1539,3193 1525,3166 1490,3167 1459,3167 1394,3167 1369,3145 1367,3041 1367,2938 1370,2884 1385,2868" id="WARE_ACME_032_balloon_13">
+        <polygon
+                points="1385,2868 1815,2870 1819,3043 1806,3068 1764,3075 1735,3071 1685,3062 1666,3125 1642,3131 1634,3160 1615,3173 1572,3166 1552,3165 1569,3182 1583,3192 1615,3183 1618,3193 1588,3213 1558,3204 1539,3193 1525,3166 1490,3167 1459,3167 1394,3167 1369,3145 1367,3041 1367,2938 1370,2884 1385,2868"
+                id="WARE_ACME_032_balloon_13">
             <metadata borderStyle="smooth" tailTip="1618,3193" boundingBox="" tailDirection="NE" rank="14"/>
         </polygon>
-        <polygon points="2190,3786 2386,3787 2405,3787 2406,3813 2405,3885 2385,3894 2357,3885 2361,3894 2364,3917 2363,3938 2364,3953 2373,3980 2366,4005 2355,4022 2351,4047 2346,4007 2350,3987 2342,3970 2331,3946 2339,3918 2338,3898 2335,3883 2223,3890 2172,3883 2165,3839 2175,3788 2190,3786" id="WARE_ACME_032_balloon_14">
+        <polygon
+                points="2190,3786 2386,3787 2405,3787 2406,3813 2405,3885 2385,3894 2357,3885 2361,3894 2364,3917 2363,3938 2364,3953 2373,3980 2366,4005 2355,4022 2351,4047 2346,4007 2350,3987 2342,3970 2331,3946 2339,3918 2338,3898 2335,3883 2223,3890 2172,3883 2165,3839 2175,3788 2190,3786"
+                id="WARE_ACME_032_balloon_14">
             <metadata borderStyle="smooth" tailTip="2351,4047" boundingBox="" tailDirection="S" rank="15"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="539,841 735,841 735,1306 539,1306 539,841" id="WARE_ACME_032_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -184,27 +227,39 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="642,689 961,689 961,718 642,715 642,689" id="WARE_ACME_032_line_0">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">OKAY,JOE--NOW YOU TAKE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">OKAY,JOE--NOW YOU
+                TAKE
+            </metadata>
         </polygon>
         <polygon points="642,720 965,720 965,745 642,747 642,720" id="WARE_ACME_032_line_1">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">THAT TINGCAN AND I'LL TAKE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">THAT TINGCAN AND
+                I'LL TAKE
+            </metadata>
         </polygon>
         <polygon points="722,751 939,751 939,776 721,777 722,751" id="WARE_ACME_032_line_2">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">THIS TINGCAN AN</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">THIS TINGCAN AN
+            </metadata>
         </polygon>
         <polygon points="717,783 948,783 948,809 717,809 717,783" id="WARE_ACME_032_line_3">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">YOU GO HIDE IN THE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">YOU GO HIDE IN THE
+            </metadata>
         </polygon>
         <polygon points="719,814 974,814 974,839 719,839 719,814" id="WARE_ACME_032_line_4">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">TALL GRASS AN WE WILL</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">TALL GRASS AN WE
+                WILL
+            </metadata>
         </polygon>
         <polygon points="737,844 936,844 936,868 737,868 737,844" id="WARE_ACME_032_line_5">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">HAVE OURSELF A</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">HAVE OURSELF A
+            </metadata>
         </polygon>
         <polygon points="735,874 979,874 979,901 735,901 735,874" id="WARE_ACME_032_line_6">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">SECRIT CONVERSASHIN!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_1" textType="speech">SECRIT
+                CONVERSASHIN!
+            </metadata>
         </polygon>
         <polygon points="438,1131 508,1131 508,1162 437,1162 438,1131" id="WARE_ACME_032_line_7">
             <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_0" textType="speech">snort</metadata>
@@ -213,121 +268,177 @@
             <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_0" textType="speech">OKAY!</metadata>
         </polygon>
         <polygon points="1510,687 1714,687 1714,718 1510,718 1510,687" id="WARE_ACME_032_line_9">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_2" textType="speech">I LIKE SECRIT</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_2" textType="speech">I LIKE SECRIT
+            </metadata>
         </polygon>
         <polygon points="1510,719 1726,719 1726,749 1510,749 1510,719" id="WARE_ACME_032_line_10">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_2" textType="speech">CONVERSASHINS!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_2" textType="speech">CONVERSASHINS!
+            </metadata>
         </polygon>
         <polygon points="2328,1039 2533,1039 2533,1067 2328,1067 2328,1039" id="WARE_ACME_032_line_11">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">MAKE SURE YOU</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">MAKE SURE YOU
+            </metadata>
         </polygon>
         <polygon points="2323,1069 2542,1069 2542,1097 2323,1097 2323,1069" id="WARE_ACME_032_line_12">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">CROWCH DOWN REAL</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">CROWCH DOWN REAL
+            </metadata>
         </polygon>
         <polygon points="2324,1099 2542,1099 2542,1129 2324,1129 2324,1099" id="WARE_ACME_032_line_13">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">GOOD SO AS TO MAKE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">GOOD SO AS TO MAKE
+            </metadata>
         </polygon>
         <polygon points="2325,1131 2534,1131 2534,1161 2325,1160 2325,1131" id="WARE_ACME_032_line_14">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">IT EXTRY SECRIT!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_3" textType="speech">IT EXTRY SECRIT!
+            </metadata>
         </polygon>
         <polygon points="301,1478 373,1478 373,1503 301,1503 301,1478" id="WARE_ACME_032_line_15">
             <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_4" textType="speech">OKAY!</metadata>
         </polygon>
         <polygon points="699,1659 935,1659 935,1684 699,1684 699,1659" id="WARE_ACME_032_line_16">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">AN LISSEN CLOSE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">AN LISSEN CLOSE
+            </metadata>
         </polygon>
         <polygon points="695,1691 944,1691 944,1718 695,1718 695,1691" id="WARE_ACME_032_line_17">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">CUZ I YAM ABOUT TO</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">CUZ I YAM ABOUT TO
+            </metadata>
         </polygon>
         <polygon points="695,1720 936,1720 936,1745 695,1745 695,1720" id="WARE_ACME_032_line_18">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">SEND YOU THE SECRIT</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">SEND YOU THE
+                SECRIT
+            </metadata>
         </polygon>
         <polygon points="691,1748 911,1748 911,1774 691,1774 691,1748" id="WARE_ACME_032_line_19">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">MESSIGE! IS YOU</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">MESSIGE! IS YOU
+            </metadata>
         </polygon>
         <polygon points="693,1778 927,1778 927,1815 693,1815 693,1778" id="WARE_ACME_032_line_20">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">LISSENIN CLOSE?</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_5" textType="speech">LISSENIN CLOSE?
+            </metadata>
         </polygon>
         <polygon points="1021,1597 1308,1597 1308,1617 1021,1617 1021,1597" id="WARE_ACME_032_line_21">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_6" textType="speech">YES, I YAM LISSENING CLOSE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_6" textType="speech">YES, I YAM LISSENING
+                CLOSE
+            </metadata>
         </polygon>
         <polygon points="1027,1620 1280,1620 1274,1645 1028,1645 1027,1620" id="WARE_ACME_032_line_22">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_6" textType="speech">TO THE TINGCAN, TEX!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_6" textType="speech">TO THE TINGCAN,
+                TEX!
+            </metadata>
         </polygon>
         <polygon points="1466,1713 1661,1713 1661,1747 1466,1747 1466,1713" id="WARE_ACME_032_line_23">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">gsnurt OKAY,</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">gsnurt OKAY,
+            </metadata>
         </polygon>
         <polygon points="1473,1751 1672,1751 1671,1777 1473,1777 1473,1751" id="WARE_ACME_032_line_24">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">CUZ THE MESSIGES</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">CUZ THE MESSIGES
+            </metadata>
         </polygon>
         <polygon points="1476,1780 1658,1780 1658,1810 1476,1810 1476,1780" id="WARE_ACME_032_line_25">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">ALMOS' REDDY!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_7" textType="speech">ALMOS' REDDY!
+            </metadata>
         </polygon>
         <polygon points="2261,1650 2545,1650 2545,1671 2261,1671 2261,1650" id="WARE_ACME_032_line_26">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_8" textType="speech">OKAY TEX I YAM REDDY FOR MY</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_8" textType="speech">OKAY TEX I YAM REDDY
+                FOR MY
+            </metadata>
         </polygon>
         <polygon points="2261,1674 2527,1674 2527,1699 2261,1699 2261,1674" id="WARE_ACME_032_line_27">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_8" textType="speech">SECRIT TINGCAN MESSIGE!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_8" textType="speech">SECRIT TINGCAN
+                MESSIGE!
+            </metadata>
         </polygon>
         <polygon points="1439,2244 1685,2244 1685,2263 1439,2263 1439,2244" id="WARE_ACME_032_line_28">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">YOU STUPID SON OF A BITCH</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">YOU STUPID SON OF A
+                BITCH
+            </metadata>
         </polygon>
         <polygon points="1440,2267 1678,2267 1677,2290 1440,2290 1440,2267" id="WARE_ACME_032_line_29">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">YOU STUPID GOD DAMN</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">YOU STUPID GOD
+                DAMN
+            </metadata>
         </polygon>
         <polygon points="1440,2293 1613,2293 1613,2322 1440,2322 1440,2293" id="WARE_ACME_032_line_30">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">SON OF A BITCH</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_9" textType="speech">SON OF A BITCH
+            </metadata>
         </polygon>
         <polygon points="2241,2240 2479,2240 2479,2261 2241,2261 2241,2240" id="WARE_ACME_032_line_31">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">WHAT WOULD YER MAW</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">WHAT WOULD YER
+                MAW
+            </metadata>
         </polygon>
         <polygon points="2245,2264 2474,2264 2474,2285 2245,2286 2245,2264" id="WARE_ACME_032_line_32">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">HAVE THOUGHT? WHAT</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">HAVE THOUGHT?
+                WHAT
+            </metadata>
         </polygon>
         <polygon points="2245,2286 2478,2286 2478,2308 2245,2308 2245,2286" id="WARE_ACME_032_line_33">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">WOULD YER POOR MAW</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">WOULD YER POOR
+                MAW
+            </metadata>
         </polygon>
         <polygon points="2250,2308 2474,2308 2474,2332 2250,2332 2250,2308" id="WARE_ACME_032_line_34">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">HAVE THOUGHT, TEX?!</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_10" textType="speech">HAVE THOUGHT,
+                TEX?!
+            </metadata>
         </polygon>
         <polygon points="399,3022 464,3022 464,3053 398,3053 399,3022" id="WARE_ACME_032_line_35">
             <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_11" textType="speech">choke</metadata>
         </polygon>
         <polygon points="612,2914 995,2914 995,2939 612,2939 612,2914" id="WARE_ACME_032_line_36">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">ALL RIGHT, MR.JOHNSON--JOE IS O.K.</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">ALL RIGHT,
+                MR.JOHNSON--JOE IS O.K.
+            </metadata>
         </polygon>
         <polygon points="609,2944 992,2944 992,2971 609,2972 609,2944" id="WARE_ACME_032_line_37">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">FOR NOW, BUT IT'LL TAKE SOME TIME</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">FOR NOW, BUT IT'LL
+                TAKE SOME TIME
+            </metadata>
         </polygon>
         <polygon points="608,2974 987,2974 987,3001 608,3001 608,2974" id="WARE_ACME_032_line_38">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">BEFORE WE KNOW IF HIS HEARING</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">BEFORE WE KNOW IF
+                HIS HEARING
+            </metadata>
         </polygon>
         <polygon points="607,3002 968,3002 968,3036 607,3036 607,3002" id="WARE_ACME_032_line_39">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">WILL EVER RETURN ON THAT SIDE</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_12" textType="speech">WILL EVER RETURN ON
+                THAT SIDE
+            </metadata>
         </polygon>
         <polygon points="1402,2908 1795,2908 1795,2942 1402,2941 1402,2908" id="WARE_ACME_032_line_40">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">HA HA IT'S OKAY TEX, DON' WORRY--</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">HA HA IT'S OKAY
+                TEX, DON' WORRY--
+            </metadata>
         </polygon>
         <polygon points="1404,2941 1781,2941 1781,2968 1404,2968 1404,2941" id="WARE_ACME_032_line_41">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">IT DON' HURT TOO BAD--I KNOW</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">IT DON' HURT TOO
+                BAD--I KNOW
+            </metadata>
         </polygon>
         <polygon points="1406,2971 1766,2971 1766,3000 1406,3000 1406,2971" id="WARE_ACME_032_line_42">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">YOU WAS ONLY HAVING A LIL'FUN</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">YOU WAS ONLY HAVING
+                A LIL'FUN
+            </metadata>
         </polygon>
         <polygon points="1403,3003 1772,3003 1772,3029 1403,3029 1403,3003" id="WARE_ACME_032_line_43">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">HAHA--BUT WE'S STILL GOOD</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">HAHA--BUT WE'S
+                STILL GOOD
+            </metadata>
         </polygon>
         <polygon points="1396,3033 1603,3033 1603,3063 1396,3065 1396,3033" id="WARE_ACME_032_line_44">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">FRENS, RIGHT?</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">FRENS, RIGHT?
+            </metadata>
         </polygon>
         <polygon points="1402,3066 1631,3066 1631,3098 1402,3098 1402,3066" id="WARE_ACME_032_line_45">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">WE'S STILL PALS,</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">WE'S STILL PALS,
+            </metadata>
         </polygon>
         <polygon points="1398,3099 1585,3099 1585,3129 1398,3129 1398,3099" id="WARE_ACME_032_line_46">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">AIN'T WE TEX?</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_13" textType="speech">AIN'T WE TEX?
+            </metadata>
         </polygon>
         <polygon points="2198,3817 2370,3817 2369,3847 2201,3847 2198,3817" id="WARE_ACME_032_line_47">
-            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_14" textType="speech">I'M SORRY, MAW</metadata>
+            <metadata method="" typography="" idBalloon="WARE_ACME_032_balloon_14" textType="speech">I'M SORRY, MAW
+            </metadata>
         </polygon>
         <polygon points="271,185 1104,185 1104,601 271,601 271,185" id="WARE_ACME_032_line_48">
             <metadata method="" typography="" textType="note">BIG</metadata>
@@ -357,19 +468,32 @@
             <metadata method="" typography="" textType="speech">COUNTY HOSPITAL</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="470,1143 471,1143 638,1073 637,1073 470,1143" idCharacter="WARE_ACME_032_character_0" idBalloon="WARE_ACME_032_balloon_0"/>
-    <polygon points="803,833 804,833 869,1138 868,1138 803,833" idCharacter="WARE_ACME_032_character_1" idBalloon="WARE_ACME_032_balloon_1"/>
-    <polygon points="1541,723 1542,723 1171,836 1170,836 1541,723" idCharacter="WARE_ACME_032_character_2" idBalloon="WARE_ACME_032_balloon_2"/>
-    <polygon points="2379,1095 2380,1095 2094,1147 2093,1147 2379,1095" idCharacter="WARE_ACME_032_character_4" idBalloon="WARE_ACME_032_balloon_3"/>
-    <polygon points="815,1757 816,1757 565,1879 564,1879 815,1757" idCharacter="WARE_ACME_032_character_7" idBalloon="WARE_ACME_032_balloon_5"/>
-    <polygon points="1535,1766 1536,1766 1352,1875 1351,1875 1535,1766" idCharacter="WARE_ACME_032_character_6" idBalloon="WARE_ACME_032_balloon_7"/>
-    <polygon points="1564,2327 1565,2327 1462,2620 1461,2620 1564,2327" idCharacter="WARE_ACME_032_character_9" idBalloon="WARE_ACME_032_balloon_9"/>
-    <polygon points="2363,2337 2364,2337 2264,2623 2263,2623 2363,2337" idCharacter="WARE_ACME_032_character_11" idBalloon="WARE_ACME_032_balloon_10"/>
-    <polygon points="801,2996 802,2996 819,3311 818,3311 801,2996" idCharacter="WARE_ACME_032_character_16" idBalloon="WARE_ACME_032_balloon_12"/>
-    <polygon points="438,3087 439,3087 423,3376 422,3376 438,3087" idCharacter="WARE_ACME_032_character_18" idBalloon="WARE_ACME_032_balloon_11"/>
-    <polygon points="1593,3040 1594,3040 1711,3305 1710,3305 1593,3040" idCharacter="WARE_ACME_032_character_12" idBalloon="WARE_ACME_032_balloon_13"/>
-    <polygon points="2285,3916 2286,3916 2366,4182 2365,4182 2285,3916" idCharacter="WARE_ACME_032_character_21" idBalloon="WARE_ACME_032_balloon_14"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Sun Jan 26 13:08:26 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="470,1143 471,1143 638,1073 637,1073 470,1143" idCharacter="WARE_ACME_032_character_0"
+                 idBalloon="WARE_ACME_032_balloon_0"/>
+        <polygon points="803,833 804,833 869,1138 868,1138 803,833" idCharacter="WARE_ACME_032_character_1"
+                 idBalloon="WARE_ACME_032_balloon_1"/>
+        <polygon points="1541,723 1542,723 1171,836 1170,836 1541,723" idCharacter="WARE_ACME_032_character_2"
+                 idBalloon="WARE_ACME_032_balloon_2"/>
+        <polygon points="2379,1095 2380,1095 2094,1147 2093,1147 2379,1095" idCharacter="WARE_ACME_032_character_4"
+                 idBalloon="WARE_ACME_032_balloon_3"/>
+        <polygon points="815,1757 816,1757 565,1879 564,1879 815,1757" idCharacter="WARE_ACME_032_character_7"
+                 idBalloon="WARE_ACME_032_balloon_5"/>
+        <polygon points="1535,1766 1536,1766 1352,1875 1351,1875 1535,1766" idCharacter="WARE_ACME_032_character_6"
+                 idBalloon="WARE_ACME_032_balloon_7"/>
+        <polygon points="1564,2327 1565,2327 1462,2620 1461,2620 1564,2327" idCharacter="WARE_ACME_032_character_9"
+                 idBalloon="WARE_ACME_032_balloon_9"/>
+        <polygon points="2363,2337 2364,2337 2264,2623 2263,2623 2363,2337" idCharacter="WARE_ACME_032_character_11"
+                 idBalloon="WARE_ACME_032_balloon_10"/>
+        <polygon points="801,2996 802,2996 819,3311 818,3311 801,2996" idCharacter="WARE_ACME_032_character_16"
+                 idBalloon="WARE_ACME_032_balloon_12"/>
+        <polygon points="438,3087 439,3087 423,3376 422,3376 438,3087" idCharacter="WARE_ACME_032_character_18"
+                 idBalloon="WARE_ACME_032_balloon_11"/>
+        <polygon points="1593,3040 1594,3040 1711,3305 1710,3305 1593,3040" idCharacter="WARE_ACME_032_character_12"
+                 idBalloon="WARE_ACME_032_balloon_13"/>
+        <polygon points="2285,3916 2286,3916 2366,4182 2365,4182 2285,3916" idCharacter="WARE_ACME_032_character_21"
+                 idBalloon="WARE_ACME_032_balloon_14"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Sun Jan 26 13:08:26 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

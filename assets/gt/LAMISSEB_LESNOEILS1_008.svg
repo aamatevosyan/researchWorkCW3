@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1230mm" zoomAndPan="magnify" contentStyleType="text/css" height="1705mm" viewBox="0 0 2461 3411" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="1230mm" zoomAndPan="magnify" contentStyleType="text/css" height="1705mm" viewBox="0 0 2461 3411"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>LAMISSEB_LESNOEILS1_008</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="2461" xlink:href="../Pages/LAMISSEB_LESNOEILS1_008.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3411" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Les Noeils" editorName="Bac@BD" doublePage="false" website="http://les-noeils.webcomics.fr/archives" albumTitle="Tome 1" drawerName="Lamisseb" language="french" resolution="600" ISBN="978-2953405859" readingDirection="leftToRight" writerName="Lamisseb" releaseDate="2011" pageNumber="8"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="2461" xlink:href="../Pages/LAMISSEB_LESNOEILS1_008.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="3411" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Les Noeils" editorName="Bac@BD" doublePage="false"
+                  website="http://les-noeils.webcomics.fr/archives" albumTitle="Tome 1" drawerName="Lamisseb"
+                  language="french" resolution="600" ISBN="978-2953405859" readingDirection="leftToRight"
+                  writerName="Lamisseb" releaseDate="2011" pageNumber="8"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="222,199 890,189 894,844 226,856 222,199" id="LAMISSEB_LESNOEILS1_008_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -56,40 +65,62 @@
             <metadata viewAngle="" shot="" rank="10"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="279,156 359,156 435,156 522,157 586,155 672,153 733,152 816,155 819,239 823,292 819,344 820,372 827,411 794,420 719,420 656,414 595,415 537,422 485,417 439,420 419,438 400,460 393,484 401,522 418,550 390,533 374,508 370,473 374,435 383,418 327,422 282,417 279,156" id="LAMISSEB_LESNOEILS1_008_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="279,156 359,156 435,156 522,157 586,155 672,153 733,152 816,155 819,239 823,292 819,344 820,372 827,411 794,420 719,420 656,414 595,415 537,422 485,417 439,420 419,438 400,460 393,484 401,522 418,550 390,533 374,508 370,473 374,435 383,418 327,422 282,417 279,156"
+                id="LAMISSEB_LESNOEILS1_008_balloon_0">
             <metadata borderStyle="smooth" tailTip="418,550" boundingBox="" tailDirection="SE" rank="1"/>
         </polygon>
-        <polygon points="1670,132 1735,132 1821,130 1938,132 2036,130 2126,129 2188,128 2188,229 2109,233 2046,239 1997,236 2029,273 2055,334 2071,379 2076,443 2060,517 2068,461 2060,408 2046,362 2024,316 1981,270 1932,238 1860,239 1767,237 1668,236 1670,132" id="LAMISSEB_LESNOEILS1_008_balloon_1">
+        <polygon
+                points="1670,132 1735,132 1821,130 1938,132 2036,130 2126,129 2188,128 2188,229 2109,233 2046,239 1997,236 2029,273 2055,334 2071,379 2076,443 2060,517 2068,461 2060,408 2046,362 2024,316 1981,270 1932,238 1860,239 1767,237 1668,236 1670,132"
+                id="LAMISSEB_LESNOEILS1_008_balloon_1">
             <metadata borderStyle="smooth" tailTip="2060,517" boundingBox="" tailDirection="S" rank="2"/>
         </polygon>
-        <polygon points="314,941 466,942 605,941 805,936 806,975 809,1124 724,1125 591,1126 601,1154 608,1240 588,1183 566,1149 543,1130 418,1132 316,1129 314,941" id="LAMISSEB_LESNOEILS1_008_balloon_2">
+        <polygon
+                points="314,941 466,942 605,941 805,936 806,975 809,1124 724,1125 591,1126 601,1154 608,1240 588,1183 566,1149 543,1130 418,1132 316,1129 314,941"
+                id="LAMISSEB_LESNOEILS1_008_balloon_2">
             <metadata borderStyle="smooth" tailTip="608,1240" boundingBox="" tailDirection="S" rank="3"/>
         </polygon>
-        <polygon points="979,940 1079,936 1140,937 1222,937 1310,932 1412,937 1538,932 1539,1082 1417,1080 1319,1079 1240,1082 1239,1105 1219,1135 1187,1163 1186,1173 1196,1174 1187,1202 1124,1254 1166,1208 1181,1187 1166,1179 1180,1148 1207,1114 1201,1093 1190,1083 982,1084 977,1008 979,940" id="LAMISSEB_LESNOEILS1_008_balloon_3">
+        <polygon
+                points="979,940 1079,936 1140,937 1222,937 1310,932 1412,937 1538,932 1539,1082 1417,1080 1319,1079 1240,1082 1239,1105 1219,1135 1187,1163 1186,1173 1196,1174 1187,1202 1124,1254 1166,1208 1181,1187 1166,1179 1180,1148 1207,1114 1201,1093 1190,1083 982,1084 977,1008 979,940"
+                id="LAMISSEB_LESNOEILS1_008_balloon_3">
             <metadata borderStyle="smooth" tailTip="1124,1254" boundingBox="" tailDirection="SW" rank="4"/>
         </polygon>
-        <polygon points="1715,927 1776,923 1856,927 1945,927 2048,924 2179,919 2184,1023 1929,1026 1856,1069 1816,1124 1801,1173 1822,1265 1790,1188 1798,1106 1822,1059 1843,1029 1713,1032 1712,975 1715,927" id="LAMISSEB_LESNOEILS1_008_balloon_4">
+        <polygon
+                points="1715,927 1776,923 1856,927 1945,927 2048,924 2179,919 2184,1023 1929,1026 1856,1069 1816,1124 1801,1173 1822,1265 1790,1188 1798,1106 1822,1059 1843,1029 1713,1032 1712,975 1715,927"
+                id="LAMISSEB_LESNOEILS1_008_balloon_4">
             <metadata borderStyle="smooth" tailTip="1822,1265" boundingBox="" tailDirection="SE" rank="5"/>
         </polygon>
-        <polygon points="314,1723 543,1724 811,1719 817,1855 577,1860 579,1915 571,1990 547,2059 509,2111 546,2031 553,1969 543,1907 527,1860 314,1862 314,1723" id="LAMISSEB_LESNOEILS1_008_balloon_5">
+        <polygon
+                points="314,1723 543,1724 811,1719 817,1855 577,1860 579,1915 571,1990 547,2059 509,2111 546,2031 553,1969 543,1907 527,1860 314,1862 314,1723"
+                id="LAMISSEB_LESNOEILS1_008_balloon_5">
             <metadata borderStyle="smooth" tailTip="509,2111" boundingBox="" tailDirection="SW" rank="6"/>
         </polygon>
-        <polygon points="987,1716 1052,1714 1101,1719 1210,1721 1336,1718 1522,1715 1528,1797 1543,1910 1271,1920 1262,1954 1269,2004 1286,2058 1314,2113 1272,2063 1251,2015 1236,1974 1226,1921 997,1930 987,1716" id="LAMISSEB_LESNOEILS1_008_balloon_6">
+        <polygon
+                points="987,1716 1052,1714 1101,1719 1210,1721 1336,1718 1522,1715 1528,1797 1543,1910 1271,1920 1262,1954 1269,2004 1286,2058 1314,2113 1272,2063 1251,2015 1236,1974 1226,1921 997,1930 987,1716"
+                id="LAMISSEB_LESNOEILS1_008_balloon_6">
             <metadata borderStyle="smooth" tailTip="1314,2113" boundingBox="" tailDirection="SE" rank="7"/>
         </polygon>
-        <polygon points="1757,1714 1872,1717 2020,1712 2139,1715 2142,1815 1958,1821 1945,1865 1942,1917 1947,1971 1968,2038 2012,2111 1952,2029 1925,1959 1909,1898 1903,1844 1905,1820 1751,1826 1757,1714" id="LAMISSEB_LESNOEILS1_008_balloon_7">
+        <polygon
+                points="1757,1714 1872,1717 2020,1712 2139,1715 2142,1815 1958,1821 1945,1865 1942,1917 1947,1971 1968,2038 2012,2111 1952,2029 1925,1959 1909,1898 1903,1844 1905,1820 1751,1826 1757,1714"
+                id="LAMISSEB_LESNOEILS1_008_balloon_7">
             <metadata borderStyle="smooth" tailTip="2012,2111" boundingBox="" tailDirection="SE" rank="8"/>
         </polygon>
-        <polygon points="341,2513 395,2509 493,2516 559,2513 815,2512 812,2667 581,2666 585,2720 579,2788 555,2850 511,2904 541,2848 559,2783 559,2732 547,2691 534,2670 337,2669 341,2513" id="LAMISSEB_LESNOEILS1_008_balloon_8">
+        <polygon
+                points="341,2513 395,2509 493,2516 559,2513 815,2512 812,2667 581,2666 585,2720 579,2788 555,2850 511,2904 541,2848 559,2783 559,2732 547,2691 534,2670 337,2669 341,2513"
+                id="LAMISSEB_LESNOEILS1_008_balloon_8">
             <metadata borderStyle="smooth" tailTip="511,2904" boundingBox="" tailDirection="SW" rank="9"/>
         </polygon>
-        <polygon id="LAMISSEB_LESNOEILS1_008_balloon_9" points="1035,2509 1154,2508 1279,2508 1384,2507 1492,2509 1496,2652 1277,2657 1282,2720 1263,2801 1198,2891 1236,2822 1249,2770 1249,2717 1234,2659 1036,2658 1035,2509">
+        <polygon id="LAMISSEB_LESNOEILS1_008_balloon_9"
+                 points="1035,2509 1154,2508 1279,2508 1384,2507 1492,2509 1496,2652 1277,2657 1282,2720 1263,2801 1198,2891 1236,2822 1249,2770 1249,2717 1234,2659 1036,2658 1035,2509">
             <metadata borderStyle="smooth" tailTip="1198,2891" boundingBox="" tailDirection="SW" rank="10"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="428,519 675,519 675,781 428,781 428,519" id="LAMISSEB_LESNOEILS1_008_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -148,69 +179,112 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="335,204 762,204 762,242 335,242 335,204" id="LAMISSEB_LESNOEILS1_008_line_0">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">DANS MA FAMILLE, ON EST</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">DANS MA
+                FAMILLE, ON EST
+            </metadata>
         </polygon>
         <polygon points="309,250 788,247 788,284 309,284 309,250" id="LAMISSEB_LESNOEILS1_008_line_1">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">OPHTALMOLOGISTE DE PERE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">
+                OPHTALMOLOGISTE DE PERE
+            </metadata>
         </polygon>
         <polygon points="326,290 771,290 771,327 326,327 326,290" id="LAMISSEB_LESNOEILS1_008_line_2">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">EN FILS. MAIS MOI, JE VEUX</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">EN FILS.
+                MAIS MOI, JE VEUX
+            </metadata>
         </polygon>
         <polygon points="368,336 727,336 727,370 368,370 368,336" id="LAMISSEB_LESNOEILS1_008_line_3">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">DEVENIR PODOLOGUE.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0" textType="speech">DEVENIR
+                PODOLOGUE.
+            </metadata>
         </polygon>
         <polygon points="1702,163 2158,163 2158,201 1702,201 1702,163" id="LAMISSEB_LESNOEILS1_008_line_4">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_1" textType="speech">VA POUR L'OPHTALMOLOGIE.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_1" textType="speech">VA POUR
+                L'OPHTALMOLOGIE.
+            </metadata>
         </polygon>
         <polygon points="1758,949 2138,949 2138,992 1758,992 1758,949" id="LAMISSEB_LESNOEILS1_008_line_5">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_4" textType="speech">VA POUR L'ACCORDEON.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_4" textType="speech">VA POUR
+                L'ACCORDEON.
+            </metadata>
         </polygon>
         <polygon points="999,975 1523,971 1518,1004 1001,1008 999,975" id="LAMISSEB_LESNOEILS1_008_line_6">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3" textType="speech">TU COMPTES SOUFFLER COMMENT</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3" textType="speech">TU COMPTES
+                SOUFFLER COMMENT
+            </metadata>
         </polygon>
         <polygon points="1071,1011 1447,1011 1447,1044 1071,1044 1071,1011" id="LAMISSEB_LESNOEILS1_008_line_7">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3" textType="speech">DANS TON SAXOPHONE ?</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3" textType="speech">DANS TON
+                SAXOPHONE ?
+            </metadata>
         </polygon>
         <polygon points="355,966 745,966 745,1008 355,1008 355,966" id="LAMISSEB_LESNOEILS1_008_line_8">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JE REVE D'APPRENDRE A</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JE REVE
+                D'APPRENDRE A
+            </metadata>
         </polygon>
         <polygon points="361,1015 739,1015 739,1048 361,1048 361,1015" id="LAMISSEB_LESNOEILS1_008_line_9">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JOUER DU SAXOPHONE.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JOUER DU
+                SAXOPHONE.
+            </metadata>
         </polygon>
         <polygon points="358,1057 740,1057 740,1091 358,1091 358,1057" id="LAMISSEB_LESNOEILS1_008_line_10">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JE VAIS M'EN OFFRIR UN.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2" textType="speech">JE VAIS
+                M'EN OFFRIR UN.
+            </metadata>
         </polygon>
         <polygon points="1807,1746 2067,1746 2068,1781 1807,1781 1807,1746" id="LAMISSEB_LESNOEILS1_008_line_11">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_7" textType="speech">... C'EST MATER.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_7" textType="speech">... C'EST
+                MATER.
+            </metadata>
         </polygon>
         <polygon points="1014,1747 1508,1747 1508,1792 1014,1792 1014,1747" id="LAMISSEB_LESNOEILS1_008_line_12">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">ON EN EST TOUS LA, TU SAIS.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">ON EN EST
+                TOUS LA, TU SAIS.
+            </metadata>
         </polygon>
         <polygon points="1030,1802 1497,1802 1497,1838 1030,1838 1030,1802" id="LAMISSEB_LESNOEILS1_008_line_13">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">NOUS LES NOEILS, TOUT CE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">NOUS LES
+                NOEILS, TOUT CE
+            </metadata>
         </polygon>
         <polygon points="1099,1842 1429,1842 1429,1878 1099,1878 1099,1842" id="LAMISSEB_LESNOEILS1_008_line_14">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">QU'ON PEUT FAIRE...</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6" textType="speech">QU'ON PEUT
+                FAIRE...
+            </metadata>
         </polygon>
         <polygon points="340,1746 786,1746 786,1788 340,1788 340,1746" id="LAMISSEB_LESNOEILS1_008_line_15">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5" textType="speech">JE DEPRIME. MA SEXUALITE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5" textType="speech">JE
+                DEPRIME. MA SEXUALITE
+            </metadata>
         </polygon>
         <polygon points="398,1797 729,1797 729,1831 398,1831 398,1797" id="LAMISSEB_LESNOEILS1_008_line_16">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5" textType="speech">EST AU POINT MORT.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5" textType="speech">EST AU
+                POINT MORT.
+            </metadata>
         </polygon>
         <polygon points="366,2547 778,2547 778,2587 366,2587 366,2547" id="LAMISSEB_LESNOEILS1_008_line_17">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8" textType="speech">OUAAAH! ON VOIT QUE</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8" textType="speech">OUAAAH! ON
+                VOIT QUE
+            </metadata>
         </polygon>
         <polygon points="368,2598 779,2598 779,2630 368,2630 368,2598" id="LAMISSEB_LESNOEILS1_008_line_18">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8" textType="speech">T'AS FAIT DE LA MUSCU.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8" textType="speech">T'AS FAIT
+                DE LA MUSCU.
+            </metadata>
         </polygon>
         <polygon points="1060,2544 1470,2544 1470,2579 1060,2579 1060,2544" id="LAMISSEB_LESNOEILS1_008_line_19">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9" textType="speech">MAIS ON VOIT TOUJOURS</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9" textType="speech">MAIS ON
+                VOIT TOUJOURS
+            </metadata>
         </polygon>
         <polygon points="1124,2589 1408,2589 1408,2625 1124,2625 1124,2589" id="LAMISSEB_LESNOEILS1_008_line_20">
-            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9" textType="speech">PAS TES ABDOS.</metadata>
+            <metadata method="" typography="" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9" textType="speech">PAS TES
+                ABDOS.
+            </metadata>
         </polygon>
         <polygon points="1263,3298 1298,3298 1298,3344 1263,3344 1263,3298" id="LAMISSEB_LESNOEILS1_008_line_21">
             <metadata method="" typography="" textType="note">8</metadata>
@@ -219,17 +293,28 @@
             <metadata method="" typography="" textType="speech">LAMISSEB</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="553,351 554,351 552,650 551,650 553,351" idCharacter="LAMISSEB_LESNOEILS1_008_character_0" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0"/>
-    <polygon points="1928,322 1929,322 1949,630 1948,630 1928,322" idCharacter="LAMISSEB_LESNOEILS1_008_character_2" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_1"/>
-    <polygon points="561,1088 562,1088 549,1399 548,1399 561,1088" idCharacter="LAMISSEB_LESNOEILS1_008_character_3" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2"/>
-    <polygon points="1258,1093 1259,1093 1072,1331 1071,1331 1258,1093" idCharacter="LAMISSEB_LESNOEILS1_008_character_5" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3"/>
-    <polygon points="1948,1092 1949,1092 1942,1381 1941,1381 1948,1092" idCharacter="LAMISSEB_LESNOEILS1_008_character_6" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_4"/>
-    <polygon points="565,1915 566,1915 426,2236 425,2236 565,1915" idCharacter="LAMISSEB_LESNOEILS1_008_character_7" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5"/>
-    <polygon points="1265,1913 1266,1913 1406,2217 1405,2217 1265,1913" idCharacter="LAMISSEB_LESNOEILS1_008_character_10" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6"/>
-    <polygon points="1946,1911 1947,1911 2107,2219 2106,2219 1946,1911" idCharacter="LAMISSEB_LESNOEILS1_008_character_12" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_7"/>
-    <polygon points="576,2706 577,2706 424,3017 423,3017 576,2706" idCharacter="LAMISSEB_LESNOEILS1_008_character_13" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8"/>
-    <polygon points="1265,2699 1266,2699 1128,3023 1127,3023 1265,2699" idCharacter="LAMISSEB_LESNOEILS1_008_character_15" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Sun Jan 26 17:43:50 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="553,351 554,351 552,650 551,650 553,351" idCharacter="LAMISSEB_LESNOEILS1_008_character_0"
+                 idBalloon="LAMISSEB_LESNOEILS1_008_balloon_0"/>
+        <polygon points="1928,322 1929,322 1949,630 1948,630 1928,322" idCharacter="LAMISSEB_LESNOEILS1_008_character_2"
+                 idBalloon="LAMISSEB_LESNOEILS1_008_balloon_1"/>
+        <polygon points="561,1088 562,1088 549,1399 548,1399 561,1088" idCharacter="LAMISSEB_LESNOEILS1_008_character_3"
+                 idBalloon="LAMISSEB_LESNOEILS1_008_balloon_2"/>
+        <polygon points="1258,1093 1259,1093 1072,1331 1071,1331 1258,1093"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_5" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_3"/>
+        <polygon points="1948,1092 1949,1092 1942,1381 1941,1381 1948,1092"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_6" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_4"/>
+        <polygon points="565,1915 566,1915 426,2236 425,2236 565,1915" idCharacter="LAMISSEB_LESNOEILS1_008_character_7"
+                 idBalloon="LAMISSEB_LESNOEILS1_008_balloon_5"/>
+        <polygon points="1265,1913 1266,1913 1406,2217 1405,2217 1265,1913"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_10" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_6"/>
+        <polygon points="1946,1911 1947,1911 2107,2219 2106,2219 1946,1911"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_12" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_7"/>
+        <polygon points="576,2706 577,2706 424,3017 423,3017 576,2706"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_13" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_8"/>
+        <polygon points="1265,2699 1266,2699 1128,3023 1127,3023 1265,2699"
+                 idCharacter="LAMISSEB_LESNOEILS1_008_character_15" idBalloon="LAMISSEB_LESNOEILS1_008_balloon_9"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Sun Jan 26 17:43:50 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="311mm" zoomAndPan="magnify" contentStyleType="text/css" height="429mm" viewBox="0 0 1468 2220" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="311mm" zoomAndPan="magnify" contentStyleType="text/css" height="429mm" viewBox="0 0 1468 2220"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>PIKE_BOYLOVEGIRLS_T41_015</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="1468" xlink:href="../Pages/PIKE_BOYLOVEGIRLS_T41_015.jpg" xlink:type="simple" xlink:actuate="onLoad" height="2220" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Boy Love Girls" editorName="Lev Gleason" doublePage="false" website="http://comicbookplus.com/?dlid=31803" albumTitle="Boy Love Girls 41" drawerName="Jay Scott Pike" language="english" resolution="" ISBN="" readingDirection="leftToRight" writerName="Jay Scott Pike" releaseDate="" pageNumber="15"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="1468" xlink:href="../Pages/PIKE_BOYLOVEGIRLS_T41_015.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="2220" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Boy Love Girls" editorName="Lev Gleason" doublePage="false"
+                  website="http://comicbookplus.com/?dlid=31803" albumTitle="Boy Love Girls 41"
+                  drawerName="Jay Scott Pike" language="english" resolution="" ISBN="" readingDirection="leftToRight"
+                  writerName="Jay Scott Pike" releaseDate="" pageNumber="15"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="43,232 488,229 490,759 44,759 43,232" id="PIKE_BOYLOVEGIRLS_T41_015_panel_0">
             <metadata viewAngle="" uri="" shot="" area="" rank="1" fillingPcent=""/>
         </polygon>
@@ -41,70 +50,104 @@
             <metadata viewAngle="" uri="" shot="" area="" rank="7" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="53,101 472,95 473,218 47,221 53,101" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_0">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
         </polygon>
-        <polygon points="41,246 65,231 296,226 314,243 330,269 336,299 321,346 286,370 250,382 227,385 216,407 196,433 201,415 201,388 134,384 75,371 41,353 41,246" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_1">
+        <polygon
+                points="41,246 65,231 296,226 314,243 330,269 336,299 321,346 286,370 250,382 227,385 216,407 196,433 201,415 201,388 134,384 75,371 41,353 41,246"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_1">
             <metadata borderStyle="smooth" tailTip="196,433" boundingBox="" tailDirection="S" rank="2"/>
         </polygon>
-        <polygon points="319,248 338,229 346,228 467,228 489,241 493,247 493,380 469,405 438,417 415,419 396,474 388,421 347,411 321,395 299,361 319,248" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_2">
+        <polygon
+                points="319,248 338,229 346,228 467,228 489,241 493,247 493,380 469,405 438,417 415,419 396,474 388,421 347,411 321,395 299,361 319,248"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_2">
             <metadata borderStyle="smooth" tailTip="396,474" boundingBox="" tailDirection="S" rank="3"/>
         </polygon>
-        <polygon points="510,94 528,78 758,78 766,86 777,101 782,115 778,131 770,152 783,168 790,188 789,210 775,238 748,263 714,279 688,284 693,315 707,357 689,340 664,294 644,289 576,282 536,270 508,248 510,94" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_3">
+        <polygon
+                points="510,94 528,78 758,78 766,86 777,101 782,115 778,131 770,152 783,168 790,188 789,210 775,238 748,263 714,279 688,284 693,315 707,357 689,340 664,294 644,289 576,282 536,270 508,248 510,94"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_3">
             <metadata borderStyle="smooth" tailTip="707,357" boundingBox="" tailDirection="SE" rank="4"/>
         </polygon>
-        <polygon points="781,114 801,98 829,89 864,87 892,87 924,98 941,110 951,121 951,230 934,247 915,257 900,259 899,314 896,375 899,423 892,401 885,359 879,307 871,262 829,257 798,245 779,230 766,150 781,114" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_4">
+        <polygon
+                points="781,114 801,98 829,89 864,87 892,87 924,98 941,110 951,121 951,230 934,247 915,257 900,259 899,314 896,375 899,423 892,401 885,359 879,307 871,262 829,257 798,245 779,230 766,150 781,114"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_4">
             <metadata borderStyle="smooth" tailTip="899,423" boundingBox="" tailDirection="S" rank="5"/>
         </polygon>
         <polygon points="982,84 1407,93 1403,192 988,186 982,84" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_5">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="6"/>
         </polygon>
-        <polygon points="967,214 991,199 1399,200 1410,211 1414,237 1405,259 1375,274 1339,283 1313,277 1298,296 1274,304 1243,307 1209,306 1197,348 1192,336 1188,307 1138,307 1060,304 1006,295 972,276 967,214" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_6">
+        <polygon
+                points="967,214 991,199 1399,200 1410,211 1414,237 1405,259 1375,274 1339,283 1313,277 1298,296 1274,304 1243,307 1209,306 1197,348 1192,336 1188,307 1138,307 1060,304 1006,295 972,276 967,214"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_6">
             <metadata borderStyle="smooth" tailTip="1197,348" boundingBox="" tailDirection="S" rank="7"/>
         </polygon>
-        <polygon points="1282,321 1319,304 1349,307 1377,320 1390,336 1398,367 1389,398 1358,422 1332,427 1317,422 1284,479 1289,462 1291,433 1293,419 1273,401 1262,374 1266,346 1282,321" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_7">
+        <polygon
+                points="1282,321 1319,304 1349,307 1377,320 1390,336 1398,367 1389,398 1358,422 1332,427 1317,422 1284,479 1289,462 1291,433 1293,419 1273,401 1262,374 1266,346 1282,321"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_7">
             <metadata borderStyle="smooth" tailTip="1284,479" boundingBox="" tailDirection="SW" rank="8"/>
         </polygon>
-        <polygon points="600,779 1300,787 1305,821 818,831 665,825 603,805 600,779" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_8">
+        <polygon points="600,779 1300,787 1305,821 818,831 665,825 603,805 600,779"
+                 id="PIKE_BOYLOVEGIRLS_T41_015_balloon_8">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="9"/>
         </polygon>
-        <polygon points="555,852 579,829 787,831 808,846 820,865 823,887 906,930 810,915 791,939 746,954 700,961 638,956 591,945 552,922 555,852" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_9">
+        <polygon
+                points="555,852 579,829 787,831 808,846 820,865 823,887 906,930 810,915 791,939 746,954 700,961 638,956 591,945 552,922 555,852"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_9">
             <metadata borderStyle="smooth" tailTip="906,930" boundingBox="" tailDirection="SE" rank="10"/>
         </polygon>
-        <polygon points="686,983 705,959 800,930 853,933 898,956 920,982 923,1006 918,1035 895,1056 873,1071 851,1077 810,1076 796,1107 781,1153 781,1119 778,1074 724,1061 691,1038 684,1012 686,983" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_10">
+        <polygon
+                points="686,983 705,959 800,930 853,933 898,956 920,982 923,1006 918,1035 895,1056 873,1071 851,1077 810,1076 796,1107 781,1153 781,1119 778,1074 724,1061 691,1038 684,1012 686,983"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_10">
             <metadata borderStyle="smooth" tailTip="781,1153" boundingBox="" tailDirection="S" rank="11"/>
         </polygon>
-        <polygon points="938,848 945,831 953,814 1137,817 1151,835 1153,858 1145,878 1135,884 1137,897 1149,918 1130,911 1114,894 1074,900 1013,898 971,885 942,864 938,848" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_11">
+        <polygon
+                points="938,848 945,831 953,814 1137,817 1151,835 1153,858 1145,878 1135,884 1137,897 1149,918 1130,911 1114,894 1074,900 1013,898 971,885 942,864 938,848"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_11">
             <metadata borderStyle="smooth" tailTip="1149,918" boundingBox="" tailDirection="SE" rank="12"/>
         </polygon>
         <polygon points="75,1467 751,1476 745,1539 72,1535 75,1467" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_12">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="13"/>
         </polygon>
-        <polygon points="42,1565 66,1543 322,1545 338,1559 352,1579 355,1611 336,1646 316,1662 284,1674 276,1727 263,1706 257,1676 205,1677 136,1674 93,1668 63,1658 42,1646 42,1565" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_13">
+        <polygon
+                points="42,1565 66,1543 322,1545 338,1559 352,1579 355,1611 336,1646 316,1662 284,1674 276,1727 263,1706 257,1676 205,1677 136,1674 93,1668 63,1658 42,1646 42,1565"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_13">
             <metadata borderStyle="smooth" tailTip="276,1727" boundingBox="" tailDirection="S" rank="14"/>
         </polygon>
-        <polygon points="341,1564 362,1544 593,1547 605,1557 613,1577 609,1599 596,1614 588,1620 594,1630 593,1651 570,1680 546,1691 522,1696 496,1698 469,1702 463,1700 444,1744 437,1701 408,1697 376,1688 351,1672 337,1648 341,1564" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_14">
+        <polygon
+                points="341,1564 362,1544 593,1547 605,1557 613,1577 609,1599 596,1614 588,1620 594,1630 593,1651 570,1680 546,1691 522,1696 496,1698 469,1702 463,1700 444,1744 437,1701 408,1697 376,1688 351,1672 337,1648 341,1564"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_14">
             <metadata borderStyle="smooth" tailTip="444,1744" boundingBox="" tailDirection="S" rank="15"/>
         </polygon>
-        <polygon points="608,1562 631,1546 749,1547 767,1559 776,1569 775,1585 768,1587 777,1587 790,1592 793,1601 793,1668 779,1682 747,1693 717,1699 690,1697 686,1728 685,1755 686,1772 678,1756 670,1734 664,1697 641,1693 607,1678 591,1655 586,1616 608,1562" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_15">
+        <polygon
+                points="608,1562 631,1546 749,1547 767,1559 776,1569 775,1585 768,1587 777,1587 790,1592 793,1601 793,1668 779,1682 747,1693 717,1699 690,1697 686,1728 685,1755 686,1772 678,1756 670,1734 664,1697 641,1693 607,1678 591,1655 586,1616 608,1562"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_15">
             <metadata borderStyle="smooth" tailTip="686,1772" boundingBox="" tailDirection="S" rank="16"/>
         </polygon>
         <polygon points="813,1472 1428,1473 1431,1587 814,1585 813,1472" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_16">
             <metadata borderStyle="other" tailTip="" boundingBox="" tailDirection="none" rank="17"/>
         </polygon>
-        <polygon points="813,1593 826,1585 941,1584 951,1592 971,1616 974,1643 963,1672 941,1690 917,1696 908,1788 898,1757 891,1700 852,1698 826,1686 811,1672 813,1593" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_17">
+        <polygon
+                points="813,1593 826,1585 941,1584 951,1592 971,1616 974,1643 963,1672 941,1690 917,1696 908,1788 898,1757 891,1700 852,1698 826,1686 811,1672 813,1593"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_17">
             <metadata borderStyle="smooth" tailTip="908,1788" boundingBox="" tailDirection="S" rank="18"/>
         </polygon>
-        <polygon points="959,1598 975,1584 1153,1584 1173,1603 1180,1624 1180,1647 1170,1663 1152,1673 1155,1691 1145,1725 1110,1748 1080,1755 1060,1757 1055,1784 1059,1811 1047,1793 1036,1757 1005,1755 975,1738 948,1712 941,1688 959,1598" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_18">
+        <polygon
+                points="959,1598 975,1584 1153,1584 1173,1603 1180,1624 1180,1647 1170,1663 1152,1673 1155,1691 1145,1725 1110,1748 1080,1755 1060,1757 1055,1784 1059,1811 1047,1793 1036,1757 1005,1755 975,1738 948,1712 941,1688 959,1598"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_18">
             <metadata borderStyle="smooth" tailTip="1059,1811" boundingBox="" tailDirection="S" rank="19"/>
         </polygon>
-        <polygon points="1164,1595 1184,1584 1387,1585 1408,1597 1430,1620 1428,1804 1406,1843 1371,1858 1331,1869 1298,1872 1279,1870 1278,1886 1281,1906 1288,1925 1277,1918 1266,1906 1251,1870 1198,1859 1159,1843 1132,1827 1112,1798 1102,1749 1164,1595" id="PIKE_BOYLOVEGIRLS_T41_015_balloon_19">
+        <polygon
+                points="1164,1595 1184,1584 1387,1585 1408,1597 1430,1620 1428,1804 1406,1843 1371,1858 1331,1869 1298,1872 1279,1870 1278,1886 1281,1906 1288,1925 1277,1918 1266,1906 1251,1870 1198,1859 1159,1843 1132,1827 1112,1798 1102,1749 1164,1595"
+                id="PIKE_BOYLOVEGIRLS_T41_015_balloon_19">
             <metadata borderStyle="smooth" tailTip="1288,1925" boundingBox="" tailDirection="SE" rank="20"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="48,386 214,386 214,766 48,766 48,386" id="PIKE_BOYLOVEGIRLS_T41_015_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -166,300 +209,514 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="62,101 458,101 458,124 62,124 62,101" id="PIKE_BOYLOVEGIRLS_T41_015_line_0">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">WHEN HE HELD ME IN HIS ARMS, I NEVER</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">WHEN HE HELD ME IN HIS ARMS,
+                I NEVER
+            </metadata>
         </polygon>
         <polygon points="62,123 465,123 465,145 62,145 62,123" id="PIKE_BOYLOVEGIRLS_T41_015_line_1">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">WANTED TO LEAVE HIM... NEVER WANTED TO</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">WANTED TO LEAVE HIM... NEVER
+                WANTED TO
+            </metadata>
         </polygon>
         <polygon points="62,146 461,146 461,169 62,169 62,146" id="PIKE_BOYLOVEGIRLS_T41_015_line_2">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">GO BACK TO THAT HOUSE. BUT I HAD TO..</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">GO BACK TO THAT HOUSE. BUT I
+                HAD TO..
+            </metadata>
         </polygon>
         <polygon points="62,168 466,168 466,192 62,192 62,168" id="PIKE_BOYLOVEGIRLS_T41_015_line_3">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">THERE WERE RULES TO BE FOLLOWED. THE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">THERE WERE RULES TO BE
+                FOLLOWED. THE
+            </metadata>
         </polygon>
         <polygon points="62,193 266,193 266,214 62,214 62,193" id="PIKE_BOYLOVEGIRLS_T41_015_line_4">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">NEXT AFTERNOON....</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_0" textType="narrative">NEXT AFTERNOON....
+            </metadata>
         </polygon>
         <polygon points="74,244 297,244 297,267 74,267 74,244" id="PIKE_BOYLOVEGIRLS_T41_015_line_5">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">HI! I JUST VOTED</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">HI! I JUST VOTED
+            </metadata>
         </polygon>
         <polygon points="52,267 318,267 318,290 52,290 52,267" id="PIKE_BOYLOVEGIRLS_T41_015_line_6">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">MYSELF A COUPLE OF</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">MYSELF A COUPLE OF
+            </metadata>
         </polygon>
         <polygon points="57,288 309,288 309,313 57,313 57,288" id="PIKE_BOYLOVEGIRLS_T41_015_line_7">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">HOURS OFF! HOW'S</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">HOURS OFF! HOW'S
+            </metadata>
         </polygon>
         <polygon points="56,311 305,311 305,335 56,335 56,311" id="PIKE_BOYLOVEGIRLS_T41_015_line_8">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">THE IDLE RICH THIS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">THE IDLE RICH THIS
+            </metadata>
         </polygon>
         <polygon points="92,334 258,334 258,358 92,358 92,334" id="PIKE_BOYLOVEGIRLS_T41_015_line_9">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">AFTERNOON?</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1" textType="speech">AFTERNOON?
+            </metadata>
         </polygon>
         <polygon points="355,241 468,241 468,263 355,263 355,241" id="PIKE_BOYLOVEGIRLS_T41_015_line_10">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">BILL! I'M</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">BILL! I'M
+            </metadata>
         </polygon>
         <polygon points="376,267 463,267 463,285 376,285 376,267" id="PIKE_BOYLOVEGIRLS_T41_015_line_11">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">FINE...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">FINE...
+            </metadata>
         </polygon>
         <polygon points="348,289 470,289 470,311 348,311 348,289" id="PIKE_BOYLOVEGIRLS_T41_015_line_12">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">PUT YOUR</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">PUT YOUR
+            </metadata>
         </polygon>
         <polygon points="348,312 468,312 468,336 348,336 348,312" id="PIKE_BOYLOVEGIRLS_T41_015_line_13">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">SUIT ON,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">SUIT ON,
+            </metadata>
         </polygon>
         <polygon points="335,333 477,333 477,357 335,357 335,333" id="PIKE_BOYLOVEGIRLS_T41_015_line_14">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">AND WE'LL</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">AND WE'LL
+            </metadata>
         </polygon>
         <polygon points="362,357 460,357 460,377 362,377 362,357" id="PIKE_BOYLOVEGIRLS_T41_015_line_15">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">HAVE A</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">HAVE A
+            </metadata>
         </polygon>
         <polygon points="369,377 451,377 451,401 369,401 369,377" id="PIKE_BOYLOVEGIRLS_T41_015_line_16">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">SWIM!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2" textType="speech">SWIM!
+            </metadata>
         </polygon>
         <polygon points="535,89 757,89 757,112 535,112 535,89" id="PIKE_BOYLOVEGIRLS_T41_015_line_17">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">IT'S MEANT A LOT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">IT'S MEANT A LOT
+            </metadata>
         </polygon>
         <polygon points="540,114 762,114 762,137 540,137 540,114" id="PIKE_BOYLOVEGIRLS_T41_015_line_18">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">TO ME, CYNTHY...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">TO ME, CYNTHY...
+            </metadata>
         </polygon>
         <polygon points="549,134 740,134 740,158 549,158 549,134" id="PIKE_BOYLOVEGIRLS_T41_015_line_19">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">MEETING YOU!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">MEETING YOU!
+            </metadata>
         </polygon>
         <polygon points="525,157 755,157 755,182 525,182 525,157" id="PIKE_BOYLOVEGIRLS_T41_015_line_20">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">YOU'VE MADE ME</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">YOU'VE MADE ME
+            </metadata>
         </polygon>
         <polygon points="532,183 760,183 760,206 532,206 532,183" id="PIKE_BOYLOVEGIRLS_T41_015_line_21">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">FEEL... DIFFERENT,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">FEEL... DIFFERENT,
+            </metadata>
         </polygon>
         <polygon points="527,206 757,206 757,229 527,229 527,206" id="PIKE_BOYLOVEGIRLS_T41_015_line_22">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">SOMEHOW, ABOUT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">SOMEHOW, ABOUT
+            </metadata>
         </polygon>
         <polygon points="574,228 703,228 703,247 574,247 574,228" id="PIKE_BOYLOVEGIRLS_T41_015_line_23">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">A LOT OF</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">A LOT OF
+            </metadata>
         </polygon>
         <polygon points="577,247 689,247 689,268 577,268 577,247" id="PIKE_BOYLOVEGIRLS_T41_015_line_24">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">THINGS!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3" textType="speech">THINGS!
+            </metadata>
         </polygon>
         <polygon points="815,114 931,114 931,138 815,138 815,114" id="PIKE_BOYLOVEGIRLS_T41_015_line_25">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">I'M GLAD,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">I'M GLAD,
+            </metadata>
         </polygon>
         <polygon points="795,138 941,138 941,158 795,158 795,138" id="PIKE_BOYLOVEGIRLS_T41_015_line_26">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">BILL! YOU'VE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">BILL! YOU'VE
+            </metadata>
         </polygon>
         <polygon points="810,160 932,160 932,182 810,182 810,160" id="PIKE_BOYLOVEGIRLS_T41_015_line_27">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">MEANT A</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">MEANT A
+            </metadata>
         </polygon>
         <polygon points="798,183 942,183 942,208 798,208 798,183" id="PIKE_BOYLOVEGIRLS_T41_015_line_28">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">LOT TO ME,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">LOT TO ME,
+            </metadata>
         </polygon>
         <polygon points="844,206 906,206 906,227 844,227 844,206" id="PIKE_BOYLOVEGIRLS_T41_015_line_29">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">TOO!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4" textType="speech">TOO!
+            </metadata>
         </polygon>
         <polygon points="990,93 1399,93 1399,114 990,114 990,93" id="PIKE_BOYLOVEGIRLS_T41_015_line_30">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">HIS LIPS CAME SLOWLY CLOSER. I WANTED HIM</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">HIS LIPS CAME SLOWLY CLOSER.
+                I WANTED HIM
+            </metadata>
         </polygon>
         <polygon points="989,115 1398,115 1398,138 989,138 989,115" id="PIKE_BOYLOVEGIRLS_T41_015_line_31">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">TO KISS ME, BUT I ENJOYED THE TINGLING</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">TO KISS ME, BUT I ENJOYED THE
+                TINGLING
+            </metadata>
         </polygon>
         <polygon points="988,139 1397,139 1397,162 988,162 988,139" id="PIKE_BOYLOVEGIRLS_T41_015_line_32">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">THRILL OF WAITING... I KNEW IT WASN'T JUST</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">THRILL OF WAITING... I KNEW
+                IT WASN'T JUST
+            </metadata>
         </polygon>
         <polygon points="988,161 1217,161 1217,181 988,181 988,161" id="PIKE_BOYLOVEGIRLS_T41_015_line_33">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">THE KISS.. IT WAS BILL!!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_5" textType="narrative">THE KISS.. IT WAS BILL!!
+            </metadata>
         </polygon>
         <polygon points="993,211 1403,211 1403,242 993,242 993,211" id="PIKE_BOYLOVEGIRLS_T41_015_line_34">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">I CAN'T KID MYSELF ANY MORE,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">I CAN'T KID MYSELF ANY MORE,
+            </metadata>
         </polygon>
         <polygon points="992,238 1388,238 1388,261 992,261 992,238" id="PIKE_BOYLOVEGIRLS_T41_015_line_35">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">BABY! YOU MEAN EVERYTHING</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">BABY! YOU MEAN EVERYTHING
+            </metadata>
         </polygon>
         <polygon points="1007,258 1285,258 1285,286 1007,286 1007,258" id="PIKE_BOYLOVEGIRLS_T41_015_line_36">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">TO ME... EVERYTHING!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6" textType="speech">TO ME... EVERYTHING!
+            </metadata>
         </polygon>
         <polygon points="1300,331 1347,331 1347,354 1300,354 1300,331" id="PIKE_BOYLOVEGIRLS_T41_015_line_37">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">OH,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">OH,
+            </metadata>
         </polygon>
         <polygon points="1297,353 1380,353 1380,376 1297,376 1297,353" id="PIKE_BOYLOVEGIRLS_T41_015_line_38">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">BILL...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">BILL...
+            </metadata>
         </polygon>
         <polygon points="1306,377 1378,377 1378,397 1306,397 1306,377" id="PIKE_BOYLOVEGIRLS_T41_015_line_39">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">BILL..</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7" textType="speech">BILL..
+            </metadata>
         </polygon>
         <polygon points="609,785 1301,785 1301,813 609,813 609,785" id="PIKE_BOYLOVEGIRLS_T41_015_line_40">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_8" textType="narrative">SUDDENLY, WITHOUT A WORD OF WARNING, THE MOOD WAS BROKEN BY A HARSH,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_8" textType="narrative">SUDDENLY, WITHOUT A WORD OF
+                WARNING, THE MOOD WAS BROKEN BY A HARSH,
+            </metadata>
         </polygon>
         <polygon points="680,808 810,808 810,825 680,825 680,808" id="PIKE_BOYLOVEGIRLS_T41_015_line_41">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_8" textType="narrative">BITING LAUGH!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_8" textType="narrative">BITING LAUGH!
+            </metadata>
         </polygon>
         <polygon points="597,840 763,840 763,867 597,867 597,840" id="PIKE_BOYLOVEGIRLS_T41_015_line_42">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">WELL! OUR</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">WELL! OUR
+            </metadata>
         </polygon>
         <polygon points="566,867 801,867 801,889 566,889 566,867" id="PIKE_BOYLOVEGIRLS_T41_015_line_43">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">GARDENER SEEMS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">GARDENER SEEMS
+            </metadata>
         </polygon>
         <polygon points="568,889 803,889 803,912 568,912 568,889" id="PIKE_BOYLOVEGIRLS_T41_015_line_44">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">TO BE MOVING UP</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">TO BE MOVING UP
+            </metadata>
         </polygon>
         <polygon points="583,911 773,911 773,935 583,935 583,911" id="PIKE_BOYLOVEGIRLS_T41_015_line_45">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">IN THE WORLD!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9" textType="speech">IN THE WORLD!
+            </metadata>
         </polygon>
         <polygon points="966,830 1134,830 1134,854 966,854 966,830" id="PIKE_BOYLOVEGIRLS_T41_015_line_46">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11" textType="speech">THAT SEEMS</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11" textType="speech">THAT SEEMS
+            </metadata>
         </polygon>
         <polygon points="976,854 1103,854 1103,874 976,874 976,854" id="PIKE_BOYLOVEGIRLS_T41_015_line_47">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11" textType="speech">OBVIOUS!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11" textType="speech">OBVIOUS!
+            </metadata>
         </polygon>
         <polygon points="731,958 841,958 841,983 731,983 731,958" id="PIKE_BOYLOVEGIRLS_T41_015_line_48">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">CURT! I</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">CURT! I
+            </metadata>
         </polygon>
         <polygon points="723,983 898,983 898,1006 723,1006 723,983" id="PIKE_BOYLOVEGIRLS_T41_015_line_49">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">DIDN'T KNOW</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">DIDN'T KNOW
+            </metadata>
         </polygon>
         <polygon points="740,1007 880,1007 880,1031 740,1031 740,1007" id="PIKE_BOYLOVEGIRLS_T41_015_line_50">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">YOU WERE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">YOU WERE
+            </metadata>
         </polygon>
         <polygon points="758,1031 882,1031 882,1054 758,1054 758,1031" id="PIKE_BOYLOVEGIRLS_T41_015_line_51">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">COMING...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10" textType="speech">COMING...
+            </metadata>
         </polygon>
         <polygon points="82,1470 739,1470 739,1497 82,1497 82,1470" id="PIKE_BOYLOVEGIRLS_T41_015_line_52">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">STILL WARM FROM BILL'S EMBRACE, I WAS CONFUSED AND UNABLE TO</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">STILL WARM FROM BILL'S
+                EMBRACE, I WAS CONFUSED AND UNABLE TO
+            </metadata>
         </polygon>
         <polygon points="81,1490 736,1490 736,1520 81,1520 81,1490" id="PIKE_BOYLOVEGIRLS_T41_015_line_53">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">THINK. I WANTED TO CALM THEM DOWN BEFORE SOMETHING TERRIBLE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">THINK. I WANTED TO CALM THEM
+                DOWN BEFORE SOMETHING TERRIBLE
+            </metadata>
         </polygon>
         <polygon points="84,1514 186,1514 186,1535 84,1535 84,1514" id="PIKE_BOYLOVEGIRLS_T41_015_line_54">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">HAPPENED!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_12" textType="narrative">HAPPENED!
+            </metadata>
         </polygon>
         <polygon points="68,1559 328,1559 328,1581 68,1581 68,1559" id="PIKE_BOYLOVEGIRLS_T41_015_line_55">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">YOU DON'T NEED TO</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">YOU DON'T NEED TO
+            </metadata>
         </polygon>
         <polygon points="59,1580 321,1580 321,1604 59,1604 59,1580" id="PIKE_BOYLOVEGIRLS_T41_015_line_56">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">BE SO NASTY ABOUT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">BE SO NASTY ABOUT
+            </metadata>
         </polygon>
         <polygon points="63,1604 291,1604 291,1627 63,1627 63,1604" id="PIKE_BOYLOVEGIRLS_T41_015_line_57">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">IT! OR CAN'T YOU</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">IT! OR CAN'T YOU
+            </metadata>
         </polygon>
         <polygon points="64,1628 320,1628 320,1651 64,1651 64,1628" id="PIKE_BOYLOVEGIRLS_T41_015_line_58">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">HELP BEING NASTY?</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13" textType="speech">HELP BEING NASTY?
+            </metadata>
         </polygon>
         <polygon points="370,1561 579,1561 579,1585 370,1585 370,1561" id="PIKE_BOYLOVEGIRLS_T41_015_line_59">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">I SUPPOSE YOU</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">I SUPPOSE YOU
+            </metadata>
         </polygon>
         <polygon points="372,1583 583,1583 583,1608 372,1608 372,1583" id="PIKE_BOYLOVEGIRLS_T41_015_line_60">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">REALIZE YOU'VE</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">REALIZE YOU'VE
+            </metadata>
         </polygon>
         <polygon points="379,1608 559,1608 559,1630 379,1630 379,1608" id="PIKE_BOYLOVEGIRLS_T41_015_line_61">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">JUST TALKED</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">JUST TALKED
+            </metadata>
         </polygon>
         <polygon points="366,1631 566,1631 566,1651 366,1651 366,1631" id="PIKE_BOYLOVEGIRLS_T41_015_line_62">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">YOURSELF OUT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">YOURSELF OUT
+            </metadata>
         </polygon>
         <polygon points="392,1654 537,1654 537,1678 392,1678 392,1654" id="PIKE_BOYLOVEGIRLS_T41_015_line_63">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">OF A JOB!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14" textType="speech">OF A JOB!
+            </metadata>
         </polygon>
         <polygon points="638,1562 739,1562 739,1585 638,1585 638,1562" id="PIKE_BOYLOVEGIRLS_T41_015_line_64">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">WAIT...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">WAIT...
+            </metadata>
         </polygon>
         <polygon points="632,1583 749,1583 749,1607 632,1607 632,1583" id="PIKE_BOYLOVEGIRLS_T41_015_line_65">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">PLEASE!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">PLEASE!
+            </metadata>
         </polygon>
         <polygon points="638,1608 743,1608 743,1631 638,1631 638,1608" id="PIKE_BOYLOVEGIRLS_T41_015_line_66">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">PLEASE,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">PLEASE,
+            </metadata>
         </polygon>
         <polygon points="657,1631 745,1631 745,1653 657,1653 657,1631" id="PIKE_BOYLOVEGIRLS_T41_015_line_67">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">BILL...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">BILL...
+            </metadata>
         </polygon>
         <polygon points="649,1650 755,1650 755,1677 649,1677 649,1650" id="PIKE_BOYLOVEGIRLS_T41_015_line_68">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">DON'T!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15" textType="speech">DON'T!
+            </metadata>
         </polygon>
         <polygon points="841,1499 1395,1499 1395,1523 841,1523 841,1499" id="PIKE_BOYLOVEGIRLS_T41_015_line_69">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">I SHOULD HAVE SPOKEN UP AGAINST GLORIA AT ONCE, BUT I</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">I SHOULD HAVE SPOKEN UP
+                AGAINST GLORIA AT ONCE, BUT I
+            </metadata>
         </polygon>
         <polygon points="839,1521 1400,1521 1400,1544 839,1544 839,1521" id="PIKE_BOYLOVEGIRLS_T41_015_line_70">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">WAS SO AFRAID BILL WOULD LEAVE.. AND I WANTED TO CALM</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">WAS SO AFRAID BILL WOULD
+                LEAVE.. AND I WANTED TO CALM
+            </metadata>
         </polygon>
         <polygon points="839,1544 1249,1544 1249,1565 839,1565 839,1544" id="PIKE_BOYLOVEGIRLS_T41_015_line_71">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">HER DOWN. I DIDN'T EXPECT BILL'S REACTION!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_16" textType="narrative">HER DOWN. I DIDN'T EXPECT
+                BILL'S REACTION!
+            </metadata>
         </polygon>
         <polygon points="848,1595 925,1595 925,1618 848,1618 848,1595" id="PIKE_BOYLOVEGIRLS_T41_015_line_72">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">DON'T</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">DON'T
+            </metadata>
         </polygon>
         <polygon points="822,1620 952,1620 952,1647 822,1647 822,1620" id="PIKE_BOYLOVEGIRLS_T41_015_line_73">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">BE ANGRY,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">BE ANGRY,
+            </metadata>
         </polygon>
         <polygon points="827,1642 948,1642 948,1665 827,1665 827,1642" id="PIKE_BOYLOVEGIRLS_T41_015_line_74">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">GLORIA...</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17" textType="speech">GLORIA...
+            </metadata>
         </polygon>
         <polygon points="978,1594 1144,1594 1144,1621 978,1621 978,1594" id="PIKE_BOYLOVEGIRLS_T41_015_line_75">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">COME, CURT!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">COME, CURT!
+            </metadata>
         </polygon>
         <polygon points="983,1619 1162,1619 1162,1642 983,1642 983,1619" id="PIKE_BOYLOVEGIRLS_T41_015_line_76">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">IT'S NOT GOOD</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">IT'S NOT GOOD
+            </metadata>
         </polygon>
         <polygon points="999,1644 1127,1644 1127,1665 999,1665 999,1644" id="PIKE_BOYLOVEGIRLS_T41_015_line_77">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">TASTE TO</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">TASTE TO
+            </metadata>
         </polygon>
         <polygon points="970,1663 1135,1663 1135,1689 970,1689 970,1663" id="PIKE_BOYLOVEGIRLS_T41_015_line_78">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">ARGUE WITH</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">ARGUE WITH
+            </metadata>
         </polygon>
         <polygon points="980,1688 1128,1688 1128,1711 980,1711 980,1688" id="PIKE_BOYLOVEGIRLS_T41_015_line_79">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">THE HIRED</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">THE HIRED
+            </metadata>
         </polygon>
         <polygon points="1025,1708 1103,1708 1103,1734 1025,1734 1025,1708" id="PIKE_BOYLOVEGIRLS_T41_015_line_80">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">HELP!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18" textType="speech">HELP!
+            </metadata>
         </polygon>
         <polygon points="1191,1594 1365,1594 1365,1620 1191,1620 1191,1594" id="PIKE_BOYLOVEGIRLS_T41_015_line_81">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">HOLD IT, YOU</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">HOLD IT, YOU
+            </metadata>
         </polygon>
         <polygon points="1200,1617 1400,1617 1400,1642 1200,1642 1200,1617" id="PIKE_BOYLOVEGIRLS_T41_015_line_82">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">TWO! AS LONG</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">TWO! AS LONG
+            </metadata>
         </polygon>
         <polygon points="1208,1641 1393,1641 1393,1664 1208,1664 1208,1641" id="PIKE_BOYLOVEGIRLS_T41_015_line_83">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">AS I'M BEING</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">AS I'M BEING
+            </metadata>
         </polygon>
         <polygon points="1184,1665 1408,1665 1408,1690 1184,1690 1184,1665" id="PIKE_BOYLOVEGIRLS_T41_015_line_84">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">CANNED, I MIGHT</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">CANNED, I MIGHT
+            </metadata>
         </polygon>
         <polygon points="1167,1688 1423,1688 1423,1711 1167,1711 1167,1688" id="PIKE_BOYLOVEGIRLS_T41_015_line_85">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">AS WELL GET A FEW</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">AS WELL GET A FEW
+            </metadata>
         </polygon>
         <polygon points="1178,1712 1390,1712 1390,1735 1178,1735 1178,1712" id="PIKE_BOYLOVEGIRLS_T41_015_line_86">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">THINGS OFF MY</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">THINGS OFF MY
+            </metadata>
         </polygon>
         <polygon points="1149,1735 1422,1735 1422,1757 1149,1757 1149,1735" id="PIKE_BOYLOVEGIRLS_T41_015_line_87">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">CHEST! YOU'RE ALL A</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">CHEST! YOU'RE ALL A
+            </metadata>
         </polygon>
         <polygon points="1139,1759 1414,1759 1414,1782 1139,1782 1139,1759" id="PIKE_BOYLOVEGIRLS_T41_015_line_88">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">LOT OF PHONIES, AND</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">LOT OF PHONIES, AND
+            </metadata>
         </polygon>
         <polygon points="1180,1781 1396,1781 1396,1805 1180,1805 1180,1781" id="PIKE_BOYLOVEGIRLS_T41_015_line_89">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">I WAS GETTING</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">I WAS GETTING
+            </metadata>
         </polygon>
         <polygon points="1200,1804 1378,1804 1378,1831 1200,1831 1200,1804" id="PIKE_BOYLOVEGIRLS_T41_015_line_90">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">SICK OF YOU,</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">SICK OF YOU,
+            </metadata>
         </polygon>
         <polygon points="1230,1828 1357,1828 1357,1849 1230,1849 1230,1828" id="PIKE_BOYLOVEGIRLS_T41_015_line_91">
-            <metadata typography="" uri="" method="" area="" fillingPcent="" rank="" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">ANYWAY!</metadata>
+            <metadata typography="" uri="" method="" area="" fillingPcent="" rank=""
+                      idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19" textType="speech">ANYWAY!
+            </metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="188,329 189,329 132,576 131,576 188,329" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_0" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1"/>
-    <polygon points="396,351 397,351 295,622 294,622 396,351" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_1" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2"/>
-    <polygon points="649,217 650,217 665,512 664,512 649,217" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_2" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3"/>
-    <polygon points="858,255 859,255 734,620 733,620 858,255" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_3" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4"/>
-    <polygon points="1190,273 1191,273 1120,533 1119,533 1190,273" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_4" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6"/>
-    <polygon points="1330,391 1331,391 1259,624 1258,624 1330,391" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_5" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7"/>
-    <polygon points="729,895 730,895 1055,1183 1054,1183 729,895" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_10" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9"/>
-    <polygon points="1045,866 1046,866 1214,1170 1213,1170 1045,866" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_11" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11"/>
-    <polygon points="803,1041 804,1041 743,1321 742,1321 803,1041" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_9" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10"/>
-    <polygon points="198,1635 199,1635 229,1950 228,1950 198,1635" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_12" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13"/>
-    <polygon points="475,1644 476,1644 466,1954 465,1954 475,1644" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_13" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14"/>
-    <polygon points="689,1659 690,1659 703,1969 702,1969 689,1659" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_15" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15"/>
-    <polygon points="892,1686 893,1686 886,1995 885,1995 892,1686" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_19" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17"/>
-    <polygon points="1060,1697 1061,1697 1064,1990 1063,1990 1060,1697" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_18" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18"/>
-    <polygon points="1266,1754 1267,1754 1332,2018 1331,2018 1266,1754" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_16" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Mon Feb 10 16:26:50 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="188,329 189,329 132,576 131,576 188,329" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_0"
+                 idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_1"/>
+        <polygon points="396,351 397,351 295,622 294,622 396,351" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_1"
+                 idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_2"/>
+        <polygon points="649,217 650,217 665,512 664,512 649,217" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_2"
+                 idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_3"/>
+        <polygon points="858,255 859,255 734,620 733,620 858,255" idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_3"
+                 idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_4"/>
+        <polygon points="1190,273 1191,273 1120,533 1119,533 1190,273"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_4" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_6"/>
+        <polygon points="1330,391 1331,391 1259,624 1258,624 1330,391"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_5" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_7"/>
+        <polygon points="729,895 730,895 1055,1183 1054,1183 729,895"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_10" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_9"/>
+        <polygon points="1045,866 1046,866 1214,1170 1213,1170 1045,866"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_11" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_11"/>
+        <polygon points="803,1041 804,1041 743,1321 742,1321 803,1041"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_9" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_10"/>
+        <polygon points="198,1635 199,1635 229,1950 228,1950 198,1635"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_12" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_13"/>
+        <polygon points="475,1644 476,1644 466,1954 465,1954 475,1644"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_13" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_14"/>
+        <polygon points="689,1659 690,1659 703,1969 702,1969 689,1659"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_15" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_15"/>
+        <polygon points="892,1686 893,1686 886,1995 885,1995 892,1686"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_19" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_17"/>
+        <polygon points="1060,1697 1061,1697 1064,1990 1063,1990 1060,1697"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_18" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_18"/>
+        <polygon points="1266,1754 1267,1754 1332,2018 1331,2018 1266,1754"
+                 idCharacter="PIKE_BOYLOVEGIRLS_T41_015_character_16" idBalloon="PIKE_BOYLOVEGIRLS_T41_015_balloon_19"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Mon Feb 10 16:26:50 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

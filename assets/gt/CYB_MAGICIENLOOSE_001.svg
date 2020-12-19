@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="270mm" zoomAndPan="magnify" contentStyleType="text/css" height="512mm" viewBox="0 0 541 1024" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="270mm" zoomAndPan="magnify" contentStyleType="text/css" height="512mm" viewBox="0 0 541 1024"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>CYB_MAGICIENLOOSE_001</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="541" xlink:href="../Pages/CYB_MAGICIENLOOSE_001.jpg" xlink:type="simple" xlink:actuate="onLoad" height="1024" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Le Magicien Lose" editorName="Studio Cyborga" doublePage="false" website="http://30joursdebd.com/2011/01/10/le-magicien-loose/" albumTitle="" drawerName="Cyborg 07" language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Trébla" releaseDate="2011" pageNumber="1"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="541" xlink:href="../Pages/CYB_MAGICIENLOOSE_001.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="1024" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Le Magicien Lose" editorName="Studio Cyborga" doublePage="false"
+                  website="http://30joursdebd.com/2011/01/10/le-magicien-loose/" albumTitle="" drawerName="Cyborg 07"
+                  language="french" resolution="" ISBN="" readingDirection="leftToRight" writerName="Trébla"
+                  releaseDate="2011" pageNumber="1"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="21,11 265,11 265,204 21,204 21,11" id="CYB_MAGICIENLOOSE_001_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -50,61 +59,98 @@
             <metadata viewAngle="" shot="" rank="10"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="20,42 20,12 122,12 124,18 125,24 123,31 116,39 121,40 120,44 128,45 132,47 134,51 132,58 127,65 128,58 127,52 122,50 112,50 113,45 109,45 101,49 58,54 40,53 27,48 20,42" id="CYB_MAGICIENLOOSE_001_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="20,42 20,12 122,12 124,18 125,24 123,31 116,39 121,40 120,44 128,45 132,47 134,51 132,58 127,65 128,58 127,52 122,50 112,50 113,45 109,45 101,49 58,54 40,53 27,48 20,42"
+                id="CYB_MAGICIENLOOSE_001_balloon_0">
             <metadata borderStyle="smooth" tailTip="127,65" boundingBox="" tailDirection="S" rank="1"/>
         </polygon>
-        <polygon points="157,25 173,19 187,17 205,17 221,20 237,27 247,34 254,41 254,46 252,56 243,65 230,69 208,71 184,71 174,69 169,73 166,76 167,80 171,85 167,83 162,80 161,78 162,74 164,70 167,67 157,64 147,60 139,52 140,45 143,37 157,25" id="CYB_MAGICIENLOOSE_001_balloon_1">
+        <polygon
+                points="157,25 173,19 187,17 205,17 221,20 237,27 247,34 254,41 254,46 252,56 243,65 230,69 208,71 184,71 174,69 169,73 166,76 167,80 171,85 167,83 162,80 161,78 162,74 164,70 167,67 157,64 147,60 139,52 140,45 143,37 157,25"
+                id="CYB_MAGICIENLOOSE_001_balloon_1">
             <metadata borderStyle="smooth" tailTip="171,85" boundingBox="" tailDirection="SE" rank="2"/>
         </polygon>
-        <polygon points="294,25 298,19 301,16 305,13 428,13 432,17 436,22 438,27 439,33 440,37 439,42 433,46 428,51 418,54 411,55 393,55 392,58 390,62 392,66 390,69 387,73 383,77 385,73 386,67 384,64 384,62 386,55 363,56 309,50 300,46 293,42 290,31 294,25" id="CYB_MAGICIENLOOSE_001_balloon_2">
+        <polygon
+                points="294,25 298,19 301,16 305,13 428,13 432,17 436,22 438,27 439,33 440,37 439,42 433,46 428,51 418,54 411,55 393,55 392,58 390,62 392,66 390,69 387,73 383,77 385,73 386,67 384,64 384,62 386,55 363,56 309,50 300,46 293,42 290,31 294,25"
+                id="CYB_MAGICIENLOOSE_001_balloon_2">
             <metadata borderStyle="smooth" tailTip="383,77" boundingBox="" tailDirection="S" rank="3"/>
         </polygon>
-        <polygon points="460,32 469,30 483,31 502,35 513,44 517,56 516,63 509,71 503,73 492,72 492,76 488,80 483,83 484,80 487,76 487,74 475,75 456,73 446,70 439,63 438,52 441,45 447,38 460,32" id="CYB_MAGICIENLOOSE_001_balloon_3">
+        <polygon
+                points="460,32 469,30 483,31 502,35 513,44 517,56 516,63 509,71 503,73 492,72 492,76 488,80 483,83 484,80 487,76 487,74 475,75 456,73 446,70 439,63 438,52 441,45 447,38 460,32"
+                id="CYB_MAGICIENLOOSE_001_balloon_3">
             <metadata borderStyle="smooth" tailTip="483,83" boundingBox="" tailDirection="SW" rank="4"/>
         </polygon>
-        <polygon points="78,229 83,224 87,221 94,217 99,215 190,215 195,218 201,222 207,228 212,233 212,238 211,241 191,266 178,269 162,269 148,269 146,271 144,275 147,279 147,282 144,287 137,295 138,290 142,285 141,282 137,281 135,275 140,269 125,268 120,266 78,246 76,238 78,229" id="CYB_MAGICIENLOOSE_001_balloon_4">
+        <polygon
+                points="78,229 83,224 87,221 94,217 99,215 190,215 195,218 201,222 207,228 212,233 212,238 211,241 191,266 178,269 162,269 148,269 146,271 144,275 147,279 147,282 144,287 137,295 138,290 142,285 141,282 137,281 135,275 140,269 125,268 120,266 78,246 76,238 78,229"
+                id="CYB_MAGICIENLOOSE_001_balloon_4">
             <metadata borderStyle="smooth" tailTip="137,295" boundingBox="" tailDirection="SW" rank="5"/>
         </polygon>
-        <polygon points="191,268 189,263 188,257 190,250 196,245 202,242 210,240 221,240 228,242 235,246 240,250 243,253 242,260 241,267 237,270 233,272 233,273 237,274 238,279 237,283 232,289 234,283 235,278 227,279 227,275 219,275 207,274 198,272 191,268" id="CYB_MAGICIENLOOSE_001_balloon_5">
+        <polygon
+                points="191,268 189,263 188,257 190,250 196,245 202,242 210,240 221,240 228,242 235,246 240,250 243,253 242,260 241,267 237,270 233,272 233,273 237,274 238,279 237,283 232,289 234,283 235,278 227,279 227,275 219,275 207,274 198,272 191,268"
+                id="CYB_MAGICIENLOOSE_001_balloon_5">
             <metadata borderStyle="smooth" tailTip="232,289" boundingBox="" tailDirection="SW" rank="6"/>
         </polygon>
-        <polygon points="374,241 388,228 401,222 413,219 426,218 439,218 452,219 466,222 478,225 489,230 496,236 501,243 501,252 498,259 492,267 484,274 476,277 462,277 445,278 424,278 414,276 412,279 412,282 416,285 413,287 412,290 411,293 412,296 415,299 410,298 406,295 407,291 406,288 408,285 403,284 405,280 407,277 407,276 394,273 383,268 376,260 373,253 374,245 374,241" id="CYB_MAGICIENLOOSE_001_balloon_6">
+        <polygon
+                points="374,241 388,228 401,222 413,219 426,218 439,218 452,219 466,222 478,225 489,230 496,236 501,243 501,252 498,259 492,267 484,274 476,277 462,277 445,278 424,278 414,276 412,279 412,282 416,285 413,287 412,290 411,293 412,296 415,299 410,298 406,295 407,291 406,288 408,285 403,284 405,280 407,277 407,276 394,273 383,268 376,260 373,253 374,245 374,241"
+                id="CYB_MAGICIENLOOSE_001_balloon_6">
             <metadata borderStyle="smooth" tailTip="415,299" boundingBox="" tailDirection="SE" rank="7"/>
         </polygon>
-        <polygon points="44,435 45,427 49,422 54,416 166,416 161,421 155,425 151,433 148,439 147,446 148,453 148,457 130,459 124,459 63,454 54,449 48,454 41,460 36,468 35,472 34,477 36,480 32,477 31,472 33,463 38,455 41,451 46,447 49,444 45,439 44,435" id="CYB_MAGICIENLOOSE_001_balloon_7">
+        <polygon
+                points="44,435 45,427 49,422 54,416 166,416 161,421 155,425 151,433 148,439 147,446 148,453 148,457 130,459 124,459 63,454 54,449 48,454 41,460 36,468 35,472 34,477 36,480 32,477 31,472 33,463 38,455 41,451 46,447 49,444 45,439 44,435"
+                id="CYB_MAGICIENLOOSE_001_balloon_7">
             <metadata borderStyle="smooth" tailTip="36,480" boundingBox="" tailDirection="SE" rank="8"/>
         </polygon>
-        <polygon points="148,458 144,448 145,437 150,428 156,422 163,416 266,416 266,418 266,427 266,468 257,474 240,478 223,480 205,478 192,478 181,476 175,475 174,478 175,482 179,488 175,487 171,485 169,482 168,476 170,474 160,470 153,465 148,458" id="CYB_MAGICIENLOOSE_001_balloon_8">
+        <polygon
+                points="148,458 144,448 145,437 150,428 156,422 163,416 266,416 266,418 266,427 266,468 257,474 240,478 223,480 205,478 192,478 181,476 175,475 174,478 175,482 179,488 175,487 171,485 169,482 168,476 170,474 160,470 153,465 148,458"
+                id="CYB_MAGICIENLOOSE_001_balloon_8">
             <metadata borderStyle="smooth" tailTip="179,488" boundingBox="" tailDirection="SE" rank="9"/>
         </polygon>
-        <polygon points="121,494 129,491 138,489 149,490 159,494 167,503 169,508 168,519 165,526 158,531 148,533 148,536 145,540 141,543 133,545 136,542 139,540 142,537 141,533 134,533 127,530 120,526 121,494" id="CYB_MAGICIENLOOSE_001_balloon_9">
+        <polygon
+                points="121,494 129,491 138,489 149,490 159,494 167,503 169,508 168,519 165,526 158,531 148,533 148,536 145,540 141,543 133,545 136,542 139,540 142,537 141,533 134,533 127,530 120,526 121,494"
+                id="CYB_MAGICIENLOOSE_001_balloon_9">
             <metadata borderStyle="smooth" tailTip="133,545" boundingBox="" tailDirection="SW" rank="10"/>
         </polygon>
-        <polygon points="346,447 341,442 339,436 339,422 343,416 404,416 464,416 504,417 507,422 508,431 509,437 506,445 499,455 494,461 473,469 440,473 422,472 410,471 411,478 414,484 412,484 407,478 405,476 404,470 391,468 378,466 370,463 346,447" id="CYB_MAGICIENLOOSE_001_balloon_10">
+        <polygon
+                points="346,447 341,442 339,436 339,422 343,416 404,416 464,416 504,417 507,422 508,431 509,437 506,445 499,455 494,461 473,469 440,473 422,472 410,471 411,478 414,484 412,484 407,478 405,476 404,470 391,468 378,466 370,463 346,447"
+                id="CYB_MAGICIENLOOSE_001_balloon_10">
             <metadata borderStyle="smooth" tailTip="414,484" boundingBox="" tailDirection="SE" rank="11"/>
         </polygon>
-        <polygon points="383,506 394,505 410,506 418,509 428,555 422,562 408,569 390,572 384,570 383,574 377,577 373,577 368,570 373,572 376,572 378,570 371,569 365,566 358,560 355,555 368,512 383,506" id="CYB_MAGICIENLOOSE_001_balloon_11">
+        <polygon
+                points="383,506 394,505 410,506 418,509 428,555 422,562 408,569 390,572 384,570 383,574 377,577 373,577 368,570 373,572 376,572 378,570 371,569 365,566 358,560 355,555 368,512 383,506"
+                id="CYB_MAGICIENLOOSE_001_balloon_11">
             <metadata borderStyle="smooth" tailTip="368,570" boundingBox="" tailDirection="NW" rank="12"/>
         </polygon>
-        <polygon points="115,639 121,632 122,628 127,622 130,618 241,618 244,621 248,626 258,629 257,631 252,634 251,639 250,645 247,648 249,653 244,655 242,658 234,661 227,664 226,670 218,665 209,667 200,667 189,667 185,675 182,668 177,667 165,665 162,664 156,667 153,671 159,671 163,674 153,683 157,683 163,684 161,689 157,697 152,701 147,704 141,709 145,703 149,698 152,693 152,689 142,690 142,685 145,680 150,676 138,675 144,670 150,665 151,662 143,661 137,656 126,659 125,657 129,651 126,647 123,640 115,640 115,639" id="CYB_MAGICIENLOOSE_001_balloon_12">
+        <polygon
+                points="115,639 121,632 122,628 127,622 130,618 241,618 244,621 248,626 258,629 257,631 252,634 251,639 250,645 247,648 249,653 244,655 242,658 234,661 227,664 226,670 218,665 209,667 200,667 189,667 185,675 182,668 177,667 165,665 162,664 156,667 153,671 159,671 163,674 153,683 157,683 163,684 161,689 157,697 152,701 147,704 141,709 145,703 149,698 152,693 152,689 142,690 142,685 145,680 150,676 138,675 144,670 150,665 151,662 143,661 137,656 126,659 125,657 129,651 126,647 123,640 115,640 115,639"
+                id="CYB_MAGICIENLOOSE_001_balloon_12">
             <metadata borderStyle="spiky" tailTip="141,709" boundingBox="" tailDirection="SW" rank="13"/>
         </polygon>
-        <polygon points="386,646 389,640 393,640 400,637 410,634 419,634 425,634 429,629 445,629 450,631 453,633 455,635 460,633 472,633 479,634 480,636 484,635 490,645 498,657 496,663 495,668 491,671 484,678 476,677 463,673 457,675 446,677 440,674 425,674 425,684 420,685 418,685 422,686 422,698 414,701 413,702 417,703 417,707 420,709 421,709 421,717 418,714 415,712 411,711 411,707 407,706 409,696 416,694 416,691 411,691 410,684 413,682 420,678 417,674 410,673 400,673 392,673 386,668 386,662 389,656 384,651 386,646" id="CYB_MAGICIENLOOSE_001_balloon_13">
+        <polygon
+                points="386,646 389,640 393,640 400,637 410,634 419,634 425,634 429,629 445,629 450,631 453,633 455,635 460,633 472,633 479,634 480,636 484,635 490,645 498,657 496,663 495,668 491,671 484,678 476,677 463,673 457,675 446,677 440,674 425,674 425,684 420,685 418,685 422,686 422,698 414,701 413,702 417,703 417,707 420,709 421,709 421,717 418,714 415,712 411,711 411,707 407,706 409,696 416,694 416,691 411,691 410,684 413,682 420,678 417,674 410,673 400,673 392,673 386,668 386,662 389,656 384,651 386,646"
+                id="CYB_MAGICIENLOOSE_001_balloon_13">
             <metadata borderStyle="wavy" tailTip="421,717" boundingBox="" tailDirection="S" rank="14"/>
         </polygon>
-        <polygon points="173,876 185,876 196,870 201,867 206,867 216,872 222,875 229,875 236,879 242,882 244,887 244,895 244,899 237,906 231,909 227,911 215,911 205,913 201,919 206,923 207,934 210,937 212,941 211,951 209,947 208,939 202,936 202,928 198,925 194,925 193,919 197,912 186,910 173,912 169,910 165,905 159,900 156,895 158,889 161,883 166,879 173,876" id="CYB_MAGICIENLOOSE_001_balloon_14">
+        <polygon
+                points="173,876 185,876 196,870 201,867 206,867 216,872 222,875 229,875 236,879 242,882 244,887 244,895 244,899 237,906 231,909 227,911 215,911 205,913 201,919 206,923 207,934 210,937 212,941 211,951 209,947 208,939 202,936 202,928 198,925 194,925 193,919 197,912 186,910 173,912 169,910 165,905 159,900 156,895 158,889 161,883 166,879 173,876"
+                id="CYB_MAGICIENLOOSE_001_balloon_14">
             <metadata borderStyle="wavy" tailTip="211,951" boundingBox="" tailDirection="S" rank="15"/>
         </polygon>
-        <polygon points="412,873 408,870 409,862 412,855 409,852 409,849 417,840 425,833 434,827 443,827 455,828 464,830 465,833 466,836 475,841 478,845 478,855 478,867 471,872 471,877 468,879 473,892 484,892 494,895 494,899 490,907 497,909 501,911 496,920 497,927 495,930 490,927 489,923 491,916 480,915 478,912 481,906 484,901 468,900 466,894 462,883 450,886 449,883 423,884 412,873" id="CYB_MAGICIENLOOSE_001_balloon_15">
+        <polygon
+                points="412,873 408,870 409,862 412,855 409,852 409,849 417,840 425,833 434,827 443,827 455,828 464,830 465,833 466,836 475,841 478,845 478,855 478,867 471,872 471,877 468,879 473,892 484,892 494,895 494,899 490,907 497,909 501,911 496,920 497,927 495,930 490,927 489,923 491,916 480,915 478,912 481,906 484,901 468,900 466,894 462,883 450,886 449,883 423,884 412,873"
+                id="CYB_MAGICIENLOOSE_001_balloon_15">
             <metadata borderStyle="wavy" tailTip="495,930" boundingBox="" tailDirection="S" rank="16"/>
         </polygon>
-        <polygon points="394,904 404,898 416,894 434,893 443,896 452,901 458,909 461,918 458,926 447,935 431,938 418,937 413,935 411,941 406,942 400,942 394,943 398,939 404,939 406,938 407,934 401,932 393,927 390,920 390,910 394,904" id="CYB_MAGICIENLOOSE_001_balloon_16">
+        <polygon
+                points="394,904 404,898 416,894 434,893 443,896 452,901 458,909 461,918 458,926 447,935 431,938 418,937 413,935 411,941 406,942 400,942 394,943 398,939 404,939 406,938 407,934 401,932 393,927 390,920 390,910 394,904"
+                id="CYB_MAGICIENLOOSE_001_balloon_16">
             <metadata borderStyle="smooth" tailTip="394,943" boundingBox="" tailDirection="SW" rank="17"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="168,72 254,72 254,203 168,203 168,72" id="CYB_MAGICIENLOOSE_001_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -166,134 +212,205 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="34,23 102,23 102,35 34,35 34,23" id="CYB_MAGICIENLOOSE_001_line_0">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_0" textType="speech">ET VOILA !!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_0" textType="speech">ET VOILA
+                !!
+            </metadata>
         </polygon>
         <polygon points="168,34 224,34 224,42 168,42 168,34" id="CYB_MAGICIENLOOSE_001_line_1">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_1" textType="speech">EUH... ET</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_1" textType="speech">EUH... ET
+            </metadata>
         </polygon>
         <polygon points="157,42 236,42 236,54 157,54 157,42" id="CYB_MAGICIENLOOSE_001_line_2">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_1" textType="speech">VOILA QUOI?</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_1" textType="speech">VOILA
+                QUOI?
+            </metadata>
         </polygon>
         <polygon points="307,23 424,23 424,31 307,31 307,23" id="CYB_MAGICIENLOOSE_001_line_3">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_2" textType="speech">JE VIENS DE VOUS</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_2" textType="speech">JE VIENS DE
+                VOUS
+            </metadata>
         </polygon>
         <polygon points="310,34 419,34 421,42 310,42 310,34" id="CYB_MAGICIENLOOSE_001_line_4">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_2" textType="speech">VOLER UN OBJET.</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_2" textType="speech">VOLER UN
+                OBJET.
+            </metadata>
         </polygon>
         <polygon points="453,46 500,46 500,55 453,55 453,46" id="CYB_MAGICIENLOOSE_001_line_5">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_3" textType="speech">AH BON</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_3" textType="speech">AH BON
+            </metadata>
         </polygon>
         <polygon points="470,57 484,57 484,66 470,66 470,57" id="CYB_MAGICIENLOOSE_001_line_6">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_3" textType="speech">?!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_3" textType="speech">?!
+            </metadata>
         </polygon>
         <polygon points="119,221 165,221 165,231 119,231 119,221" id="CYB_MAGICIENLOOSE_001_line_7">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">VORTE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">VORTE
+            </metadata>
         </polygon>
         <polygon points="88,235 196,235 196,245 88,245 88,235" id="CYB_MAGICIENLOOSE_001_line_8">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">PORTE-FEUILLE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">
+                PORTE-FEUILLE
+            </metadata>
         </polygon>
         <polygon points="136,249 149,249 149,259 136,259 136,249" id="CYB_MAGICIENLOOSE_001_line_9">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">!!!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4" textType="speech">!!!
+            </metadata>
         </polygon>
         <polygon points="201,257 233,257 233,265 201,265 201,257" id="CYB_MAGICIENLOOSE_001_line_10">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_5" textType="speech">OH !!!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_5" textType="speech">OH !!!
+            </metadata>
         </polygon>
         <polygon points="397,228 479,228 479,240 397,240 397,228" id="CYB_MAGICIENLOOSE_001_line_11">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">TRES FORT !</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">TRES FORT
+                !
+            </metadata>
         </polygon>
         <polygon points="386,242 488,242 488,250 386,250 386,242" id="CYB_MAGICIENLOOSE_001_line_12">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">J'AVOUE QUE JE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">J'AVOUE QUE
+                JE
+            </metadata>
         </polygon>
         <polygon points="397,252 478,252 478,262 397,261 397,252" id="CYB_MAGICIENLOOSE_001_line_13">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">N'AI RIEN VU...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">N'AI RIEN
+                VU...
+            </metadata>
         </polygon>
         <polygon points="411,263 464,263 464,271 411,271 411,263" id="CYB_MAGICIENLOOSE_001_line_14">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">BRAVO!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6" textType="speech">BRAVO!
+            </metadata>
         </polygon>
         <polygon points="53,424 144,424 144,435 53,435 53,424" id="CYB_MAGICIENLOOSE_001_line_15">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_7" textType="speech">MAIS CA NEST</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_7" textType="speech">MAIS CA
+                NEST
+            </metadata>
         </polygon>
         <polygon points="61,435 138,435 138,446 61,446 61,435" id="CYB_MAGICIENLOOSE_001_line_16">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_7" textType="speech">PAS TOUT !</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_7" textType="speech">PAS TOUT !
+            </metadata>
         </polygon>
         <polygon points="167,430 247,430 247,439 167,439 167,430" id="CYB_MAGICIENLOOSE_001_line_17">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">VOUS M'AVEZ</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">VOUS
+                M'AVEZ
+            </metadata>
         </polygon>
         <polygon points="158,439 255,439 255,450 158,450 158,439" id="CYB_MAGICIENLOOSE_001_line_18">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">DEROBE AUTRE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">DEROBE
+                AUTRE
+            </metadata>
         </polygon>
         <polygon points="178,453 235,453 235,462 178,462 178,453" id="CYB_MAGICIENLOOSE_001_line_19">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">CHOSE?</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8" textType="speech">CHOSE?
+            </metadata>
         </polygon>
         <polygon points="373,422 479,422 479,431 373,431 373,422" id="CYB_MAGICIENLOOSE_001_line_20">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">AH BIN J'AI BEAU</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">AH BIN J'AI
+                BEAU
+            </metadata>
         </polygon>
         <polygon points="369,433 483,433 483,441 369,441 369,433" id="CYB_MAGICIENLOOSE_001_line_21">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">CHERCHER... JE NE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">CHERCHER...
+                JE NE
+            </metadata>
         </polygon>
         <polygon points="364,443 488,443 488,452 364,452 364,443" id="CYB_MAGICIENLOOSE_001_line_22">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">VOIZ PAS. J'AI TOUT</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">VOIZ PAS.
+                J'AI TOUT
+            </metadata>
         </polygon>
         <polygon points="395,454 457,454 457,462 395,462 395,454" id="CYB_MAGICIENLOOSE_001_line_23">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">SUR MOI...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10" textType="speech">SUR
+                MOI...
+            </metadata>
         </polygon>
         <polygon points="379,527 409,527 409,535 379,535 379,527" id="CYB_MAGICIENLOOSE_001_line_24">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">SAUF</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">SAUF
+            </metadata>
         </polygon>
         <polygon points="374,538 413,538 413,546 374,546 374,538" id="CYB_MAGICIENLOOSE_001_line_25">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">VOTRE</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">VOTRE
+            </metadata>
         </polygon>
         <polygon points="133,630 241,630 241,640 133,640 133,630" id="CYB_MAGICIENLOOSE_001_line_26">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_12" textType="speech">... PACEMAKER</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_12" textType="speech">...
+                PACEMAKER
+            </metadata>
         </polygon>
         <polygon points="181,644 194,644 194,655 181,655 181,644" id="CYB_MAGICIENLOOSE_001_line_27">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_12" textType="speech">!!!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_12" textType="speech">!!!
+            </metadata>
         </polygon>
         <polygon points="406,646 478,646 478,655 406,655 406,646" id="CYB_MAGICIENLOOSE_001_line_28">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_13" textType="speech">NNON... PAS</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_13" textType="speech">NNON...
+                PAS
+            </metadata>
         </polygon>
         <polygon points="413,657 471,657 471,666 413,666 413,657" id="CYB_MAGICIENLOOSE_001_line_29">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_13" textType="speech">MON PA...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_13" textType="speech">MON PA...
+            </metadata>
         </polygon>
         <polygon points="176,884 225,884 225,893 176,893 176,884" id="CYB_MAGICIENLOOSE_001_line_30">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_14" textType="speech">ARGGHH</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_14" textType="speech">ARGGHH
+            </metadata>
         </polygon>
         <polygon points="192,895 209,895 209,904 192,904 192,895" id="CYB_MAGICIENLOOSE_001_line_31">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_14" textType="speech">!!...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_14" textType="speech">!!...
+            </metadata>
         </polygon>
         <polygon points="404,909 448,909 448,918 404,918 404,909" id="CYB_MAGICIENLOOSE_001_line_32">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_16" textType="speech">OUPS...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_16" textType="speech">OUPS...
+            </metadata>
         </polygon>
         <polygon points="392,1012 519,1012 519,1023 392,1024 392,1012" id="CYB_MAGICIENLOOSE_001_line_33">
             <metadata method="" typography="" textType="note">Cyborgos &amp; Trebla - jan. 204</metadata>
         </polygon>
         <polygon points="129,512 160,512 160,520 129,520 129,512" id="CYB_MAGICIENLOOSE_001_line_34">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_9" textType="speech">OUI!</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_9" textType="speech">OUI!
+            </metadata>
         </polygon>
         <polygon points="387,549 399,549 399,558 387,558 387,549" id="CYB_MAGICIENLOOSE_001_line_35">
-            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">...</metadata>
+            <metadata method="" typography="" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11" textType="speech">...
+            </metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="77,38 78,38 88,125 87,125 77,38" idCharacter="CYB_MAGICIENLOOSE_001_character_1" idBalloon="CYB_MAGICIENLOOSE_001_balloon_0"/>
-    <polygon points="196,51 197,51 212,137 211,137 196,51" idCharacter="CYB_MAGICIENLOOSE_001_character_0" idBalloon="CYB_MAGICIENLOOSE_001_balloon_1"/>
-    <polygon points="365,45 366,45 330,126 329,126 365,45" idCharacter="CYB_MAGICIENLOOSE_001_character_2" idBalloon="CYB_MAGICIENLOOSE_001_balloon_2"/>
-    <polygon points="477,56 478,56 460,141 459,141 477,56" idCharacter="CYB_MAGICIENLOOSE_001_character_3" idBalloon="CYB_MAGICIENLOOSE_001_balloon_3"/>
-    <polygon points="144,255 145,255 74,323 73,323 144,255" idCharacter="CYB_MAGICIENLOOSE_001_character_7" idBalloon="CYB_MAGICIENLOOSE_001_balloon_4"/>
-    <polygon points="215,264 216,264 203,343 202,343 215,264" idCharacter="CYB_MAGICIENLOOSE_001_character_6" idBalloon="CYB_MAGICIENLOOSE_001_balloon_5"/>
-    <polygon points="437,258 438,258 457,344 456,344 437,258" idCharacter="CYB_MAGICIENLOOSE_001_character_4" idBalloon="CYB_MAGICIENLOOSE_001_balloon_6"/>
-    <polygon points="98,448 99,448 89,528 88,528 98,448" idCharacter="CYB_MAGICIENLOOSE_001_character_9" idBalloon="CYB_MAGICIENLOOSE_001_balloon_7"/>
-    <polygon points="144,517 145,517 89,528 88,528 144,517" idCharacter="CYB_MAGICIENLOOSE_001_character_9" idBalloon="CYB_MAGICIENLOOSE_001_balloon_9"/>
-    <polygon points="205,452 206,452 211,544 210,544 205,452" idCharacter="CYB_MAGICIENLOOSE_001_character_8" idBalloon="CYB_MAGICIENLOOSE_001_balloon_8"/>
-    <polygon points="391,541 392,541 332,528 331,528 391,541" idCharacter="CYB_MAGICIENLOOSE_001_character_10" idBalloon="CYB_MAGICIENLOOSE_001_balloon_11"/>
-    <polygon points="424,450 425,450 455,545 454,545 424,450" idCharacter="CYB_MAGICIENLOOSE_001_character_11" idBalloon="CYB_MAGICIENLOOSE_001_balloon_10"/>
-    <polygon points="186,663 187,663 98,730 97,730 186,663" idCharacter="CYB_MAGICIENLOOSE_001_character_13" idBalloon="CYB_MAGICIENLOOSE_001_balloon_12"/>
-    <polygon points="441,673 442,673 458,753 457,753 441,673" idCharacter="CYB_MAGICIENLOOSE_001_character_15" idBalloon="CYB_MAGICIENLOOSE_001_balloon_13"/>
-    <polygon points="200,909 201,909 222,990 221,990 200,909" idCharacter="CYB_MAGICIENLOOSE_001_character_17" idBalloon="CYB_MAGICIENLOOSE_001_balloon_14"/>
-    <polygon points="425,918 426,918 345,932 344,932 425,918" idCharacter="CYB_MAGICIENLOOSE_001_character_19" idBalloon="CYB_MAGICIENLOOSE_001_balloon_16"/>
-    <polygon points="454,878 455,878 476,991 475,991 454,878" idCharacter="CYB_MAGICIENLOOSE_001_character_18" idBalloon="CYB_MAGICIENLOOSE_001_balloon_15"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Fri Feb 14 16:59:11 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="77,38 78,38 88,125 87,125 77,38" idCharacter="CYB_MAGICIENLOOSE_001_character_1"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_0"/>
+        <polygon points="196,51 197,51 212,137 211,137 196,51" idCharacter="CYB_MAGICIENLOOSE_001_character_0"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_1"/>
+        <polygon points="365,45 366,45 330,126 329,126 365,45" idCharacter="CYB_MAGICIENLOOSE_001_character_2"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_2"/>
+        <polygon points="477,56 478,56 460,141 459,141 477,56" idCharacter="CYB_MAGICIENLOOSE_001_character_3"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_3"/>
+        <polygon points="144,255 145,255 74,323 73,323 144,255" idCharacter="CYB_MAGICIENLOOSE_001_character_7"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_4"/>
+        <polygon points="215,264 216,264 203,343 202,343 215,264" idCharacter="CYB_MAGICIENLOOSE_001_character_6"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_5"/>
+        <polygon points="437,258 438,258 457,344 456,344 437,258" idCharacter="CYB_MAGICIENLOOSE_001_character_4"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_6"/>
+        <polygon points="98,448 99,448 89,528 88,528 98,448" idCharacter="CYB_MAGICIENLOOSE_001_character_9"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_7"/>
+        <polygon points="144,517 145,517 89,528 88,528 144,517" idCharacter="CYB_MAGICIENLOOSE_001_character_9"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_9"/>
+        <polygon points="205,452 206,452 211,544 210,544 205,452" idCharacter="CYB_MAGICIENLOOSE_001_character_8"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_8"/>
+        <polygon points="391,541 392,541 332,528 331,528 391,541" idCharacter="CYB_MAGICIENLOOSE_001_character_10"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_11"/>
+        <polygon points="424,450 425,450 455,545 454,545 424,450" idCharacter="CYB_MAGICIENLOOSE_001_character_11"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_10"/>
+        <polygon points="186,663 187,663 98,730 97,730 186,663" idCharacter="CYB_MAGICIENLOOSE_001_character_13"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_12"/>
+        <polygon points="441,673 442,673 458,753 457,753 441,673" idCharacter="CYB_MAGICIENLOOSE_001_character_15"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_13"/>
+        <polygon points="200,909 201,909 222,990 221,990 200,909" idCharacter="CYB_MAGICIENLOOSE_001_character_17"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_14"/>
+        <polygon points="425,918 426,918 345,932 344,932 425,918" idCharacter="CYB_MAGICIENLOOSE_001_character_19"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_16"/>
+        <polygon points="454,878 455,878 476,991 475,991 454,878" idCharacter="CYB_MAGICIENLOOSE_001_character_18"
+                 idBalloon="CYB_MAGICIENLOOSE_001_balloon_15"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Fri Feb 14 16:59:11 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1240mm" zoomAndPan="magnify" contentStyleType="text/css" height="1754mm" viewBox="0 0 2480 3508" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="1240mm" zoomAndPan="magnify" contentStyleType="text/css" height="1754mm" viewBox="0 0 2480 3508"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>FRED_PHILEMON9_014</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="2480" xlink:href="../Pages/FRED_PHILEMON9_014.jpg" xlink:type="simple" xlink:actuate="onLoad" height="3508" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Philémon" editorName="Dargaud" doublePage="false" website="" albumTitle="L'Arche du A" drawerName="Fred" language="french" resolution="600" ISBN="978-2205055122" readingDirection="leftToRight" writerName="Fred" releaseDate="2011" pageNumber="14"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="2480" xlink:href="../Pages/FRED_PHILEMON9_014.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="3508" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Philémon" editorName="Dargaud" doublePage="false" website=""
+                  albumTitle="L'Arche du A" drawerName="Fred" language="french" resolution="600" ISBN="978-2205055122"
+                  readingDirection="leftToRight" writerName="Fred" releaseDate="2011" pageNumber="14"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +24,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="109,380 668,380 668,1819 109,1819 109,380" id="FRED_PHILEMON9_014_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -44,34 +52,46 @@
             <metadata viewAngle="" shot="" rank="8"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="135,399 556,396 531,690 144,685 135,399" id="FRED_PHILEMON9_014_balloon_0">
             <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="1"/>
         </polygon>
-        <polygon points="997,439 1050,429 1093,429 1141,440 1180,449 1212,482 1212,540 1174,590 1116,614 1066,619 1018,615 986,611 965,621 959,638 958,660 929,658 897,658 911,642 931,643 944,641 937,629 941,613 959,607 909,605 870,592 843,562 835,537 838,520 836,497 841,470 876,441 922,429 961,426 997,439" id="FRED_PHILEMON9_014_balloon_1">
+        <polygon
+                points="997,439 1050,429 1093,429 1141,440 1180,449 1212,482 1212,540 1174,590 1116,614 1066,619 1018,615 986,611 965,621 959,638 958,660 929,658 897,658 911,642 931,643 944,641 937,629 941,613 959,607 909,605 870,592 843,562 835,537 838,520 836,497 841,470 876,441 922,429 961,426 997,439"
+                id="FRED_PHILEMON9_014_balloon_1">
             <metadata borderStyle="wavy" tailTip="897,658" boundingBox="" tailDirection="W" rank="2"/>
         </polygon>
         <polygon points="1294,388 1768,389 1763,847 1296,841 1294,388" id="FRED_PHILEMON9_014_balloon_2">
             <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="3"/>
         </polygon>
-        <polygon points="1966,419 2273,425 2413,675 2393,729 2101,717 1992,639 1966,419 1966,419" id="FRED_PHILEMON9_014_balloon_3">
+        <polygon points="1966,419 2273,425 2413,675 2393,729 2101,717 1992,639 1966,419 1966,419"
+                 id="FRED_PHILEMON9_014_balloon_3">
             <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="4"/>
         </polygon>
         <polygon points="2102,1112 2417,1112 2412,1454 2124,1447 2102,1112" id="FRED_PHILEMON9_014_balloon_4">
             <metadata borderStyle="smooth" tailTip="" boundingBox="" tailDirection="none" rank="5"/>
         </polygon>
-        <polygon points="465,1949 492,1936 519,1929 556,1933 593,1952 598,1969 613,1970 629,2013 613,2045 589,2072 542,2077 511,2083 472,2081 469,2068 426,2077 415,2088 405,2113 378,2114 355,2109 343,2105 301,2111 342,2088 371,2086 388,2088 400,2081 416,2057 438,2055 423,2038 423,1999 443,1976 465,1949" id="FRED_PHILEMON9_014_balloon_5">
+        <polygon
+                points="465,1949 492,1936 519,1929 556,1933 593,1952 598,1969 613,1970 629,2013 613,2045 589,2072 542,2077 511,2083 472,2081 469,2068 426,2077 415,2088 405,2113 378,2114 355,2109 343,2105 301,2111 342,2088 371,2086 388,2088 400,2081 416,2057 438,2055 423,2038 423,1999 443,1976 465,1949"
+                id="FRED_PHILEMON9_014_balloon_5">
             <metadata borderStyle="smooth" tailTip="301,2111" boundingBox="" tailDirection="W" rank="6"/>
         </polygon>
-        <polygon points="515,2092 557,2093 615,2109 648,2154 657,2205 653,2275 631,2320 577,2353 529,2356 476,2346 424,2394 458,2344 425,2319 405,2284 403,2230 402,2187 426,2134 460,2107 515,2092" id="FRED_PHILEMON9_014_balloon_6">
+        <polygon
+                points="515,2092 557,2093 615,2109 648,2154 657,2205 653,2275 631,2320 577,2353 529,2356 476,2346 424,2394 458,2344 425,2319 405,2284 403,2230 402,2187 426,2134 460,2107 515,2092"
+                id="FRED_PHILEMON9_014_balloon_6">
             <metadata borderStyle="smooth" tailTip="424,2394" boundingBox="" tailDirection="SW" rank="7"/>
         </polygon>
-        <polygon points="867,1932 935,1924 971,1929 1023,1959 1059,2008 1091,2077 1104,2169 1100,2228 1092,2288 1068,2356 1031,2396 1046,2411 1095,2443 1050,2439 999,2415 941,2429 840,2434 749,2410 698,2361 694,2093 717,2043 754,1993 799,1955 867,1932" id="FRED_PHILEMON9_014_balloon_7">
+        <polygon
+                points="867,1932 935,1924 971,1929 1023,1959 1059,2008 1091,2077 1104,2169 1100,2228 1092,2288 1068,2356 1031,2396 1046,2411 1095,2443 1050,2439 999,2415 941,2429 840,2434 749,2410 698,2361 694,2093 717,2043 754,1993 799,1955 867,1932"
+                id="FRED_PHILEMON9_014_balloon_7">
             <metadata borderStyle="smooth" tailTip="1095,2443" boundingBox="" tailDirection="SE" rank="8"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="331,657 515,657 515,895 331,895 331,657" id="FRED_PHILEMON9_014_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -93,7 +113,8 @@
         <polygon points="865,2466 1091,2466 1091,2976 865,2976 865,2466" id="FRED_PHILEMON9_014_character_6">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
-        <polygon points="1040,2251 1250,2244 1257,2887 1096,2731 1040,2251 1040,2251" id="FRED_PHILEMON9_014_character_7">
+        <polygon points="1040,2251 1250,2244 1257,2887 1096,2731 1040,2251 1040,2251"
+                 id="FRED_PHILEMON9_014_character_7">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
         <polygon points="1282,2270 1636,2270 1636,2643 1282,2643 1282,2270" id="FRED_PHILEMON9_014_character_8">
@@ -112,195 +133,281 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="161,399 468,399 468,432 161,432 161,399" id="FRED_PHILEMON9_014_line_0">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">MERVEILLEUX!...</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">
+                MERVEILLEUX!...
+            </metadata>
         </polygon>
         <polygon points="150,437 530,437 530,465 150,465 150,437" id="FRED_PHILEMON9_014_line_1">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">C'EST MERVEILLEUX</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">C'EST
+                MERVEILLEUX
+            </metadata>
         </polygon>
         <polygon points="157,465 496,465 496,491 157,492 157,465" id="FRED_PHILEMON9_014_line_2">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">PHILEMON ! ... J'AI</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">PHILEMON !
+                ... J'AI
+            </metadata>
         </polygon>
         <polygon points="156,493 446,493 446,520 156,520 156,493" id="FRED_PHILEMON9_014_line_3">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">L'IMPRESSION</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">
+                L'IMPRESSION
+            </metadata>
         </polygon>
         <polygon points="152,523 508,523 508,550 152,550 152,523" id="FRED_PHILEMON9_014_line_4">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">QUE NOUS SOMMES</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">QUE NOUS
+                SOMMES
+            </metadata>
         </polygon>
         <polygon points="156,551 475,551 475,581 156,581 156,551" id="FRED_PHILEMON9_014_line_5">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">PASSÉ DANS LE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">PASSÉ DANS
+                LE
+            </metadata>
         </polygon>
         <polygon points="154,582 490,582 490,611 154,611 154,582" id="FRED_PHILEMON9_014_line_6">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">MONDE DES LET</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">MONDE DES
+                LET
+            </metadata>
         </polygon>
         <polygon points="150,610 495,610 495,640 150,640 150,610" id="FRED_PHILEMON9_014_line_7">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">TRES DE L'OCÉAN</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">TRES DE
+                L'OCÉAN
+            </metadata>
         </polygon>
         <polygon points="158,644 425,644 425,673 158,673 158,644" id="FRED_PHILEMON9_014_line_8">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">ATLANTIQUE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_0" textType="narrative">ATLANTIQUE
+            </metadata>
         </polygon>
         <polygon points="872,454 1162,454 1162,488 872,488 872,454" id="FRED_PHILEMON9_014_line_9">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">C'EST FÉLICIEN</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">C'EST
+                FÉLICIEN
+            </metadata>
         </polygon>
         <polygon points="867,491 1190,491 1190,517 867,517 867,491" id="FRED_PHILEMON9_014_line_10">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">QUI VA EN FAIRE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">QUI VA EN
+                FAIRE
+            </metadata>
         </polygon>
         <polygon points="868,515 1129,515 1129,547 868,547 868,515" id="FRED_PHILEMON9_014_line_11">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">UNE TÊTE!...</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">UNE TÊTE!...
+            </metadata>
         </polygon>
         <polygon points="901,550 1156,550 1156,577 901,577 901,550" id="FRED_PHILEMON9_014_line_12">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">HA!HA!HA!</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_1" textType="speech">HA!HA!HA!
+            </metadata>
         </polygon>
         <polygon points="1321,390 1752,390 1752,427 1321,427 1321,390" id="FRED_PHILEMON9_014_line_13">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">TU TE RENDS COMPTE?</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">TU TE RENDS
+                COMPTE?
+            </metadata>
         </polygon>
         <polygon points="1308,428 1741,428 1741,459 1308,459 1308,428" id="FRED_PHILEMON9_014_line_14">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">L ME SOUTENAIT QU'ON</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">L ME
+                SOUTENAIT QU'ON
+            </metadata>
         </polygon>
         <polygon points="1292,461 1755,461 1755,488 1292,488 1292,461" id="FRED_PHILEMON9_014_line_15">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">NE POUVANT PLUS PASSER</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">NE POUVANT
+                PLUS PASSER
+            </metadata>
         </polygon>
         <polygon points="1289,491 1752,491 1752,519 1289,519 1289,491" id="FRED_PHILEMON9_014_line_16">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">QUE JE DEVAIT OUBLIER</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">QUE JE
+                DEVAIT OUBLIER
+            </metadata>
         </polygon>
         <polygon points="1298,518 1707,518 1707,549 1298,549 1298,518" id="FRED_PHILEMON9_014_line_17">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">LE "A", ET PATATI ET</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">LE "A", ET
+                PATATI ET
+            </metadata>
         </polygon>
         <polygon points="1302,550 1692,550 1692,581 1302,581 1302,550" id="FRED_PHILEMON9_014_line_18">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">PATATA... HA! H A!</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">PATATA...
+                HA! H A!
+            </metadata>
         </polygon>
         <polygon points="1302,577 1519,577 1519,610 1302,610 1302,577" id="FRED_PHILEMON9_014_line_19">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">IL A SUFFI</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">IL A SUFFI
+            </metadata>
         </polygon>
         <polygon points="1303,607 1577,607 1577,636 1303,636 1303,607" id="FRED_PHILEMON9_014_line_20">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">D'UN ÉCLAIR</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">D'UN
+                ÉCLAIR
+            </metadata>
         </polygon>
         <polygon points="1303,642 1556,639 1556,669 1303,669 1303,642" id="FRED_PHILEMON9_014_line_21">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">BIEN  PLACÉ</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">BIEN PLACÉ
+            </metadata>
         </polygon>
         <polygon points="1300,670 1511,670 1511,699 1300,699 1300,670" id="FRED_PHILEMON9_014_line_22">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">ET PFFT!..</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">ET PFFT!..
+            </metadata>
         </polygon>
         <polygon points="1300,702 1512,702 1512,726 1300,726 1300,702" id="FRED_PHILEMON9_014_line_23">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">NOUS VOICI</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">NOUS VOICI
+            </metadata>
         </polygon>
         <polygon points="1299,730 1508,730 1508,756 1299,756 1299,730" id="FRED_PHILEMON9_014_line_24">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">AU MILIEU</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">AU MILIEU
+            </metadata>
         </polygon>
         <polygon points="1299,755 1507,755 1507,786 1299,786 1299,755" id="FRED_PHILEMON9_014_line_25">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">DE L'OCÉAN</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">DE L'OCÉAN
+            </metadata>
         </polygon>
         <polygon points="1298,789 1509,789 1509,818 1298,818 1298,789" id="FRED_PHILEMON9_014_line_26">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">ATLANTIQUE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_2" textType="narrative">ATLANTIQUE
+            </metadata>
         </polygon>
         <polygon points="1993,429 2255,429 2255,452 1993,452 1993,429" id="FRED_PHILEMON9_014_line_27">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DESCENDONS</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DESCENDONS
+            </metadata>
         </polygon>
         <polygon points="1984,459 2267,459 2265,487 1984,487 1984,459" id="FRED_PHILEMON9_014_line_28">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">SUR LE PONT,</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">SUR LE
+                PONT,
+            </metadata>
         </polygon>
         <polygon points="1990,491 2318,491 2318,517 1990,517 1990,491" id="FRED_PHILEMON9_014_line_29">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">MON GARÇON...</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">MON
+                GARÇON...
+            </metadata>
         </polygon>
         <polygon points="1987,518 2273,518 2273,545 1987,545 1987,518" id="FRED_PHILEMON9_014_line_30">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">NOUS ALLONS</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">NOUS
+                ALLONS
+            </metadata>
         </polygon>
         <polygon points="1996,546 2309,546 2309,574 1996,574 1996,546" id="FRED_PHILEMON9_014_line_31">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DEMANDER AU</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DEMANDER
+                AU
+            </metadata>
         </polygon>
         <polygon points="1997,578 2315,578 2315,604 1997,604 1997,578" id="FRED_PHILEMON9_014_line_32">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">COMMANDANT</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">COMMANDANT
+            </metadata>
         </polygon>
         <polygon points="2002,610 2303,606 2303,633 2002,633 2002,610" id="FRED_PHILEMON9_014_line_33">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DE CE NAVIRE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DE CE
+                NAVIRE
+            </metadata>
         </polygon>
         <polygon points="2125,636 2369,636 2369,666 2125,666 2125,636" id="FRED_PHILEMON9_014_line_34">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DE METTRE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">DE METTRE
+            </metadata>
         </polygon>
         <polygon points="2149,665 2400,665 2400,692 2149,692 2149,665" id="FRED_PHILEMON9_014_line_35">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">LE CAP SUR</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">LE CAP SUR
+            </metadata>
         </polygon>
         <polygon points="2207,695 2368,695 2368,724 2207,724 2207,695" id="FRED_PHILEMON9_014_line_36">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">LE "A"...</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_3" textType="narrative">LE "A"...
+            </metadata>
         </polygon>
         <polygon points="1069,1046 1515,1046 1515,1307 1069,1307 1069,1046" id="FRED_PHILEMON9_014_line_37">
             <metadata method="" typography="" textType="onomatopoeia">CRAC!</metadata>
         </polygon>
         <polygon points="2111,1125 2377,1125 2377,1153 2111,1153 2111,1125" id="FRED_PHILEMON9_014_line_38">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">JE COMMENCE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">JE
+                COMMENCE
+            </metadata>
         </polygon>
         <polygon points="2106,1154 2402,1154 2402,1183 2106,1183 2106,1154" id="FRED_PHILEMON9_014_line_39">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">A COMPRENDRE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">A
+                COMPRENDRE
+            </metadata>
         </polygon>
         <polygon points="2135,1186 2345,1190 2345,1216 2135,1216 2135,1186" id="FRED_PHILEMON9_014_line_40">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">POURQUOI</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">POURQUOI
+            </metadata>
         </polygon>
         <polygon points="2139,1215 2337,1215 2337,1245 2139,1245 2139,1215" id="FRED_PHILEMON9_014_line_41">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">FÉLICIEN</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">FÉLICIEN
+            </metadata>
         </polygon>
         <polygon points="2138,1248 2315,1244 2315,1272 2138,1272 2138,1248" id="FRED_PHILEMON9_014_line_42">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">M'AVAIT</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">M'AVAIT
+            </metadata>
         </polygon>
         <polygon points="2127,1267 2358,1267 2358,1305 2127,1305 2127,1267" id="FRED_PHILEMON9_014_line_43">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">DEMANDE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">DEMANDE
+            </metadata>
         </polygon>
         <polygon points="2132,1306 2374,1306 2374,1332 2132,1332 2132,1306" id="FRED_PHILEMON9_014_line_44">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">D'ATTENDRE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">D'ATTENDRE
+            </metadata>
         </polygon>
         <polygon points="2132,1338 2359,1338 2359,1363 2132,1363 2132,1338" id="FRED_PHILEMON9_014_line_45">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">UN ORAGE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">UN ORAGE
+            </metadata>
         </polygon>
         <polygon points="2137,1366 2352,1366 2352,1395 2137,1395 2137,1366" id="FRED_PHILEMON9_014_line_46">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">POUR RE-</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">POUR RE-
+            </metadata>
         </polygon>
         <polygon points="2142,1395 2377,1395 2377,1424 2142,1424 2142,1395" id="FRED_PHILEMON9_014_line_47">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">PASER SON</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">PASER SON
+            </metadata>
         </polygon>
         <polygon points="2154,1425 2388,1425 2388,1454 2154,1454 2154,1425" id="FRED_PHILEMON9_014_line_48">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">TONNEAU...</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_4" textType="narrative">TONNEAU...
+            </metadata>
         </polygon>
         <polygon points="476,1954 548,1954 548,1981 476,1981 476,1954" id="FRED_PHILEMON9_014_line_49">
             <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_5" textType="speech">QUE</metadata>
         </polygon>
         <polygon points="452,1989 589,1989 589,2014 452,2014 452,1989" id="FRED_PHILEMON9_014_line_50">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_5" textType="speech">VEUX-TU</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_5" textType="speech">VEUX-TU
+            </metadata>
         </polygon>
         <polygon points="473,2014 601,2014 601,2048 473,2048 473,2014" id="FRED_PHILEMON9_014_line_51">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_5" textType="speech">DIRE?</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_5" textType="speech">DIRE?
+            </metadata>
         </polygon>
         <polygon points="445,2129 605,2129 605,2161 445,2161 445,2129" id="FRED_PHILEMON9_014_line_52">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">FÉLICIEN</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">FÉLICIEN
+            </metadata>
         </polygon>
         <polygon points="438,2165 630,2165 630,2196 438,2196 438,2165" id="FRED_PHILEMON9_014_line_53">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">SAVAIT QUE</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">SAVAIT QUE
+            </metadata>
         </polygon>
         <polygon points="437,2194 625,2194 625,2221 437,2221 437,2194" id="FRED_PHILEMON9_014_line_54">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">NOUS PAS-</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">NOUS PAS-
+            </metadata>
         </polygon>
         <polygon points="438,2222 615,2222 615,2251 438,2251 438,2222" id="FRED_PHILEMON9_014_line_55">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">SERIONS</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">SERIONS
+            </metadata>
         </polygon>
         <polygon points="436,2253 602,2253 602,2282 436,2282 436,2253" id="FRED_PHILEMON9_014_line_56">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">GRÂCE AU</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">GRÂCE AU
+            </metadata>
         </polygon>
         <polygon points="443,2287 620,2287 620,2311 443,2311 443,2287" id="FRED_PHILEMON9_014_line_57">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">TONNEAU.</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_6" textType="speech">TONNEAU.
+            </metadata>
         </polygon>
         <polygon points="794,1962 1005,1962 1005,2067 794,2067 794,1962" id="FRED_PHILEMON9_014_line_58">
             <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">AH!</metadata>
         </polygon>
         <polygon points="735,2061 1077,2061 1077,2192 735,2192 735,2061" id="FRED_PHILEMON9_014_line_59">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">L'HYPO-</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">L'HYPO-
+            </metadata>
         </polygon>
         <polygon points="719,2165 1069,2165 1069,2306 719,2306 719,2165" id="FRED_PHILEMON9_014_line_60">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">CRITE!</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">CRITE!
+            </metadata>
         </polygon>
         <polygon points="737,2311 1032,2311 1032,2344 737,2344 737,2311" id="FRED_PHILEMON9_014_line_61">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">LE MERVEILLEUX</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">LE
+                MERVEILLEUX
+            </metadata>
         </polygon>
         <polygon points="739,2343 1015,2343 1015,2376 739,2376 739,2343" id="FRED_PHILEMON9_014_line_62">
-            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">HYPOCRITE!</metadata>
+            <metadata method="" typography="" idBalloon="FRED_PHILEMON9_014_balloon_7" textType="speech">HYPOCRITE!
+            </metadata>
         </polygon>
         <polygon points="120,3371 156,3371 156,3400 120,3400 120,3371" id="FRED_PHILEMON9_014_line_63">
             <metadata method="" typography="" textType="note">14</metadata>
@@ -309,11 +416,16 @@
             <metadata method="" typography="" textType="speech">4</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="1023,543 1024,543 790,725 789,725 1023,543" idCharacter="FRED_PHILEMON9_014_character_1" idBalloon="FRED_PHILEMON9_014_balloon_1"/>
-    <polygon points="465,2021 466,2021 220,2195 219,2195 465,2021" idCharacter="FRED_PHILEMON9_014_character_4" idBalloon="FRED_PHILEMON9_014_balloon_5"/>
-    <polygon points="529,2243 530,2243 316,2544 315,2544 529,2243" idCharacter="FRED_PHILEMON9_014_character_5" idBalloon="FRED_PHILEMON9_014_balloon_6"/>
-    <polygon points="899,2183 900,2183 1149,2565 1148,2565 899,2183" idCharacter="FRED_PHILEMON9_014_character_7" idBalloon="FRED_PHILEMON9_014_balloon_7"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Mon Jan 27 18:50:34 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="1023,543 1024,543 790,725 789,725 1023,543" idCharacter="FRED_PHILEMON9_014_character_1"
+                 idBalloon="FRED_PHILEMON9_014_balloon_1"/>
+        <polygon points="465,2021 466,2021 220,2195 219,2195 465,2021" idCharacter="FRED_PHILEMON9_014_character_4"
+                 idBalloon="FRED_PHILEMON9_014_balloon_5"/>
+        <polygon points="529,2243 530,2243 316,2544 315,2544 529,2243" idCharacter="FRED_PHILEMON9_014_character_5"
+                 idBalloon="FRED_PHILEMON9_014_balloon_6"/>
+        <polygon points="899,2183 900,2183 1149,2565 1148,2565 899,2183" idCharacter="FRED_PHILEMON9_014_character_7"
+                 idBalloon="FRED_PHILEMON9_014_balloon_7"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Mon Jan 27 18:50:34 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>

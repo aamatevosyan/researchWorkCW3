@@ -1,10 +1,10 @@
 from pathlib import Path
 
 import jsonpickle
+import numpy as np
 
 jsonpickle.set_preferred_backend('json')
 jsonpickle.set_encoder_options('json', ensure_ascii=False, indent=4)
-
 
 class ComicsPage:
     def __init__(self, *initial_data, **kwargs):
@@ -20,3 +20,9 @@ class ComicsPage:
 
     def save(self, filename: Path):
         filename.write_text(jsonpickle.encode(self), encoding="utf-8")
+
+    def get_contours(self) -> []:
+        contours = []
+        for bubble in self.speech_bubbles:
+            contours.append(np.array(bubble["points"]).reshape((-1, 1, 2)).astype(np.int32))
+        return contours

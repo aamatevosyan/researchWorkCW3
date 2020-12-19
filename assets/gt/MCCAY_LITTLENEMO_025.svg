@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1509mm" zoomAndPan="magnify" contentStyleType="text/css" height="2145mm" viewBox="0 0 3018 4290" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript"
+     width="1509mm" zoomAndPan="magnify" contentStyleType="text/css" height="2145mm" viewBox="0 0 3018 4290"
+     preserveAspectRatio="xMidYMid meet" version="1.0">
     <title>MCCAY_LITTLENEMO_025</title>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <image x="0" y="0" width="3018" xlink:href="../Pages/MCCAY_LITTLENEMO_025.jpg" xlink:type="simple" xlink:actuate="onLoad" height="4290" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-        <metadata collectionTitle="Little Nemo" editorName="Delcourt" doublePage="false" website="" albumTitle="Little Nemo in Slumberland" drawerName="Winsor McCay" language="french" resolution="600" ISBN="978-2756002729" readingDirection="leftToRight" writerName="Winsor McCay" releaseDate="1905" pageNumber="25"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Page"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <image x="0" y="0" width="3018" xlink:href="../Pages/MCCAY_LITTLENEMO_025.jpg" xlink:type="simple"
+               xlink:actuate="onLoad" height="4290" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+        <metadata collectionTitle="Little Nemo" editorName="Delcourt" doublePage="false" website=""
+                  albumTitle="Little Nemo in Slumberland" drawerName="Winsor McCay" language="french" resolution="600"
+                  ISBN="978-2756002729" readingDirection="leftToRight" writerName="Winsor McCay" releaseDate="1905"
+                  pageNumber="25"/>
     </svg>
-	<style type="text/css" xml:space="preserve">
+    <style type="text/css" xml:space="preserve">
         * { stroke-width: 0; stroke-linejoin: round; }
         .Unclassified { fill: orange; stroke: none; opacity: 1.0; visibility: hidden; }
         .Noise { fill: pink; stroke: none; opacity: 0.2; visibility: hidden; }
@@ -18,7 +25,9 @@
         .Page { fill: white; stroke: none; opacity: 0.5; visibility: visible; }
         .linkSBSC { fill: blue; stroke: none; opacity: 0.5; visibility: visible; }
         polygon:hover { stroke:red;stroke-width:2; } 
-    </style><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel" preserveAspectRatio="xMidYMid meet" version="1.0">
+    </style>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Panel"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="31,157 2956,170 2952,839 32,825 31,157" id="MCCAY_LITTLENEMO_025_panel_0">
             <metadata viewAngle="" shot="" rank="1"/>
         </polygon>
@@ -62,31 +71,48 @@
             <metadata viewAngle="" shot="" rank="14"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea" preserveAspectRatio="xMidYMid meet" version="1.0"/>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon" preserveAspectRatio="xMidYMid meet" version="1.0">
-        <polygon points="966,323 916,322 854,311 849,291 851,246 851,216 856,201 902,200 961,205 1032,203 1110,201 1126,200 1162,200 1182,200 1190,211 1178,241 1163,277 1150,298 1125,314 1089,327 1065,332 1054,336 1052,360 1046,354 1046,332 1036,322 1006,321 966,323" id="MCCAY_LITTLENEMO_025_balloon_0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="TextArea"
+         preserveAspectRatio="xMidYMid meet" version="1.0"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Balloon"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon
+                points="966,323 916,322 854,311 849,291 851,246 851,216 856,201 902,200 961,205 1032,203 1110,201 1126,200 1162,200 1182,200 1190,211 1178,241 1163,277 1150,298 1125,314 1089,327 1065,332 1054,336 1052,360 1046,354 1046,332 1036,322 1006,321 966,323"
+                id="MCCAY_LITTLENEMO_025_balloon_0">
             <metadata borderStyle="smooth" tailTip="1052,360" boundingBox="" tailDirection="S" rank="1"/>
         </polygon>
-        <polygon points="2811,336 2824,322 2834,320 2860,317 2888,316 2911,318 2929,326 2933,339 2931,375 2931,408 2933,429 2932,446 2922,456 2899,461 2871,463 2853,461 2828,460 2810,460 2802,453 2803,432 2798,416 2794,410 2784,407 2793,403 2802,395 2804,388 2808,351 2811,336" id="MCCAY_LITTLENEMO_025_balloon_1">
+        <polygon
+                points="2811,336 2824,322 2834,320 2860,317 2888,316 2911,318 2929,326 2933,339 2931,375 2931,408 2933,429 2932,446 2922,456 2899,461 2871,463 2853,461 2828,460 2810,460 2802,453 2803,432 2798,416 2794,410 2784,407 2793,403 2802,395 2804,388 2808,351 2811,336"
+                id="MCCAY_LITTLENEMO_025_balloon_1">
             <metadata borderStyle="smooth" tailTip="2784,407" boundingBox="" tailDirection="W" rank="2"/>
         </polygon>
-        <polygon points="79,3801 77,3762 85,3750 100,3750 120,3754 133,3754 153,3755 168,3752 179,3761 184,3771 183,3825 173,3836 157,3840 145,3838 136,3841 130,3845 127,3861 125,3856 123,3846 113,3840 100,3836 93,3836 84,3832 78,3823 79,3801" id="MCCAY_LITTLENEMO_025_balloon_2">
+        <polygon
+                points="79,3801 77,3762 85,3750 100,3750 120,3754 133,3754 153,3755 168,3752 179,3761 184,3771 183,3825 173,3836 157,3840 145,3838 136,3841 130,3845 127,3861 125,3856 123,3846 113,3840 100,3836 93,3836 84,3832 78,3823 79,3801"
+                id="MCCAY_LITTLENEMO_025_balloon_2">
             <metadata borderStyle="smooth" tailTip="127,3861" boundingBox="" tailDirection="S" rank="3"/>
         </polygon>
-        <polygon points="749,3600 749,3557 747,3532 755,3517 786,3515 822,3517 884,3521 914,3521 954,3523 980,3525 1001,3527 1002,3537 1001,3577 998,3602 987,3614 960,3622 946,3626 943,3633 941,3644 940,3633 935,3627 928,3619 897,3614 861,3614 830,3611 789,3612 757,3612 750,3603 749,3600" id="MCCAY_LITTLENEMO_025_balloon_3">
+        <polygon
+                points="749,3600 749,3557 747,3532 755,3517 786,3515 822,3517 884,3521 914,3521 954,3523 980,3525 1001,3527 1002,3537 1001,3577 998,3602 987,3614 960,3622 946,3626 943,3633 941,3644 940,3633 935,3627 928,3619 897,3614 861,3614 830,3611 789,3612 757,3612 750,3603 749,3600"
+                id="MCCAY_LITTLENEMO_025_balloon_3">
             <metadata borderStyle="smooth" tailTip="941,3644" boundingBox="" tailDirection="S" rank="4"/>
         </polygon>
-        <polygon points="1373,3520 1405,3520 1435,3523 1446,3523 1459,3530 1460,3555 1460,3581 1462,3603 1452,3617 1432,3620 1406,3623 1384,3622 1368,3620 1353,3605 1353,3597 1352,3574 1347,3566 1333,3562 1344,3561 1348,3555 1348,3543 1345,3536 1350,3528 1358,3522 1373,3520" id="MCCAY_LITTLENEMO_025_balloon_4">
+        <polygon
+                points="1373,3520 1405,3520 1435,3523 1446,3523 1459,3530 1460,3555 1460,3581 1462,3603 1452,3617 1432,3620 1406,3623 1384,3622 1368,3620 1353,3605 1353,3597 1352,3574 1347,3566 1333,3562 1344,3561 1348,3555 1348,3543 1345,3536 1350,3528 1358,3522 1373,3520"
+                id="MCCAY_LITTLENEMO_025_balloon_4">
             <metadata borderStyle="smooth" tailTip="1333,3562" boundingBox="" tailDirection="W" rank="5"/>
         </polygon>
-        <polygon points="1981,3702 1983,3638 1983,3571 1989,3555 2011,3540 2051,3543 2101,3542 2120,3536 2149,3540 2166,3556 2169,3576 2165,3652 2164,3682 2170,3713 2162,3735 2141,3750 2114,3754 2086,3754 2067,3772 2064,3782 2063,3799 2052,3812 2051,3799 2054,3783 2058,3775 2054,3763 2036,3755 2017,3747 1987,3743 1981,3729 1981,3702" id="MCCAY_LITTLENEMO_025_balloon_5">
+        <polygon
+                points="1981,3702 1983,3638 1983,3571 1989,3555 2011,3540 2051,3543 2101,3542 2120,3536 2149,3540 2166,3556 2169,3576 2165,3652 2164,3682 2170,3713 2162,3735 2141,3750 2114,3754 2086,3754 2067,3772 2064,3782 2063,3799 2052,3812 2051,3799 2054,3783 2058,3775 2054,3763 2036,3755 2017,3747 1987,3743 1981,3729 1981,3702"
+                id="MCCAY_LITTLENEMO_025_balloon_5">
             <metadata borderStyle="smooth" tailTip="2052,3812" boundingBox="" tailDirection="S" rank="6"/>
         </polygon>
-        <polygon points="2556,3706 2558,3651 2561,3616 2557,3580 2556,3553 2560,3531 2569,3522 2583,3522 2630,3524 2666,3520 2680,3521 2708,3523 2733,3525 2741,3526 2761,3523 2776,3522 2791,3534 2797,3548 2799,3581 2799,3618 2796,3657 2798,3681 2792,3706 2776,3722 2742,3734 2725,3730 2695,3734 2663,3738 2616,3752 2619,3766 2619,3785 2614,3777 2611,3752 2605,3742 2578,3738 2560,3731 2556,3724 2556,3706" id="MCCAY_LITTLENEMO_025_balloon_6">
+        <polygon
+                points="2556,3706 2558,3651 2561,3616 2557,3580 2556,3553 2560,3531 2569,3522 2583,3522 2630,3524 2666,3520 2680,3521 2708,3523 2733,3525 2741,3526 2761,3523 2776,3522 2791,3534 2797,3548 2799,3581 2799,3618 2796,3657 2798,3681 2792,3706 2776,3722 2742,3734 2725,3730 2695,3734 2663,3738 2616,3752 2619,3766 2619,3785 2614,3777 2611,3752 2605,3742 2578,3738 2560,3731 2556,3724 2556,3706"
+                id="MCCAY_LITTLENEMO_025_balloon_6">
             <metadata borderStyle="smooth" tailTip="2619,3785" boundingBox="" tailDirection="S" rank="7"/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Character"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="113,1065 198,1065 198,1181 113,1181 113,1065" id="MCCAY_LITTLENEMO_025_character_0">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
@@ -135,7 +161,9 @@
         <polygon points="2362,3851 2624,3851 2624,4159 2362,4159 2362,3851" id="MCCAY_LITTLENEMO_025_character_15">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
-        <polygon points="2745,3751 2920,3837 2911,4149 2757,4123 2769,4054 2712,3964 2653,4017 2627,3948 2582,3934 2553,3908 2561,3865 2636,3811 2745,3751" id="MCCAY_LITTLENEMO_025_character_16">
+        <polygon
+                points="2745,3751 2920,3837 2911,4149 2757,4123 2769,4054 2712,3964 2653,4017 2627,3948 2582,3934 2553,3908 2561,3865 2636,3811 2745,3751"
+                id="MCCAY_LITTLENEMO_025_character_16">
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
         <polygon points="1211,2558 1465,2558 1465,3084 1211,3084 1211,2558" id="MCCAY_LITTLENEMO_025_character_17">
@@ -148,7 +176,8 @@
             <metadata uri="" area="" fillingPcent=""/>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="Line"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
         <polygon points="162,253 617,253 617,453 162,453 162,253" id="MCCAY_LITTLENEMO_025_line_0">
             <metadata method="" typography="" textType="note">LITTLE</metadata>
         </polygon>
@@ -156,16 +185,24 @@
             <metadata method="" typography="" textType="note">NEMO</metadata>
         </polygon>
         <polygon points="858,212 1086,210 1087,239 858,238 858,212" id="MCCAY_LITTLENEMO_025_line_2">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">MASJESTE, PUIS-JE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">MASJESTE,
+                PUIS-JE
+            </metadata>
         </polygon>
         <polygon points="855,240 1095,240 1095,264 855,265 855,240" id="MCCAY_LITTLENEMO_025_line_3">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">ESSAYER D'AMENER</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">ESSAYER
+                D'AMENER
+            </metadata>
         </polygon>
         <polygon points="856,263 1110,263 1110,294 856,294 856,263" id="MCCAY_LITTLENEMO_025_line_4">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">NEMO ICI ? J'AI UNE BRIL-</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">NEMO ICI ?
+                J'AI UNE BRIL-
+            </metadata>
         </polygon>
         <polygon points="884,290 1036,290 1036,319 884,319 884,290" id="MCCAY_LITTLENEMO_025_line_5">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">LANTE IDEE !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_0" textType="speech">LANTE IDEE
+                !
+            </metadata>
         </polygon>
         <polygon points="1834,674 2933,674 2933,818 1834,818 1834,674" id="MCCAY_LITTLENEMO_025_line_6">
             <metadata method="" typography="" textType="note">SLUMBERLAND</metadata>
@@ -174,25 +211,32 @@
             <metadata method="" typography="" textType="note">IN</metadata>
         </polygon>
         <polygon points="2825,333 2916,333 2916,358 2825,358 2825,333" id="MCCAY_LITTLENEMO_025_line_8">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">FAITES.</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">FAITES.
+            </metadata>
         </polygon>
         <polygon points="2817,360 2918,360 2918,386 2817,386 2817,360" id="MCCAY_LITTLENEMO_025_line_9">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">DONC ET</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">DONC ET
+            </metadata>
         </polygon>
         <polygon points="2816,385 2916,385 2916,417 2816,417 2816,385" id="MCCAY_LITTLENEMO_025_line_10">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">BONNE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">BONNE
+            </metadata>
         </polygon>
         <polygon points="2818,429 2926,429 2926,457 2818,457 2818,429" id="MCCAY_LITTLENEMO_025_line_11">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">CHANCE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_1" textType="speech">CHANCE
+            </metadata>
         </polygon>
         <polygon points="2630,103 2959,103 2959,145 2630,145 2630,103" id="MCCAY_LITTLENEMO_025_line_12">
             <metadata method="" typography="" textType="note">3 décembre 1905</metadata>
         </polygon>
         <polygon points="61,1463 710,1463 710,1494 61,1494 61,1463" id="MCCAY_LITTLENEMO_025_line_13">
-            <metadata method="" typography="" textType="narrative">LITTLE NEMO DORMAIT GENTIMENT QUAND IL EUT L'IM-</metadata>
+            <metadata method="" typography="" textType="narrative">LITTLE NEMO DORMAIT GENTIMENT QUAND IL EUT L'IM-
+            </metadata>
         </polygon>
         <polygon points="66,1494 721,1494 721,1528 66,1528 66,1494" id="MCCAY_LITTLENEMO_025_line_14">
-            <metadata method="" typography="" textType="narrative">PRESSION DE PLANER. IL SENTIT QUE SON LIT S'ELEVAIT VERS</metadata>
+            <metadata method="" typography="" textType="narrative">PRESSION DE PLANER. IL SENTIT QUE SON LIT S'ELEVAIT
+                VERS
+            </metadata>
         </polygon>
         <polygon points="35,1463 59,1463 59,1519 35,1519 35,1463" id="MCCAY_LITTLENEMO_025_line_15">
             <metadata method="" typography="" textType="note">1</metadata>
@@ -201,13 +245,16 @@
             <metadata method="" typography="" textType="note">2</metadata>
         </polygon>
         <polygon points="779,1467 1470,1467 1471,1502 779,1498 779,1467" id="MCCAY_LITTLENEMO_025_line_17">
-            <metadata method="" typography="" textType="narrative">LE PLAFOND. IL EN FUT GRANDEMENT ETONNE. MAIS AUS-</metadata>
+            <metadata method="" typography="" textType="narrative">LE PLAFOND. IL EN FUT GRANDEMENT ETONNE. MAIS AUS-
+            </metadata>
         </polygon>
         <polygon points="774,1496 1469,1496 1469,1530 774,1530 774,1496" id="MCCAY_LITTLENEMO_025_line_18">
-            <metadata method="" typography="" textType="narrative">SI TRES INTERESSE. LA SENSATION ETAIT AGREABLE</metadata>
+            <metadata method="" typography="" textType="narrative">SI TRES INTERESSE. LA SENSATION ETAIT AGREABLE
+            </metadata>
         </polygon>
         <polygon points="1540,1475 2169,1475 2169,1501 1540,1501 1540,1475" id="MCCAY_LITTLENEMO_025_line_19">
-            <metadata method="" typography="" textType="narrative">MAIS IL FUT SURTOUT SURPRIS DE VOIR UN BOUT DU</metadata>
+            <metadata method="" typography="" textType="narrative">MAIS IL FUT SURTOUT SURPRIS DE VOIR UN BOUT DU
+            </metadata>
         </polygon>
         <polygon points="1534,1500 2190,1500 2190,1534 1534,1534 1534,1500" id="MCCAY_LITTLENEMO_025_line_20">
             <metadata method="" typography="" textType="narrative">BOIS DE LIT TOMBER PARTERRE. MAIS LA CHUTE</metadata>
@@ -216,7 +263,8 @@
             <metadata method="" typography="" textType="note">3</metadata>
         </polygon>
         <polygon points="2256,1474 2943,1474 2943,1509 2256,1505 2256,1474" id="MCCAY_LITTLENEMO_025_line_22">
-            <metadata method="" typography="" textType="narrative">DES BOIS DU LIT. VINT GACHER CE QUI EUT ETE AUTRE-</metadata>
+            <metadata method="" typography="" textType="narrative">DES BOIS DU LIT. VINT GACHER CE QUI EUT ETE AUTRE-
+            </metadata>
         </polygon>
         <polygon points="2266,1506 2938,1510 2938,1536 2268,1536 2266,1506" id="MCCAY_LITTLENEMO_025_line_23">
             <metadata method="" typography="" textType="narrative">MENT UNE DELICIEUSE BALLADE DANS LES</metadata>
@@ -243,52 +291,73 @@
             <metadata method="" typography="" textType="note">6</metadata>
         </polygon>
         <polygon points="1003,3122 2000,3122 2000,3271 1003,3271 1003,3122" id="MCCAY_LITTLENEMO_025_line_31">
-            <metadata method="" typography="" textType="narrative">IL ARRIVA SUR LA LUNE OU IL FUT CORDIALEMENT ACCUEILLI. IL SE DEMAN-</metadata>
+            <metadata method="" typography="" textType="narrative">IL ARRIVA SUR LA LUNE OU IL FUT CORDIALEMENT
+                ACCUEILLI. IL SE DEMAN-
+            </metadata>
         </polygon>
         <polygon points="985,3154 2013,3154 2013,3308 985,3308 985,3154" id="MCCAY_LITTLENEMO_025_line_32">
-            <metadata method="" typography="" textType="narrative">DAIT OU IL ALLAIT POUVOIR SE POSER. LORSQU'UNE PORTE GIGANTESQUE S'OUVRIT DEVANT LUI.</metadata>
+            <metadata method="" typography="" textType="narrative">DAIT OU IL ALLAIT POUVOIR SE POSER. LORSQU'UNE PORTE
+                GIGANTESQUE S'OUVRIT DEVANT LUI.
+            </metadata>
         </polygon>
         <polygon points="962,3126 1007,3126 1007,3191 962,3191 962,3126" id="MCCAY_LITTLENEMO_025_line_33">
             <metadata method="" typography="" textType="note">8</metadata>
         </polygon>
         <polygon points="76,3430 1463,3430 1463,3469 76,3459 76,3430" id="MCCAY_LITTLENEMO_025_line_34">
-            <metadata method="" typography="" textType="narrative">L'AIR ETAIT PUR MAIS IL Y AVAIT DU VENT. LES RAFALES SIFFLAIENT. NEMO, NAUFRAGE, SE GRAMPON-</metadata>
+            <metadata method="" typography="" textType="narrative">L'AIR ETAIT PUR MAIS IL Y AVAIT DU VENT. LES RAFALES
+                SIFFLAIENT. NEMO, NAUFRAGE, SE GRAMPON-
+            </metadata>
         </polygon>
         <polygon points="73,3456 1162,3472 1162,3499 72,3499 73,3456" id="MCCAY_LITTLENEMO_025_line_35">
-            <metadata method="" typography="" textType="narrative">NAIT AUX MONTANTS DU LIT ET IL SEMBLAIT BIEN QU'IL ALLAIT PERIR MAIS...</metadata>
+            <metadata method="" typography="" textType="narrative">NAIT AUX MONTANTS DU LIT ET IL SEMBLAIT BIEN QU'IL
+                ALLAIT PERIR MAIS...
+            </metadata>
         </polygon>
         <polygon points="39,3429 75,3429 75,3486 39,3486 39,3429" id="MCCAY_LITTLENEMO_025_line_36">
             <metadata method="" typography="" textType="note">7</metadata>
         </polygon>
         <polygon points="82,3759 176,3759 176,3786 82,3786 82,3759" id="MCCAY_LITTLENEMO_025_line_37">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">NE TE SAU-</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">NE TE SAU-
+            </metadata>
         </polygon>
         <polygon points="81,3783 173,3783 173,3807 81,3807 81,3783" id="MCCAY_LITTLENEMO_025_line_38">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">VE PAS AT-</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">VE PAS AT-
+            </metadata>
         </polygon>
         <polygon points="77,3804 173,3804 173,3828 77,3828 77,3804" id="MCCAY_LITTLENEMO_025_line_39">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">TENDS UNE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">TENDS UNE
+            </metadata>
         </polygon>
         <polygon points="99,3824 165,3824 165,3841 99,3841 99,3824" id="MCCAY_LITTLENEMO_025_line_40">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">MINUTE!</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_2" textType="speech">MINUTE!
+            </metadata>
         </polygon>
         <polygon points="755,3526 970,3526 970,3552 755,3552 755,3526" id="MCCAY_LITTLENEMO_025_line_41">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">NE COURS PAS ! JE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">NE COURS PAS
+                ! JE
+            </metadata>
         </polygon>
         <polygon points="754,3549 933,3549 933,3578 754,3578 754,3549" id="MCCAY_LITTLENEMO_025_line_42">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">NE TE VEUX PAS</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">NE TE VEUX
+                PAS
+            </metadata>
         </polygon>
         <polygon points="768,3579 884,3579 884,3606 768,3604 768,3579" id="MCCAY_LITTLENEMO_025_line_43">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">DE MAL !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_3" textType="speech">DE MAL !
+            </metadata>
         </polygon>
         <polygon points="1359,3533 1425,3533 1425,3556 1359,3556 1359,3533" id="MCCAY_LITTLENEMO_025_line_44">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_4" textType="speech">NON !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_4" textType="speech">NON !
+            </metadata>
         </polygon>
         <polygon points="1358,3562 1451,3562 1451,3599 1358,3599 1358,3562" id="MCCAY_LITTLENEMO_025_line_45">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_4" textType="speech">JAMAIS !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_4" textType="speech">JAMAIS !
+            </metadata>
         </polygon>
         <polygon points="1533,3441 2939,3441 2939,3481 1533,3481 1533,3441" id="MCCAY_LITTLENEMO_025_line_46">
-            <metadata method="" typography="" textType="narrative">IL ENTRA INVITE PAR LE GUIDE LUNATIX. PAR CURIOSITE IL PASSA SUR LA LANGUE, MAIS LA BOU-</metadata>
+            <metadata method="" typography="" textType="narrative">IL ENTRA INVITE PAR LE GUIDE LUNATIX. PAR CURIOSITE
+                IL PASSA SUR LA LANGUE, MAIS LA BOU-
+            </metadata>
         </polygon>
         <polygon points="1538,3472 2065,3472 2065,3504 1538,3504 1538,3472" id="MCCAY_LITTLENEMO_025_line_47">
             <metadata method="" typography="" textType="narrative">CHE SE REFERMA COMME UN PIEGE</metadata>
@@ -297,37 +366,52 @@
             <metadata method="" typography="" textType="note">9</metadata>
         </polygon>
         <polygon points="2000,3564 2141,3564 2141,3597 2000,3597 2000,3564" id="MCCAY_LITTLENEMO_025_line_49">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">MAMAN!</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">MAMAN!
+            </metadata>
         </polygon>
         <polygon points="1993,3598 2146,3598 2146,3638 1993,3638 1993,3598" id="MCCAY_LITTLENEMO_025_line_50">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">VIENS VITE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">VIENS VITE
+            </metadata>
         </polygon>
         <polygon points="1991,3638 2131,3638 2131,3668 1991,3668 1991,3638" id="MCCAY_LITTLENEMO_025_line_51">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">CHERCHER</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">CHERCHER
+            </metadata>
         </polygon>
         <polygon points="1992,3668 2150,3668 2150,3705 1992,3705 1992,3668" id="MCCAY_LITTLENEMO_025_line_52">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">TON PETIT</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">TON PETIT
+            </metadata>
         </polygon>
         <polygon points="2015,3703 2120,3703 2120,3745 2015,3745 2015,3703" id="MCCAY_LITTLENEMO_025_line_53">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">NEMO !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_5" textType="speech">NEMO !
+            </metadata>
         </polygon>
         <polygon points="2570,3537 2783,3537 2783,3566 2570,3566 2570,3537" id="MCCAY_LITTLENEMO_025_line_54">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">JE T'AVAIS BIEN</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">JE T'AVAIS
+                BIEN
+            </metadata>
         </polygon>
         <polygon points="2569,3572 2796,3572 2796,3605 2569,3605 2569,3572" id="MCCAY_LITTLENEMO_025_line_55">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">DIT QUE TU AURAIS</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">DIT QUE TU
+                AURAIS
+            </metadata>
         </polygon>
         <polygon points="2569,3601 2797,3601 2797,3641 2569,3641 2569,3601" id="MCCAY_LITTLENEMO_025_line_56">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">DES CAUCHEMARDS</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">DES
+                CAUCHEMARDS
+            </metadata>
         </polygon>
         <polygon points="2572,3633 2777,3633 2777,3670 2572,3670 2572,3633" id="MCCAY_LITTLENEMO_025_line_57">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">SI TU MANGEAIS</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">SI TU
+                MANGEAIS
+            </metadata>
         </polygon>
         <polygon points="2567,3666 2680,3666 2680,3697 2567,3697 2567,3666" id="MCCAY_LITTLENEMO_025_line_58">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">TROP DE</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">TROP DE
+            </metadata>
         </polygon>
         <polygon points="2576,3700 2744,3685 2744,3728 2576,3728 2576,3700" id="MCCAY_LITTLENEMO_025_line_59">
-            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">BONSBONS !</metadata>
+            <metadata method="" typography="" idBalloon="MCCAY_LITTLENEMO_025_balloon_6" textType="speech">BONSBONS !
+            </metadata>
         </polygon>
         <polygon points="2859,4071 2938,4071 2938,4098 2859,4098 2859,4071" id="MCCAY_LITTLENEMO_025_line_60">
             <metadata method="" typography="" textType="note">WINSOR</metadata>
@@ -339,7 +423,8 @@
             <metadata method="" typography="" textType="note">25</metadata>
         </polygon>
         <polygon points="2284,4159 2906,4159 2906,4188 2284,4188 2284,4159" id="MCCAY_LITTLENEMO_025_line_63">
-            <metadata method="" typography="" textType="narrative">SES PARENTS. ABATTU PAR LA FATIGUE IL TOMBA PAR</metadata>
+            <metadata method="" typography="" textType="narrative">SES PARENTS. ABATTU PAR LA FATIGUE IL TOMBA PAR
+            </metadata>
         </polygon>
         <polygon points="2283,4186 2825,4186 2825,4215 2283,4215 2283,4186" id="MCCAY_LITTLENEMO_025_line_64">
             <metadata method="" typography="" textType="narrative">TERRE ET CRIA SI FORT QU'IL SE REVEILLA.</metadata>
@@ -348,41 +433,58 @@
             <metadata method="" typography="" textType="note">13</metadata>
         </polygon>
         <polygon points="1553,4155 2190,4155 2190,4182 1553,4182 1553,4155" id="MCCAY_LITTLENEMO_025_line_66">
-            <metadata method="" typography="" textType="narrative">L'ATTENDAIT. MAIS NEMO N'EN SAVAIT RIEN. ET FIT AIN-</metadata>
+            <metadata method="" typography="" textType="narrative">L'ATTENDAIT. MAIS NEMO N'EN SAVAIT RIEN. ET FIT
+                AIN-
+            </metadata>
         </polygon>
         <polygon points="1555,4183 2200,4183 2200,4208 1555,4208 1555,4183" id="MCCAY_LITTLENEMO_025_line_67">
-            <metadata method="" typography="" textType="narrative">SI EN COURANT 12 FOIS LE TOUR DE LA LUNE POUR RETROUVER</metadata>
+            <metadata method="" typography="" textType="narrative">SI EN COURANT 12 FOIS LE TOUR DE LA LUNE POUR
+                RETROUVER
+            </metadata>
         </polygon>
         <polygon points="1481,4152 1552,4152 1552,4209 1481,4209 1481,4152" id="MCCAY_LITTLENEMO_025_line_68">
             <metadata method="" typography="" textType="note">12</metadata>
         </polygon>
         <polygon points="786,4151 1468,4151 1468,4180 786,4180 786,4151" id="MCCAY_LITTLENEMO_025_line_69">
-            <metadata method="" typography="" textType="narrative">SUIVRE AINSI. MAIS IL NE LUI VOULAIT AUCUN MAL. IL VOULAIT</metadata>
+            <metadata method="" typography="" textType="narrative">SUIVRE AINSI. MAIS IL NE LUI VOULAIT AUCUN MAL. IL
+                VOULAIT
+            </metadata>
         </polygon>
         <polygon points="787,4176 1447,4176 1447,4210 787,4210 787,4176" id="MCCAY_LITTLENEMO_025_line_70">
-            <metadata method="" typography="" textType="narrative">L'EMMENER EN SLUMBERLAND, OU UNE PRINCESSE EPLOREE?</metadata>
+            <metadata method="" typography="" textType="narrative">L'EMMENER EN SLUMBERLAND, OU UNE PRINCESSE EPLOREE?
+            </metadata>
         </polygon>
         <polygon points="723,4143 788,4143 788,4200 723,4200 723,4143" id="MCCAY_LITTLENEMO_025_line_71">
             <metadata method="" typography="" textType="note">11</metadata>
         </polygon>
         <polygon points="104,4145 703,4145 703,4176 104,4176 104,4145" id="MCCAY_LITTLENEMO_025_line_72">
-            <metadata method="" typography="" textType="narrative">LE JEUNE HEROS ETAIT SI FATIGUE ET SI DECOURAGE</metadata>
+            <metadata method="" typography="" textType="narrative">LE JEUNE HEROS ETAIT SI FATIGUE ET SI DECOURAGE
+            </metadata>
         </polygon>
         <polygon points="108,4174 704,4174 704,4199 108,4199 108,4174" id="MCCAY_LITTLENEMO_025_line_73">
-            <metadata method="" typography="" textType="narrative">QU'IL ETAIT CRUEL DE LA PART DE LUNATIX DE LE POUR-</metadata>
+            <metadata method="" typography="" textType="narrative">QU'IL ETAIT CRUEL DE LA PART DE LUNATIX DE LE POUR-
+            </metadata>
         </polygon>
         <polygon points="38,4143 102,4143 102,4197 38,4197 38,4143" id="MCCAY_LITTLENEMO_025_line_74">
             <metadata method="" typography="" textType="speech">10</metadata>
         </polygon>
     </svg>
-    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC" preserveAspectRatio="xMidYMid meet" version="1.0">
-    <polygon points="1000,280 1002,280 882,600 880,599 1000,280" idCharacter="MCCAY_LITTLENEMO_025_character_18" idBalloon="MCCAY_LITTLENEMO_025_balloon_0"/>
-    <polygon points="2870,400 2870,401 2552,440 2550,439 2870,400" idCharacter="MCCAY_LITTLENEMO_025_character_19" idBalloon="MCCAY_LITTLENEMO_025_balloon_1"/>
-    <polygon points="2677,3652 2678,3652 2737,3950 2736,3950 2677,3652" idCharacter="MCCAY_LITTLENEMO_025_character_16" idBalloon="MCCAY_LITTLENEMO_025_balloon_6"/>
-    <polygon points="2075,3674 2076,3674 1864,3924 1863,3924 2075,3674" idCharacter="MCCAY_LITTLENEMO_025_character_13" idBalloon="MCCAY_LITTLENEMO_025_balloon_5"/>
-    <polygon points="1397,3571 1398,3571 1191,3623 1190,3623 1397,3571" idCharacter="MCCAY_LITTLENEMO_025_character_10" idBalloon="MCCAY_LITTLENEMO_025_balloon_4"/>
-    <polygon points="874,3579 875,3579 1011,3919 1010,3919 874,3579" idCharacter="MCCAY_LITTLENEMO_025_character_11" idBalloon="MCCAY_LITTLENEMO_025_balloon_3"/>
-    <polygon points="130,3805 131,3805 209,4005 208,4005 130,3805" idCharacter="MCCAY_LITTLENEMO_025_character_12" idBalloon="MCCAY_LITTLENEMO_025_balloon_2"/>
-  </svg>
-<metadata method="GroundTruth" lastModificationDate="Sat Feb 15 14:41:35 CET 2014" lastStepModified="Balloon_Rank"/>
+    <svg contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" class="linkSBSC"
+         preserveAspectRatio="xMidYMid meet" version="1.0">
+        <polygon points="1000,280 1002,280 882,600 880,599 1000,280" idCharacter="MCCAY_LITTLENEMO_025_character_18"
+                 idBalloon="MCCAY_LITTLENEMO_025_balloon_0"/>
+        <polygon points="2870,400 2870,401 2552,440 2550,439 2870,400" idCharacter="MCCAY_LITTLENEMO_025_character_19"
+                 idBalloon="MCCAY_LITTLENEMO_025_balloon_1"/>
+        <polygon points="2677,3652 2678,3652 2737,3950 2736,3950 2677,3652"
+                 idCharacter="MCCAY_LITTLENEMO_025_character_16" idBalloon="MCCAY_LITTLENEMO_025_balloon_6"/>
+        <polygon points="2075,3674 2076,3674 1864,3924 1863,3924 2075,3674"
+                 idCharacter="MCCAY_LITTLENEMO_025_character_13" idBalloon="MCCAY_LITTLENEMO_025_balloon_5"/>
+        <polygon points="1397,3571 1398,3571 1191,3623 1190,3623 1397,3571"
+                 idCharacter="MCCAY_LITTLENEMO_025_character_10" idBalloon="MCCAY_LITTLENEMO_025_balloon_4"/>
+        <polygon points="874,3579 875,3579 1011,3919 1010,3919 874,3579" idCharacter="MCCAY_LITTLENEMO_025_character_11"
+                 idBalloon="MCCAY_LITTLENEMO_025_balloon_3"/>
+        <polygon points="130,3805 131,3805 209,4005 208,4005 130,3805" idCharacter="MCCAY_LITTLENEMO_025_character_12"
+                 idBalloon="MCCAY_LITTLENEMO_025_balloon_2"/>
+    </svg>
+    <metadata method="GroundTruth" lastModificationDate="Sat Feb 15 14:41:35 CET 2014" lastStepModified="Balloon_Rank"/>
 </svg>
