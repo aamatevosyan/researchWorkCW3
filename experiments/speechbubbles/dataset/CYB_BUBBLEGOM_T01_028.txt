@@ -1,0 +1,10 @@
+balloon 565 176 177 120
+balloon 53 435 218 140
+balloon 386 356 127 82
+balloon 433 466 77 74
+balloon 515 395 166 97
+balloon 59 607 230 76
+balloon 293 616 113 77
+balloon 537 684 161 136
+balloon 273 928 257 138
+balloon 535 884 157 81

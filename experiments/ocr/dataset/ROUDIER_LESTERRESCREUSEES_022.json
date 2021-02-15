@@ -1,0 +1,50 @@
+{
+    "title": "ROUDIER_LESTERRESCREUSEES_022",
+    "data": [
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_0",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_0.jpg",
+            "text": "Vous\n                me parliez de\n                mes enfants. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_1",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_1.jpg",
+            "text": "Mes\n                enfants c'est vous, Lecreux. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_2",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_2.jpg",
+            "text": "Vous, Mademoiselle, et\n                tous les gens comme vous. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_3",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_3.jpg",
+            "text": "J'ai\n                tracé votre avenir et vous\n                ai protégés. Protégés de vous-mêmes. Car chez vous, on\n                s'entretue par passion, par arrivisme, par cupidité. Vous n'avez aucune idée de la chose publique. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_4",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_4.jpg",
+            "text": "Seulement des\n                rêves. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_5",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_5.jpg",
+            "text": "Vous\n                comprendrez un jour, Lecreux, que le mieux pour tous est\n                que chacun reste à sa place. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_6",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_6.jpg",
+            "text": "Toutes les sociétés sont ainsi faites, le\n                reste n'est plus qu'histoire de nomen- clature, général, roi ou même président. Qu'importe l'emballage. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_7",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_7.jpg",
+            "text": "Il\n                est beau, le\n                monarque dans\n                son trou. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_022_8",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_022_8.jpg",
+            "text": "Vous\n                êtes jeune, Lecreux. Reprenons du vin, la soirée commence à me plaire. "
+        }
+    ]
+}

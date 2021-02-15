@@ -1,0 +1,15 @@
+{
+    "title": "LAMISSEB_ETPISTAF_017",
+    "data": [
+        {
+            "name": "LAMISSEB_ETPISTAF_017_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_017_0.jpg",
+            "text": "ON A TOUS\n                CRU QU'IL NOUS FAISAIT SON\n                NUMERO. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_017_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_017_1.jpg",
+            "text": "JE N'AI PAS\n                PENSE QUE JE VENAIS DE\n                CIRER LE PARQUET. "
+        }
+    ]
+}

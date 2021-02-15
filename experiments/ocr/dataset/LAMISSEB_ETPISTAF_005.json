@@ -1,0 +1,25 @@
+{
+    "title": "LAMISSEB_ETPISTAF_005",
+    "data": [
+        {
+            "name": "LAMISSEB_ETPISTAF_005_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_005_0.jpg",
+            "text": "TOUJOURS CES\n                PROBLEMES D'INSOMNIE,\n                DOCTEUR. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_005_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_005_1.jpg",
+            "text": "C'EST DE\n                PIRE EN PIRE. MES\n                SOMNIFERES N'ONT PLUS AUCUN\n                EFFET. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_005_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_005_2.jpg",
+            "text": "VOUS\n                AURIEZ QUELQUE\n                CHOSE DE PLUS FORT\n                ? "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_005_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_005_3.jpg",
+            "text": "ON VA\n                ESSAYER CECI.\n                REVENEZ ME VOIR SI\n                CA NE VA PAS\n                MIEUX. "
+        }
+    ]
+}

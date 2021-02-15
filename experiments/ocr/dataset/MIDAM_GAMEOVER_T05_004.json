@@ -1,0 +1,15 @@
+{
+    "title": "MIDAM_GAMEOVER_T05_004",
+    "data": [
+        {
+            "name": "MIDAM_GAMEOVER_T05_004_0",
+            "image": "experiments\\ocr\\dataset\\MIDAM_GAMEOVER_T05_004_0.jpg",
+            "text": "Hiiiiiiii!! "
+        },
+        {
+            "name": "MIDAM_GAMEOVER_T05_004_1",
+            "image": "experiments\\ocr\\dataset\\MIDAM_GAMEOVER_T05_004_1.jpg",
+            "text": "Hiiiiiiiii!! "
+        }
+    ]
+}

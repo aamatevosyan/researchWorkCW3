@@ -1,0 +1,20 @@
+{
+    "title": "CYB_PSYCOCHON_001",
+    "data": [
+        {
+            "name": "CYB_PSYCOCHON_001_0",
+            "image": "experiments\\ocr\\dataset\\CYB_PSYCOCHON_001_0.jpg",
+            "text": "C'est toujours\n                la même chose,\n                dans cette porcherie\n                : les cochons ne\n                pensent qu'à bâfrer et\n                à dormir ! "
+        },
+        {
+            "name": "CYB_PSYCOCHON_001_1",
+            "image": "experiments\\ocr\\dataset\\CYB_PSYCOCHON_001_1.jpg",
+            "text": "Ne pourrait-on pas s'intéresser\n                au monde, se\n                cultiver, élever notre\n                condition pour enfin être\n                respecté en tant que\n                personne, en tant que peuple,\n                au lieu de servir de\n                repas à l'homme ? "
+        },
+        {
+            "name": "CYB_PSYCOCHON_001_2",
+            "image": "experiments\\ocr\\dataset\\CYB_PSYCOCHON_001_2.jpg",
+            "text": "Mmmm... Manger... "
+        }
+    ]
+}

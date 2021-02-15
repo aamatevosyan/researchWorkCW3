@@ -1,0 +1,35 @@
+{
+    "title": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077",
+    "data": [
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_0",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_0.jpg",
+            "text": "AH ! TOUT DE MÍME ! CE N'EST PAS TROP TÙT ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_1",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_1.jpg",
+            "text": "BON SANG ON N'Y VOIT RIEN L‡-DEDANS, QU'EST-CE QUI SE PASSE ICI ?! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_2",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_2.jpg",
+            "text": "OUAIS, C'EST CURIEUX ET LA PORTE QUI S'EST REFERMÈE BRUTALEMENT ALORS QUE LES COPAINS SONT DEHORS. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_3",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_3.jpg",
+            "text": "LA PORTE QUI DÈCONNE, LES PORTABLES QUI NE FONCTIONNENT PLUS, LA LUMIËRE COUPÈE ET L'ALARME QUI NE S'EST PAS DÈCLENCHÈE. QU'EST-CE QUI C'EST QUE CE MERDIER ? "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_4",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_4.jpg",
+            "text": "!? "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_5",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_077_5.jpg",
+            "text": "ATTACHEZ-LES ET ENFERMEZ-LES DANS UN FOURGON, NOUS AVONS 30 MINUTES AVANT QU'ILS N'ENVOIENT LA CAVALERIE ! "
+        }
+    ]
+}

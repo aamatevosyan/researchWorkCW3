@@ -1,0 +1,25 @@
+{
+    "title": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_021",
+    "data": [
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_0",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_0.jpg",
+            "text": "ON VA PouvoiR ARROSER CA CE SOiR. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_1",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_1.jpg",
+            "text": "BORDEL ! MAiS QU'EST-CE QUE C'EST QUE CE MALADE ? FREiNE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_2",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_2.jpg",
+            "text": "NOM DE DiEU ON NOUS ATTAQUE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_3",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_021_3.jpg",
+            "text": "ALLENZ? RENTRE LA-DEDANS.! "
+        }
+    ]
+}

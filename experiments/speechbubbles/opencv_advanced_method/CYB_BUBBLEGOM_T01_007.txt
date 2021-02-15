@@ -1,0 +1,9 @@
+balloon 1 56 171 184 83
+balloon 1 263 167 138 79
+balloon 1 241 444 176 161
+balloon 1 429 430 227 137
+balloon 1 56 608 161 197
+balloon 1 60 769 152 122
+balloon 1 288 897 118 89
+balloon 1 422 928 91 84
+balloon 1 543 965 162 101

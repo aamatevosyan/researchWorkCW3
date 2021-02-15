@@ -1,0 +1,75 @@
+{
+    "title": "LAMISSEB_LESNOEILS1_016",
+    "data": [
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_0.jpg",
+            "text": "BONJOUR.\n                JE SUIS JEAN-MICHEL DEVAIRE ! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_1.jpg",
+            "text": "MOUAHAHA\n                ! UN \"NOEIL\n                DEVAIRE\" !! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_2.jpg",
+            "text": "IL DOIT\n                BIEN EXISTER UNE PRO- CEDURE\n                POUR CHANGER DE NOM. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_3.jpg",
+            "text": "JE TE\n                PRESENTE MON FRERE\n                JUMEAU. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_4.jpg",
+            "text": "OH !\n                ENCHANTE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_5.jpg",
+            "text": "C'EST\n                MOCHE DE SE MOQUER\n                D'UN DALTONIEN. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_6",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_6.jpg",
+            "text": "OH? MAIS\n                C'EST JEAN-MICHEL DEVAIRE ?! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_7",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_7.jpg",
+            "text": "STOP §\n                FINI LES MOQUERIES.\n                J'AI CHANGE DE\n                NOM. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_8",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_8.jpg",
+            "text": "DESORMAIS,\n                JE SUIS JEAN-MICHEL DEBEUPHE ! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_9",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_9.jpg",
+            "text": "MOUAHAHA\n                ! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_10",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_10.jpg",
+            "text": "ET\n                MERDE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_11",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_11.jpg",
+            "text": "JE ME\n                SENS SI SEUL. C'EST PATHOLOGIQUE CHEZ MOI. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_12",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_12.jpg",
+            "text": "CE\n                SENTIMENT D'ISOLEMENT, CETTE\n                SOLITUDE ECRASANTE, ETOUFFANTE DONT JE SOUFFRE, MON PSY\n                L'APPELLE ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_016_13",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_016_13.jpg",
+            "text": "...\n                \"SYNDROME DU CYCLOPE\". "
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "CYB_BUBBLEGOM_T01_030",
+    "data": [
+        {
+            "name": "CYB_BUBBLEGOM_T01_030_0",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_030_0.jpg",
+            "text": "ANDRAGOR ? TU VAS BIEN\n                ? ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_030_1",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_030_1.jpg",
+            "text": "AU POIL ! J'AI\n                TROUVÉ QUELQUE\n                CHOSE D'INTERÉSSANT. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_030_2",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_030_2.jpg",
+            "text": "SI TU VEUX\n                MON AVIS, ON N'A\n                PAS INTÉRÊT A\n                TRAINER DANS LE COIN\n                PLUS LONGTEMPS "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_030_3",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_030_3.jpg",
+            "text": "JE NE SUIS\n                PAS D'ACCORD.\n                UNE DENT DE MONSTRE\n                TUEUR FERAIT UN\n                TROPHÉE IDÉAL POUR\n                DES HÉROS DE\n                NOTRE TREMPE. "
+        }
+    ]
+}

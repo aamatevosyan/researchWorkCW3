@@ -1,0 +1,35 @@
+{
+    "title": "LAMISSEB_ETPISTAF_013",
+    "data": [
+        {
+            "name": "LAMISSEB_ETPISTAF_013_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_0.jpg",
+            "text": "OH MON DIEU\n                ! TIENS BON\n                MON CHÈRI ! "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_013_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_1.jpg",
+            "text": "VITE ! JE\n                DOIS LE SÈPARER\n                DE LA PRISE\n                ÈLECTRIQUE. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_013_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_2.jpg",
+            "text": "'PARAIT QUE\n                SA MËRE LUI A PÈTÈ\n                LE CR‚NE ALORS QU'IL\n                ÈCOUTAIT SON BALADEUR\n                MP3. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_013_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_3.jpg",
+            "text": "DE LA TECHNO ? "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_013_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_4.jpg",
+            "text": "OUAIS. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_013_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_013_5.jpg",
+            "text": "C'EST MOCHE ! "
+        }
+    ]
+}

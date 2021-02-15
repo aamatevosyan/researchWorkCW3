@@ -1,0 +1,50 @@
+{
+    "title": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053",
+    "data": [
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_0",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_0.jpg",
+            "text": "OUI, JE SAIS, BOBBY, QUE TU ES DéçU DE NE PAS ALLER AU MATCH, MAIS J'AI UNE SALE AFFAIRE SUR LES BRAS. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_1",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_1.jpg",
+            "text": "ECOUTE, jE DOIS TE LAiSSER, j'ARRiVE SUR LE LiEU DE MON RENDEZ-VOUS. jE T'EXPLiQUERAi, MON GRAND. A PLUS TARD. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_2",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_2.jpg",
+            "text": "SiEGE DE LA PRADi FUNDS, BOSTON BYPASS ROAD... "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_3",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_3.jpg",
+            "text": "C'EST A N'Y RiEN COMPRENDRE, CAPiTAiNE, TOUS NOS FOURGONS SONT EQUiPES DE TRACEURS ELECTRONiQUES QUi NOUS PERMETTENT DE LES LOCALiSER EN PERMANENCE. AUSSi, jE NE M'EXPLiQUE PAS COMMENT CE CAMiON BLiNDE A PU DiSPARAITRE EN PLEiN jOUR, COMME PAR ENCHANTEMENT ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_4",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_4.jpg",
+            "text": "ET COMBiEN CONTENAiT CE CAMiON FURTiF ? "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_5",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_5.jpg",
+            "text": "ENViRON TROiS MiLLiONS DE DOLLARS. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_6",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_6.jpg",
+            "text": "BiEN ! VOUS ALLEZ ME MONTRER VOTRE POSTE DE SUPERViSiON QUE j'ESSAiE DE COMPRENDRE COMMENT TOUT CELA FONCTiONNE ET CE QUi A BiEN PU SE PRODUiRE ? "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_7",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_7.jpg",
+            "text": "BUD CONNORS, EST LE RESPONSABLE DE LA SECURiTE, iL VA VOUS EXPLiQUER TOUT CELA EN DETAiL, MAiS jE VOUS PREViENS, CELA RiSQUE D'ETRE LONG ET FASTiDiEUX. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_8",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_053_8.jpg",
+            "text": "CELA TOMBE BiEN' jE N'AVAiS RiEN PREVU CE SOiR ! AH, AU FAiT, MES iNSPECTEURS, jEMAL BROWN ET LYNDA CARTER PASSERONT CE SOiR VERiFiER LA LiSTE DE VOTRE PERSONNEL (ANTECEDENTS, ABSENCES? ViREMENTS, RELATiONS, ETC...), jE COMPTE SUR VOUS POUR QU'iLS AiENT ACCES A TOUS VOS FiCHiERS ET ARCHiVES. BONNE NUiT ! "
+        }
+    ]
+}

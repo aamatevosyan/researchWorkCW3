@@ -1,0 +1,50 @@
+{
+    "title": "LAMISSEB_LESNOEILS1_024",
+    "data": [
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_0.jpg",
+            "text": "AiE ! CA\n                ME BRULE ! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_1.jpg",
+            "text": "TU DEVRAIS\n                METTRE DE LA\n                CREME SOULAIRE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_2.jpg",
+            "text": "C'EST CE\n                QUE JE FAIS ! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_3.jpg",
+            "text": "JE NE SAIS\n                PAS POURQUOI, JE NE ME SENS\n                PAS A MA PLACE ICI. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_4.jpg",
+            "text": "MONSIEUR?\n                VOUS NE POUVEZ PAS\n                PRESTER LA, C'EST UNE PLAGE\n                NATURISTE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_5.jpg",
+            "text": "OH MINCE!\n                COMMENT AI-JE PU NE PAS\n                M'EN RENDRE COMPTE ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_6",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_6.jpg",
+            "text": "OH MON\n                DIEU ! QU'EST-CE\n                QUE T'AS A LA\n                PAUPIERE ?! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_7",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_7.jpg",
+            "text": "C'EST\n                QFFREUX! T'AS VU UN\n                OPHTALMO ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_024_8",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_024_8.jpg",
+            "text": "ARRETE\n                AVEC TES SARCASMES ET\n                AIDE-MOI A VIRER CETTE FICHUE\n                MEDUSE !!! "
+        }
+    ]
+}

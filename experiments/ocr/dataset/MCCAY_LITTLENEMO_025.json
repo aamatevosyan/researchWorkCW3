@@ -1,0 +1,40 @@
+{
+    "title": "MCCAY_LITTLENEMO_025",
+    "data": [
+        {
+            "name": "MCCAY_LITTLENEMO_025_0",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_0.jpg",
+            "text": "MASJESTE,\n                PUIS-JE ESSAYER\n                D'AMENER NEMO ICI ?\n                J'AI UNE BRIL- LANTE IDEE\n                ! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_1",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_1.jpg",
+            "text": "FAITES. DONC ET BONNE CHANCE "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_2",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_2.jpg",
+            "text": "NE TE SAU- VE PAS AT- TENDS UNE MINUTE! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_3",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_3.jpg",
+            "text": "NE COURS PAS\n                ! JE NE TE VEUX\n                PAS DE MAL ! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_4",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_4.jpg",
+            "text": "NON ! JAMAIS ! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_5",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_5.jpg",
+            "text": "MAMAN! VIENS VITE CHERCHER TON PETIT NEMO ! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_025_6",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_025_6.jpg",
+            "text": "JE T'AVAIS\n                BIEN DIT QUE TU\n                AURAIS DES\n                CAUCHEMARDS SI TU\n                MANGEAIS TROP DE BONSBONS ! "
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "LAMISSEB_ETPISTAF_009",
+    "data": [
+        {
+            "name": "LAMISSEB_ETPISTAF_009_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_009_0.jpg",
+            "text": "BORDEL! TU\n                VAS LE CRACHER TON PUTAIN\n                DE MOT DE PASSE ?! "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_009_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_009_1.jpg",
+            "text": "VAS... VAS CHIER\n                ! "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_009_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_009_2.jpg",
+            "text": "TANT PIS\n                POUR LE TRANSFERT, ON VA SE\n                CONTENTER DES BIFFETONS.\n                DESCENDS-MOI CET ENFOIRE\n                DE BANQUIER. "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_009_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_009_3.jpg",
+            "text": "UN TRUC\n                M'ECHAPPE : CE TYPE EST PRET A\n                MOURRIR POUR GARDER\n                SECRET UN MOT DE PASSE AUSSI SIMPLE\n                A DEVENIR QUE SON NOM DE\n                FAMILLE ?! "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_009_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_009_4.jpg",
+            "text": "OUAIS. RESPECT ! "
+        }
+    ]
+}

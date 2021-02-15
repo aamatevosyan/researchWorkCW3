@@ -1,0 +1,20 @@
+{
+    "title": "CYB_COSMOZONE_008",
+    "data": [
+        {
+            "name": "CYB_COSMOZONE_008_0",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_008_0.jpg",
+            "text": "Dans moins de\n                douze heures\n                cosmiques, nous nous\n                envolerons vers l'infini\n                inconnu, commandant. "
+        },
+        {
+            "name": "CYB_COSMOZONE_008_1",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_008_1.jpg",
+            "text": "Explorer le\n                cosmos, rencontrer\n                d'autres formes de vies, poser\n                le pied là où personne avant\n                nous n'est jamais allé...\n                Ne trouvez- vous pas cela passionnant ? "
+        },
+        {
+            "name": "CYB_COSMOZONE_008_2",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_008_2.jpg",
+            "text": "... Je fais surtout ca pour le blé... "
+        }
+    ]
+}

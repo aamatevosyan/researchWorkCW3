@@ -1,0 +1,35 @@
+{
+    "title": "CYB_COSMOZONE_014",
+    "data": [
+        {
+            "name": "CYB_COSMOZONE_014_0",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_0.jpg",
+            "text": "Major Goadec ?\n                Commandant John Cool à\n                l'appareil. Je viens d'apprendre que\n                vous serez responsable\n                machine à bord de l'Hippocampe.\n                Je me permets donc de\n                vous appeler à quelques\n                heures du départ, histoire de\n                faire plus ample\n                connaissance. "
+        },
+        {
+            "name": "CYB_COSMOZONE_014_1",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_1.jpg",
+            "text": "Avant d'aller\n                plus loin, puis-je\n                savoir votre âge ? "
+        },
+        {
+            "name": "CYB_COSMOZONE_014_2",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_2.jpg",
+            "text": "... Mon âge ?! Et bien oui ...\n                j'ai 28 ans ... "
+        },
+        {
+            "name": "CYB_COSMOZONE_014_3",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_3.jpg",
+            "text": "Bien.\n                Maintenant monsieur Cool,\n                je voudrais\n                connaître votre signe astrologique. "
+        },
+        {
+            "name": "CYB_COSMOZONE_014_4",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_4.jpg",
+            "text": "? ... Mon quoi ?! ...\n                Heu et bien je\n                suis balance ... Enfin je crois\n                ... Mais ... "
+        },
+        {
+            "name": "CYB_COSMOZONE_014_5",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_014_5.jpg",
+            "text": "Désolé, je crois que ça ne va pas être possible. "
+        }
+    ]
+}

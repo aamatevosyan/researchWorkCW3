@@ -1,0 +1,75 @@
+{
+    "title": "MCCAY_LITTLENEMO_090",
+    "data": [
+        {
+            "name": "MCCAY_LITTLENEMO_090_0",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_0.jpg",
+            "text": "SI VOUS\n                TENEZ À RESTER EN VIE... NE\n                VOUS APPROCHEZ PAS DE MOI "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_1",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_1.jpg",
+            "text": "LITTLE NEMO IN\n                SLUMBERLAND MON PALAIS EST TOUT PRÈS JUSTE UNE PETITE PROMENADE DANS LA\n                JUNGLE "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_2",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_2.jpg",
+            "text": "VOUS ALLEZ AVOIR CE\n                QUE VOUS CHER- CHEZ ET\n                BIEN ENCORE "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_3",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_3.jpg",
+            "text": "MON PALAIS\n                EST MOINS BIEN\n                QUE CELUI DU\n                ROI MAIS IL EST\n                JOLI IL N'EST\n                PAS LOIN "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_4",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_4.jpg",
+            "text": "JE CROYAIS QUE LES MA- RINS\n                DEVAIENT NOUS\n                ACCOMPA GNER ? ILS\n                NOUS SUIVENT? "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_5",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_5.jpg",
+            "text": "OUI! OUI!\n                MAIS VOUS N'AVEZ\n                RIEN À CRAINDRE\n                ET NE FAITES PAS\n                ATTEN TION À CE QUE\n                VOUS POURRIEZ VOIR\n                ! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_6",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_6.jpg",
+            "text": "ET MAINTE- NANT PAR ICI ! SUIVEZ- MOI "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_7",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_7.jpg",
+            "text": ""
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_8",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_8.jpg",
+            "text": "NE REGARDEZ PAS CES\n                SINGES OU ILS VONT\n                VOUS BOMBARDER\n                AVEC DES NOIX DE\n                COCO "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_9",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_9.jpg",
+            "text": "NON! NE FAITES PAS ÇA FLIP! NON! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_10",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_10.jpg",
+            "text": "VIENS DONC PAR ICI PETIT "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_11",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_11.jpg",
+            "text": "OOOH! ARRETEZ! ARRETEZ! OOOH! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_12",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_12.jpg",
+            "text": "OUIEEE! "
+        },
+        {
+            "name": "MCCAY_LITTLENEMO_090_13",
+            "image": "experiments\\ocr\\dataset\\MCCAY_LITTLENEMO_090_13.jpg",
+            "text": "POURQUOI\n                DONC NEMO\n                S'AGITE-T- IL TANT LA\n                NUIT? CE SOIR IL\n                NE FAIT QUE\n                SE RETOURNER\n                ! "
+        }
+    ]
+}

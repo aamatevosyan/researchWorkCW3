@@ -1,0 +1,35 @@
+{
+    "title": "FOX_CHILLINTALES_T17_021",
+    "data": [
+        {
+            "name": "FOX_CHILLINTALES_T17_021_0",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_0.jpg",
+            "text": "ONE EVENING LEANING OVER THE\n                TAFFRAIL, I'OBSERVED A STRANGE CLOUD\n                THAT STRUCK A CHILL TO MY HEART. "
+        },
+        {
+            "name": "FOX_CHILLINTALES_T17_021_1",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_1.jpg",
+            "text": "SUDDENLY IT BECAME INTOLERABLY\n                HOT AND EVERY BREATH WIND DIED AWAY. i\n                WENT BELOW WITH A FEELING OF\n                APPROACHING EVIL. "
+        },
+        {
+            "name": "FOX_CHILLINTALES_T17_021_2",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_2.jpg",
+            "text": "I TOLD THE CAPTAIN OF MY\n                FEARS, BUT HE PAID NO ATTENTION TO WHAT I\n                SAID AND LEFT WITHOUT DEIGNING TO\n                REPLY. "
+        },
+        {
+            "name": "FOX_CHILLINTALES_T17_021_3",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_3.jpg",
+            "text": "MY UNEASINESS KEPT ME FROM\n                SLEEPING, AND ABOUT MIDNIGHT I DECIDED\n                TO GO ON DECK. "
+        },
+        {
+            "name": "FOX_CHILLINTALES_T17_021_4",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_4.jpg",
+            "text": "AS I PLACED MY FOOT ON THE\n                UPPER RUNG OF THE COMPANION LADDER, I WAS\n                STARLED BY A LOUD AND FRIGHTTENING\n                HUMMING NOISE! "
+        },
+        {
+            "name": "FOX_CHILLINTALES_T17_021_5",
+            "image": "experiments\\ocr\\dataset\\FOX_CHILLINTALES_T17_021_5.jpg",
+            "text": "AS I STEPPED ON DECK I FOUND THE SHIP QUIVERING LIKE A STRIKEN BEAST. "
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "CYB_TRAFFIC_004",
+    "data": [
+        {
+            "name": "CYB_TRAFFIC_004_0",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_004_0.jpg",
+            "text": "OK... ET MAINTENANT, JE GLANDE QUOI ? "
+        },
+        {
+            "name": "CYB_TRAFFIC_004_1",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_004_1.jpg",
+            "text": "POLICE ! CECI EST\n                UN CONTRÔLE\n                D'IDENTITE. RESTEZ CALME ET\n                CA VA BIEN SE PASSER\n                !! "
+        }
+    ]
+}

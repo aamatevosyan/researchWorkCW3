@@ -1,0 +1,85 @@
+{
+    "title": "MIDAM_KIDPADDLE7_015",
+    "data": [
+        {
+            "name": "MIDAM_KIDPADDLE7_015_0",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_0.jpg",
+            "text": "CINDY, VOUS\n                DEVEZ RENDRE CET\n                ARGENT! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_1",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_1.jpg",
+            "text": "MAIS...STEVE!\n                POURQUOI DEVRAIS-JE\n                RENDRE CET ARGENT? ON ME\n                L'A DONNE PARCE QUE\n                J'ETAIS JOLIE! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_2",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_2.jpg",
+            "text": "ERREUR CINDY!\n                ON VOUS A DONNE CET\n                ARGENT EN ECHANGE DU\n                PAQUET QUE VOUS AVEZ\n                LIVRE ! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_3",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_3.jpg",
+            "text": "QUOI? POUR\n                LES 3 KILOS DE SUCRE EN\n                POUDRE ?! MAIS C'EST\n                RIDICULE, STEVE ! ON NE DONNE PAS 5\n                MILLIONS POUR DU\n                SUCRE, VOYONS ! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_4",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_4.jpg",
+            "text": "CE N'ETAIT\n                PAS DU SUCRE, CINDY! MAIS\n                DE LA DROGUE! DE LA\n                DROGUE! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_5",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_5.jpg",
+            "text": "VOUS ME\n                SURPRENEZ, STEVE ! CES TROIS\n                MESSIEURS AUX LUNETTES\n                NOIRES SE SONT PRESENTES\n                COMME PRODUCTEURS AMERICANS DE\n                CINEMA... LEUR ACCENT\n                SICILIEN ETAIT\n                D'AILLEURS TRES\n                SEDUISANT ! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_6",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_6.jpg",
+            "text": "IL FAUT\n                RENDRE CET ARGENT, CES\n                GENS-LA N'ONT PAS\n                L'HABITUDE DE\n                PLAISANTER... "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_7",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_7.jpg",
+            "text": "DESOLE,\n                STEVE, J'AI DEJA TOUT DEPENSE\n                EN MAGAZINES ET EN\n                MAQUILLAGE! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_8",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_8.jpg",
+            "text": "VOUS VOUS\n                ETES MISE DANS DE GALES\n                DRAPS, CA M'ETONNERAIT FORT QU'ILS\n                VOUS OUBLIENT... "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_9",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_9.jpg",
+            "text": "AU\n                SEC...OUMPF "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_10",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_10.jpg",
+            "text": "IL FAUT\n                ALLER IMMEDIATEMENT A LA POL...\n                ? CINDY ? "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_11",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_11.jpg",
+            "text": "CINDY ? "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_12",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_12.jpg",
+            "text": "CINDY ? "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_13",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_13.jpg",
+            "text": "CINDY ? "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_14",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_14.jpg",
+            "text": "OK, POUR\n                MOI, LA PRISE EST BONNE ! TU PEUX\n                REMETTRE STEVE DANS LA CHAMBRE\n                DE LA SOEUR DE KID, ON N'EN A PLUS\n                BESOIN. "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_015_15",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_015_15.jpg",
+            "text": "CINDY EST\n                PRETE POUR LA SCENE\n                FINALE ! "
+        }
+    ]
+}

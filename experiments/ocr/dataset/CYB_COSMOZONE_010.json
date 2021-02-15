@@ -1,0 +1,30 @@
+{
+    "title": "CYB_COSMOZONE_010",
+    "data": [
+        {
+            "name": "CYB_COSMOZONE_010_0",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_010_0.jpg",
+            "text": "Je me présente\n                : Akira Dkk,\n                votre Lieutenant assassin. "
+        },
+        {
+            "name": "CYB_COSMOZONE_010_1",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_010_1.jpg",
+            "text": "Lieutenant assassin ? ... Et ça sert à quoi ? "
+        },
+        {
+            "name": "CYB_COSMOZONE_010_2",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_010_2.jpg",
+            "text": "Ma vie, c'est la\n                guerre. Tuer c'est mon\n                métier. Je suis un\n                vrai déglingoss. Faut\n                pas me chercher. Je\n                suis un vrai tueur\n                !!! "
+        },
+        {
+            "name": "CYB_COSMOZONE_010_3",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_010_3.jpg",
+            "text": "Et vous en avez tué beaucoup, des gens ? "
+        },
+        {
+            "name": "CYB_COSMOZONE_010_4",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_010_4.jpg",
+            "text": "... Disons que\n                je suis potentiellement un vrai tueur. "
+        }
+    ]
+}

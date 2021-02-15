@@ -1,0 +1,40 @@
+{
+    "title": "ROUDIER_LESTERRESCREUSEES_027",
+    "data": [
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_0",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_0.jpg",
+            "text": "Houla, j'en\n                tiens une bonne moi. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_1",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_1.jpg",
+            "text": "Où\n                j'ai foutu ce\n                bon Dieu de\n                casque ? "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_2",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_2.jpg",
+            "text": "Il\n                fait noir comme dans un\n                cul! "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_3",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_3.jpg",
+            "text": "Bon,\n                où est- ce\n                qu'ils ont plan- qué\n                les bouteilles de\n                flotte ? "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_4",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_4.jpg",
+            "text": "Haaa... te\n                voilà, toi. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_5",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_5.jpg",
+            "text": "Je\n                vais finir par\n                me retrouver dehors, si ça continue. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_027_6",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_027_6.jpg",
+            "text": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "CYB_BUBBLEGOM_T01_034",
+    "data": [
+        {
+            "name": "CYB_BUBBLEGOM_T01_034_0",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_034_0.jpg",
+            "text": "FAUDRAIT\n                ETRE UN DENTISTE\n                POUR DÉTACHER\n                ÇA. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_034_1",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_034_1.jpg",
+            "text": "PEUT-ÊTRE\n                QUE LE CHOIX\n                DU TROPHEE\n                N'ÉTAIT PAS SI\n                JUDICIEUX... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_034_2",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_034_2.jpg",
+            "text": "ENFIN, TU DEVIENS RAISONNABLE, PARTONS VITE ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_034_3",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_034_3.jpg",
+            "text": "TU N'Y ES\n                PAS DU TOUT ! à LA\n                PLACE DE SES\n                CROCS, ON VA LUI\n                ARRACHER DES POILS DE\n                CUL. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_034_4",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_034_4.jpg",
+            "text": "SALES\n                PETITS RATS !\n                VOUS ALLEZ ME\n                LE PAYER !!! "
+        }
+    ]
+}

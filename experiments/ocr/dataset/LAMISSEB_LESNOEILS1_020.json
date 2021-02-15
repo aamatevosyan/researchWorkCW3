@@ -1,0 +1,75 @@
+{
+    "title": "LAMISSEB_LESNOEILS1_020",
+    "data": [
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_0.jpg",
+            "text": "JE ME SUIS\n                ACHETÈ UN VÈLO. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_1.jpg",
+            "text": "QUOI ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_2.jpg",
+            "text": "JE ME\n                SUIS ACHETÈ\n                ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_3.jpg",
+            "text": "QUOI ENCORE\n                ?! "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_4.jpg",
+            "text": "UNE PAIRE\n                DE ROLLERS ? UN RASOIR\n                ÈLECTRIQUE ? UNE BROSSE\n                ‡ DENTS ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_5.jpg",
+            "text": "UN\n                PANTALON ? DES CHAUSSETTES ? UNE BOÓTE\n                DE CIGARES ? DES\n                PASTILLES ‡ LA MENTHE ? ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_6",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_6.jpg",
+            "text": "JE CROIS\n                QUE JE L'AI\n                ÈNERVÈ. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_7",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_7.jpg",
+            "text": "J'AI\n                ACHETÈ ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_8",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_8.jpg",
+            "text": "ÈCOUTE,\n                J'AI PAS ENVIE DE\n                SAVOIR CE QUE T'AS\n                ACHETÈ. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_9",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_9.jpg",
+            "text": "NON\n                SEULEMENT PARCE QU'IL\n                S'AGIT S˚REMENT D'UN ACHAT\n                DÈBILE, MAIS AUSSI PARCE QUE\n                JE M'EN FOUS DE TA VIE.\n                L‚che-MOI UN PEU. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_10",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_10.jpg",
+            "text": "... TON\n                CADEAU D'ANNIVERSAIRE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_11",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_11.jpg",
+            "text": "EUH...\n                J'TE DEMANDE PARDON,\n                JE ... C'EST TRËS GENTIL\n                D'Y AVOIR PENSÈ. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_12",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_12.jpg",
+            "text": "ÁA TE\n                PLAÓt ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_020_13",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_020_13.jpg",
+            "text": ""
+        }
+    ]
+}

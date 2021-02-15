@@ -1,0 +1,50 @@
+{
+    "title": "CYB_TRAFFIC_002",
+    "data": [
+        {
+            "name": "CYB_TRAFFIC_002_0",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_0.jpg",
+            "text": "OUAIS ? "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_1",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_1.jpg",
+            "text": "YO ! C'EST KOFRR.\n                CA KIFF, MON POTE ? T'AURAIS DU\n                M'APPELER DEPUIS DEJA 20\n                MINUTES, MEC. ALORS ? ELLE\n                A DIT QUOI LA P'TITE\n                LETTRE ? "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_2",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_2.jpg",
+            "text": "MUR. "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_3",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_3.jpg",
+            "text": "OUAHAHA !! AH AH\n                !! GALERE ! HA HA\n                HA HA!! TROP DUR\n                !!! HOUO HO HO ! SCIE\n                ! AH... ET C'EST\n                QUOI TON AFFECT ? "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_4",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_4.jpg",
+            "text": "KOFRR ? "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_5",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_5.jpg",
+            "text": "MOUAIS? "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_6",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_6.jpg",
+            "text": "JE TE VOMIS. "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_7",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_7.jpg",
+            "text": "OH ALLEZ, FAIS PAS TA... Clic "
+        },
+        {
+            "name": "CYB_TRAFFIC_002_8",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_002_8.jpg",
+            "text": "COMME BON\n                NOMBRE DE SES CONCITOYENS,\n                KED S'EN VA SUR LA ROUTE DE\n                LA CITE, POUR ACCOMPLIR\n                SON DUR LABEUR\n                JOURNALIER. "
+        }
+    ]
+}

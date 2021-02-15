@@ -1,0 +1,55 @@
+{
+    "title": "LAMISSEB_LESNOEILS1_008",
+    "data": [
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_0.jpg",
+            "text": "DANS MA\n                FAMILLE, ON EST OPHTALMOLOGISTE DE PERE EN FILS.\n                MAIS MOI, JE VEUX DEVENIR\n                PODOLOGUE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_1.jpg",
+            "text": "VA POUR\n                L'OPHTALMOLOGIE. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_2.jpg",
+            "text": "JE REVE\n                D'APPRENDRE A JOUER DU\n                SAXOPHONE. JE VAIS\n                M'EN OFFRIR UN. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_3.jpg",
+            "text": "TU COMPTES\n                SOUFFLER COMMENT DANS TON\n                SAXOPHONE ? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_4.jpg",
+            "text": "VA POUR\n                L'ACCORDEON. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_5.jpg",
+            "text": "JE\n                DEPRIME. MA SEXUALITE EST AU\n                POINT MORT. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_6",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_6.jpg",
+            "text": "ON EN EST\n                TOUS LA, TU SAIS. NOUS LES\n                NOEILS, TOUT CE QU'ON PEUT\n                FAIRE... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_7",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_7.jpg",
+            "text": "... C'EST\n                MATER. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_8",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_8.jpg",
+            "text": "OUAAAH! ON\n                VOIT QUE T'AS FAIT\n                DE LA MUSCU. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_008_9",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_008_9.jpg",
+            "text": "MAIS ON\n                VOIT TOUJOURS PAS TES\n                ABDOS. "
+        }
+    ]
+}

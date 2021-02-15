@@ -1,0 +1,20 @@
+{
+    "title": "CYB_COSMOZONE_016",
+    "data": [
+        {
+            "name": "CYB_COSMOZONE_016_0",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_016_0.jpg",
+            "text": "Et maintenant,\n                je laisse la parole\n                à l'homme du jour : le commandant Cool. "
+        },
+        {
+            "name": "CYB_COSMOZONE_016_1",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_016_1.jpg",
+            "text": "Merci à tous, Je\n                dois dire que je ne m'attendais pas\n                du tout à jouer dans une BD de S-F.,\n                Je tournais un spot pour une marque\n                de croquettes pour chat végétarien,\n                quand mon agent m'a contacté et... "
+        },
+        {
+            "name": "CYB_COSMOZONE_016_2",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_016_2.jpg",
+            "text": "L'espace nous attend !!\n                Quelle joie de\n                piloter un super gros vaisseau et de percer les secrets du cosmos. Ouais, super!! "
+        }
+    ]
+}

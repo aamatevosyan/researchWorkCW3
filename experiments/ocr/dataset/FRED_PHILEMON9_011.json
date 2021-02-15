@@ -1,0 +1,20 @@
+{
+    "title": "FRED_PHILEMON9_011",
+    "data": [
+        {
+            "name": "FRED_PHILEMON9_011_0",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_011_0.jpg",
+            "text": "Ne reste pas\n                là, Philémon!... Tu\n                vas être\n                foudroyé!... "
+        },
+        {
+            "name": "FRED_PHILEMON9_011_1",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_011_1.jpg",
+            "text": "? "
+        },
+        {
+            "name": "FRED_PHILEMON9_011_2",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_011_2.jpg",
+            "text": "? "
+        }
+    ]
+}

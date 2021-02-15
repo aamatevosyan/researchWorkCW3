@@ -1,0 +1,45 @@
+{
+    "title": "FRED_PHILEMON9_014",
+    "data": [
+        {
+            "name": "FRED_PHILEMON9_014_0",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_0.jpg",
+            "text": "MERVEILLEUX!... C'EST\n                MERVEILLEUX PHILEMON !\n                ... J'AI L'IMPRESSION QUE NOUS\n                SOMMES PASSÉ DANS\n                LE MONDE DES\n                LET TRES DE\n                L'OCÉAN ATLANTIQUE "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_1",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_1.jpg",
+            "text": "C'EST\n                FÉLICIEN QUI VA EN\n                FAIRE UNE TÊTE!... HA!HA!HA! "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_2",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_2.jpg",
+            "text": "TU TE RENDS\n                COMPTE? L ME\n                SOUTENAIT QU'ON NE POUVANT\n                PLUS PASSER QUE JE\n                DEVAIT OUBLIER LE \"A\", ET\n                PATATI ET PATATA...\n                HA! H A! IL A SUFFI D'UN\n                ÉCLAIR BIEN PLACÉ ET PFFT!.. NOUS VOICI AU MILIEU DE L'OCÉAN ATLANTIQUE "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_3",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_3.jpg",
+            "text": "DESCENDONS SUR LE\n                PONT, MON\n                GARÇON... NOUS\n                ALLONS DEMANDER\n                AU COMMANDANT DE CE\n                NAVIRE DE METTRE LE CAP SUR LE \"A\"... "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_4",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_4.jpg",
+            "text": "JE\n                COMMENCE A\n                COMPRENDRE POURQUOI FÉLICIEN M'AVAIT DEMANDE D'ATTENDRE UN ORAGE POUR RE- PASER SON TONNEAU... "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_5",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_5.jpg",
+            "text": "QUE VEUX-TU DIRE? "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_6",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_6.jpg",
+            "text": "FÉLICIEN SAVAIT QUE NOUS PAS- SERIONS GRÂCE AU TONNEAU. "
+        },
+        {
+            "name": "FRED_PHILEMON9_014_7",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON9_014_7.jpg",
+            "text": "AH! L'HYPO- CRITE! LE\n                MERVEILLEUX HYPOCRITE! "
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "FRED_PHILEMON12_006",
+    "data": [
+        {
+            "name": "FRED_PHILEMON12_006_0",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_0.jpg",
+            "text": "LE MONDE DES LETTRES,\n                HEIN?... TIENS,\n                TIENS... JE\n                N'IMAGINAIS PAS DU TOUT\n                CELA AINSI... MAIS\n                C'EST PARFAIT...\n                PARFAIT... PARFAIT. "
+        },
+        {
+            "name": "FRED_PHILEMON12_006_1",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_1.jpg",
+            "text": "M'OUAIS! C'EST VOUS QUI LE\n                DITES. "
+        },
+        {
+            "name": "FRED_PHILEMON12_006_2",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_2.jpg",
+            "text": "Quand oncle Félicien va APPRENDRE QU'UN\n                INCONNU À RÉUSSI À PASSER, IL NE VA PAS ÊTRE\n                CONTENT. "
+        },
+        {
+            "name": "FRED_PHILEMON12_006_3",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_3.jpg",
+            "text": "D'ABORD JE NE SUIS PAS UN\n                INCONNU, JEUNE\n                HOMME... J'AI UN NOM\n                DANS LE\n                SPECTACLE... PFOUF ! PFOUF\n                !... ROMÉO ... "
+        },
+        {
+            "name": "FRED_PHILEMON12_006_4",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_4.jpg",
+            "text": "L'IMPRÉSARIO, OUI, JE SAIS\n                ! "
+        },
+        {
+            "name": "FRED_PHILEMON12_006_5",
+            "image": "experiments\\ocr\\dataset\\FRED_PHILEMON12_006_5.jpg",
+            "text": "HMM... ET PUIS\n                ... DÈS QUE NOUS\n                AURONS RENCONTRÉ QUELQUES\n                MONSTRES INTÉRESSANTS JE LEUR FAIS\n                SIGNER UN CONTRAT MIROBOLANT ET\n                NOUS RENTRONS ... ET NI VU, NI\n                CONNU. "
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "CYB_MOUETTEMAN_008",
+    "data": [
+        {
+            "name": "CYB_MOUETTEMAN_008_0",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_0.jpg",
+            "text": "PHIL…MON\n                …TAIT UN GAR«ON COMME\n                LES AUTRES,\n                AIMANT LA VIE, LE\n                SPORT, LES GALETTES\n                SAUCISSES SUJET DE\n                PHYSIQUE QUANTIQUE ... ET LES\n                TH»SES AU "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_1",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_1.jpg",
+            "text": "QUELLE BELLE JOURN…E... "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_2",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_2.jpg",
+            "text": "CE JOUR-L¿,\n                COURANT SUR LA PLAGE\n                IL NE SE DOUTAIT PAS\n                QUE SA VIE ALLAIT\n                BASCULER... "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_3",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_3.jpg",
+            "text": "SANS\n                PR…VENIR, UNE\n                MOUETTE RADIO-ACTIVE\n                LUI BALAN«A\n                SON GUANO\n                POUASSEUX SUR LA TÍTE\n                ! "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_4",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_4.jpg",
+            "text": "PHIL…MON\n                SENTIT SON SANG\n                BOUILLIR, SON CORPS SE\n                TRANSFORMER. DEPUIS CE\n                JOUR, IL ACQUIT LE SUPER\n                POUVOIR DE BATTRE DES\n                BRAS SUPER VITE, COMME\n                LES MOUETTES, IL\n                DEVINT : MOUETTE "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_5",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_5.jpg",
+            "text": "IL D…CIDA\n                DE VOUER SA\n                VIE ¿ LA\n                JUSTICE, USANT DE\n                SON SUPER POUVOIR\n                POUR SAUVER LES FAIBLES ET\n                LES OPPRIM…S... "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_6",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_6.jpg",
+            "text": "... ?! BATTRE DES BRAS COMME\n                LES MOUETTES ?...\n                TU VEUX DIRE\n                VOLER COMME DES MOUETTES, NON ? "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_7",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_7.jpg",
+            "text": "VOLER ? QUELLE IDEE !! "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_008_8",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_008_8.jpg",
+            "text": "TU AS VU COMME JE BOUGE SUPER VITE DES BRAS ?.. "
+        }
+    ]
+}

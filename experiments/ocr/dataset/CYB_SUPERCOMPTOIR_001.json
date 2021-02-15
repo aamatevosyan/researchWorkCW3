@@ -1,0 +1,25 @@
+{
+    "title": "CYB_SUPERCOMPTOIR_001",
+    "data": [
+        {
+            "name": "CYB_SUPERCOMPTOIR_001_0",
+            "image": "experiments\\ocr\\dataset\\CYB_SUPERCOMPTOIR_001_0.jpg",
+            "text": "J'AI UNE\n                PÊCHE DE GUEDIN, MOI,\n                AUJOURD'HUI ! Y A PAS À DIRE :\n                SAUVER LE MONDE ÇA VAUT BIEN\n                UN BON STEAK ! ET\n                TOI GOLDO, ÇA BOUME ? "
+        },
+        {
+            "name": "CYB_SUPERCOMPTOIR_001_1",
+            "image": "experiments\\ocr\\dataset\\CYB_SUPERCOMPTOIR_001_1.jpg",
+            "text": "NAN !!! "
+        },
+        {
+            "name": "CYB_SUPERCOMPTOIR_001_2",
+            "image": "experiments\\ocr\\dataset\\CYB_SUPERCOMPTOIR_001_2.jpg",
+            "text": "MARRE DE ME\n                FAIRE PRENDRE POUR UNE TANCHE À LONGUEUR\n                D'ANNÉE ! SAUVER LE MONDE DU SOIR AU\n                MATIN, ET TOUT ÇA POUR GAGNER QUOI ?! QUE\n                DALLE ! ON N'EST MÊME PAS PAYÉ UN DEMI\n                RADIS ! JE VAIS ME FAIRE APPELER SUPER\n                BÉNÉVOLE, TIENS ! MONDE DE\n                MERDE !! "
+        },
+        {
+            "name": "CYB_SUPERCOMPTOIR_001_3",
+            "image": "experiments\\ocr\\dataset\\CYB_SUPERCOMPTOIR_001_3.jpg",
+            "text": "SALUT LES GARS, ÇA BOUME ? "
+        }
+    ]
+}

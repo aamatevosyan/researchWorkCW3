@@ -1,0 +1,50 @@
+{
+    "title": "MCCALL_ROBINHOOD_T31_020",
+    "data": [
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_0",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_0.jpg",
+            "text": "After dark descends over the castle of stokes, a small door in the wall opens and two furtive figures steal out... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_1",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_1.jpg",
+            "text": "BUT AS THEY VANISH INTO THE\n                KIGHT, ONOTHER FORM RISES FROM THE SHADOWS\n                AND FOLLOWS ...IT IS ROBIN HOOD... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_2",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_2.jpg",
+            "text": "THROUGH THE DARK THE CLOAKED FIGURES SNEAK TO THE SHEER CLIFFS LEADING TO THE SEA FAR BELOW...A QUICK CHALLENGE FROM A GUARD WHO LOOMS SUDDENLY INTO VIEW IS ANSWERED... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_3",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_3.jpg",
+            "text": "THE GUARD DISAPPEARS AS MYSTERIOUSLY AS HE CAME AND THE TWO FIGURES VANISH NEAR THE BRINK OF THE STEEP CLIFF... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_4",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_4.jpg",
+            "text": "...ROBIN WATCHES IN\n                AMAZEMENT... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_5",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_5.jpg",
+            "text": "BY MY HILT, DO GHOSTS DWELL ALONG THE SEA ? SHADOWS COME AND GO AS IF FROM NOWHERE AND INTO...WHERE ? "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_6",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_6.jpg",
+            "text": "THEN SILENTLY AS THE NIGHT\n                ITSELF, HE CRAWLS FORWARD TO THE EDGE OF THE BLUFF... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_7",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_7.jpg",
+            "text": "THERE HE FINDS NARROW STEPS CUT INTO THE WALL- LIKE FACE OF ROCK... "
+        },
+        {
+            "name": "MCCALL_ROBINHOOD_T31_020_8",
+            "image": "experiments\\ocr\\dataset\\MCCALL_ROBINHOOD_T31_020_8.jpg",
+            "text": "NOT A SOUND BETRAYS HIM TO THE UNSEEN GUARD ABOVE AS HE\n                GLIDES DOWN THOSE HIDDEN STAIRS... 4 "
+        }
+    ]
+}

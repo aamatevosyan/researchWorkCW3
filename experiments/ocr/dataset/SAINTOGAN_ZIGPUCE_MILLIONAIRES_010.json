@@ -1,0 +1,60 @@
+{
+    "title": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010",
+    "data": [
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_0",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_0.jpg",
+            "text": "JE NE SUIS PAS ME- CONTENT DE MON SE- JOUR ICI ... CA ME FAIT UN PEU DE PEINE DE QUITTER CE BRAVE PRESIDENT "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_1",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_1.jpg",
+            "text": "IL FAUT ETRE SE RIEUX, LE BATEAU POUR NEW-YORK VA PARTIR ... DE PECHONS-NOUS ... "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_2",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_2.jpg",
+            "text": "SURTOUT NE FAIS PAS DE SOTTISES ALFRED ... NOUS ALLONS PARTIR "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_3",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_3.jpg",
+            "text": "Li PRESIDENT Li DEMAN DE CiMiSSiES POUR DiRE ADiEU ... "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_4",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_4.jpg",
+            "text": "NOUS Y ALLONS "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_5",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_5.jpg",
+            "text": "! "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_6",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_6.jpg",
+            "text": "Li PETiTS BLANCS AVOIR FINI VALISES LI PORTER BAGA- GAS AU BATEAU ... "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_7",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_7.jpg",
+            "text": "? "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_8",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_8.jpg",
+            "text": "LI DIABLE EST DANS LA VALISE !. li DIA BLE !.. LI DIABLE !.. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_9",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_9.jpg",
+            "text": "LI DIABLE !.. Y'A PAS BON !... Y'A PAS BON!.. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_10",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_MILLIONAIRES_010_10.jpg",
+            "text": "HUM !.. IL M'A L'AIR D'Y A. VOIR DE L' ALFRED LA DESSOUS !.. "
+        }
+    ]
+}

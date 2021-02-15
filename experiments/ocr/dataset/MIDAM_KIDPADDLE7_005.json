@@ -1,0 +1,75 @@
+{
+    "title": "MIDAM_KIDPADDLE7_005",
+    "data": [
+        {
+            "name": "MIDAM_KIDPADDLE7_005_0",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_0.jpg",
+            "text": "BONJOUR,\n                MONSIEUR, CE SERAIT\n                PÖUR ACHETER UN PIRANHA,\n                S.V.P. "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_1",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_1.jpg",
+            "text": "AUCUN\n                PROBLÈME JEUNE HOMME,\n                NOUS AVONS\n                QUELQUES MAGNIFIQUES\n                SPECIMENS EN MAGASIN\n                . TOUS\n                MANGEURS D'HOMMES,\n                BIEN SUR! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_2",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_2.jpg",
+            "text": "WOAW ! WOAW ! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_3",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_3.jpg",
+            "text": "JE PEUX VOUS\n                PROPOSER CE \"DEVORUS DEBILUS ... UN POISSON\n                EXTRÊMEMENT DANGEREUX PEUPLANT LES\n                RIVIÈRES D'AMAZONIE. "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_4",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_4.jpg",
+            "text": "HE,HO!ATTENDEZ! CA RESSEMBLE\n                A UN BETE POISSON\n                ROUGE. CA?! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_5",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_5.jpg",
+            "text": "ABSOLUMENT! C'EST POUR CE\n                QUE JE DIS QU'IL\n                EST EXTRÊMEMENT DANGEREUX "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_6",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_6.jpg",
+            "text": "LOGIQUE. "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_7",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_7.jpg",
+            "text": "VOUS POUVEZ\n                LUI DONNER DU STREAK DE JAGUAR, DU\n                FILET D'ANACONDA OU DES PREFERE\n                PAR-DESSUS TOUT,CE SONT DES ESCALOPES DE\n                TAPIR... MAIS CE\n                QU'IL ORTEILS DE\n                JIVARO, SA NOURRITURE PRINCIPALE. "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_8",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_8.jpg",
+            "text": "HMM... CA VA\n                PAS ÊTRE FACILE A\n                TROUVER, ÇA! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_9",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_9.jpg",
+            "text": "NE CHERCHEZ\n                PLUS! JE FAIS VENIR TOUS CES PRODUITS\n                D'AMÉRIQUE DU SUD, ET LES RÉDUIS EN\n                POUDRE AVANT DE LES METTRE\n                DANS CES PETITS POTS! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_10",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_10.jpg",
+            "text": "COOL ! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_11",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_11.jpg",
+            "text": "VOUS VOILÀ\n                L'HEUREUX POSSESSEUR D'UN AUTHENTIQUE\n                PIRANHA D'AMAZONIE ! N'OUBLIEZ\n                PAS VOTRE PETIT POT DE\n                NOURRITURE SÉCHÉE ET\n                PRUDENCE! "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_12",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_12.jpg",
+            "text": "KSS KSS "
+        },
+        {
+            "name": "MIDAM_KIDPADDLE7_005_13",
+            "image": "experiments\\ocr\\dataset\\MIDAM_KIDPADDLE7_005_13.jpg",
+            "text": "UN PIRANHA?!\n                HA!HA!MAIS MON PAUVRE\n                KID,CE N'EST RIEN COMPARE A CE MONSTRE\n                MARIN: UNE PIEUVRE GÉANTE DES\n                GRANDS FONDS! JE LUI DONNE\n                DE LA ROUILLE\n                DE CUIRASSE,\n                SA NOURRITURE PRINCIPALE! "
+        }
+    ]
+}

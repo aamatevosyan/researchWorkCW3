@@ -1,0 +1,85 @@
+{
+    "title": "CYB_BUBBLEGOM_T01_028",
+    "data": [
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_0",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_0.jpg",
+            "text": "VA, PAS LA TÊTE !? !? MAIS CA "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_1",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_1.jpg",
+            "text": "MÉCHANT\n                LAPIN QUI PUE ! CES\n                HEROS VONT TE,\n                METTRE LA RACLÉE\n                DE TA VIE !! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_2",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_2.jpg",
+            "text": "HA HA ... LES\n                ENFANTS EXAGÈRENT TOUJOURS\n                ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_3",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_3.jpg",
+            "text": "MAIS CHUT\n                ! FAUT PAS DIRE ÇA ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_4",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_4.jpg",
+            "text": "GRRR! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_5",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_5.jpg",
+            "text": "ATTENDEZ QUOI POUR LUI\n                POUTRER SA FACE? VOUS "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_6",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_6.jpg",
+            "text": "BON.\n                PASSONS AU PLAN B. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_7",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_7.jpg",
+            "text": "OK. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_8",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_8.jpg",
+            "text": "FUYONS! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_9",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_9.jpg",
+            "text": "PASSE LE PANIER ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_10",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_10.jpg",
+            "text": "MES CAROTTES !!! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_11",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_11.jpg",
+            "text": "BON APPÉTIT ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_12",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_12.jpg",
+            "text": "ET\n                C'EST AINSI\n                QUE ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_13",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_13.jpg",
+            "text": "BANDE, DE NAZES !\n                HEROS A DEUX BALLES\n                !! LOOSERS\n                EN SOLDES\n                !!! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_14",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_14.jpg",
+            "text": "OUAIS BON ÇA VA, HEIN\n                ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_028_15",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_028_15.jpg",
+            "text": "L'HISTOIRE RECONNAITRA\n                LA SUBTILITE\n                DE NOTRE STATÉGIE\n                ... "
+        }
+    ]
+}

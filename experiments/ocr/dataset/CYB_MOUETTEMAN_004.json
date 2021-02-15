@@ -1,0 +1,30 @@
+{
+    "title": "CYB_MOUETTEMAN_004",
+    "data": [
+        {
+            "name": "CYB_MOUETTEMAN_004_0",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_004_0.jpg",
+            "text": "FORMELLES : UN\n                GANG DE SUPERS VILAINS\n                VA TENTER DE 22 HEURES. JE\n                DOIS VITE AVERTIR TECKEL\n                BOY, MON MES DONNEES\n                SONT DETRUIRE\n                HERO-CITY CE SOIR A FIDELE ASSOCIE\n                ! "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_004_1",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_004_1.jpg",
+            "text": "ORDINATEUR,\n                JE SAIS TOUT ! TECKEL BOY,\n                GRÂCE A MON SUPER "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_004_2",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_004_2.jpg",
+            "text": "TOUT ?!! "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_004_3",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_004_3.jpg",
+            "text": "LE NOMBRE DE\n                PARTICIPANTS, LA NATURE\n                IMMORALE DU RASSEMBLEMENT,\n                AINSI QUE L'HEURE. IL NE\n                ME MANQUE QUE LE LIEU ET\n                JUSTICE SERA FAITE. "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_004_4",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_004_4.jpg",
+            "text": "J'AVOUE TOUT !\n                ÇA SE PASSE CHEZ MOI.\n                TOUS LES JEUDIS\n                SOIRS ÉHANGISTES DANS\n                MON SALON ! J'ORGANISE DES\n                SOIRÉES "
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025",
+    "data": [
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_0",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_0.jpg",
+            "text": "ZIG ! ZIG !..VIENS VITE.. ALFRED, NOTRE CHER PETIT ALFRED NE BOU GE PLUS !... "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_1",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_1.jpg",
+            "text": "AH !.. MON DIEU, MON DIEU !.. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_2",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_2.jpg",
+            "text": "MAIS PARLE DONC PUCE !.. IL VA PLUS MAL ?.. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_3",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_3.jpg",
+            "text": "IL EST BIEN MORT. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_4",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_4.jpg",
+            "text": "JE VAIS LE FAI- RE JETER A LA MER... C'EST TOU- JOURS COMME CE- LA DANS LA MA- RINE. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_5",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_5.jpg",
+            "text": "OH!.. NON...NON, CAPITAINE...NOUS LE RAMENERONS EN FRANCE POUR L'ENTERRER... "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_6",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_6.jpg",
+            "text": "ECOUTEZ, POUR VOUS FAIRE PLAISIR, NOUS POUVONS PEUT-ETRE ESSAYER DE LE CONSER- VER DANS LE FRIGO- RIFIQUE. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_7",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_7.jpg",
+            "text": "NOTRE PAUVRE PETIT PINGOU- IN !.. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_8",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_8.jpg",
+            "text": "IL EST AU PARADIS DES BETES. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_9",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_9.jpg",
+            "text": "C'EST CURIEUX, IL ME SEMBLE QUE QUELQUE CHOSE REMUE DANS LE FRI- GORIFIQUE. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_10",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_10.jpg",
+            "text": "FAUDRAIT VOIR ? "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_11",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_11.jpg",
+            "text": "EST-CE POSSIBLE ? C'EST ALFRED ! "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_12",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_12.jpg",
+            "text": "VIVANT !.. IL EST VIVANT !.. IL N'ETAIT PAS TOUT A FAIT MORT LE FROID L'A GUERI. "
+        },
+        {
+            "name": "SAINTOGAN_ZIGPUCE_ET_ALFRED_025_13",
+            "image": "experiments\\ocr\\dataset\\SAINTOGAN_ZIGPUCE_ET_ALFRED_025_13.jpg",
+            "text": "CA VA BEAU- COUP MIEUX! "
+        }
+    ]
+}

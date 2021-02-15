@@ -1,0 +1,65 @@
+{
+    "title": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003",
+    "data": [
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_0",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_0.jpg",
+            "text": "BOSTON, 22 DÉCEMBRE, 18H00 "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_1",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_1.jpg",
+            "text": "FOUTU TEMPS ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_2",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_2.jpg",
+            "text": "DÉTENDS-TOI UN PEU, SAM, C'EST BIENTÔT NOEL, PENSE A TES GAMINS ET ARRETE DE NOUS BASSINER AVEC TES JEREMIADES. TES PENIBLE A FORCE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_3",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_3.jpg",
+            "text": "FAITES TOUS CHIER ! C'EST COMME CE PUTAIN DE BOULOT. TOUS LES JOURS, S'TAPER LE MEME ITINERAIRE, DU DEPOT A LA BANQUE ET DE LA BANQUE AU DEPOT ! AH, BONJOUR LE DEPAYSEMENT ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_4",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_4.jpg",
+            "text": "LE FOURGON S'ENGAGE SUR CHARLESTOWN BRIDGE EN DIRECTION DES CRY DOCK. "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_5",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_5.jpg",
+            "text": "FAUT BIEN BEQUETER, VIEUX, ET PUIS SI T'AVAIS PAS DÉCONNE, TU SERAIS TOUJOURS POULET ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_6",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_6.jpg",
+            "text": "TU SAIS, S'FAIRE TROUER LA PEAU POUR LE PERE PRADI OU POUR LA VILLE DE BOSTON, CA FAIT PAS UNE GRANDE DIFFERENCE SUR LA FICHE DE PAIE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_7",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_7.jpg",
+            "text": "LE CAMION BLINDE DE LA PRADI FUNDS DÉBOUCHE SUR CHELSEA STREET QUI LONGE LES DRY DOCK... "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_8",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_8.jpg",
+            "text": "ALLEZ, ON VA ARRIVER. J'TE PAIE UNE BIERE CHEZ JOEY, CA VA TE DETENDRE UN PEU, MAL EMBOUCHE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_9",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_9.jpg",
+            "text": "ELLE EST DÉGUEULASSE SA BIÈRE, DE LA VRAIE PISSE D'ANE ! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_10",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_10.jpg",
+            "text": "?! "
+        },
+        {
+            "name": "JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_11",
+            "image": "experiments\\ocr\\dataset\\JOLIVET_BOSTONPOLICEAFFAIREPRADI_003_11.jpg",
+            "text": "BORDEL DE MERDE, QU'EST-CE QUE C'EST QUE...? "
+        }
+    ]
+}

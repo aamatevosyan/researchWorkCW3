@@ -1,0 +1,25 @@
+{
+    "title": "CYB_MOUETTEMAN_002",
+    "data": [
+        {
+            "name": "CYB_MOUETTEMAN_002_0",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_002_0.jpg",
+            "text": "CARABISTOUILLR\n                ! JE DOIS VITE ALLER PORTER SECOURS\n                A TECKEL BOY, MON FIDELE\n                COMPAGNON PARTI AFFRONTER SEUL UNE BANDE\n                DE MÉCHANTS DANS UNE RUELLE\n                SOMBRE DE LA VILLE !! "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_002_1",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_002_1.jpg",
+            "text": "COURAGE ! J'ARRI...?! MAIS QUE\n                VOIS-JE ? LA BANDE D'INFAMES\n                A TERRE, TÉTANISÉE ?!\n                BON TRAVAIL TECKEL BOY !\n                COMMENT T'Y EST TU PRIS ?\n                GAZ PARALYSANT ?\n                KUNG-FU ÉNERGÉTIQUE ? "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_002_2",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_002_2.jpg",
+            "text": "NON... JE ME SUIS JUSTE PRÉSENTÉ. FUCKY "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_002_3",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_002_3.jpg",
+            "text": "AH... PAS COOL... "
+        }
+    ]
+}

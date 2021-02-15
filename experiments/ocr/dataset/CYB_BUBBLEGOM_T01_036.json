@@ -1,0 +1,45 @@
+{
+    "title": "CYB_BUBBLEGOM_T01_036",
+    "data": [
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_0",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_0.jpg",
+            "text": "ÇA VA ? "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_1",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_1.jpg",
+            "text": "AU POIL ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_2",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_2.jpg",
+            "text": "UNE AUTRE IDÉE POUR NOUS\n                SORTIR DE LÀ ? "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_3",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_3.jpg",
+            "text": "PAS VRAIMENT ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_4",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_4.jpg",
+            "text": "C'EST CE\n                QUE JE\n                REDOUTAIS ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_5",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_5.jpg",
+            "text": "SALES GNOMES\n                ! ARRACHER\n                DES ÉLÉMENTS DE\n                L'ANATOMIE À TOUNGO LE\n                MONSTRE ASSASSIN VA\n                VOUS AMENER TOUT\n                DROIT DANS SON ESTOMAC ! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_6",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_6.jpg",
+            "text": "TU NE TOUCHERAS\n                PAS À UN CHEVEU\n                DE CRÉATURE. CES\n                ENFANTS, "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_036_7",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_036_7.jpg",
+            "text": "QUI A OSÉ DIRE ÇA ?!? "
+        }
+    ]
+}

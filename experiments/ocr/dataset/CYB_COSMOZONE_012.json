@@ -1,0 +1,25 @@
+{
+    "title": "CYB_COSMOZONE_012",
+    "data": [
+        {
+            "name": "CYB_COSMOZONE_012_0",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_012_0.jpg",
+            "text": "L'institut\n                spatiale enseigne I'art du commandement,\n                pas le pilotage. Mais si vous\n                n'avez vraiment aucune base, et qu'on\n                vous a donne votre diplome, ca pose\n                probleme. Un seul homme peut\n                maintenant prendre la juste\n                decision, "
+        },
+        {
+            "name": "CYB_COSMOZONE_012_1",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_012_1.jpg",
+            "text": "DANS LE BUREAU DU PRESIDENT "
+        },
+        {
+            "name": "CYB_COSMOZONE_012_2",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_012_2.jpg",
+            "text": "Monsieur le precident de\n                la 8eme galaxie, que decidez- vous? "
+        },
+        {
+            "name": "CYB_COSMOZONE_012_3",
+            "image": "experiments\\ocr\\dataset\\CYB_COSMOZONE_012_3.jpg",
+            "text": "...!Je...!?... Je suis ... sense savoir decider ?!... "
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "CYB_BUBBLEGOM_T01_013",
+    "data": [
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_0",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_0.jpg",
+            "text": "GRAND\n                TOURNOI POUR LA BOURSE\n                DU VIEUX BILL "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_1",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_1.jpg",
+            "text": "Règles du\n                tournoi : Combat\n                sanguinaire sans pitié: Le premier qui est touché a\n                perdu. Les coups bas sont interdits. Pas de\n                possibilité d'abandon. "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_2",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_2.jpg",
+            "text": "PREMIER\n                COMBAT: MAINS\n                D'ACIER LE NUL CONTRE\n                ANDRAGOR LE PUISSANT\n                GUERRIER. SHAPA LANCE\n                LE TOURNOI EN\n                DISANT : \"QUE LE\n                TOURNOI COMMENCE!\" "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_3",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_3.jpg",
+            "text": "MOI ? "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_4",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_4.jpg",
+            "text": "BON BEN\n                ... QUE LE COMBAT COMMENCE\n                ... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_5",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_5.jpg",
+            "text": "MAIS\n                QU'EST-CE QUE TU ME FAIS LÀ ?\n                C'EST PAS LE\n                LANCEMENT DE LA FETE DE\n                LA MORUE ! TU DOIS\n                CRIER, AVOIR LE PHYLACTÈRE\n                QUI SE HERISSE,\n                AVEC DES EFFETS DE\n                VITESSE, ET TOUT CA !! "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_6",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_6.jpg",
+            "text": "AH... "
+        },
+        {
+            "name": "CYB_BUBBLEGOM_T01_013_7",
+            "image": "experiments\\ocr\\dataset\\CYB_BUBBLEGOM_T01_013_7.jpg",
+            "text": "Q-QUE LE COMBAT COMMENCE ! "
+        }
+    ]
+}

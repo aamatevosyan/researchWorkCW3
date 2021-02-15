@@ -1,0 +1,90 @@
+{
+    "title": "CYB_MAGICIENLOOSE_001",
+    "data": [
+        {
+            "name": "CYB_MAGICIENLOOSE_001_0",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_0.jpg",
+            "text": "ET VOILA\n                !! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_1",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_1.jpg",
+            "text": "EUH... ET VOILA\n                QUOI? "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_2",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_2.jpg",
+            "text": "JE VIENS DE\n                VOUS VOLER UN\n                OBJET. "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_3",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_3.jpg",
+            "text": "AH BON ?! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_4",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_4.jpg",
+            "text": "VORTE PORTE-FEUILLE !!! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_5",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_5.jpg",
+            "text": "OH !!! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_6",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_6.jpg",
+            "text": "TRES FORT\n                ! J'AVOUE QUE\n                JE N'AI RIEN\n                VU... BRAVO! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_7",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_7.jpg",
+            "text": "MAIS CA\n                NEST PAS TOUT ! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_8",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_8.jpg",
+            "text": "VOUS\n                M'AVEZ DEROBE\n                AUTRE CHOSE? "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_9",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_9.jpg",
+            "text": "OUI! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_10",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_10.jpg",
+            "text": "AH BIN J'AI\n                BEAU CHERCHER...\n                JE NE VOIZ PAS.\n                J'AI TOUT SUR\n                MOI... "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_11",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_11.jpg",
+            "text": "SAUF VOTRE ... "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_12",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_12.jpg",
+            "text": "...\n                PACEMAKER !!! "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_13",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_13.jpg",
+            "text": "NNON...\n                PAS MON PA... "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_14",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_14.jpg",
+            "text": "ARGGHH !!... "
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_15",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_15.jpg",
+            "text": ""
+        },
+        {
+            "name": "CYB_MAGICIENLOOSE_001_16",
+            "image": "experiments\\ocr\\dataset\\CYB_MAGICIENLOOSE_001_16.jpg",
+            "text": "OUPS... "
+        }
+    ]
+}

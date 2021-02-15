@@ -1,0 +1,15 @@
+{
+    "title": "LAMISSEB_ETPISTAF_021",
+    "data": [
+        {
+            "name": "LAMISSEB_ETPISTAF_021_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_021_0.jpg",
+            "text": "T'ES PAS\n                CHICHE DE TRAVERSER LA\n                RUE A POIL ! "
+        },
+        {
+            "name": "LAMISSEB_ETPISTAF_021_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_ETPISTAF_021_1.jpg",
+            "text": "J'M'EN\n                VEUX TELLEMENT\n                ! "
+        }
+    ]
+}

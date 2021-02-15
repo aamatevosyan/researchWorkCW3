@@ -1,0 +1,60 @@
+{
+    "title": "LAMISSEB_LESNOEILS1_012",
+    "data": [
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_0",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_0.jpg",
+            "text": "JE ME SUIS\n                ACHETE DES\n                CHAUSSURES. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_1",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_1.jpg",
+            "text": "JE ME\n                SUIS ENCORE\n                FAIT AVOIR. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_2",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_2.jpg",
+            "text": "DIS MOI\n                ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_3",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_3.jpg",
+            "text": "... TU\n                VOIS PLUS CLAIR DEPUIS QUE TU PORTES\n                DES LENTILLES? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_4",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_4.jpg",
+            "text": "JE ME SUIS\n                ACHETE UN BAUME A\n                LEVRES. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_5",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_5.jpg",
+            "text": "JE ME\n                DEMANDE SI C'EST AU VENDEUR\n                QUE TU DEVRAIS FAIRE UN\n                PROCES ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_6",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_6.jpg",
+            "text": "... OU A\n                TES PARENTS, POUR T'AVOIR\n                MIS AU MONDE? "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_7",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_7.jpg",
+            "text": "J'AI\n                ACHETE UNE NOUVELLE VOITURE.\n                LE VENDEUR M'A FAIT CADEAU DE\n                L'ALARME EN OPTION. "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_8",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_8.jpg",
+            "text": "JE TE VOIS\n                VENIR ... "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_9",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_9.jpg",
+            "text": "TU VAS\n                DIRE QUE J'AI EU\n                \"L'ALARME A OEIL\". "
+        },
+        {
+            "name": "LAMISSEB_LESNOEILS1_012_10",
+            "image": "experiments\\ocr\\dataset\\LAMISSEB_LESNOEILS1_012_10.jpg",
+            "text": "TU LIS\n                DANS MES\n                PENSEES. "
+        }
+    ]
+}

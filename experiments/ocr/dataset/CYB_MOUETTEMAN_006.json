@@ -1,0 +1,30 @@
+{
+    "title": "CYB_MOUETTEMAN_006",
+    "data": [
+        {
+            "name": "CYB_MOUETTEMAN_006_0",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_006_0.jpg",
+            "text": "RENDS-TOI,\n                VIKING MALÉFIQUE ! NOTRE SUPER\n                ÉQUIPE T'EMPECHERA DE DETRUIRE\n                HÉRO-CITY. NOTRE CONFIANCE EN LA\n                JUSTICE, EST SANS FAILLE. RIEN NE\n                NOUS DÉTOURNERA DE NOTRE BUT. "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_006_1",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_006_1.jpg",
+            "text": "MÊME PAS 3\n                PLACES GRATUITES POUR\n                LE PARC\n                D'ATTRACTIONS ? "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_006_2",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_006_2.jpg",
+            "text": "JE ME DEMANDE SI TOUT CECI EST TRÈS MORAL\n                ... "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_006_3",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_006_3.jpg",
+            "text": "NOUS EN DÉBATTRONS APRES LES\n                AUTO- TAMPONNEUSES "
+        },
+        {
+            "name": "CYB_MOUETTEMAN_006_4",
+            "image": "experiments\\ocr\\dataset\\CYB_MOUETTEMAN_006_4.jpg",
+            "text": "HEY ! ON N'A PAS ESSAYE CE MANÈGE ! ! "
+        }
+    ]
+}

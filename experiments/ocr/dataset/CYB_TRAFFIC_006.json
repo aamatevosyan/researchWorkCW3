@@ -1,0 +1,60 @@
+{
+    "title": "CYB_TRAFFIC_006",
+    "data": [
+        {
+            "name": "CYB_TRAFFIC_006_0",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_0.jpg",
+            "text": "AH, LA VIE DE\n                POLICIER CUBIQUE, CA N'EST\n                PAS ROSE, VOUS SAVEZ,\n                PERSONNE NE VOUS AIME, VOUS\n                DEVEZ FAIRE LE PIQUET, DE LA PAPERASSE... "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_1",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_1.jpg",
+            "text": "OH, C'EST SUR. DE\n                TEMPS EN TEMPS ON A LE\n                DROIT D'UTILISER LA MATRAQUE, OU DE\n                FAIRE DES GARDES A VUES\n                VIOLENTES ET INJUSTES, MAIS\n                ARRIVE SI PEU SOUVENT... "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_2",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_2.jpg",
+            "text": "VOUS AVEZ BIEN DE LA CHANCE, VOUS. "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_3",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_3.jpg",
+            "text": "!!... DE LA CHANCE ? VOUS RIGOLEZ?! "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_4",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_4.jpg",
+            "text": "C'EST PAS VOUS\n                QUI ETES SANCTIONNE\n                PAR ERREUR, OBLIGE\n                DE FAIRE... DE FAIRE\n                QUOI D'ABORD? FRANCHMENT, JE\n                VOIS PAS OU VOUS VOYEZ\n                DE LA CHANCE ! "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_5",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_5.jpg",
+            "text": "JE VAIS VOUS DIRE\n                : LE CODE SUR CETTE\n                ENSEIGNE INDIQUE LE SUD.\n                VOUS ALLEZ TRAVAILLER PLEIN\n                SUD. VOUS VOUS RENDEZ COMPTE\n                ! QUELLE CHANCE ! "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_6",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_6.jpg",
+            "text": "... WHOUHAOU...\n                LE PIED... "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_7",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_7.jpg",
+            "text": "BON. POUR CETTE FOIS, CA VA. RIEN\n                A SIGNALER\n                D'LLEGAL VOUS CONCERNANT. VOUS POLIVEZ REPRENDRE VOS PAPIERS "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_8",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_8.jpg",
+            "text": "MERCI. "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_9",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_9.jpg",
+            "text": "ET N'OUBLIEZ PAS : JE VOUS AI 'A l'OEIL. "
+        },
+        {
+            "name": "CYB_TRAFFIC_006_10",
+            "image": "experiments\\ocr\\dataset\\CYB_TRAFFIC_006_10.jpg",
+            "text": "LES\n                TRAVAILLEURS GROUPE SUD, RASSEMBLEMENT\n                DANS LE CALME. "
+        }
+    ]
+}

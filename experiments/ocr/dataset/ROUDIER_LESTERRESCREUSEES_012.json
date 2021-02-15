@@ -1,0 +1,55 @@
+{
+    "title": "ROUDIER_LESTERRESCREUSEES_012",
+    "data": [
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_0",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_0.jpg",
+            "text": "Très\n                bien, quand il n'y aura\n                plus d'horaire, vous pourrez jeter votre vielle montre à gousset... "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_1",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_1.jpg",
+            "text": "...\n                son horrible tic-tac m'empêche de fermer l'oeil "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_2",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_2.jpg",
+            "text": "Le\n                temps vous agresse, mon\n                bon Lecreux! "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_3",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_3.jpg",
+            "text": "Votre lit va vous manquer si\n                l'on ne s'arrête plus. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_4",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_4.jpg",
+            "text": "Il\n                faut savoir quitter ses amis "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_5",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_5.jpg",
+            "text": "On\n                verra ça, bonne nuit Général. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_6",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_6.jpg",
+            "text": "Ce\n                que vous pouvez être\n                susceptible Vous\n                n'allez pas vous endormir sans nous faire un\n                peu de lecture ? "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_7",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_7.jpg",
+            "text": "Reprenez où nous\n                nous étions arrêtés. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_8",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_8.jpg",
+            "text": "Vous\n                êtes en\n                enfant. "
+        },
+        {
+            "name": "ROUDIER_LESTERRESCREUSEES_012_9",
+            "image": "experiments\\ocr\\dataset\\ROUDIER_LESTERRESCREUSEES_012_9.jpg",
+            "text": "Mademoiselle, vous éteindrez la lumière quand je\n                me serai endormi. "
+        }
+    ]
+}
