@@ -2,8 +2,6 @@
 
 # Custom
 tmp/
-experiments/speechbubbles
-assets/origin/
 
 ### Python template
 # Byte-compiled / optimized / DLL files

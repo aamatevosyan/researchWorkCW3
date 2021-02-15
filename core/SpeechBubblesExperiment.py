@@ -8,6 +8,7 @@ import cv2
 import jsonpickle
 import numpy as np
 
+from Rect import Rect, Point, get_overlap_clusters
 from core.comicspage import ComicsPage
 from speechbubbles.opencv_basic import find_speech_bubbles
 from utils import get_all_comics_pages, PAGES_PATH, compress_numpy_array, get_numpy_array_from_json, \
@@ -65,18 +66,27 @@ class SpeechBubblesExperiment:
         contours = find_speech_bubbles(backtorgb)
         lines = []
 
+        rectangles = []
         for cnt in contours:
             x, y, w, h = cv2.boundingRect(cnt)
-            cv2.rectangle(backtorgb, (x, y), (x + w, y + h), (0, 255, 0), 2)
-            lines.append(f"balloon {0.3} {x} {y} {w} {h}")
+            rectangles.append(Rect(Point(x, y), Point(x + w, y + h)))
+            cv2.rectangle(backtorgb, (x, y), (x + w, y + h), (0, 255, 0))
 
-        contours = comics_page.get_contours()
+
+        contours = get_overlap_clusters(rectangles)
         for cnt in contours:
-            x, y, w, h = cv2.boundingRect(cnt)
-            cv2.rectangle(backtorgb, (x, y), (x + w, y + h), (255, 0, 0), 2)
+            cv2.rectangle(backtorgb, (cnt.left, cnt.top), (cnt.right, cnt.bottom), (0, 0, 255))
+            lines.append(f"balloon {1} {cnt.left} {cnt.top} {cnt.right - cnt.left} {cnt.top - cnt.bottom}")
+
+        # contours = comics_page.get_contours()
+        # rectangles = []
+        # for cnt in contours:
+        #     x, y, w, h = cv2.boundingRect(cnt)
+        #     cv2.rectangle(backtorgb, (x, y), (x + w, y + h), (255, 0, 0), 2)
+        #     rectangles.append(Rect(Point(x, y), Point(x + w, y + h)))
             # lines.append(f"balloon {0.3} {x} {y} {w} {h}")
         
-        display_image_in_actual_size(backtorgb)
+        #display_image_in_actual_size(backtorgb)
         
         txt_path.write_text("\n".join(lines))
 

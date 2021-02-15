@@ -1,5 +1,7 @@
+import uuid
 from pathlib import Path
 
+import cv2
 import jsonpickle
 import numpy as np
 
@@ -26,3 +28,23 @@ class ComicsPage:
         for bubble in self.speech_bubbles:
             contours.append(np.array(bubble["points"]).reshape((-1, 1, 2)).astype(np.int32))
         return contours
+
+    def get_contours_bounding_rect_images_and_texts(self):
+        im = cv2.imread(self.href)
+        contours = self.get_contours()
+        texts = []
+        for bubble in self.speech_bubbles:
+            text = ""
+            if 'lines' in bubble:
+                for line in bubble['lines']:
+                    text += line['text'] + " "
+            texts.append(text)
+
+        images = []
+
+        for cnt in contours:
+            x, y, w, h = cv2.boundingRect(cnt)
+            roi = im[y:y + h, x:x + w]
+            images.append(cv2.cvtColor(roi, cv2.COLOR_BGR2RGB))
+
+        return [images, texts]

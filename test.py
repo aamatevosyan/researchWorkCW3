@@ -8,11 +8,11 @@ import jsonpickle
 import numpy as np
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
-from SpeechBubblesExperiment import EXPERIMENT_PATH
-from speechbubbles.opencv_advanced import opencv_advanced_method
-from speechbubbles.opencv_basic import opencv_basic_method
+# from SpeechBubblesExperiment import EXPERIMENT_PATH
+# from speechbubbles.opencv_advanced import opencv_advanced_method
+# from speechbubbles.opencv_basic import opencv_basic_method
 from utils import get_all_comics_pages, compress_numpy_array, get_blank_with_contours, convert_blank_image_to_bw, \
-    display_image_in_actual_size
+    display_image_in_actual_size, prepare_dataset_for_ocr_experiment
 
 # im = cv.imread('tmp/CYB_BUBBLEGOM_T01_005.jpg.png')
 # imgray = cv.cvtColor(im, cv.COLOR_BGR2GRAY)
@@ -27,11 +27,11 @@ from utils import get_all_comics_pages, compress_numpy_array, get_blank_with_con
 #
 # result = opencv_advanced_method(comics_page.href)
 
-from core.SpeechBubblesExperiment import SpeechBubblesExperiment
-from methods.speechbubbles.ml import ml_method
-from speechbubbles.opencv_advanced import opencv_advanced_method
-from speechbubbles.opencv_basic import opencv_basic_method
-from utils import prepare_dataset_for_speech_bubbles_experiment
+# from core.SpeechBubblesExperiment import SpeechBubblesExperiment
+# from methods.speechbubbles.ml import ml_method
+# from speechbubbles.opencv_advanced import opencv_advanced_method
+# from speechbubbles.opencv_basic import opencv_basic_method
+# from utils import prepare_dataset_for_speech_bubbles_experiment
 
 if __name__ == '__main__':
     # prepare_dataset_for_speech_bubbles_experiment()
@@ -54,7 +54,10 @@ if __name__ == '__main__':
     # fdata = np.frombuffer(data2, dtype=np.uint8).reshape(arr.shape)
 
 # EXPERIMENT_PATH.
+    prepare_dataset_for_ocr_experiment()
     comics_page = get_all_comics_pages()[0]
+    comics_page.get_contours_bounding_rect_images_and_texts()
+    input()
     contours = comics_page.get_contours()
     blank_image = get_blank_with_contours(contours, (int(comics_page.height), int(comics_page.width)))
     gray = convert_blank_image_to_bw(blank_image)

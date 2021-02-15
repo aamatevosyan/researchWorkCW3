@@ -11,6 +11,7 @@ import numpy as np
 import xmltodict
 from sklearn.metrics import precision_recall_fscore_support
 
+from Rect import get_overlap_clusters, Point, Rect
 from core.comicspage import ComicsPage
 
 jsonpickle.set_preferred_backend('json')
@@ -43,6 +44,9 @@ def get_numpy_array_from_json(json_str: str):
 def convert_svg_to_json(src: Path) -> None:
     filename, extension = os.path.splitext(os.path.basename(str(src)))
     destination = ORIGIN_PATH.joinpath(filename + ".json")
+
+    if destination.exists():
+        return
 
     res = xmltodict.parse(src.read_text(encoding="utf-8"))
 
@@ -158,13 +162,13 @@ def get_precision_recall_f1_score(orig, pred):
 def prepare_dataset_for_speech_bubbles_experiment():
     for comics_page in comics_pages:
         json_path = speech_bubbles_experiment_dataset_path.joinpath(comics_page.title + ".json")
-        # if json_path.exists():
-        #     return
+        if json_path.exists():
+            return
 
         txt_path = speech_bubbles_experiment_dataset_path.joinpath(comics_page.title + ".txt")
 
-        # if txt_path.exists():
-        #     return
+        if txt_path.exists():
+            return
 
         contours = comics_page.get_contours()
         blank_image = get_blank_with_contours(contours, (int(comics_page.height), int(comics_page.width)))
@@ -172,9 +176,15 @@ def prepare_dataset_for_speech_bubbles_experiment():
         result = convert_bw_image_to_zero_and_ones(bw)
 
         lines = []
+        rectangles = []
+
         for cnt in contours:
             x, y, w, h = cv2.boundingRect(cnt)
-            lines.append(f"balloon {x} {y} {w} {h}")
+            rectangles.append(Rect(Point(x, y), Point(x + w, y + h)))
+
+        contours = get_overlap_clusters(rectangles)
+        for cnt in contours:
+            lines.append(f"balloon {cnt.left} {cnt.top} {cnt.right - cnt.left} {cnt.top - cnt.bottom}")
 
         txt_path.write_text("\n".join(lines))
 
@@ -185,6 +195,27 @@ def prepare_dataset_for_speech_bubbles_experiment():
             "shape": result.shape
         }))
 
+def prepare_dataset_for_ocr_experiment():
+    for comics_page in comics_pages:
+        json_path = ocr_experiment_dataset_path.joinpath(comics_page.title + ".json")
+        data = {"title": comics_page.title, "data": []}
+
+        # if json_path.exists():
+        #     return
+
+        [images, texts] = comics_page.get_contours_bounding_rect_images_and_texts()
+
+        for i in range(len(images)):
+            cv2.imwrite(str(ocr_experiment_dataset_path.joinpath(comics_page.title + f"_{i}.jpg")), images[i])
+            ocr_experiment_dataset_path.joinpath(comics_page.title + f"_{i}.txt").write_text(texts[i], encoding="utf-8")
+
+            data['data'].append({
+                "name": comics_page.title + f"_{i}",
+                "image": str(ocr_experiment_dataset_path.joinpath(comics_page.title + f"_{i}.jpg")),
+                "text": texts[i]
+            })
+
+        json_path.write_text(jsonpickle.encode(data))
 
 for filename in GT_PATH.glob("*.svg"):
     convert_svg_to_json(filename)
@@ -196,7 +227,11 @@ for file_name in ORIGIN_PATH.glob("*.json"):
 speech_bubbles_experiment_path = Path("experiments/speechbubbles")
 speech_bubbles_experiment_dataset_path = speech_bubbles_experiment_path.joinpath("dataset")
 
+ocr_experiment_path = Path("experiments/ocr")
+ocr_experiment_dataset_path = ocr_experiment_path.joinpath("dataset")
+
 if not speech_bubbles_experiment_dataset_path.exists():
     speech_bubbles_experiment_dataset_path.mkdir()
 
-prepare_dataset_for_speech_bubbles_experiment()
+if not ocr_experiment_dataset_path.exists():
+    ocr_experiment_dataset_path.mkdir()
