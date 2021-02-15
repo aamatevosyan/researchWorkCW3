@@ -6,8 +6,8 @@ from typing import Dict
 import jsonpickle
 
 from core.comicspage import ComicsPage
-from ocr.OCRMethodWrapper import OCRMethodWrapper
-from utils import get_all_comics_pages
+from core.ocr.OCRMethodWrapper import OCRMethodWrapper
+from core.utils import get_all_comics_pages
 
 EXPERIMENT_PATH = Path("experiments/ocr")
 ocr_experiment_dataset_path = EXPERIMENT_PATH.joinpath("dataset")
@@ -40,19 +40,19 @@ class OCRExperiment:
                                                           wrapper.current_path.joinpath(item['name'] + ".txt"), wrapper)
 
     def execute_wrapper_for_all_pages(self, name: str):
-        executor = ProcessPoolExecutor()
-        futures = [executor.submit(self.execute_wrapper_for_one_page, comics_page, self.wrappers[name]) for comics_page
-                   in
-                   get_all_comics_pages()]
-        concurrent.futures.wait(futures)
-        #
-        # for comics_page in get_all_comics_pages():
-        #     self.execute_wrapper_for_one_page(comics_page, self.wrappers[name])
+        # executor = ProcessPoolExecutor()
+        # futures = [executor.submit(self.execute_wrapper_for_one_page, comics_page, self.wrappers[name]) for comics_page
+        #            in
+        #            get_all_comics_pages()]
+        # concurrent.futures.wait(futures)
+
+        for comics_page in get_all_comics_pages():
+            self.execute_wrapper_for_one_page(comics_page, self.wrappers[name])
 
     def execute_all_wrappers(self) -> None:
         for comics_page in get_all_comics_pages():
             json_path = ocr_experiment_dataset_path.joinpath(comics_page.title + ".json")
-            self.metadata[comics_page.title] = jsonpickle.decode(json_path.read_text())
+            self.metadata[comics_page.title] = jsonpickle.decode(json_path.read_bytes().decode("ISO-8859-1"))
 
         for name in self.wrappers.keys():
             self.execute_wrapper_for_all_pages(name)

@@ -11,7 +11,7 @@ import numpy as np
 import xmltodict
 from sklearn.metrics import precision_recall_fscore_support
 
-from Rect import get_overlap_clusters, Point, Rect
+from core.Rect import get_overlap_clusters, Point, Rect
 from core.comicspage import ComicsPage
 
 jsonpickle.set_preferred_backend('json')
