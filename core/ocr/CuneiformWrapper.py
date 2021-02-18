@@ -13,6 +13,9 @@ from pyocr.error import CuneiformError
 
 from core.ocr.OCRMethodWrapper import OCRMethodWrapper
 
+tool = None
+lang = None
+
 if platform == "linux":
 
     tools = pyocr.get_available_tools()

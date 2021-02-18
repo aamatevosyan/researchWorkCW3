@@ -8,6 +8,7 @@ from ocr.OCRMethodWrapper import OCRMethodWrapper
 pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 custom_config = r'-l eng+fra --psm 6'
 
+
 class PyteseractWrapper(OCRMethodWrapper, ABC):
     def get_text(self, img_path: str) -> str:
         img_cv = cv2.imread(img_path)
