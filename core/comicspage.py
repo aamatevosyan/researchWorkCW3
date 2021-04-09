@@ -29,6 +29,9 @@ class ComicsPage:
             contours.append(np.array(bubble["points"]).reshape((-1, 1, 2)).astype(np.int32))
         return contours
 
+    def get_img(self):
+        return cv2.imread(self.href)
+
     def get_contours_bounding_rect_images_and_texts(self):
         im = cv2.imread(self.href)
         contours = self.get_contours()
